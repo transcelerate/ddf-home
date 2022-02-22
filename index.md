@@ -1,5 +1,5 @@
 ---
-title: Digital Data Flow (DDF) Overview
+title: Home
 description: Landing page for the DDF reference implementation and related information
 layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -45,7 +45,7 @@ For more information on the DDF initiative on the TransCelerate BioPharma Inc. w
 
 ## Getting Started on DDF
 
-Documentation for getting started is in the list of GitHub repositories below, all in the TransCelerate BioPharma Inc. organization.
+Documentation for getting started is in the list of GitHub repositories below, all in the TransCelerate BioPharma Inc. organization. Please also make sure you see the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution License Agreement](CONTRIBUTING.md).
 
 - [ddf-sdr-platform](https://github.com/transceleratebiopharmainc/ddf-sdr-platform) - TerraForm code for setting up the Azure infrastructure to deploy the DDF solution
 - [ddf-sdr-api](https://github.com/transceleratebiopharmainc/ddf-sdr-api) - the ASP.NET Core api layer that comprises the core of the DDF platform

@@ -1,5 +1,8 @@
-# Contribution License Agreement
-
+---
+layout: page
+title: "Contribution License Agreement"
+permalink: /contribution-license-agreement/
+---
 This Contribution License Agreement ("Agreement") is agreed to by the party signing below ("You"), and conveys certain license rights to *Digital Data Flow Entity* ("DDF") for Your contributions to DDF open source projects. This agreement is effective as of the latest signature date below.
 
 1. **Definitions**
