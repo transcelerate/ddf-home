@@ -14,10 +14,10 @@ description: Walkthrough on getting WSL2, Jekyll running, cloning local, and run
 
 ### Installing Windows Subsystem for Linux on Windows 11 and the Jekyll tooling
 
-- Install WSL on Windows 11 by running "`wsl --install`" in an elevated command prompt, then reboot windows. If you're on Windows 10, follow the instructions at [Install WSL | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install)
+- Install WSL on Windows 11 by running "`wsl --install`" in an elevated command prompt, then reboot windows. If you're on Windows 10, follow the instructions from Microsoft at [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
 - Once you've rebooted and set your username/password, update the linux distribution
-    - `touch .hushlogin`
-    - `sudo apt-get update && sudo apt-get -y upgrade`
+  - `touch .hushlogin`
+  - `sudo apt-get update && sudo apt-get -y upgrade`
 - Open up Visual Studio Code and open a bash terminal (CTRL + `). Run the following commands:
   - `sudo apt-get update -y`
   - `sudo apt-get upgrade -y`
