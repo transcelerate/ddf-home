@@ -19,8 +19,6 @@ description: Walkthrough on getting WSL2, Jekyll running, cloning local, and run
   - `touch .hushlogin`
   - `sudo apt-get update && sudo apt-get -y upgrade`
 - Open up Visual Studio Code and open a bash terminal (CTRL + `). Run the following commands:
-  - `sudo apt-get update -y`
-  - `sudo apt-get upgrade -y`
   - `sudo apt-get install ruby-full build-essential`
   - `sudo gem update`
   - `sudo gem install bundler`
