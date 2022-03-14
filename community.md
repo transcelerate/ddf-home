@@ -41,9 +41,9 @@ todo
 
 If you have an agenda item, or discussion topic to propose for discussion at the CSC, enter it via the “Discussions” button (above), and choose the CSC Topic template. todo:figure out if tcb wants discussions vs. issues.
 
-Community Meetings
+## Community Meetings
 
-Typical Agenda
+### Typical Agenda
 
 - 5-10 minutes: Welcome, followed by DDF and ecosystem updates
 - 20-30 minutes: Talk/demo on specific topic for the day
@@ -51,14 +51,14 @@ Typical Agenda
 
 If you have an agenda item, or discussion topic to propose for discussion for the Community Meeting, enter it via the “Discussions” button (above), and choose the Community Discussion template.
 
-Schedule
+### Schedule
 
-2022 Upcoming Meetings:
+### 2022 Upcoming Meetings:
 
 - March 3 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 - April 7 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
-Past Meetings:
+### Past Meetings:
 
 - February 4 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
