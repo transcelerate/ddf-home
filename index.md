@@ -6,8 +6,6 @@ layout: home
 ---
 ## Draft / Beta Status
 
-bla bla
-
 While this repository and the associated code repositories (see [Getting Started on DDF](#getting-started-on-ddf)) below) are public, this is a soft launch, and the Digital Data Flow (DDF) reference implementation and this document repository should be considered in a beta/draft state.
 
 ## Introduction
