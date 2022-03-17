@@ -1,27 +1,27 @@
 ---
-title: DDF Community Meetings
-description: Overview of the DDF community, links to webinars and other meetings
+title: DDF Community 
+description: Overview of the DDF community, links code of conduct, and community meetings
 ---
 
 ## Overview
 
-DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. It provides basic mechanisms for deployment, maintenance, and scaling of applications. todo:Click <here, connects to the information below dotted line> for more information on the objective and benefits of DDF.
+DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. 
 
-## DDF News
+The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.
 
-Highlights of the latest news from DDF and sur
-This section would highlight key milestone achievements – major releases, and links to that information.
+## DDF Community Values
+The DDF Community values provide the foundation for the success of the DDF initative.
+ 
+- Community first
+- Inclusive is better than exclusive
+- Innovate in a safe place
 
-- 2022.03.01 - DDF Webinar
-- 2022.02.28 - News Article at XYZ
+## DDF Contribution License Agreement
+Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement. 
 
-## DDF Repositories
+## DDF Code of Conduct
+Please clikc [here](CODE_OF_CONDUCT.md) to read the Code of Conduct.
 
-A full explanation of the GitHub repositories that are part of the DDF release are located on the [DDF Repositories](repos) page.
-
-## CDISC Released
-
-Links to [CDISC Wiki](https://wiki.cdisc.org/).
 
 ## Collaboration Steering Committee (DDF “Board”) Highlights and Upcoming Meetings 
 
