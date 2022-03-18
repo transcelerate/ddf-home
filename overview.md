@@ -13,9 +13,9 @@ Click [here](https://www.youtube.com/watch?v=082onW7jhe4) for a video describing
 
 ## **What is the objective of the DDF initiative?**
 
-The objective of DDF is to automate and expedite the Study Start-Up process by revolutionizing how data flows across clinical trial systems, beginning with upstream (e.g., study builder) and downstream (e.g., electronic data capturing/EDC, clinical trial management system/CTMS) clinical systems. 
+The objective of DDF is to automate and expedite the Study Start-Up process by revolutionizing how data flows across clinical trial systems, beginning with upstream (e.g., study builder) and downstream (e.g., electronic data capturing/EDC, clinical trial management system/CTMS) clinical systems.
 
-TransCelerate has collaborated on the development of an open-source, vendor agnostic, study definition repository (SDR) reference implementation, based on a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes protocol study definitions.   
+TransCelerate has collaborated on the development of an open-source, vendor agnostic, study definition repository (SDR) reference implementation, based on a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes protocol study definitions.
 
 The SDR reference implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally, which then allows the information to be passed to systems through application programming interfaces (APIs) that are used for study execution and data collection and reused throughout the clinical development lifecycle.  
 
@@ -36,7 +36,7 @@ Click [here]() for a video describing the benefits DDF Initative.
 
 ## **Who does the initiative help?**
 
-This initiative will assist many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities. 
+This initiative will assist many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities.
 
 With DDF, organizations across the R&D ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations, that will enable efficiencies in clinical operations to help get medicines to patients faster.
 

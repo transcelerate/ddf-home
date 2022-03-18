@@ -17,7 +17,8 @@ These materials are not intended to guide the study definition process or config
 
 For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
-# SDR RI Codebase & GitHub
+## SDR RI Codebase & GitHub
+
 The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 
 GitHub is the platform where the SDR RI code is published.  
@@ -29,12 +30,14 @@ GitHub is the platform where the SDR RI code is published.
 The DDF Community is about working together toward continuous improvement, learning from each other, and sharing information.
 
 Please refer to the **[DDF Community Overview](community.md)** for information and expectations about:
+
 - Community values
 - [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contribution License Agreement](CONTRIBUTING.md)
 - Community meetings  
 
 ## DDF GitHub Repositories
+
 The SDR Reference Implementation codebase is separated into different repositories for ease of use.
 
 |Repository|Description|
@@ -44,8 +47,7 @@ The SDR Reference Implementation codebase is separated into different repositori
 |[ddf-sdr-api](https://github.com/transceleratebiopharmainc/ddf-sdr-api)| This repository holds the ASP.NET Core api layer that comprises the core of the SDR platform|
 |[ddf-sdr-ui](https://github.com/transceleratebiopharmainc/ddf-sdr-ui)| Several user interface features including search, view, and compare functionality was created to support the SDR.  This repository holds the ASP.NET Core user interface layer code developed for these feastures\|
 
-Each respository contains supporting documentation for access and installing the code. 
-
+Each respository contains supporting documentation for access and installing the code.
 
 ## Help and Support
 
