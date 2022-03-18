@@ -27,29 +27,15 @@ Transcelerate, along with Accenture, Microsoft, and other life sciences technolo
 
 The SDR Reference Implementation is being deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry. 
 
-## Accessing the SDR Reference Implementation
+## Accessing the SDR Reference Implementation (RI)
 
 There are two pathways for accessing the SDR Reference Implementation.  
-1. **GitHub** - Accessing the SDR Reference Implementation codebase for the purposes of installing the SDR Reference Implementation locally on a company's technology environment
-2. **AZURE** (need to rename) - Accessing the working model of the SDR Reference Implementation
-
-Click here to Getting Started with GitHub.
-
-Click here to Getting Started with Azure. 
-
-## DDF Repositories
-
-A full explanation of the GitHub repositories that are part of the DDF release are located on the [DDF Repositories](repos) page.
+| Pathway| Description|
+| ---    | ---        |
+| **SDR RI Codebase** | Accessing the codebase for the purposes of installing the SDR Reference Implementation locally on a company's technology environment.|
+| **SDR RI Sandbox** | Accessing the working model of the SDR Reference Implementation in a sandbox environment|\
 
 
-## Getting Started on DDF
+Click here to Getting Started with SDR RI Codebase.
 
-Documentation for getting started is in the list of GitHub repositories below, all in the TransCelerate BioPharma Inc. organization. Please also make sure you see the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution License Agreement](CONTRIBUTING.md).
-
-- [ddf-sdr-platform](https://github.com/transceleratebiopharmainc/ddf-sdr-platform) - TerraForm code for setting up the Azure infrastructure to deploy the DDF solution
-- [ddf-sdr-api](https://github.com/transceleratebiopharmainc/ddf-sdr-api) - the ASP.NET Core api layer that comprises the core of the DDF platform
-- [ddf-sdr-ui](https://github.com/transceleratebiopharmainc/ddf-sdr-ui) - the ASP.NET Core user interface layer
-
-## Help and Support
-
-todo:where to go for support?
+Click here to Getting Started with SDR RI Sandbox environment. 
