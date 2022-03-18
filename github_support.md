@@ -1,49 +1,57 @@
 ---
-title: Accessing the SDR RI Codebase
-description: Landing page for getting started with the SDR RI Codebase and GitHub basics
+title: GitHub Support
+description: Landing page for getting started with GitHub
 layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Getting Started on Accessing the SDR RI Codebase
+# Defining Open Source
+Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible.  
 
-The Study Definitions Repository (SDR) Reference Implementation is a working model of a Study Definitions Repository that has been developed based on the CDISC Unified Study Definitions Model (USDM).  
+A platform supporting open source allows anyone to:
+- Distribute the code as they see fit
+- Access the code
+- Contribute to the code (i.e. openly review, suggest changes, etc.).
 
-For details and documents regarding the USDM, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
+The Study Definitions Repository (SDR) Reference Implementation has been deployed onto GitHub, a popular platform for Open source.  Having the SDR RI developed and deployed as open source and vendor agnostic supports collaboration, transparency, and innovation across the industry. 
 
-## Disclaimer
+# GitHub Access
 
-The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.
+To use GitHub, a person needs to first create an account. 
 
-These materials are not intended to guide the study definition process or configuration of clinical systems. Results of those activities are solely the responsibility of the user of the scripts and not the developers.
+Go to [https://github.com/join](https://github.com/join) and follow the instructions to create an account.  To access and use GitHub for DDF is free of charge. 
 
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
+Once a user account is created, click [here](https://github.com/transceleratebiopharmainc) to access the DDF GitHub page. 
 
-# SDR RI Codebase & GitHub
-The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
+# GitHub Navigation
 
-GitHub is the platform where the SDR RI code is published.  New to GitHub? Click [Getting Started with GitHub] for some guidance on accessing and using GitHub.  
+The hierarchy in GitHub allows for an "organization", which then allows the "organization" to create one or more repositories, which is where specific inforamtion and code is stored. 
 
-## DDF Repositories
+For the DDF initative, the top level "organization" is **TransCelerate**.  There are four repositories that hold information and code about the SDR Reference Implementation. 
 
-A full explanation of the GitHub repositories that are part of the DDF release are located on the [DDF Repositories](repos) page.
+The GitHub platform allows for users to openly engage with each other in support of accessing and contributing to open-source software.  The user interface in GitHub may be confusing at first glance.  
 
-## Getting Started on DDF
+Here is a quick summary of the GitHub user interface.
 
-Documentation for getting started is in the list of GitHub repositories below, all in the TransCelerate BioPharma Inc. organization. Please also make sure you see the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution License Agreement](CONTRIBUTING.md).
+|Key Naviation|Description|
+|---|---|
+|**<> Code**| This is the default view to the folders and files that contain information and/or code|
+|**Issues**| This is where users can post issues and questions.|
+|**Pull Requests**| This is the area to access any submitted change requests to information and/or code.|
+|**Discussions**| This is where users can post topics for discussion.\|
 
-- [ddf-sdr-platform](https://github.com/transceleratebiopharmainc/ddf-sdr-platform) - TerraForm code for setting up the Azure infrastructure to deploy the DDF solution
-- [ddf-sdr-api](https://github.com/transceleratebiopharmainc/ddf-sdr-api) - the ASP.NET Core api layer that comprises the core of the DDF platform
-- [ddf-sdr-ui](https://github.com/transceleratebiopharmainc/ddf-sdr-ui) - the ASP.NET Core user interface layer
+Please watch this video for guidance on how to navigate within GitHub. 
 
-## Other Resources
+# Actively Using GitHub
+The main features of GitHub is allowing users to access content and make changes to the content for review, approval and distribution.  
 
-Looking for more? Check out these links
+Please watch this video for examples of how to actively use GitHub to:
+- Review content, make changes, and submit the changes for review, approval and distribution, if applicable (the process is called Pull Requests)
+- Submitting an Issue
+- Submitting a Discussion
+- Viewing the outcome of a Pull Request
 
-- [Digital Data Flow Initiative on the main TransCelerate BioPharma, Inc. Website](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/)
-- [Events search for "Digital Data Flow"](https://www.transceleratebiopharmainc.com/?s=digital%20data%20flow&submit=submit)
-- [YouTube Channel for TransCelerate BioPharma, Inc.](https://www.youtube.com/channel/UC9S20EmzIBGJJ70utCrtNBQ/videos)
-- [Twitter account for TransCelerate BioPharma, Inc.](https://twitter.com/transcelerate)
-
-## Help and Support
-
-todo:where to go for support?
+# Help and Support
+For GitHub specific support needs:
+- [GitHub Support Website](https://support.github.com/)
+- [GitHub Documentation Website](https://docs.github.com/en)
+- [GitHub YouTube Channel](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
