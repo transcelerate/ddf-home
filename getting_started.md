@@ -27,6 +27,8 @@ Transcelerate, along with Accenture, Microsoft, and other life sciences technolo
 
 The SDR Reference Implementation is being deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry. 
 
+Click here for a video describing the SDR RI.
+
 ## Accessing the SDR Reference Implementation (RI)
 
 There are two pathways for accessing the SDR Reference Implementation.  
@@ -36,6 +38,6 @@ There are two pathways for accessing the SDR Reference Implementation.
 | **SDR RI Sandbox** | Accessing the working model of the SDR Reference Implementation in a sandbox environment|\
 
 
-Click here to Getting Started with SDR RI Codebase.
+Click here to [Getting Started with SDR RI Codebase](sdr_ri_codebase_access.md).
 
-Click here to Getting Started with SDR RI Sandbox environment. 
+Click here to [Getting Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md). 

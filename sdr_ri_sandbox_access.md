@@ -1,10 +1,10 @@
 ---
-title: Getting Started on DDF
-description: Landing page for getting started on DDF, where to go for specific information, and how to access content
+title: Getting Access to the SDR RI Sandbox environment
+description: Landing page for getting started with the SDR RI Sandbox environment, requesting access, and information about using the sandbox environment
 layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-## Getting Started on DDF
+# Getting Started on Accessing the SDR RI Sandbox Environment
 
 The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. See [What is DDF?](overview.md) for more information on the overview, objectives and benefits of DDF.
 
