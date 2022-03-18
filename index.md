@@ -14,7 +14,7 @@ The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enab
 
 Click [here](https://www.youtube.com/watch?v=082onW7jhe4) for a video describing the DDF Initative.
 
-Want to read more about DDF, the objectives, and benefits?  Go to [What is DDF?](overview.md) for more information.
+Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview](overview.md) for more information.
 
 ## Latest News
 - 2022.05.10 - Upcoming DDF Webniar - Register here!

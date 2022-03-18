@@ -4,7 +4,7 @@ description: Details about the DDF initative, objective, and benefits
 layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-## What is DDF?
+## DDF Overview
 
 **What is the Digital Data Flow initiative?**
 
