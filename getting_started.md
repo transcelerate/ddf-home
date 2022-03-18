@@ -11,7 +11,7 @@ The DDF initative is comprised of several components.  Depending on a person's r
 Please review this Adoption Took Kit for guidance, with an introductory video on how to use the Adoption Toolkit. 
 
 # CDISC Unified Study Definitions Model (USDM)
-The backbone of the DDF initative is the creation of the **Unified Study Definitions Model**, developed by CDISC.  
+The backbone of the DDF initative is the **Unified Study Definitions Model**, developed by CDISC.  
 
 The USDM contains both new and existing standards, and also provides common vocabulary, reusable designs, industry best practices, standards, and general implementation guidance for solution archiects.  
 
@@ -25,7 +25,7 @@ To learn more and get access to the USDM documentation, please go to the [CDISC 
 
 Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working model of the Study Definitions Repository based on the USDM called the Study Definitions Repository Reference Implementation.  
 
-The SDR Reference Implementation is being deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry. 
+The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry. 
 
 Click here for a video describing the SDR RI.
 
