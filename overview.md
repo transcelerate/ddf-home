@@ -33,6 +33,8 @@ Digital Data Flow (DDF) benefits include:
 - A more seamless flow of data leading to accelerated Study Start-Up, and further enabling trials automation for sponsors and research partners
 - Harmonization of the data format that can support greater interoperability and spark innovation within the R&D ecosystem and across the clinical trial solutions landscape
 
+Click [here]() for a video describing the benefits DDF Initative.
+
 **Who does the initiative help?**
 
 This initiative will assist many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities. 
