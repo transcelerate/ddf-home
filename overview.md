@@ -4,15 +4,15 @@ description: Details about the DDF initative, objective, and benefits
 layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-## DDF Overview
+# DDF Overview
 
-**What is the Digital Data Flow initiative?**
+## **What is the Digital Data Flow initiative?**
 
 The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. This initiative will establish a foundation for a future state of automated and dynamic readiness that can transform the drug development process.
 
 Click [here](https://www.youtube.com/watch?v=082onW7jhe4) for a video describing the DDF Initative.
 
-**What is the objective of the DDF initiative?**
+## **What is the objective of the DDF initiative?**
 
 The objective of DDF is to automate and expedite the Study Start-Up process by revolutionizing how data flows across clinical trial systems, beginning with upstream (e.g., study builder) and downstream (e.g., electronic data capturing/EDC, clinical trial management system/CTMS) clinical systems. 
 
@@ -22,7 +22,7 @@ The SDR reference implementation enables the format of information from a digiti
 
 In summary, DDF will combine data standards and a new technology to enable the flow of data across all systems involved in the design and execution of a clinical trial.  
 
-**What are the benefits of the DDF initiative?**
+## **What are the benefits of the DDF initiative?**
 
 Currently many companies still conduct many manual activities to support the process of moving data from protocol development through clinical trial execution and beyond.
 
@@ -35,7 +35,7 @@ Digital Data Flow (DDF) benefits include:
 
 Click [here]() for a video describing the benefits DDF Initative.
 
-**Who does the initiative help?**
+## **Who does the initiative help?**
 
 This initiative will assist many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities. 
 
