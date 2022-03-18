@@ -1,7 +1,6 @@
 ---
 title: Accessing the SDR RI Codebase
 description: Landing page for getting started with the SDR RI Codebase and GitHub basics
-layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # Getting Started on Accessing the SDR RI Codebase

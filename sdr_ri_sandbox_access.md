@@ -1,7 +1,6 @@
 ---
 title: Getting Access to the SDR RI Sandbox environment
 description: Landing page for getting started with the SDR RI Sandbox environment, requesting access, and information about using the sandbox environment
-layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # Getting Started on Accessing the SDR RI Sandbox Environment

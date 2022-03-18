@@ -1,7 +1,6 @@
 ---
 title: GitHub Support
 description: Landing page for getting started with GitHub
-layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # Defining Open Source

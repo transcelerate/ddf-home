@@ -27,9 +27,11 @@ twitter_username: transcelerate
 github_username:  transceleratebiopharmainc
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/slate@v0.2.0
+#theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 header_pages:
  - community.md

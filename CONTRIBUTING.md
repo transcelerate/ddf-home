@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Contribution License Agreement"
 permalink: /contribution-license-agreement/
 ---
