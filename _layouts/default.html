@@ -21,10 +21,8 @@
           {% endif %}
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          <!-- TODO Menu here of the pages we want to highlight -->>
-
+          <!-- <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2> -->
+          
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
@@ -36,6 +34,15 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+      <!-- BEGIN CUSTOM CONTENT -->
+      <div>
+        <section id="navigation_meu" class="inner">
+          | {% for item in site.data.menu.docs %}
+              <a href="{{ item.url }}">{{ item.title }}</a> | 
+          {% endfor %}
+        </section>
+      </div>
+      <!-- END CUSTOM CONTENT -->
       <section id="main_content" class="inner">
         {{ content }}
       </section>
@@ -43,9 +50,13 @@
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
+      <!-- BEGIN CUSTOM CONTENT - Contact Information -->
+      <div id="footer_contact_information" class="inner">
+        
+      </div>
+      <!-- END CUSTOM CONTENT - Contact Information -->
       <footer class="inner">
         {% if site.github.is_project_page %}
-        <!-- TODO Add Contact Information Here -->
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>

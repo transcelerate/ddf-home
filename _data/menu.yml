@@ -1,0 +1,10 @@
+docs_list_title: DDF Navigation Menu
+docs:
+- title: Home
+  url: index.html
+- title: About
+  url: about.html
+- title: Getting Started
+  url: getting_started.html
+- title: Community
+  url: community.html

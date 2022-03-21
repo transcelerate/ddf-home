@@ -2,16 +2,16 @@
 title: DDF Community 
 description: Overview of the DDF community, links code of conduct, and community meetings
 ---
+## Community
 
-# Community
-
-DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. 
+DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
 
 The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.
 
-# DDF Community Values
+## DDF Community Values
+
 The DDF Community values provide the foundation for the success of the DDF initative.
-    
+
 - **Community first**
   - We're here to work together publicly for the common goal of progressing interoperatbility across the R&D ecosystem.  
 
