@@ -31,10 +31,10 @@ The DDF Community is about working together toward continuous improvement, learn
 
 Please refer to the **[DDF Community Overview](community.md)** for information and expectations about:
 
-- Community values
+- Community Values
 - [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contribution License Agreement](CONTRIBUTING.md)
-- Community meetings  
+- Community Meetings  
 
 **NOTE** 
 
