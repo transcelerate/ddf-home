@@ -36,6 +36,10 @@ Please refer to the **[DDF Community Overview](community.md)** for information a
 - [Contribution License Agreement](CONTRIBUTING.md)
 - Community meetings  
 
+**NOTE** 
+
+It is highly recommended that all users that will be engaging with DDF read through all the DDF Community content. 
+
 ## DDF GitHub Repositories
 
 The SDR Reference Implementation codebase is separated into different repositories for ease of use.

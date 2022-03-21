@@ -3,7 +3,7 @@ title: DDF Community
 description: Overview of the DDF community, links code of conduct, and community meetings
 ---
 
-# Community
+# Community Overview
 
 DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. 
 
@@ -11,84 +11,74 @@ The DDF community is about working together toward continuous improvement, learn
 
 # DDF Community Values
 The DDF Community values provide the foundation for the success of the DDF initative.
-    
-- **Community first**
-  - We're here to work together publicly for the common goal of progressing interoperatbility across the R&D ecosystem.  
 
-- **Be inclusive**
-  - Being a part of this community is a privilege, not a right.  Be respectful of all viewpoints and learn from each other
-
-- **Innovate**
-  - Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.
-
-## DDF Contribution License Agreement
-Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement. 
-
-## DDF Code of Conduct
-Please clikc [here](CODE_OF_CONDUCT.md) to read the Code of Conduct.
+|||
+|---|---|
+**Community First**|We're here to work together publicly for the common goal of progressing interoperatbility across the R&D ecosystem.|
+|**Being Inclusive**|Be respectful of all viewpoints and learn from each other, so we can make all contribute toward DDF improvements.|
+|**Support Innovation**|Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.|\
 
 
-## Collaboration Steering Committee (DDF “Board”) Highlights and Upcoming Meetings 
+# DDF Contribution License Agreement
+Please click [here](CONTRIBUTING.md) to read and acknowledge the Contribution License Agreement. 
 
-This section will highlight key CSC priorities, milestones and decisions from past meetings 
+# DDF Code of Conduct
+Please click [here](CODE_OF_CONDUCT.md) to read the Code of Conduct, which includes. 
 
-### Upcoming milestones
+# DDF Community Meetings
+To encourage collaboration, a **Collaboration Steering Committee (CSC)** has been established.  
 
-todo
+The CSC serves as the "board" and will faciliate discussions on DDF development priorities, milestones, and make decisions on upcoming releases.
 
-### Key priorities
-
-#### Q2 2022
-
-#### Q3 2022
-
-#### Q4 2022
-
-If you have an agenda item, or discussion topic to propose for discussion at the CSC, enter it via the “Discussions” button (above), and choose the CSC Topic template. todo:figure out if tcb wants discussions vs. issues.
-
-## Community Meetings
-
-### Typical Agenda
-
+## Typical Agenda
 - 5-10 minutes: Welcome, followed by DDF and ecosystem updates
 - 20-30 minutes: Talk/demo on specific topic for the day
 - 20-30 minutes: “Ask us anything” and customer feedback discussion
 
-If you have an agenda item, or discussion topic to propose for discussion for the Community Meeting, enter it via the “Discussions” button (above), and choose the Community Discussion template.
+### **Submitting a Topic for Discussion**
+If you have an agenda item, or discussion topic to propose for discussion at the CSC, enter it via the “Discussions” button (above), and choose the CSC Topic template. 
 
-### Schedule
+todo:figure out if tcb wants discussions vs. issues and where.
 
-### 2022 Upcoming Meetings:
+## Upcoming Milestones
 
-- March 3 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
-- April 7 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+todo
 
-### Past Meetings:
+|Date|Milestone|
+|---|---|
+|TBD|TBD|
+|TBD|TBD|
+|TBD|TBD|\
 
-- February 4 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+## Key Priorities
 
-Meeting links and recordings
+todo
 
-Asset
+|Quarter & Year|Priorities|
+|---|---|
+|Q2 2022|TBD|
+|Q3 2022|TBD|
+|Q4 2022|TBD|\
 
-Link
 
-🔗 Meeting Link
+## Upcoming Meetings
 
-Teams Call  
+- 20220407 April 7 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
-📝 Meeting Presentations
+### Joining Meetings
+Microsoft Teams Meetings is the meeting platform being used.  For the meeting you are interested in attending, please click on the meeting link above to save the invitation to your calendar.
 
-🎥 Meeting Recordings
+**NOTE**
 
-📆 Calendar invite
-
-NOTE: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
+If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
 - Download the .ics file
 - Open Outlook for the web
 - Drag and drop the .ics file onto your calendar
 
-Contact Us
+## Previous Meeting Recordings
+- 20220303: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+- 20220204: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
-Reach out to us at ???.com and we'll make sure to answer your questions as soon as possible!
+# Contact Us
+TBD
