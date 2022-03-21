@@ -5,6 +5,6 @@ docs:
 - title: About
   url: about.html
 - title: Getting Started
-  url: getting_started.html
+  url: getting-started.html
 - title: Community
   url: community.html
