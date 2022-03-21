@@ -27,7 +27,7 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 There are several components to the DDF initiative. Whether DDF is new to one person or for others who want to dive right in, guidance has been provided to support different types of stakeholders and level of understanding regarding DDF.
 
-Click [Getting Started](getting_started.md) for more details.
+Click [Getting Started](getting-started.md) for more details.
 
 ## General Resources
 
