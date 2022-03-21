@@ -78,6 +78,8 @@ and clinicians primarily accountable for a study.
 
 </details>
 
+# DDF Long Term Success FAQ
+
 <details>
 <summary>What is the data standards solution and technology that will enable DDF?</summary>
 
@@ -98,8 +100,6 @@ vendors
 The SDR Reference Implementation is a working model of the Study Definitions Repository based on the USDM, and has been deployed as open-source, and is meant to be vendor agnostic.
 
 </details>
-
-# DDF Long Term Success FAQ
 
 <details>
 <summary>How will TransCelerate help the R&D ecosystem prepare for DDF?</summary>
