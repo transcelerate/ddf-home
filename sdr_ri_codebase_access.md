@@ -36,25 +36,25 @@ Please refer to the **[DDF Community Overview](community.md)** for information a
 - [Contribution License Agreement](CONTRIBUTING.md)
 - Community Meetings  
 
-**NOTE** 
-
-It is highly recommended that all users that will be engaging with DDF read through all the DDF Community content. 
+**NOTE** - It is highly recommended that all users that will be engaging with DDF read through all the DDF Community content.
 
 ## DDF GitHub Repositories
 
 The SDR Reference Implementation codebase is separated into different repositories for ease of use.
 
-|Repository|Description|
-|---|---|
-|[ddf-sdr-docs](https://github.com/transceleratebiopharmainc/ddf-sdr-docs)|This repository holds all public facing website content for the DDF Initative. It contains the overview of the DDF initiative, as well as the associated open source information such as Contributor License Agreement (CLA), Community Code of Conduct, contact information, and all documentation on accessing the SDR Reference Implementation.|
-|[ddf-sdr-platform](https://github.com/transceleratebiopharmainc/ddf-sdr-platform)| This repositor holds the scripts written in Terraform for provisioning the underlying cloud hosted infrastructure to run the SDR platform, initially focused on the Microsoft Azure platform.|
-|[ddf-sdr-api](https://github.com/transceleratebiopharmainc/ddf-sdr-api)| This repository holds the ASP.NET Core api layer that comprises the core of the SDR platform|
-|[ddf-sdr-ui](https://github.com/transceleratebiopharmainc/ddf-sdr-ui)| Several user interface features including search, view, and compare functionality was created to support the SDR.  This repository holds the ASP.NET Core user interface layer code developed for these feastures\|
+| Repository                                                                        | Description                                                                                                                                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [ddf-sdr-docs](https://github.com/transceleratebiopharmainc/ddf-sdr-docs)         | This repository holds all public facing website content for the DDF Initiative. It contains the overview of the DDF initiative, as well as the associated open source information such as Contributor License Agreement (CLA), Community Code of Conduct, contact information, and all documentation on accessing the SDR Reference Implementation. |
+| [ddf-sdr-platform](https://github.com/transceleratebiopharmainc/ddf-sdr-platform) | This repository holds the scripts written in Terraform for provisioning the underlying cloud hosted infrastructure to run the SDR platform, initially focused on the Microsoft Azure platform.                                                                                                                                                      |
+| [ddf-sdr-api](https://github.com/transceleratebiopharmainc/ddf-sdr-api)           | This repository holds the ASP.NET Core api layer that comprises the core of the SDR platform                                                                                                                                                                                                                                                       |
+| [ddf-sdr-ui](https://github.com/transceleratebiopharmainc/ddf-sdr-ui)             | Several user interface features including search, view, and compare functionality was created to support the SDR.  This repository holds the ASP.NET Core user interface layer code developed for these features                                                                                                                                  |
 
-Each respository contains supporting documentation for access and installing the code.
+Each repository contains supporting documentation for access and installing the code.
 
 ## Help and Support
-For questions, comments, or issues regarding the code, please post to the Issues tab in the applicable GitHut respository.
+
+For questions, comments, or issues regarding the code, please post to the Issues tab in the applicable GitHub repository.
+
 - [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-platform/issues) in Platform repository
 - [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-api/issues) in API repository
 - [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-ui/issues) in UI repository

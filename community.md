@@ -10,10 +10,10 @@ The DDF community is about working together toward continuous improvement, learn
 
 ## DDF Community Values
 
-The DDF Community values provide the foundation for the success of the DDF initative.
+The DDF Community values provide the foundation for the success of the DDF initiative.
 
 - **Community first**
-  - We're here to work together publicly for the common goal of progressing interoperatbility across the R&D ecosystem.  
+  - We're here to work together publicly for the common goal of progressing interoperability across the R&D ecosystem.  
 
 - **Be inclusive**
   - Being a part of this community is a privilege, not a right.  Be respectful of all viewpoints and learn from each other
@@ -22,15 +22,16 @@ The DDF Community values provide the foundation for the success of the DDF inita
   - Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.
 
 ## DDF Contribution License Agreement
-Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement. 
+
+Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement.
 
 ## DDF Code of Conduct
-Please clikc [here](CODE_OF_CONDUCT.md) to read the Code of Conduct.
 
+Please click [here](CODE_OF_CONDUCT.md) to read the Code of Conduct.
 
-## Collaboration Steering Committee (DDF “Board”) Highlights and Upcoming Meetings 
+## Collaboration Steering Committee (DDF “Board”) Highlights and Upcoming Meetings
 
-This section will highlight key CSC priorities, milestones and decisions from past meetings 
+This section will highlight key CSC priorities, milestones and decisions from past meetings
 
 ### Upcoming milestones
 
@@ -58,12 +59,12 @@ If you have an agenda item, or discussion topic to propose for discussion for th
 
 ### Schedule
 
-### 2022 Upcoming Meetings:
+### 2022 Upcoming Meetings
 
 - March 3 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 - April 7 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
-### Past Meetings:
+### Past Meetings
 
 - February 4 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 

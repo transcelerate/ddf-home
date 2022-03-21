@@ -25,20 +25,20 @@ Once a user account is created, click [here](https://github.com/transceleratebio
 
 ## GitHub Navigation
 
-The hierarchy in GitHub allows for an "organization", which then allows the "organization" to create one or more repositories, which is where specific inforamtion and code is stored.
+The hierarchy in GitHub allows for an "organization", which then allows the "organization" to create one or more repositories, which is where specific information and code is stored.
 
-For the DDF initative, the top level "organization" is **TransCelerate**.  There are four repositories that hold information and code about the SDR Reference Implementation.
+For the DDF initiative, the top level "organization" is **TransCelerate**.  There are four repositories that hold information and code about the SDR Reference Implementation.
 
 The GitHub platform allows for users to openly engage with each other in support of accessing and contributing to open-source software.  The user interface in GitHub may be confusing at first glance.  
 
 Here is a quick summary of the GitHub user interface.
 
-|Key Naviation|Description|
-|---|---|
-|**<> Code**| This is the default view to the folders and files that contain information and/or code|
-|**Issues**| This is where users can post issues and questions.|
-|**Pull Requests**| This is the area to access any submitted change requests to information and/or code.|
-|**Discussions**| This is where users can post topics for discussion.\|
+| Key Navigation    | Description                                                                            |
+|-------------------|----------------------------------------------------------------------------------------|
+| **Code**       | This is the default view to the folders and files that contain information and/or code |
+| **Issues**        | This is where users can post issues and questions.                                     |
+| **Pull Requests** | This is the area to access any submitted change requests to information and/or code.   |
+| **Discussions** | This is where users can post topics for discussion.|
 
 Please watch this video for guidance on how to navigate within GitHub.
 

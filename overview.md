@@ -1,6 +1,6 @@
 ---
 title: DDF Overview
-description: Details about the DDF initative, objective, and benefits
+description: Details about the DDF initiative, objective, and benefits
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # DDF Overview
@@ -9,7 +9,7 @@ description: Details about the DDF initative, objective, and benefits
 
 The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. This initiative will establish a foundation for a future state of automated and dynamic readiness that can transform the drug development process.
 
-Click [here](https://www.youtube.com/watch?v=082onW7jhe4) for a video describing the DDF Initative.
+Click [here](https://www.youtube.com/watch?v=082onW7jhe4) for a video describing the DDF Initiative.
 
 ## **What is the objective of the DDF initiative?**
 
@@ -32,7 +32,7 @@ Digital Data Flow (DDF) benefits include:
 - A more seamless flow of data leading to accelerated Study Start-Up, and further enabling trials automation for sponsors and research partners
 - Harmonization of the data format that can support greater interoperability and spark innovation within the R&D ecosystem and across the clinical trial solutions landscape
 
-Click [here]() for a video describing the benefits DDF Initative.
+Click [here](#ddf-overview) for a video describing the benefits DDF Initiative.
 
 ## **Who does the initiative help?**
 
@@ -43,4 +43,5 @@ With DDF, organizations across the R&D ecosystem will be able to leverage the op
 For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
 ## Help and Support
-For general help and support, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) for any questions or comments.  Responses to questions will be posted to the FAQ page. 
+
+For general help and support, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) for any questions or comments.  Responses to questions will be posted to the FAQ page.
