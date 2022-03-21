@@ -54,5 +54,7 @@ The SDR Reference Implementation codebase is separated into different repositori
 Each respository contains supporting documentation for access and installing the code.
 
 ## Help and Support
-
-todo:where to go for support?
+For questions, comments, or issues regarding the code, please post to the Issues tab in the applicable GitHut respository.
+- [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-platform/issues) in Platform repository
+- [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-api/issues) in API repository
+- [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-ui/issues) in UI repository

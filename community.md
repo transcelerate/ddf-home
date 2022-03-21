@@ -23,7 +23,7 @@ The DDF Community values provide the foundation for the success of the DDF inita
 Please click [here](CONTRIBUTING.md) to read and acknowledge the Contribution License Agreement. 
 
 # DDF Code of Conduct
-Please click [here](CODE_OF_CONDUCT.md) to read the Code of Conduct, which includes. 
+Please click [here](CODE_OF_CONDUCT.md) to read the Code of Conduct. 
 
 # DDF Community Meetings
 To encourage collaboration, a **Collaboration Steering Committee (CSC)** has been established.  
@@ -36,9 +36,8 @@ The CSC serves as the "board" and will faciliate discussions on DDF development 
 - 20-30 minutes: “Ask us anything” and customer feedback discussion
 
 ### **Submitting a Topic for Discussion**
-If you have an agenda item, or discussion topic to propose for discussion at the CSC, enter it via the “Discussions” button (above), and choose the CSC Topic template. 
+If you have an agenda item, or discussion topic to propose for discussion at the CSC, enter your suggestion here at the Discussions tab in the Docs Repository, and choose the CSC Topic template. 
 
-todo:figure out if tcb wants discussions vs. issues and where.
 
 ## Upcoming Milestones
 
@@ -80,5 +79,5 @@ If you are using Outlook for Mac, you may have trouble adding the invite to your
 - 20220303: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 - 20220204: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
-# Contact Us
-TBD
+# Help and Support
+For any questions or comments regarding the DDF Community, please email us [here](mailto:DDF@transcelerate.com?subject=Help%20with%20DDF%20Community).  Responses to questions will be posted to the FAQ page.  

@@ -43,5 +43,4 @@ With DDF, organizations across the R&D ecosystem will be able to leverage the op
 For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
 ## Help and Support
-
-todo:where to go for support?
+For general help and support, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) for any questions or comments.
