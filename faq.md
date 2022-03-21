@@ -69,11 +69,6 @@ implementations.
 </details>
 
 <details>
-<summary> What is the data standards solution and technology that will enable DDF?</summary>
-
-</details>
-
-<details>
 <summary>Who within a company is impacted by DDF?</summary>
 
 Roles impacted by DDF would be study managers, study protocol authors,
@@ -102,7 +97,7 @@ vendors
 
 The SDR Reference Implementation is a working model of the Study Definitions Repository based on the USDM, and has been deployed as open-source, and is meant to be vendor agnostic.
 
-## CDISC Unified Study Definitions Model Questions
+</details>
 
 # DDF Long Term Success FAQ
 
@@ -305,5 +300,3 @@ This multi-stakeholder governance entity would be a separate organization whose 
 
 # Help and Support
 For additional help and support, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) for any questions or comments.  Responses to questions will be posted to the FAQ page. 
-
-For additional help and support, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) for any questions or comments.  Responses to questions will be posted to the FAQ page.
