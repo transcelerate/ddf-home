@@ -2,13 +2,13 @@
 title: DDF Community 
 description: Overview of the DDF community, links code of conduct, and community meetings
 ---
-## Community
+# Community
 
 DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
 
 The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.
 
-## DDF Community Values
+# DDF Community Values
 
 The DDF Community values provide the foundation for the success of the DDF initiative.
 
@@ -16,80 +16,54 @@ The DDF Community values provide the foundation for the success of the DDF initi
   - We're here to work together publicly for the common goal of progressing interoperability across the R&D ecosystem.  
 
 - **Be inclusive**
-  - Being a part of this community is a privilege, not a right.  Be respectful of all viewpoints and learn from each other
+  - Be respectful of all viewpoints and learn from each other and support our collaboration together
 
-- **Innovate**
+- **Suppport Innovation**
   - Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.
 
-## DDF Contribution License Agreement
+# DDF Contribution License Agreement
 
 Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement.
 
-## DDF Code of Conduct
+# DDF Code of Conduct
 
-Please click [here](CODE_OF_CONDUCT.md) to read the Code of Conduct.
+Please click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
 
-## Collaboration Steering Committee (DDF “Board”) Highlights and Upcoming Meetings
+# DDF Community Meetings
+To support collaboration and sharing of ideas, community meetings will be faciliated by the Collaboration Steering Committee (CSC).  The CSC functions as the "board", and will help drive DDF Initiative milestones and priorties.
 
-This section will highlight key CSC priorities, milestones and decisions from past meetings
+Meetings will be held using the Microsoft Teams Meetings platform and will be recorded. 
 
-### Upcoming milestones
-
-todo
-
-### Key priorities
-
-#### Q2 2022
-
-#### Q3 2022
-
-#### Q4 2022
-
-If you have an agenda item, or discussion topic to propose for discussion at the CSC, enter it via the “Discussions” button (above), and choose the CSC Topic template. todo:figure out if tcb wants discussions vs. issues.
-
-## Community Meetings
-
-### Typical Agenda
+## Typical Agenda
 
 - 5-10 minutes: Welcome, followed by DDF and ecosystem updates
 - 20-30 minutes: Talk/demo on specific topic for the day
 - 20-30 minutes: “Ask us anything” and customer feedback discussion
 
-If you have an agenda item, or discussion topic to propose for discussion for the Community Meeting, enter it via the “Discussions” button (above), and choose the Community Discussion template.
+**Submitting Agenda Topics**
 
-### Schedule
+If you have an agenda item, or discussion topic to propose for discussion for the Community Meeting, enter submit your recommendations on the **Discussions** of the Docs repository by choosing the Community Discussion template.
 
-### 2022 Upcoming Meetings
+## Upcoming milestones
 
-- March 3 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
-- April 7 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+todo
 
-### Past Meetings
+## Key priorities
 
-- February 4 Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+todo
 
-Meeting links and recordings
+## Upcoming Meetings
+To save a meeting invite, click on the meeting links below.  
 
-Asset
+- 20220303: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+- 20220407: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
-Link
-
-🔗 Meeting Link
-
-Teams Call  
-
-📝 Meeting Presentations
-
-🎥 Meeting Recordings
-
-📆 Calendar invite
-
-NOTE: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
+**NOTE** - If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
 - Download the .ics file
 - Open Outlook for the web
 - Drag and drop the .ics file onto your calendar
 
-Contact Us
+## Previous Meeting Recordings
 
-Reach out to us at ???.com and we'll make sure to answer your questions as soon as possible!
+- 20220204: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
