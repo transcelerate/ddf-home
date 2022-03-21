@@ -5,43 +5,65 @@ description: Landing page for getting started with the SDR RI Sandbox environmen
 ---
 # Getting Started on Accessing the SDR RI Sandbox Environment
 
-The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. See [What is DDF?](overview.md) for more information on the overview, objectives and benefits of DDF.
+The Study Definitions Repository (SDR) Reference Implementation is a working model of a Study Definitions Repository that has been developed based on the **CDISC Unified Study Definitions Model (USDM)**.
 
-Click [here](https://www.youtube.com/watch?v=082onW7jhe4) for a video describing the DDF Initative.
+For details and documents regarding the USDM, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
 ## Disclaimer
 
-The materials shared in this repository are intended to be used solely for understanding DDF and the SDR reference implementation, and assisting the deployment of the reference implementation either locally or on Microsoft Azure. Future cloud providers are being considered but not yet on a roadmap.
+The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.
 
-Nothing in these materials is intended to guide the study definition process or configuration of clinical systems. Results of those activities are solely the responsibility of the user of the scripts and not the developers.
+These materials are not intended to guide the study definition process or configuration of clinical systems. Results of those activities are solely the responsibility of the user of the scripts and not the developers.
 
 For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
-## DDF Repositories
+## SDR RI Sandbox Environment Overview
 
-A full explanation of the GitHub repositories that are part of the DDF release are located on the [DDF Repositories](repos) page.
+The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 
-## CDISC Released
+As an outcome of the development process, a working model of the SDR Reference Implementation has been setup on **Microsoft Azure**. 
 
-Links to [CDISC Wiki](https://wiki.cdisc.org/).
+To faciliate the adoption of DDF, this Microsoft Azure environment, or **SDR RI Sandbox Environment**, is available for those who are interested in leveraging this environment to view what has been developed, and test out API connections with the working model of the SDR without having to deploy the SDR Reference Implementation codebase locally.
 
-## Getting Started on DDF
+## Requirements for Access to the SDR RI Sandbox Environment
+The SDR Reference Implementation Sandbox environment will be made available through a request process for users who wish to access the environment.  
 
-Documentation for getting started is in the list of GitHub repositories below, all in the TransCelerate BioPharma Inc. organization. Please also make sure you see the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution License Agreement](CONTRIBUTING.md).
+Basic requirements for getting access include:
+- Working Knowledge of Microsoft Azure ???
+- ??? NEED INFO FROM DELIVERY TEAM
 
-- [ddf-sdr-platform](https://github.com/transceleratebiopharmainc/ddf-sdr-platform) - TerraForm code for setting up the Azure infrastructure to deploy the DDF solution
-- [ddf-sdr-api](https://github.com/transceleratebiopharmainc/ddf-sdr-api) - the ASP.NET Core api layer that comprises the core of the DDF platform
-- [ddf-sdr-ui](https://github.com/transceleratebiopharmainc/ddf-sdr-ui) - the ASP.NET Core user interface layer
 
-## Other Resources
+## Terms of Use
+As the SDR Reference Implementation Sandbox environment will be a shared environment, please refer to the following terms of use for the environment.
+- TBD
 
-Looking for more? Check out these links
+**NOTE**
 
-- [Digital Data Flow Initiative on the main TransCelerate BioPharma, Inc. Website](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/)
-- [Events search for "Digital Data Flow"](https://www.transceleratebiopharmainc.com/?s=digital%20data%20flow&submit=submit)
-- [YouTube Channel for TransCelerate BioPharma, Inc.](https://www.youtube.com/channel/UC9S20EmzIBGJJ70utCrtNBQ/videos)
-- [Twitter account for TransCelerate BioPharma, Inc.](https://twitter.com/transcelerate)
+*The SDR Reference Implementation Sandbox environment will be refreshed back to its orginial codebase every two weeks.  The refresh will occur on Sundays at 5PM EDT.  This means that any updates made to the environment since the last refresh will be removed.  A reminder will be sent on Thursday PM prior to the refresh activities.*
+
+## Requesting Access
+In order to manage the number of users who will be working in the SDR RI Sandbox Environment, there will be a **limit of 2 active users per company**.  
+
+Also, the user account will be **deactivated after 45 days of inactivity**.  To reactivate a deactivated user account, a request will need to be resubmitted.
+
+To request access, follow the instructions below:
+1. Click [here](mailto:DDF@transcelerate.com?subject=Request Access to SDR RI Sandbox Environment) to send an email request
+2. In the body of the email, please include the following information:
+   - First Name
+   - Last Name
+   - Email Address
+   - Company Name
+   - Copy and paste the following text: *I acknowledge the terms of use as stated on the DDF website for the SDR Reference Implementation Sandbox Ennvironment.*  
+
+If the user access request is approved, you will get an email with an assigned User ID, and default password.  You will be asked to change your password the first time you log into the environment. 
+
+If the user access request is not approved, you will get an email on reasons why the access was not granted. 
+
+## Getting Started Once Access is Granted
+To get started using the SDR Reference Implementation Sandbox environment, please refer to the following documents:
+- Azure Login Instructions (LINK)
+- How to Use the SDR Reference Implemenation Sandbox Environment (LINK)
+
 
 ## Help and Support
-
-todo:where to go for support?
+For technical support with Microsoft Azure or the SDR Reference Implemenation Sandbox Environment, contact XYZ (TBD).  
