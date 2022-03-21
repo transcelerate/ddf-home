@@ -18,7 +18,7 @@ The DDF Community values provide the foundation for the success of the DDF initi
 - **Be inclusive**
   - Be respectful of all viewpoints and learn from each other and support our collaboration together
 
-- **Suppport Innovation**
+- **Support Innovation**
   - Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.
 
 # DDF Contribution License Agreement
