@@ -66,4 +66,4 @@ To get started using the SDR Reference Implementation Sandbox environment, pleas
 
 ## Help and Support
 
-For technical support with Microsoft Azure or the SDR Reference Implementation Sandbox Environment, please email us [here](mailto:DDF@transcelerate.com?subject=Help%20with%20SDR%20RI%20Sandbox%20Environment).  Responses to questions will be posted to the FAQ page.
+For technical support with Microsoft Azure or the SDR Reference Implementation Sandbox Environment, please email us [here](mailto:DDF@transcelerate.com?subject=Help%20with%20SDR%20RI%20Sandbox%20Environment).  Responses to questions will be posted to the [FAQ](faq.md) page.
