@@ -25,39 +25,33 @@ As an outcome of the development process, a working model of the SDR Reference I
 
 To faciliate the adoption of DDF, this Microsoft Azure environment, or **SDR RI Sandbox Environment**, is available for those who are interested in leveraging this environment to view what has been developed, and test out API connections with the working model of the SDR without having to deploy the SDR Reference Implementation codebase locally.
 
-## Requirements for Access to the SDR RI Sandbox Environment
+## Using the SDR RI Sandbox Environment
 The SDR Reference Implementation Sandbox environment will be made available through a request process for users who wish to access the environment.  
 
-Basic requirements for getting access include:
-- Working Knowledge of Microsoft Azure ???
-- ??? NEED INFO FROM DELIVERY TEAM
-
+To learn about what is functionality is available in the SDR RI Sandbox environment and expectations on how to use the environment, please first read the Getting Started with SDR REference Implementation Guidelines.
 
 ## Terms of Use
 As the SDR Reference Implementation Sandbox environment will be a shared environment, please refer to the following terms of use for the environment.
-- TBD
+- TBD (Pete info by 3/25)
 
-**NOTE**
-
-*The SDR Reference Implementation Sandbox environment will be refreshed back to its orginial codebase every two weeks.  The refresh will occur on Sundays at 5PM EDT.  This means that any updates made to the environment since the last refresh will be removed.  A reminder will be sent on Thursday PM prior to the refresh activities.*
 
 ## Requesting Access
 In order to manage the number of users who will be working in the SDR RI Sandbox Environment, there will be a **limit of 2 active users per company**.  
 
-Also, the user account will be **deactivated after 45 days of inactivity**.  To reactivate a deactivated user account, a request will need to be resubmitted.
+Also, the user accounts will be **deactivated after 30 days of inactivity**.  To reactivate a deactivated user account, a new request will need to be resubmitted.
 
 To request access, follow the instructions below:
-1. Click [here](mailto:DDF@transcelerate.com?subject=Request Access to SDR RI Sandbox Environment) to send an email request
-2. In the body of the email, please include the following information:
-   - First Name
-   - Last Name
-   - Email Address
-   - Company Name
-   - Copy and paste the following text: *I acknowledge the terms of use as stated on the DDF website for the SDR Reference Implementation Sandbox Ennvironment.*  
+1. Click [here](mailto:DDF@transcelerate.com?subject=Request%20Access%20to%20SDR%20RI%20Sandbox%20Environment&body=First%20Name:%0D%0ALast%20Name:%0D%0AEmail%20Address:%0D%0ACompany%20Name:%0D%0ACompany%20Type%20(Sponsor,%20Solution%20Vendor,%20CRO,%20Health%20Authority,%20Site,%20Other):%0D%0APlease%20Provide%20Reason(s)%20for%20Access:%0D%0APlease%20respond%20with%20Yes%20or%20No%20that%20you%20have%20read%20and%20understood%20the%20terms%20of%20use:) to send an email request
+2. In the body of the email, please include the following information.  Please note that * indicates a required field:
+   - *First Name: 
+   - *Last Name: 
+   - *Email Address: 
+   - *Company Name: 
+   - *Company Type (Sponsor, Solution Vendor, CRO, Health Authority, Site, Other): 
+   - *Please Provide Reason(s) for Access: 
+   - *Please respond with Yes or No that you have read and understood the terms of use:
 
-If the user access request is approved, you will get an email with an assigned User ID, and default password.  You will be asked to change your password the first time you log into the environment. 
-
-If the user access request is not approved, you will get an email on reasons why the access was not granted. 
+If approved, you will get an email with an assigned User ID, and default password.  You will be asked to change your password the first time you log into the environment. 
 
 ## Getting Started Once Access is Granted
 To get started using the SDR Reference Implementation Sandbox environment, please refer to the following documents:
@@ -66,4 +60,4 @@ To get started using the SDR Reference Implementation Sandbox environment, pleas
 
 
 ## Help and Support
-For technical support with Microsoft Azure or the SDR Reference Implemenation Sandbox Environment, contact XYZ (TBD).  
+For technical support with Microsoft Azure or the SDR Reference Implemenation Sandbox Environment, please email us [here](mailto:DDF@transcelerate.com?subject=Help%20with%20SDR%20RI%20Sandbox%20Environment).  Responses to questions will be posted to the FAQ page. 
