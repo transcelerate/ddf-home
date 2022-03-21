@@ -31,10 +31,14 @@ The DDF Community is about working together toward continuous improvement, learn
 
 Please refer to the **[DDF Community Overview](community.md)** for information and expectations about:
 
-- Community values
+- Community Values
 - [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contribution License Agreement](CONTRIBUTING.md)
-- Community meetings  
+- Community Meetings  
+
+**NOTE** 
+
+It is highly recommended that all users that will be engaging with DDF read through all the DDF Community content. 
 
 ## DDF GitHub Repositories
 
@@ -50,5 +54,7 @@ The SDR Reference Implementation codebase is separated into different repositori
 Each respository contains supporting documentation for access and installing the code.
 
 ## Help and Support
-
-todo:where to go for support?
+For questions, comments, or issues regarding the code, please post to the Issues tab in the applicable GitHut respository.
+- [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-platform/issues) in Platform repository
+- [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-api/issues) in API repository
+- [Link to Issues](https://github.com/transceleratebiopharmainc/ddf-sdr-ui/issues) in UI repository

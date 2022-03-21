@@ -37,5 +37,4 @@ Click [Getting Started](getting_started.md) for more details.
 - [Twitter account for TransCelerate BioPharma, Inc.](https://twitter.com/transcelerate)
 
 ## Help and Support
-
-todo:where to go for support?
+For general help and support, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) for any questions or comments.  Responses to questions will be posted to the FAQ page. 
