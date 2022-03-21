@@ -23,7 +23,7 @@ The SDR Reference Implementation has been deployed as open-source, and is meant 
 
 GitHub is the platform where the SDR RI code is published.  
 
-**New to GitHub?** Click [Getting Started with GitHub](github_support.md) for some guidance on accessing and using GitHub.  
+**New to GitHub?** Click [Getting Started with GitHub](github-support.md) for some guidance on accessing and using GitHub.  
 
 ## DDF Open-Source Community and Participation
 
@@ -32,7 +32,7 @@ The DDF Community is about working together toward continuous improvement, learn
 Please refer to the **[DDF Community Overview](community.md)** for information and expectations about:
 
 - Community Values
-- [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributor Covenant Code of Conduct](CODE-OF-CONDUCT.md)
 - [Contribution License Agreement](CONTRIBUTING.md)
 - Community Meetings  
 
