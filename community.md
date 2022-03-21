@@ -64,6 +64,6 @@ To save a meeting invite, click on the meeting links below.
 - Open Outlook for the web
 - Drag and drop the .ics file onto your calendar
 
-## Previous Meeting Recordings
+## Previously Recorded Meetings
 
 - 20220204: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
