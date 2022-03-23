@@ -211,7 +211,7 @@ readily able to adopt an SDR.
 <details>
 <summary>How would vendors use the SDR reference implementation?</summary>
 
-Wendors will have the ability to connect to the SDR Reference Implementation to test compatibility and utilize the code through open source licensing. Vendors can also take advantage of the interoperability functionality by deploying their own version in a cloud/Software as a Service (SaaS) model or by building their own compliant SDR using the technology of their choosing. 
+Vendors will have the ability to connect to the SDR Reference Implementation to test compatibility and utilize the code through open source licensing. Vendors can also take advantage of the interoperability functionality by deploying their own version in a cloud/Software as a Service (SaaS) model or by building their own compliant SDR using the technology of their choosing. 
 
 In addition, sponsors can create an SDR based on the SDR reference implementation for their own use, adding new functionality if desired, with the ability to contribute to further development of the SDR reference implementation. 
 
