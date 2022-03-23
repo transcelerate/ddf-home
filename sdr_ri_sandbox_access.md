@@ -29,7 +29,7 @@ To facilitate the adoption of DDF, this Microsoft Azure environment, or **SDR RI
 
 The SDR Reference Implementation Sandbox environment will be made available through a request process for users who wish to access the environment.  
 
-To learn about what is functionality is available in the SDR RI Sandbox environment and expectations on how to use the environment, please first read the Getting Started with SDR REference Implementation Guidelines.
+To learn about what is functionality is available in the SDR RI Sandbox environment and expectations on how to use the environment, please first read the [Getting Started with SDR Reference Implementation Guidelines]().
 
 ## Terms of Use
 
