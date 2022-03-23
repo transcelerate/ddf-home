@@ -21,7 +21,7 @@ To use GitHub, a person needs to first create an account.
 
 Go to [https://github.com/join](https://github.com/join) and follow the instructions to create an account.  To access and use GitHub for DDF is free of charge.
 
-Once a user account is created, click [here](https://github.com/transceleratebiopharmainc) to access the DDF GitHub page.
+Once a user account is created, click [here](https://github.com/transceleratebiopharmainc) to access the **DDF GitHub** page.
 
 ## GitHub Navigation
 
@@ -40,13 +40,13 @@ Here is a quick summary of the GitHub user interface.
 | **Pull Requests** | This is the area to access any submitted change requests to information and/or code.   |
 | **Discussions** | This is where users can post topics for discussion.|
 
-Please watch this video for guidance on how to navigate within GitHub.
+Please watch this [video]() for guidance on how to navigate within GitHub.
 
 ## Actively Using GitHub
 
 The main features of GitHub is allowing users to access content and make changes to the content for review, approval and distribution.  
 
-Please watch this video for examples of how to actively use GitHub to:
+Please watch this [video]() for examples of how to actively use GitHub to:
 
 - Review content, make changes, and submit the changes for review, approval and distribution, if applicable (the process is called Pull Requests)
 - Submitting an Issue
