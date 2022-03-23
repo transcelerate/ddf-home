@@ -38,6 +38,6 @@ There are two pathways for accessing the SDR Reference Implementations
 | **SDR RI Codebase** | Accessing the codebase for the purposes of installing the SDR Reference Implementation locally on a company's technology environment. |
 | **SDR RI Sandbox**  | Accessing the working model of the SDR Reference Implementation in a sandbox environment                                              |
 
-Click here to [Getting Started with SDR RI Codebase](sdr-ri-codebase-access.md).
+Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md).
 
-Click here to [Getting Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).
+Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).
