@@ -19,7 +19,7 @@ The USDM serves as the standard model for creating a **Study Definitions Reposit
 
 To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
-Click below for a video describing the USDM. 
+Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the USDM. 
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
 <img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/USDM.png">
@@ -31,7 +31,7 @@ Transcelerate, along with Accenture, Microsoft, and other life sciences technolo
 
 The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 
-Click below for a video describing the SDR RI. 
+Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the SDR RI. 
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
 <img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/SDRRI.png">
