@@ -42,7 +42,7 @@ Meetings will be held using the Microsoft Teams Meetings platform and will be re
 
 **Submitting Agenda Topics**
 
-If you have an agenda item, or discussion topic to propose for discussion for the Community Meeting, enter submit your recommendations on the **Discussions** of the Docs repository by choosing the Community Discussion template.
+Agenda topics will be shared ahead of the meetings.  If you have a topic to propose for discussion during the Community Meeting, please respond to the **Discussion** topic [here](https://github.com/transceleratebiopharmainc/ddf-sdr-docs/discussions/categories/community-meetings).
 
 ## Upcoming milestones
 
