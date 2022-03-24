@@ -6,6 +6,7 @@ description: Frequently asked questions and answers
 # Frequently Asked Questions
 <br/>
 <b>DDF Initiative FAQ</b>
+<p></p>
 <details>
 <summary>What is the Digital Data Flow initiative?</summary>
 <p></p>
