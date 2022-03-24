@@ -18,6 +18,7 @@ Click below for a video describing the DDF Initiative.
 <img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/overview.png">
 </a>
 
+
 Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview](overview.md) for more information.
 
 ## Latest News
