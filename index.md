@@ -12,7 +12,7 @@ While this repository and the associated code repositories (see [Getting Started
 
 The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
 
-Click below for a video describing the DDF Initiative. 
+Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the DDF Initiative. 
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
 <img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/overview.png">
