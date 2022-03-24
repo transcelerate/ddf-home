@@ -250,7 +250,7 @@ For more complex changes, TBD.
 <details>
 <summary>Who is part of the Collaborating Steering Committee (CSC)?</summary>
 
-When the SDR Reference Implementation is deployed, the Collaborating Steering Committee or "board" will be initially comprised of members from TransCelerate, Accenture, and Microsoft, who were the main partners in developing the SDR.  
+When the SDR Reference Implementation is deployed, the Collaborating Steering Committee or "board" will be initially comprised of members from TransCelerate, CDISC, Accenture, and Microsoft, who were the main partners in developing the SDR.  
 
 </details>
 
