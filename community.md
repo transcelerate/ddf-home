@@ -46,11 +46,12 @@ If you have an agenda item, or discussion topic to propose for discussion for th
 
 ## Upcoming milestones
 
-todo
+- May 2022: CDISC publication of USDM
+- June 2022: DDF Connectathon Event 
 
 ## Key priorities
 
-todo
+There is a focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.  
 
 ## Upcoming Meetings
 To save a meeting invite, click on the meeting links below.  
