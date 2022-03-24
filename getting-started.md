@@ -17,7 +17,11 @@ The USDM contains both new and existing standards, and also provides common voca
 
 The USDM serves as the standard model for creating a **Study Definitions Repository**, which is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
 
-Click [here]() for a video describing the USDM.
+Click below for a video describing the USDM. 
+
+<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
+<img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/USDM.png">
+</a>
 
 To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
@@ -27,7 +31,11 @@ Transcelerate, along with Accenture, Microsoft, and other life sciences technolo
 
 The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 
-Click [here]() for a video describing the SDR RI.
+Click below for a video describing the SDR RI. 
+
+<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
+<img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/SDRRI.png">
+</a>
 
 ## Accessing the SDR Reference Implementation (RI)
 
