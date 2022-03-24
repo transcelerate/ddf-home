@@ -3,8 +3,9 @@ title: Frequently Asked Questions (FAQ)
 description: Frequently asked questions and answers
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# DDF Initiative FAQ
+# Frequently Asked Questions
 <br/>
+<b>DDF Initiative FAQ</b>
 <details>
 <summary>What is the Digital Data Flow initiative?</summary>
 <p></p>
