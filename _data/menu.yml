@@ -3,7 +3,7 @@ docs:
 - title: Home
   url: index.html
 - title: About
-  url: about.html
+  url: overview.html
 - title: Getting Started
   url: getting-started.html
 - title: Community
