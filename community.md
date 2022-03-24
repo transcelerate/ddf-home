@@ -23,7 +23,9 @@ The DDF Community values provide the foundation for the success of the DDF initi
 
 # DDF Contribution License Agreement
 
-Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement.
+Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement (CLA).  
+
+**NOTE**:  The CLA needs to be signed before you're allowed to contribute and propose changes.  
 
 # DDF Code of Conduct
 
@@ -42,7 +44,7 @@ Meetings will be held using the Microsoft Teams Meetings platform and will be re
 
 **Submitting Agenda Topics**
 
-Agenda topics will be shared ahead of the meetings.  If you have a topic to propose for discussion during the Community Meeting, please respond to the **Discussion** topic [here](https://github.com/transceleratebiopharmainc/ddf-sdr-docs/discussions/categories/community-meetings).
+Agenda topics will be shared ahead of the meetings.  If you have a topic to propose for discussion during the Community Meeting, please respond to posted [Discussion Topics](https://github.com/transceleratebiopharmainc/ddf-sdr-docs/discussions/categories/community-meetings).
 
 ## Upcoming milestones
 
