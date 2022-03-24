@@ -17,13 +17,13 @@ The USDM contains both new and existing standards, and also provides common voca
 
 The USDM serves as the standard model for creating a **Study Definitions Repository**, which is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
 
+To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
+
 Click below for a video describing the USDM. 
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
 <img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/USDM.png">
 </a>
-
-To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
 ## Study Definitions Repository (SDR) Reference Implementation
 
