@@ -5,7 +5,7 @@ description: Walkthrough on cloning local, opening and running the document repo
 
 ## Steps to run the [ddf-sdr-docs](https://github.com/transceleratebiopharmainc/ddf-sdr-docs) repo locally on Windows
 
-Below are the short steps to get up and running on the ddf-sdr-docs repo. You can watch a vide of these steps [here](https://www.youtube.com/watch?v=HCd2LSYeOPI).
+Below are the short steps to get up and running on the ddf-sdr-docs repo. You can watch a video of these steps [here](https://www.youtube.com/watch?v=HCd2LSYeOPI).
 
 - Install Visual Studio Code from [here](https://code.visualstudio.com/), picking the **User Installer**
 - Install Git for Windows from [here](https://git-scm.com/download/win), accepting the defaults, and choosing Visual Studio Code as the default editor
