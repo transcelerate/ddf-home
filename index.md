@@ -15,7 +15,7 @@ The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enab
 Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the DDF Initiative. 
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
-<img src="https://github.com/transceleratebiopharmainc/ddf-sdr-docs/blob/main/media/images/overview.png">
+<img src="media\images\overview.png">
 </a>
 
 
