@@ -11,9 +11,9 @@ Below are the short steps to get up and running on the ddf-sdr-docs repo. You ca
 - Install Git for Windows from [here](https://git-scm.com/download/win), accepting the defaults, and choosing Visual Studio Code as the default editor
 - Install the Ruby development package from [here](https://jekyllrb.com/docs/installation/windows/)
   - RubyInstaller -> Downloads -> pick the latest "WITH DEVKIT" option (x64)
-  - Once installed, there will be a prompt window that appears.  Follow the instructions to install the default.
+  - Once installed, there will be a Ruby command window that appears.  Follow the instructions to install the default.
 - Once that's done, click start and launch the **Start Command Prompt with Ruby** shortcut
-  - Enter `gem install jekyll bundler webrick`
+  - Type in `gem install jekyll bundler webrick`
 - Open Visual Studio Code, and go to the command palette (CRTL+SHIFT+P)
   - type in Clone and choose "Git: Clone"
   - Enter the url for the ddf-sdr-docs repo - https://github.com/transceleratebiopharmainc/ddf-sdr-docs
