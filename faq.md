@@ -4,8 +4,8 @@ description: Frequently asked questions and answers
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # Frequently Asked Questions
-<br/>
-<b>DDF Initiative FAQ</b>
+<p></p>
+<strong>DDF Initiative FAQ</strong>
 <p></p>
 <details>
 <summary>What is the Digital Data Flow initiative?</summary>
@@ -64,7 +64,7 @@ Click <a target="_blank" href="">todo</a> for a video describing benefits of DDF
 <p></p>
 </details>
 <p></p>
-<b>DDF Long Term Success FAQ</b>
+<strong>DDF Long Term Success FAQ</strong>
 <p></p>
 <details>
 <summary>What is the data standards solution and technology that will enable DDF?</summary>
@@ -74,8 +74,8 @@ Today’s manual processes with multiple human and technical hand offs are not a
 The DDF initiative involves a multi-faceted program that includes
 collaborating with the Clinical Data Interchange Standards Consortium (CDISC) to develop a standardized data model and working with lead collaborators and other stakeholders to develop the SDR reference implementation. The approach comprises of the following:
 <p></p>
-<b>Standards Collaboration</b> - CDISC has developed a new protocol study definition standard, called the Unified Study Definition Model (USDM), with key stakeholders including engaged technology companies and vendors
-<b>Study Definitions Repository Reference Implementation</b> - The Study Definitions Repository is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
+<strong>Standards Collaboration</strong> - CDISC has developed a new protocol study definition standard, called the Unified Study Definition Model (USDM), with key stakeholders including engaged technology companies and vendors
+<strong>Study Definitions Repository Reference Implementation</strong> - The Study Definitions Repository is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
 <p></p>
 The SDR Reference Implementation is a working model of the Study Definitions Repository based on the USDM, and has been deployed as open-source, and is meant to be vendor agnostic.
 <p></p>
@@ -101,7 +101,7 @@ TransCelerate is uniquely positioned to catalyze this change by sponsoring and l
 <p></p>
 </details>
 <p></p>
-<b>CDISC Unified Study Definitions Model FAQ</b>
+<strong>CDISC Unified Study Definitions Model FAQ</strong>
 <p></p>
 <details>
 <summary>What is the Unified Study Definition Model (USDM)?</summary>
@@ -134,9 +134,8 @@ The Unified Study Definition Model (USDM) has been developed by CDISC.  To acces
 <p></p>
 </details>
 <p></p>
-<b>Study Definitions Repository (SDR) FAQ</b>
+<strong>Study Definitions Repository (SDR) FAQ</strong>
 <p></p>
-</details>
 <details>
 <summary>What is the study definition repository (SDR)?</summary>
 <p></p>
@@ -166,7 +165,7 @@ Click <a target="_blank" href="">todo</a> to access a video describing the SDR R
 <p></p>
 </details>
 <p></p>
-<b>Getting Started with the SDR Reference Implementation</b>
+<strong>Getting Started with the SDR Reference Implementation</strong>
 <p></p>
 <details>
 <summary>What are the options to getting access to the SDR Reference Implementation?</summary>
@@ -199,7 +198,7 @@ Click <a href="sdr-ri-sandbox-access.html">here</a> for directions on how to req
 <p></p>
 </details>
 <p></p>
-<b>GitHub Support Questions</b>
+<strong>GitHub Support Questions</strong>
 <p></p>
 <details>
 <summary>How do I learn more about using GitHub?</summary>
@@ -226,12 +225,12 @@ For more complex changes, TBD.
 <p></p>
 </details>
 <p></p>
-<b>Governance on SDR RI Code Updates</b>
+<strong>Governance on SDR RI Code Updates</strong>
 <p></p>
 <details>
 <summary>Who is part of the Collaborating Steering Committee (CSC)?</summary>
 <p></p>
-When the SDR Reference Implementation is deployed, the Collaborating Steering Committee or "board" will be initially comprised of members from TransCelerate, Accenture, and Microsoft, who were the main partners in developing the SDR.
+When the SDR Reference Implementation is deployed, the Collaborating Steering Committee or "board" will be initially comprised of members from TransCelerate, CDISC, Accenture, and Microsoft, who were the main partners in developing the SDR.
 <p></p>
 </details>
 <details>
@@ -243,7 +242,7 @@ This multi-stakeholder governance entity would be a separate organization whose 
 <p></p>
 </details>
 <p></p>
-<b>Help and Support</b>
+<strong>Help and Support</strong>
 <p></p>
 For additional help and support, please use this <a target="blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">form</a> for any questions or comments.  Responses to questions will be posted to the FAQ page.
 <p></p>
