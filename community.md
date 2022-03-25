@@ -28,15 +28,6 @@ Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement 
 
 Please click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
 
-## Upcoming Milestones
-
-- May 2022: CDISC publication of USDM
-- June 2022: DDF Connectathon Event 
-
-## Key Priorities
-
-2022 will focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.  
-
 ## Community Meetings
 To support collaboration and sharing of ideas, community meetings will be faciliated by the Collaboration Steering Committee (CSC).  The CSC functions as the "board", and will help drive DDF Initiative milestones and priorties.
 

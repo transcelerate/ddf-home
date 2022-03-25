@@ -21,8 +21,12 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the
 
 Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview](overview.md) for more information.
 
-## Latest News
+## Latest News & Upcoming Events
 
+2022 will focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.
+  
+- 2022.06 - DDF Connectathon Event (exact dates TBD)
+- 2022.05.29 - CDISC USDM Public Review Start [(Link to CDISC)](https://www.cdisc.org/ddf)
 - 2022.05.10 - Upcoming DDF Webinar - Register here!
 - 2022.03.01 - [DDF Webinar - Cross Industry Collaboration Part 1 (Recording)](https://www.youtube.com/watch?v=O6qqTSz8ls0)
 - 2021.11.16 - [DDF Introduction Webinar (Recording)](https://www.youtube.com/watch?v=pfTI7aBMv0Y)
