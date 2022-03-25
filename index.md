@@ -8,7 +8,7 @@ description: Landing page for the DDF reference implementation and related infor
 
 While this repository and the associated code repositories (see [Getting Started on DDF](#getting-started-on-ddf)) below) are public, this is a soft launch, and the Digital Data Flow (DDF) reference implementation and this document repository should be considered in a beta/draft state.
 
-## Introduction
+## Introduction to DDF
 
 The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
 
