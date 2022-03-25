@@ -2,13 +2,13 @@
 title: DDF Community 
 description: Overview of the DDF community, links code of conduct, and community meetings
 ---
-# Community
+# DDF Community
 
 DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
 
 The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.
 
-## DDF Community Values
+## Community Values
 
 The DDF Community values provide the foundation for the success of the DDF initiative.
 
@@ -21,26 +21,26 @@ The DDF Community values provide the foundation for the success of the DDF initi
 - **Support Innovation**
   - Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.
 
-## DDF Contribution License Agreement
+## Contribution License Agreement
 
 Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement (CLA).  
 
 **NOTE**:  The CLA needs to be signed before you're allowed to contribute and propose changes.  
 
-## DDF Code of Conduct
+## Code of Conduct
 
 Please click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
 
-## DDF Upcoming milestones
+## Upcoming milestones for DDF
 
 - May 2022: CDISC publication of USDM
 - June 2022: DDF Connectathon Event 
 
-### DDF Key priorities
+## Key priorities for DDF
 
 There is a focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.  
 
-## DDF Community Meetings
+## Community Meetings
 To support collaboration and sharing of ideas, community meetings will be faciliated by the Collaboration Steering Committee (CSC).  The CSC functions as the "board", and will help drive DDF Initiative milestones and priorties.
 
 Meetings will be held using the Microsoft Teams Meetings platform and will be recorded. 
