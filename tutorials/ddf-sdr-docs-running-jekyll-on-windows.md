@@ -17,6 +17,7 @@ Below are the short steps to get up and running on the ddf-sdr-docs repo. You ca
 - Open Visual Studio Code, and go to the command palette (CRTL+SHIFT+P)
   - type in Clone and choose "Git: Clone"
   - Enter the url for the ddf-sdr-docs repo - https://github.com/transceleratebiopharmainc/ddf-sdr-docs
+    - You will be prompted to select a folder on your computer for the cloned repository
     - You may have to authenticate at this point if the repo is private
     - If not, you'll authenticate when pushing any changes back to GitHub
 - Start a new Command Prompt with Ruby
