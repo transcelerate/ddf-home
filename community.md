@@ -16,7 +16,7 @@ The DDF Community values provide the foundation for the success of the DDF initi
 |---                    |---                                                                                                               |
 |**Community first**    |We're here to work together publicly for the common goal of progressing interoperability across the R&D ecosystem.|
 |**Be inclusive**       |Be respectful of all viewpoints and learn from each other and support our collaboration together.                 |
-|**Support innovation** |Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.|\
+|**Support innovation** |Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.|
 
 ## Contribution License Agreement
 
