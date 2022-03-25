@@ -12,14 +12,11 @@ The DDF community is about working together toward continuous improvement, learn
 
 The DDF Community values provide the foundation for the success of the DDF initiative.
 
-- **Community first**
-  - We're here to work together publicly for the common goal of progressing interoperability across the R&D ecosystem.  
-
-- **Be inclusive**
-  - Be respectful of all viewpoints and learn from each other and support our collaboration together
-
-- **Support Innovation**
-  - Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.
+|Value                  |Description                                                                                                       |
+|---                    |---                                                                                                               |
+|**Community first**    |We're here to work together publicly for the common goal of progressing interoperability across the R&D ecosystem.|
+|**Be inclusive**       |Be respectful of all viewpoints and learn from each other and support our collaboration together.                 |
+|**Support innovation** |Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.|\
 
 ## Contribution License Agreement
 
@@ -31,14 +28,14 @@ Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement 
 
 Please click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
 
-## Upcoming milestones for DDF
+## Upcoming Milestones
 
 - May 2022: CDISC publication of USDM
 - June 2022: DDF Connectathon Event 
 
-## Key priorities for DDF
+## Key Priorities
 
-There is a focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.  
+2022 will focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.  
 
 ## Community Meetings
 To support collaboration and sharing of ideas, community meetings will be faciliated by the Collaboration Steering Committee (CSC).  The CSC functions as the "board", and will help drive DDF Initiative milestones and priorties.
