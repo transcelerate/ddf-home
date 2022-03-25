@@ -8,7 +8,7 @@ DDF aims to modernize clinical trials by enabling a digital workflow that allows
 
 The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.
 
-# DDF Community Values
+## DDF Community Values
 
 The DDF Community values provide the foundation for the success of the DDF initiative.
 
@@ -21,22 +21,31 @@ The DDF Community values provide the foundation for the success of the DDF initi
 - **Support Innovation**
   - Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.
 
-# DDF Contribution License Agreement
+## DDF Contribution License Agreement
 
 Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement (CLA).  
 
 **NOTE**:  The CLA needs to be signed before you're allowed to contribute and propose changes.  
 
-# DDF Code of Conduct
+## DDF Code of Conduct
 
 Please click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
 
-# DDF Community Meetings
+## DDF Upcoming milestones
+
+- May 2022: CDISC publication of USDM
+- June 2022: DDF Connectathon Event 
+
+### DDF Key priorities
+
+There is a focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.  
+
+## DDF Community Meetings
 To support collaboration and sharing of ideas, community meetings will be faciliated by the Collaboration Steering Committee (CSC).  The CSC functions as the "board", and will help drive DDF Initiative milestones and priorties.
 
 Meetings will be held using the Microsoft Teams Meetings platform and will be recorded. 
 
-## Typical Agenda
+### Typical Agenda
 
 - 5-10 minutes: Welcome, followed by DDF and ecosystem updates
 - 20-30 minutes: Talk/demo on specific topic for the day
@@ -44,16 +53,8 @@ Meetings will be held using the Microsoft Teams Meetings platform and will be re
 
 **Submitting Agenda Topics**
 
-Agenda topics will be shared ahead of the meetings.  If you have a topic to propose for discussion during the Community Meeting, please respond to posted [Discussion Topics](https://github.com/transceleratebiopharmainc/ddf-sdr-docs/discussions/categories/community-meetings).
+Agenda topics will be shared ahead of the meetings.  If you have a topic to propose for discussion during the Community Meeting, please respond to posted [Discussion: Agenda Topics](https://github.com/transceleratebiopharmainc/ddf-sdr-docs/discussions/categories/community-meetings).
 
-## Upcoming milestones
-
-- May 2022: CDISC publication of USDM
-- June 2022: DDF Connectathon Event 
-
-## Key priorities
-
-There is a focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.  
 
 ## Upcoming Meetings
 To save a meeting invite, click on the meeting links below.  
