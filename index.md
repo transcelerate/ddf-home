@@ -6,8 +6,6 @@ description: Landing page for the DDF reference implementation and related infor
 ---
 ## Content Status
 
-I'm editing in main because we trust me!
-
 While this repository and the associated code repositories are public, this is a soft launch. Consider the Digital Data Flow (DDF) reference implementation and this document repository in a beta or draft state.
 To get started, see Getting Started on DDF.
 
