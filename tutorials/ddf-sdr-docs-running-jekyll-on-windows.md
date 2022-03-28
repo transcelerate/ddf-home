@@ -27,7 +27,7 @@ Below are the short steps to get up and running on the ddf-sdr-docs repo. You ca
 - The web server should now be running at [http://127.0.0.1:4000](http://127.0.0.1:4000)
 - Configure Git with your username and email to commit changes using the Visual Studio Code editor. 
   - Start a new Command Prompt with Ruby in the same folder above
-  - Set your username by typing:  git config --globaluser.name "FIRST_NAME LAST_NAME"
-  - Set your email address by typing:  git config --global user.email "MY_NAME@example.com"
+  - Set your username by typing:  'git config --globaluser.name "FIRST_NAME LAST_NAME"'
+  - Set your email address by typing:  'git config --global user.email "MY_NAME@example.com"'
 - Make any changes you want in the Visual Studio Code editor, and they will be automatically replicated on the locally served website
 - Remember to periodically synchronize updates
