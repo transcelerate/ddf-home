@@ -22,7 +22,7 @@ To learn more and get access to the USDM documentation, please go to the [CDISC 
 Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the USDM. 
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
-<img src="media\images\usdm.png">
+<img src="media\images\USDM.png">
 </a>
 
 ## Study Definitions Repository (SDR) Reference Implementation
