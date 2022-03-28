@@ -11,8 +11,6 @@ Please review this [Adoption Took Kit]() for guidance, with an introductory [vid
 
 ## CDISC Unified Study Definitions Model (USDM)
 
-The COSA alliance is [here]().
-
 The backbone of the DDF initiative is the **Unified Study Definitions Model**, developed by CDISC.  
 
 The USDM contains both new and existing standards, and also provides common vocabulary, reusable designs, industry best practices, standards, and general implementation guidance for solution architects.  
