@@ -5,6 +5,8 @@ description: Landing page for getting started on DDF, where to go for specific i
 ---
 # Getting Started on DDF
 
+add some text editing in the browser on main.
+
 The DDF initiative is comprised of several components.  Depending on a person's role in an organization and level of understanding of DDF, there may be different starting points.  
 
 Please review this [Adoption Took Kit]() for guidance, with an introductory [video]() on how to use the Adoption Toolkit.
