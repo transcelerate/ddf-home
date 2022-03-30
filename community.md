@@ -27,7 +27,6 @@ To acknowledge the CLA, follow these instructions:
 - Print the document.
 - Complete and sign the document.
 - Scan and email a PDF version of the completed and signed document to [DDF@transcelerate.com](mailto:DDF@transcelerate.com?subject=Signed%20CLA).
-- If necessary, send the original completed and signed document to TODO.
 
 NOTE: Keep a copy for your records.
 
