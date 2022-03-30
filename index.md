@@ -41,11 +41,11 @@ Click [Getting Started](getting-started.md) for more details.
 
 ## General Resources
 
-- [Digital Data Flow Initiative on the main TransCelerate BioPharma, Inc. Website](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/)
-- [Events search for "Digital Data Flow" on TransCelerate BioPharma, Inc.](https://www.transceleratebiopharmainc.com/?s=digital%20data%20flow&submit=submit)
+- [Digital Data Flow Initiative on the main TransCelerate BioPharma, Inc. Website](https://www.transcelerate.com/initiatives/digital-data-flow/)
+- [Events search for "Digital Data Flow" on TransCelerate BioPharma, Inc.](https://www.transcelerate.com/?s=digital%20data%20flow&submit=submit)
 - [YouTube Channel for TransCelerate BioPharma, Inc.](https://www.youtube.com/channel/UC9S20EmzIBGJJ70utCrtNBQ/videos)
 - [Twitter account for TransCelerate BioPharma, Inc.](https://twitter.com/transcelerate)
 
 ## Help and Support
 
-For general help requests, questions, or comments, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.
+For general help requests, questions, or comments, please use this [form](https://www.transcelerate.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.

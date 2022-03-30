@@ -21,7 +21,7 @@ To use GitHub, a person needs to first create an account.
 
 Go to [https://github.com/join](https://github.com/join) and follow the instructions to create an account.  To access and use GitHub for DDF is free of charge.
 
-Once a user account is created, click [here](https://github.com/transceleratebiopharmainc) to access the **DDF GitHub** page.
+Once a user account is created, click [here](https://github.com/transcelerate) to access the **DDF GitHub** page.
 
 ## GitHub Navigation
 

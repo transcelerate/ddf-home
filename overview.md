@@ -49,8 +49,8 @@ The DDF initiative will help many organizations, including pharmaceutical compan
 
 With DDF, organizations across the research and development ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations. These implementations will enable efficiencies in clinical trial operations to help get medicines to patients faster.
 
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
+For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transcelerate.com/initiatives/digital-data-flow/).
 
 ## Help and Support
 
-For general help requests, questions, or comments, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.
+For general help requests, questions, or comments, please use this [form](https://www.transcelerate.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.

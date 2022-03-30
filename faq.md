@@ -244,5 +244,5 @@ This multi-stakeholder governance entity would be a separate organization whose 
 <p></p>
 <strong>Help and Support</strong>
 <p></p>
-For additional help and support, please use this <a target="blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">form</a> for any questions or comments.  Responses to questions will be posted to the FAQ page.
+For additional help and support, please use this <a target="blank" href="https://www.transcelerate.com/assets/digital-data-flow-feedback-form/">form</a> for any questions or comments.  Responses to questions will be posted to the FAQ page.
 <p></p>
