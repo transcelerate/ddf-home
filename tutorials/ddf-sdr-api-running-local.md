@@ -16,6 +16,6 @@ From here, you have a few options - you can either clone the repo right from Vis
 
 ## Opening the downloaded solution
 
-- Download the ddf-sdr-api zip at https://github.com/transceleratebiopharmainc/ddf-sdr-api/archive/refs/heads/main.zip
+- Download the ddf-sdr-api zip at https://github.com/transcelerate/ddf-home/archive/refs/heads/main.zip
 - Extract the zip and open the `src\TransCelerate.SDR.sln` using Visual Studio
   - You may need to install the .NET Core 3.1 runtime, which will be automatically suggested to you

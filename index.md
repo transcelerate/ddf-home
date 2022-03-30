@@ -24,7 +24,7 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 ## Latest News & Upcoming Events
 
-2022 will focus on getting sponsor companies and vendor solutions to pilot DDF, confirm connectivity, and expanding functionality.
+2022 will focus on getting sponsor companies and vendor solutions to pilot DDF, confirming connectivity, and expanding functionality.
   
 - 2022.06 - DDF Connectathon Event (exact dates TBD)
 - 2022.05.29 - CDISC USDM Public Review Start [(Link to CDISC)](https://www.cdisc.org/ddf)

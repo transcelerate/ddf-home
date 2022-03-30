@@ -8,53 +8,59 @@ DDF aims to modernize clinical trials by enabling a digital workflow that allows
 
 The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.
 
-## Community Values
+## DDF Community Values
 
-The DDF Community values provide the foundation for the success of the DDF initiative.
+The DDF Community Values provide the foundation for the DDF initiative's success.
 
 |Value                  |Description                                                                                                       |
 |---                    |---                                                                                                               |
-|**Community first**    |We're here to work together publicly for the common goal of progressing interoperability across the R&D ecosystem.|
-|**Be inclusive**       |Be respectful of all viewpoints and learn from each other and support our collaboration together.                 |
-|**Support innovation** |Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.|
+|**Community first**    |We're here to work together publicly for the common goal of progressing interoperability across the research and development ecosystem.|
+|**Be inclusive**       |Be respectful of all viewpoints. Learn from each other. Support our collaboration.                 |
+|**Support innovation** |Exploring ideas with others makes the community stronger. All thoughts are worthy of discussion. You should feel comfortable sharing any ideas.|
 
-## Contribution License Agreement
+## Requirements to Contribute and Propose Changes
 
-Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement (CLA).  
+Before you can contribute and propose changes, you must acknowledge the Contribution License Agreement (CLA).
 
-**NOTE**:  The CLA needs to be signed before you're allowed to contribute and propose changes.  
+To acknowledge the CLA, follow these instructions:
+- Click [here](CONTRIBUTING.md) to download and carefully read the CLA.
+- Print the document.
+- Complete and sign the document.
+- Scan and email a PDF version of the completed and signed document to [DDF@transcelerate.com](mailto:DDF@transcelerate.com?subject=Signed%20CLA).
+
+NOTE: Keep a copy for your records.
 
 ## Code of Conduct
 
-Please click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
+Click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
 
-## Community Meetings
-To support collaboration and sharing of ideas, community meetings will be faciliated by the Collaboration Steering Committee (CSC).  The CSC functions as the "board", and will help drive DDF Initiative milestones and priorties.
+## DDF Community Meetings
+To support collaboration and idea sharing, the Collaboration Steering Committee (CSC) will facilitate DDF community meetings. The CSC functions as the board and helps drive DDF initiative milestones and priorties.
 
-Meetings will be held using the Microsoft Teams Meetings platform and will be recorded. 
+The CSC will host and record DDF community meetings using the Microsoft Teams Meetings platform. 
 
-### Typical Agenda
+### Typical DDF Community Meeting Agenda
 
 - 5-10 minutes: Welcome, followed by DDF and ecosystem updates
-- 20-30 minutes: Talk/demo on specific topic for the day
+- 20-30 minutes: Talk and demo on specific topic of the day
 - 20-30 minutes: “Ask us anything” and customer feedback discussion
 
-**Submitting Agenda Topics**
+**Submitting DDF Community Meeting Discussion Topics**
 
-Agenda topics will be shared ahead of the meetings.  If you have a topic to propose for discussion during the Community Meeting, please respond to posted [Discussion: Agenda Topics](https://github.com/transceleratebiopharmainc/ddf-sdr-docs/discussions/categories/community-meetings).
+If you'd like to propose a topic for discussion, respond to posted [Discussion: Agenda Topics](https://github.com/transcelerate/ddf-home/discussions/categories/community-meetings). Before each DDF community meeting, the CSC will share the agenda.
 
 
 ## Upcoming Meetings
-To save a meeting invite, click on the meeting links below.  
+To save a meeting invite, click on the following meeting links:  
 
 - 20220303: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 - 20220407: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
-**NOTE** - If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
+**NOTE** - If you're using Outlook for Mac, you may have trouble adding the invitation to your calendar. In order to avoid issues, follow these steps:
 
-- Download the .ics file
-- Open Outlook for the web
-- Drag and drop the .ics file onto your calendar
+- Download the .ics file.
+- Open Outlook for the web.
+- Drag and drop the .ics file into your calendar.
 
 ## Previously Recorded Meetings
 
