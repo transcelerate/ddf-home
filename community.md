@@ -18,11 +18,18 @@ The DDF Community values provide the foundation for the success of the DDF initi
 |**Be inclusive**       |Be respectful of all viewpoints and learn from each other and support our collaboration together.                 |
 |**Support innovation** |Exploring ideas with others only makes the community stronger.  All thoughts are worth a discussion and you should feel comfortable to share any ideas.|
 
-## Contribution License Agreement
+## Contribution License Agreement (CLA)
 
-Please click [here](CONTRIBUTING.md) to read the Contribution License Agreement (CLA).  
+In order to contribute and propose changes, it is required that you acknowledge the Contribution License Agreement.  
 
-**NOTE**:  The CLA needs to be signed before you're allowed to contribute and propose changes.  
+Please follow the instructions below. 
+- Click [here](CONTRIBUTING.md) to download and carefully read the Contribution License Agreement (CLA)
+- Print out the document
+- Complete the form and sign the document
+- Scan and email a PDF version of the completed form to [DDF@transcelerate.com](mailto:DDF@transcelerate.com?subject=Signed%20CLA)
+- If necessary, send an original signed Agreement to TODO
+
+NOTE:  Please keep a copy for your records. 
 
 ## Code of Conduct
 
