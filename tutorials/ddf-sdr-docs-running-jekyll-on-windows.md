@@ -14,7 +14,7 @@ Below are the short steps to get up and running on the ddf-sdr-docs repo. You ca
   - Once installed, there will be a Ruby command window that appears.  Follow the instructions to install the default.
 - Once that's done, click start and launch the **Start Command Prompt with Ruby** shortcut
   - Type the following to run `gem install jekyll bundler webrick`
-- Open Visual Studio Code, and go to the command palette (CRTL+SHIFT+P)
+- Open Visual Studio Code, and go to the command palette (CTRL+SHIFT+P)
   - Type in "Clone" and choose "Git: Clone"
   - Enter the url for the ddf-sdr-docs repo - https://github.com/transcelerate/ddf-home
     - You will be prompted to select a folder on your computer for the cloned repository
