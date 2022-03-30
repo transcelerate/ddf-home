@@ -24,7 +24,7 @@ description: Walkthrough on getting WSL2, Jekyll running, cloning local, and run
   - `sudo gem install bundler`
   - `sudo gem install jekyll`
 - Clone the repo locally
-  - CTRL + SHIFT + P, choose Git: Clone, and enter https://github.dev/transceleratebiopharmainc/ddf-sdr-docs
+  - CTRL + SHIFT + P, choose Git: Clone, and enter https://github.dev/transcelerate/ddf-home
   - Choose yes to open that directory in a new folder
 - In the terminal (CTRL + `) run the following commands:
   - `bundle install`
