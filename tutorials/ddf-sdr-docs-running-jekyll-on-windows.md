@@ -3,7 +3,7 @@ title: Running the DDF Document Repository on Windows using Jekyll
 description: Walkthrough on cloning local, opening and running the document repository using Visual Studio Code and Jekyll on Windows
 ---
 
-## Steps to run the [ddf-sdr-docs](https://github.com/transceleratebiopharmainc/ddf-sdr-docs) repo locally on Windows
+## Steps to run the [ddf-sdr-docs](https://github.com/transcelerate/ddf-sdr-docs) repo locally on Windows
 
 Below are the short steps to get up and running on the ddf-sdr-docs repo. You can watch a video of these steps [here](https://www.youtube.com/watch?v=HCd2LSYeOPI).
 
@@ -16,7 +16,7 @@ Below are the short steps to get up and running on the ddf-sdr-docs repo. You ca
   - Type the following to run `gem install jekyll bundler webrick`
 - Open Visual Studio Code, and go to the command palette (CRTL+SHIFT+P)
   - Type in "Clone" and choose "Git: Clone"
-  - Enter the url for the ddf-sdr-docs repo - https://github.com/transceleratebiopharmainc/ddf-sdr-docs
+  - Enter the url for the ddf-sdr-docs repo - https://github.com/transcelerate/ddf-home
     - You will be prompted to select a folder on your computer for the cloned repository
     - You may have to authenticate at this point if the repo is private
     - If not, you'll authenticate when pushing any changes back to GitHub
