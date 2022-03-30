@@ -16,7 +16,7 @@ Digital Data Flow (DDF) is TransCelerate’s vision to catalyze an industry-leve
 Figure 2 below depicts high level architecture of the SDR Reference Implementation which is built using Angular Front End and.NET Core Backend and deployed in Microsoft Azure Cloud. The solution architecture components are chosen in a way to support TransCelerate’s objectives of making the future releases cloud and vendor agnostic and support portability and deployment of the reference implementation to other environments such Amazon Web Services Cloud (AWS).
 For the Reference Implementation, the vision is to leverage the USDM provided by CDISC by building a repository to house the USDM complying study data, establishing inbound APIs to enable **upstream systems (e.g., study builders (SB), protocol authors)** to input data, and outbound API to enable outward flow of data to **downstream systems (e.g., Electronic Data Capture systems (EDC)** to automate study start-up activities.
 
-| ![High Level Solution Architecture Diagram]() |
+| ![High Level Solution Architecture Diagram](images/azure-platform-diagrams-v2-sdr-solution-architecture.png) |
 |:---------------------------------------------:|
 |  *High Level Solution Architecture Diagram*   |
 
