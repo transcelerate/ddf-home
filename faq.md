@@ -222,15 +222,15 @@ For more complex changes, TBD.
 <details>
 <summary>Who is part of the Collaborating Steering Committee (CSC)?</summary>
 <p></p>
-At the time the SDR reference implementation deploys, the Collaborating Steering Committee or "board" will initially comprise members from the main partners that developed the SDR, namely TransCelerate, CDISC, Accenture, and Microsoft.
+At the time the SDR reference implementation deploys, the Collaborating Steering Committee or "board" will comprise members from the main partners that developed the SDR, namely TransCelerate and representatives from TransCelerate member companies, CDISC, Accenture, and Microsoft.
 <p></p>
 </details>
 <details>
 <summary>How do I become a member of the CSC?</summary>
 <p></p>
-As the SDR reference implementation matures, governance will transition from the SDR reference implementation governance committee to a formal SDR reference implementation governance entity.
+As the SDR reference implementation matures and is adopted by stakeholders, overall responsibility for the Collaboration Steering Committee will transition from being led mostly by TransCelerate to a new host organization that will become the formal SDR reference implementation governance entity.
 <p></p>
-This multi-stakeholder governance entity would be a separate organization whose stakeholders and objectives align with the concepts of interoperability and vendor agnostic access. The governance entity may require additional advisory committees or members to engage stakeholders, such as additional SSOs, like ICH M11 and HL7, technology solution providers, systems integrators, and others.
+This multi-stakeholder governance entity has not yet been determined. But it would be a separate organization whose stakeholders and objectives align with the concepts of interoperability and vendor agnostic access. The governance entity may require additional advisory committees or members to engage stakeholders, such as additional SSOs, (e.g., HL7, OHDSI, LOINC), health authorities, technology solution providers, systems integrators, and others.
 <p></p>
 </details>
 <p></p>
