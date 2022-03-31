@@ -19,7 +19,7 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the
 
 The objective of DDF is to automate and expedite the study start-up process by revolutionizing how data flows across clinical trial systems. The automation begins with upstream clinical systems, such as study builders, and continues with downstream clinical systems, such as electronic data capture systems (EDC) and clinical trial management systems (CTMS).
 
-TransCelerate has collaborated to develop an open-source, vendor agnostic, study definition repository (SDR) reference implementation. The SDR's basis is a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes protocol study definitions.
+TransCelerate has collaborated with others to develop an open-source, vendor agnostic, study definition repository (SDR) reference implementation. The SDR reference implementation is based on a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes protocol study definitions.
 
 The SDR reference implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally. This allows the information to be passed to systems through application programming interfaces (APIs) used for study execution and data collection and reused throughout the clinical development lifecycle.  
 
