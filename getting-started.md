@@ -39,13 +39,19 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the
 </br>
 </br>
 
-## DDF Sponsor Company Adoption Toolkit
-Please review this [Adoption Tool Kit]() for guidance on how to faciliate adoption of DDF at sponsor companies.  
+## DDF Adoption Toolkit
+An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  Please see the table below to reference the applicable content.
 
-NOTE: Adoption toolkit materials will be developed for others stakeholders in the near future.
+| Stakeholder             | Description                                                                                                                           |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Sponsor Companies** | Click here to access the [Adoption Toolkit]() |
+| **Vendor Solutions**  | Adoption toolkit materials forthcoming                                              | 
+| **CROs**              | Adoption toolkit materials forthcoming                                              | 
+| **Other**             | Adoption toolkit materials forthcoming                                              | 
+
 
 ## Accessing the SDR Reference Implementation (RI)
-For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementations.
+For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
 
 | Pathway             | Description                                                                                                                           |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------|

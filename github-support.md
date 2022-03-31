@@ -3,6 +3,7 @@ title: GitHub Support
 description: Landing page for getting started with GitHub
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
+# GitHub Support
 ## Defining Open Source
 
 Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible.  
