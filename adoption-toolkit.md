@@ -11,7 +11,7 @@ The Adoption Toolkit has been created to help companies faciliate change managem
 
 The DDF Adoption Toolkit is organized into 5 sections that will guide your organization on key activities.
 
-### Understand the DDF Maturity Curve
+## Understand the DDF Maturity Curve
 <img src="media\images\Toolkit Step 1.png" width=500>
 
 | Topic             | Description                                                                                                                           |
@@ -20,7 +20,7 @@ The DDF Adoption Toolkit is organized into 5 sections that will guide your organ
 | **Outcome**      | The maturity curve can be used to map a potential roadmap for a future state with DDF; should be used with the current state determination (#3)| 
 | **Action Steps** | Click here for the [DDF Maturity Curve]()| 
 
-### Match Sponsor Company Roles to DDF Personas
+## Match Sponsor Company Roles to DDF Personas
 <img src="media\images\Toolkit Step 2.png" width=500>
 
 | Topic             | Description                                                                                                                           |
@@ -29,7 +29,7 @@ The DDF Adoption Toolkit is organized into 5 sections that will guide your organ
 | **Outcome**      | Understand which of your organization functional areas may be impacted with adopting DDF| 
 | **Action Steps** | Click here for the [DDF Personas: Sponsor Company Edition]()| 
 
-### Identify Organization Current State with DDF
+## Identify Organization Current State with DDF
 <img src="media\images\Toolkit Step 3.png" width=500>
 
 | Topic             | Description                                                                                                                           |
@@ -38,7 +38,7 @@ The DDF Adoption Toolkit is organized into 5 sections that will guide your organ
 | **Outcome**      | Know your organization maturity curve level in order to think about and plan for a future state of your organization with DDF | 
 | **Action Steps** | Click here for an [Organization Self-Assessment]()   | 
 
-### Identify Organization Future State with DDF
+## Identify Organization Future State with DDF
 <img src="media\images\Toolkit Step 4.png" width=500>
 
 | Topic             | Description                                                                                                                           |
@@ -47,7 +47,7 @@ The DDF Adoption Toolkit is organized into 5 sections that will guide your organ
 | **Outcome**      | Determine an action plan for your organization on a future state with DDF and activities that will facilitate DDF adoption | 
 | **Action Steps** | Use the DDF Maturity Curve, Current State information, and Quick Start to map a Future state roadmap | 
 
-### Identify Organization Future State with DDF
+## Identify Organization Future State with DDF
 <img src="media\images\Toolkit Step 5.png" width=500>
 
 | Topic             | Description                                                                                                                           |
