@@ -7,15 +7,15 @@ description: Landing page for getting started on DDF, where to go for specific i
 
 The DDF initiative is comprised of several components.  Depending on a person's role in an organization and level of understanding of DDF, there may be different starting points.  
 
-Please review this [Adoption Took Kit]() for guidance, with an introductory [video]() on how to use the Adoption Toolkit.
+To get started, please review details below regarding the **CDISC Unifed Study Definitions Model (USDM)** and the **Study Definitions Repository (SRD) Reference Implementation**. 
 
 ## CDISC Unified Study Definitions Model (USDM)
 
-The backbone of the DDF initiative is the **Unified Study Definitions Model**, developed by CDISC.  
+The framework for the DDF initiative is the **Unified Study Definitions Model**, developed by CDISC.  
 
 The USDM contains both new and existing standards, and also provides common vocabulary, reusable designs, industry best practices, standards, and general implementation guidance for solution architects.  
 
-The USDM serves as the standard model for creating a **Study Definitions Repository**, which is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
+The USDM serves as a guideline for creating a **Study Definitions Repository**, which is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
 
 To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
@@ -36,10 +36,16 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
 <img src="media\images\SDRRI.png">
 </a>
+</br>
+</br>
+
+## DDF Sponsor Company Adoption Toolkit
+Please review this [Adoption Tool Kit]() for guidance on how to faciliate adoption of DDF at sponsor companies.  
+
+NOTE: Adoption toolkit materials will be developed for others stakeholders in the near future.
 
 ## Accessing the SDR Reference Implementation (RI)
-
-There are two pathways for accessing the SDR Reference Implementations
+For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementations.
 
 | Pathway             | Description                                                                                                                           |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
