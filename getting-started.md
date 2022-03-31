@@ -47,7 +47,7 @@ An Adoption Tool Kit has been created to help stakeholders faciliate change mana
 
 | Stakeholder             | Description                                                                                                                           |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Sponsor Companies**   | Click here to access the [Adoption Toolkit](adoption-toolkit.md)                                                                                                             |
+| **Sponsor Companies**   | Click here to access the [Adoption Toolkit](adoption-toolkit-sponsor.md)                                                                                                             |
 | **Vendor Solutions**    | Adoption toolkit materials forthcoming                                                                                                     | 
 | **CROs**                | Adoption toolkit materials forthcoming                                                                                                     | 
 | **Other**               | Adoption toolkit materials forthcoming                                                                                                     | 
