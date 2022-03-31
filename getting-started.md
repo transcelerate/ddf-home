@@ -7,7 +7,10 @@ description: Landing page for getting started on DDF, where to go for specific i
 
 The DDF initiative is comprised of several components.  Depending on a person's role in an organization and level of understanding of DDF, there may be different starting points.  
 
-To get started, please review details below regarding the **CDISC Unifed Study Definitions Model (USDM)** and the **Study Definitions Repository (SRD) Reference Implementation**. 
+To get started, please review:
+- [DDF Overview](overview.md)
+- Details below regarding the **CDISC Unifed Study Definitions Model (USDM)** 
+- Details below regarding the **Study Definitions Repository (SRD) Reference Implementation**. 
 
 ## CDISC Unified Study Definitions Model (USDM)
 
