@@ -60,14 +60,10 @@ Please see the links below for information about USDM, SDR Reference Implementat
 ### Proactive Adoption
 For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
 
-| Pathway             | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **SDR RI Codebase** | Accessing the codebase for the purposes of installing the SDR Reference Implementation locally on a company's technology environment. |
-| **SDR RI Sandbox**  | Accessing the working model of the SDR Reference Implementation in a sandbox environment                                              |
-
-Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md).
-
-Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).
+| Pathway             | Description                                                                                                                                                                                                         |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SDR RI Codebase** | Accessing the codebase for the purposes of installing the SDR Reference Implementation locally on a company's technology environment.  Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md). |
+| **SDR RI Sandbox**  | Accessing the working model of the SDR Reference Implementation in a sandbox environment.  Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).                                   |
 
 ## DDF Adoption Toolkit
 An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  Please see the table below to reference the applicable content.
