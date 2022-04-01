@@ -26,7 +26,7 @@ Please see the links below for inforamtion about USDM, SDR Reference Implementat
 <summary>USDM</summary>
 <p></p>
 <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">DDF USDM Overview Video</a>
-</br>
+<p></p>
 <a target="_blank" href="https://cdisc.org/ddf">Latest USDM Version from CDISC</a>
 <p></p>
 </details>
@@ -36,21 +36,22 @@ Please see the links below for inforamtion about USDM, SDR Reference Implementat
 <summary>SDR Reference Implementation</summary>
 <p></p>
 <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">DDF SDR Reference Implementation Overview Video</a>
-</br>
+<p></p>
 <a target="_blank" href="https://cdisc.org/ddf">DDF Azure Solution Architecture Document</a>
-</br>
+<p></p>
 <a target="_blank" href="https://cdisc.org/ddf">SDR Reference Implementation User Interface Demo Video</a>
-</br>
+<p></p>
 <a target="_blank" href="https://cdisc.org/ddf">SDR Reference Implementation API Demo Video</a>
 <p></p>
 </details>
+
 <p></p>
 <details>
 <summary>Open Source & GitHub</summary>
-</br>
+<p></p>
 <a target="_blank" href="https://cdisc.org/ddf">DDF Community</a>
 <p></p>
-</br>
+<p></p>
 <a target="_blank" href="https://cdisc.org/ddf">GitHub Support</a>
 <p></p>
 </details>
