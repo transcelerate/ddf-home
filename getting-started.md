@@ -12,7 +12,7 @@ The DDF initiative is comprised of several components.  Depending on a person's 
 
 Please see the links below for general inforamtion about DDF, benefits, and inititative outputs. 
 
-- [DDF Overview (About page)](overview.md)
+- [DDF Overview](overview.md)
 - [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
 - [DDF Benefits Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
 - [FAQ](faq.md)
@@ -21,19 +21,11 @@ Please see the links below for general inforamtion about DDF, benefits, and init
 
 Please see the links below for inforamtion about USDM, SDR Reference Implementation, and GitHub.
 
-**USDM**
-- [DDF USDM Overview](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
-- [Latest USDM Version from CDISC](https://cdisc.org/ddf)
 
-**SDR Reference Implementation**
-- [DDF SDR Reference Implementation Overview](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
-- [DDF Solution Architecture Document](documents/ddf-sdr-solution-architecture.pdf)
-- [SDR Reference Implementation User Interface Demo]()
-- [SDR Reference Implementation API Demo]()
 
-**Open Source and GitHub**
-- [DDF Community](community.md)
-- [GitHub Overview](github-support.md)
+| **USDM**                                                                                                                                | **SDR Reference Implementation**                                                                                                                                                                                                                                                                             | **Open Source & GitHub**                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [DDF USDM Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)</br>[Latest USDM Version from CDISC](https://cdisc.org/ddf) | [DDF SDR Reference Implementation Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)</br>[DDF Solution Architecture Document](documents/ddf-sdr-solution-architecture.pdf)</br>[SDR Reference Implementation User Interface Demo Video]()</br>[SDR Reference Implementation API Demo Video]() | [DDF Community](community.md)</br> [GitHub Overview](github-support.md) |
 
 
 ### Proactive Adoption
@@ -51,9 +43,9 @@ Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_acces
 ## DDF Adoption Toolkit
 An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  Please see the table below to reference the applicable content.
 
-| Stakeholder         | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Sponsor Companies**   | Click here to access the [Adoption Toolkit](adoption-toolkit-sponsor.md)                                                                                                             |
-| **Vendor Solutions**    | Adoption toolkit materials forthcoming                                                                                                     | 
-| **CROs**                | Adoption toolkit materials forthcoming                                                                                                     | 
-| **Other**               | Adoption toolkit materials forthcoming                                                                                                     | 
+| Stakeholder           | Description                                                              |
+|-----------------------|--------------------------------------------------------------------------|
+| **Sponsor Companies** | Click here to access the [Adoption Toolkit](adoption-toolkit-sponsor.md) |
+| **Vendor Solutions**  | Adoption toolkit materials forthcoming                                   |
+| **CROs**              | Adoption toolkit materials forthcoming                                   |
+| **Other**             | Adoption toolkit materials forthcoming                                   |
