@@ -25,6 +25,13 @@ The SDR reference implementation enables the format of information from a digiti
 
 In summary, DDF will combine data standards and a new technology to enable the flow of data across all systems involved in the design and execution of a clinical trial.  
 
+### Additional details regarding the USDM and SDR Reference Implementation:
+| Initiative Outputs  | Description                                                                                                                           |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **USDM**            | The framework for the DDF initiative is the **Unified Study Definitions Model**, developed by **CDISC**. </br></br> The USDM contains both new and existing standards, and also provides common vocabulary, reusable designs, industry best practices, standards, and general implementation guidance for solution architects.  </br></br> The USDM serves as a guideline for creating a **Study Definitions Repository**, which is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.  </br></br> To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf). </br></br> Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the USDM. </br></br><a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s"><img src="media\images\USDM.png"></a>                                                    |
+| **SDR Reference Implementation**| Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working model of the Study Definitions Repository based on the USDM called the **Study Definitions Repository (SDR) Reference Implementation**.  </br></br>The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.</br></br>Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the SDR RI. <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s"><img src="media\images\SDRRI.png"></a>         | 
+
+
 ## **What are the benefits of the DDF initiative?**
 
 Many companies still manually conduct many of the activities that support the process of moving data from protocol development through clinical trial execution and beyond.
@@ -36,18 +43,18 @@ Digital Data Flow (DDF) benefits include:
 - a more seamless flow of data, leading to accelerated study start-up and further enabling trial automation for sponsors and research partners, and
 - data format harmonization that can support greater interoperability and spark innovation within the research and development ecosystem and across the clinical trial solutions landscape.
 
-Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the benefits DDF initiative. 
-
-<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
-<img src="media\images\benefits.png">
-</a>
-
 
 ## **Who does the DDF initiative help?**
 
 The DDF initiative will help many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, investigator sites, regulatory agencies, technology companies, and open-source pharmaceutical and IT communities.
 
 With DDF, organizations across the research and development ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations. These implementations will enable efficiencies in clinical trial operations to help get medicines to patients faster.
+
+Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the benefits DDF initiative. 
+
+<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
+<img src="media\images\benefits.png">
+</a>
 
 For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transcelerate.com/initiatives/digital-data-flow/).
 
