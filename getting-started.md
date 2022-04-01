@@ -19,7 +19,7 @@ Please see the links below for general inforamtion about DDF, benefits, and init
 
 ### Active Exploration
 
-Please see the links below for inforamtion about USDM, SDR Reference Implementation, and GitHub.
+Please see the links below for information about USDM, SDR Reference Implementation, and GitHub.
 
 <p></p>
 <details>
@@ -55,6 +55,7 @@ Please see the links below for inforamtion about USDM, SDR Reference Implementat
 <a target="_blank" href="https://cdisc.org/ddf">GitHub Support</a>
 <p></p>
 </details>
+</br>
 
 ### Proactive Adoption
 For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
