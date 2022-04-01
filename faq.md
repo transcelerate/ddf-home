@@ -60,6 +60,7 @@ Click <a target="_blank" href="">todo</a> for a video describing benefits of DDF
 <p></p>
 </details>
 <p></p>
+<p></p>
 <strong>DDF Long Term Success FAQ</strong>
 <p></p>
 <details>
@@ -97,6 +98,7 @@ TransCelerate is uniquely positioned to catalyze this change by sponsoring and l
 <p></p>
 </details>
 <p></p>
+<p></p>
 <strong>CDISC Unified Study Definitions Model FAQ</strong>
 <p></p>
 <details>
@@ -129,6 +131,7 @@ Click <a target="_blank" href="https://www.cdisc.org/ddf">here</a> to access the
 CDISC developed the Unified Study Definition Model (USDM). To access details of the USDM, go to <a target="_blank" href="https://www.cdisc.org/ddf">https://www.cdisc.org/ddf</a>.
 <p></p>
 </details>
+<p></p>
 <p></p>
 <strong>Study Definitions Repository (SDR) FAQ</strong>
 <p></p>
@@ -192,6 +195,7 @@ Click <a href="sdr-ri-sandbox-access.html">here</a> for directions on how to req
 <p></p>
 </details>
 <p></p>
+<p></p>
 <strong>GitHub Support Questions</strong>
 <p></p>
 <details>
@@ -222,6 +226,7 @@ For simple changes, administrators will help manage changes to both code, docume
 For more complex changes, the pull requests will be reviewed and triaged by members of the <strong>Collaborating Steering Committee (CSC)</strong>.  Please see the links below for more information about the CSC.
 <p></p>
 </details>
+<p></p>
 <p></p>
 <strong>Governance on SDR reference implementation Code Updates</strong>
 <p></p>
