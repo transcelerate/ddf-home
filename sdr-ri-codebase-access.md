@@ -51,6 +51,18 @@ The SDR Reference Implementation codebase is separated into different repositori
 
 Each repository contains supporting documentation for access and installing the code.
 
+### How-To Videos
+Several videos have been created to show steps a user would need to go through to provision a new instance of the SDR in their organization's local environment. 
+
+NOTE: The instructions and guidance are based on deploying the code in Azure only.  
+
+- [1. Environment Creation for SDR on Azure]()
+- [2. Deploying SDR code on Azure DevOps]()
+- [3. Azure PaaS Configurations]()
+- [4. Application Data Setup and Smoke Test]()
+- [5. SonarQube Integration with Azure]()
+
+
 ## Help and Support
 
 For questions, comments, or issues regarding the code, please post to the Issues tab in the applicable GitHub repository.
