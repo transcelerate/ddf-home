@@ -58,7 +58,7 @@ Please see the links below for information about USDM, SDR Reference Implementat
 <p></p>
 
 ### Proactive Adoption
-For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
+For stakeholders who have a good understanding of DDF, and want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
 
 | Pathway             | Description                                                                                                                                                                                                         |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
