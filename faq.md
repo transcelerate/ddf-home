@@ -32,11 +32,14 @@ Click <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4">here
 <details>
 <summary>What are the benefits of the DDF initiative?</summary>
 <p></p>
-Digital Data Flow (DDF) benefits include
-<p></p>
+Digital Data Flow (DDF) benefits include:
+</br>
 - minimized process hand-offs, data re-entry, and data format inconsistencies across study start-up and execution
+</br>
 - a foundation for data exchange and interoperability between clinical technology systems, leading to greater compatibility among systems, flexibility to sponsors, and improved clinical trial efficiencies
+</br>
 - a more seamless flow of data leading to accelerated study start-up and further enabling trial automation for sponsors and research partners, and
+</br>
 - data format harmonization that can support greater interoperability and spark innovation within the research and development ecosystem and across the clinical trial solutions landscape.
 <p></p>
 Click <a target="_blank" href="">todo</a> for a video describing benefits of DDF.

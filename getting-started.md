@@ -21,12 +21,39 @@ Please see the links below for general inforamtion about DDF, benefits, and init
 
 Please see the links below for inforamtion about USDM, SDR Reference Implementation, and GitHub.
 
+<p></p>
+<details>
+<summary>USDM</summary>
+<p></p>
+<a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">DDF USDM Overview Video</a>
+</br>
+<a target="_blank" href="https://cdisc.org/ddf">Latest USDM Version from CDISC</a>
+<p></p>
+</details>
 
-
-| **USDM**                                                                                                                                | **SDR Reference Implementation**                                                                                                                                                                                                                                                                             | **Open Source & GitHub**                                                |
-|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [DDF USDM Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)</br>[Latest USDM Version from CDISC](https://cdisc.org/ddf) | [DDF SDR Reference Implementation Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)</br>[DDF Solution Architecture Document](documents/ddf-sdr-solution-architecture.pdf)</br>[SDR Reference Implementation User Interface Demo Video]()</br>[SDR Reference Implementation API Demo Video]() | [DDF Community](community.md)</br> [GitHub Overview](github-support.md) |
-
+<p></p>
+<details>
+<summary>SDR Reference Implementation</summary>
+<p></p>
+<a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">DDF SDR Reference Implementation Overview Video</a>
+</br>
+<a target="_blank" href="https://cdisc.org/ddf">DDF Azure Solution Architecture Document</a>
+</br>
+<a target="_blank" href="https://cdisc.org/ddf">SDR Reference Implementation User Interface Demo Video</a>
+</br>
+<a target="_blank" href="https://cdisc.org/ddf">SDR Reference Implementation API Demo Video</a>
+<p></p>
+</details>
+<p></p>
+<details>
+<summary>Open Source & GitHub</summary>
+</br>
+<a target="_blank" href="https://cdisc.org/ddf">DDF Community</a>
+<p></p>
+</br>
+<a target="_blank" href="https://cdisc.org/ddf">GitHub Support</a>
+<p></p>
+</details>
 
 ### Proactive Adoption
 For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
