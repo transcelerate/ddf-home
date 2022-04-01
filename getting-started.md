@@ -7,53 +7,36 @@ description: Landing page for getting started on DDF, where to go for specific i
 
 The DDF initiative is comprised of several components.  Depending on a person's role in an organization and level of understanding of DDF, there may be different starting points.  
 
-To get started, please review:
-- [DDF Overview](overview.md)
-- Details below regarding the **CDISC Unifed Study Definitions Model (USDM)** 
-- Details below regarding the **Study Definitions Repository (SRD) Reference Implementation**. 
+## High Level Starting Points
+### General Awareness
 
-## CDISC Unified Study Definitions Model (USDM)
+Please see the links below for general inforamtion about DDF, benefits, and inititative outputs. 
 
-The framework for the DDF initiative is the **Unified Study Definitions Model**, developed by CDISC.  
+- [DDF Overview (About page)](overview.md)
+- [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
+- [DDF Benefits Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
+- [FAQ](faq.md)
 
-The USDM contains both new and existing standards, and also provides common vocabulary, reusable designs, industry best practices, standards, and general implementation guidance for solution architects.  
+### Active Exploration
 
-The USDM serves as a guideline for creating a **Study Definitions Repository**, which is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
+Please see the links below for inforamtion about USDM, SDR Reference Implementation, and GitHub.
 
-To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
+**USDM**
+- [DDF USDM Overview](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
+- [Latest USDM Version from CDISC](https://cdisc.org/ddf)
 
-Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the USDM. 
+**SDR Reference Implementation**
+- [DDF SDR Reference Implementation Overview](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
+- [DDF Solution Architecture Document](documents/ddf-sdr-solution-architecture.pdf)
+- [SDR Reference Implementation User Interface Demo]()
+- [SDR Reference Implementation API Demo]()
 
-<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
-<img src="media\images\USDM.png">
-</a>
-
-## Study Definitions Repository (SDR) Reference Implementation
-
-Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working model of the Study Definitions Repository based on the USDM called the **Study Definitions Repository Reference Implementation**.  
-
-The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
-
-Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the SDR RI. 
-
-<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
-<img src="media\images\SDRRI.png">
-</a>
-</br>
-</br>
-
-## DDF Adoption Toolkit
-An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  Please see the table below to reference the applicable content.
-
-| Stakeholder             | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Sponsor Companies**   | Click here to access the [Adoption Toolkit](adoption-toolkit-sponsor.md)                                                                                                             |
-| **Vendor Solutions**    | Adoption toolkit materials forthcoming                                                                                                     | 
-| **CROs**                | Adoption toolkit materials forthcoming                                                                                                     | 
-| **Other**               | Adoption toolkit materials forthcoming                                                                                                     | 
+**Open Source and GitHub**
+- [DDF Community](community.md)
+- [GitHub Overview](github-support.md)
 
 
-## Accessing the SDR Reference Implementation (RI)
+### Proactive Adoption
 For stakeholders that want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
 
 | Pathway             | Description                                                                                                                           |
@@ -64,3 +47,13 @@ For stakeholders that want to actively start engaging with the technology framew
 Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md).
 
 Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).
+
+## DDF Adoption Toolkit
+An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  Please see the table below to reference the applicable content.
+
+| Stakeholder         | Description                                                                                                                           |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Sponsor Companies**   | Click here to access the [Adoption Toolkit](adoption-toolkit-sponsor.md)                                                                                                             |
+| **Vendor Solutions**    | Adoption toolkit materials forthcoming                                                                                                     | 
+| **CROs**                | Adoption toolkit materials forthcoming                                                                                                     | 
+| **Other**               | Adoption toolkit materials forthcoming                                                                                                     | 
