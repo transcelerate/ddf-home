@@ -33,16 +33,14 @@ Click <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4">here
 <summary>What are the benefits of the DDF initiative?</summary>
 <p></p>
 Digital Data Flow (DDF) benefits include:
-</p>
-- minimized process hand-offs, data re-entry, and data format inconsistencies across study start-up and execution
-</p>
-- a foundation for data exchange and interoperability between clinical technology systems, leading to greater compatibility among systems, flexibility to sponsors, and improved clinical trial efficiencies
-</p>
-- a more seamless flow of data leading to accelerated study start-up and further enabling trial automation for sponsors and research partners, and
-</p>
-- data format harmonization that can support greater interoperability and spark innovation within the research and development ecosystem and across the clinical trial solutions landscape.
 <p></p>
-Click <a target="_blank" href="">todo</a> for a video describing benefits of DDF.
+- minimized process hand-offs, data re-entry, and data format inconsistencies across study start-up and execution
+<p></p>
+- a foundation for data exchange and interoperability between clinical technology systems, leading to greater compatibility among systems, flexibility to sponsors, and improved clinical trial efficiencies
+<p></p>
+- a more seamless flow of data leading to accelerated study start-up and further enabling trial automation for sponsors and research partners, and
+<p></p>
+- data format harmonization that can support greater interoperability and spark innovation within the research and development ecosystem and across the clinical trial solutions landscape.
 <p></p>
 </details>
 <details>
@@ -71,8 +69,9 @@ Today’s manual processes, with multiple human and technical hand offs, are not
 <p></p>
 The DDF initiative involves a multi-faceted program that includes (a) collaborating with the Clinical Data Interchange Standards Consortium (CDISC) to develop a standardized data model and (b) working with lead collaborators and other stakeholders to develop the SDR reference implementation. The approach comprises the following:
 <p></p>
-<strong>Standards Collaboration</strong> - CDISC has developed a new protocol study definition standard called the Unified Study Definition Model (USDM). To develop the USDM, CDISC engaged key stakeholders, including technology companies and vendors.
-<strong>Study Definitions Repository Reference Implementation</strong> - The study definitions repository (SDR) is a novel central component aimed at using technical and data standards to facilitate the exchange of structured study definitions across clinical systems.
+<strong>Standards Collaboration</strong>: CDISC has developed a new protocol study definition standard called the Unified Study Definition Model (USDM). To develop the USDM, CDISC engaged key stakeholders, including technology companies and vendors.
+<p></p>
+<strong>Study Definitions Repository Reference Implementation</strong>: The study definitions repository (SDR) is a novel central component aimed at using technical and data standards to facilitate the exchange of structured study definitions across clinical systems.
 <p></p>
 The SDR reference implementation is a working model of the SDR based on the USDM. It has been deployed as open-source and is meant to be vendor agnostic.
 <p></p>
@@ -127,7 +126,7 @@ Click <a target="_blank" href="https://www.cdisc.org/ddf">here</a> to access the
 <details>
 <summary>Where can I access the USDM?</summary>
 <p></p>
-CDISC developed the Unified Study Definition Model (USDM). To access details of the USDM, go to https://www.cdisc.org/ddf.
+CDISC developed the Unified Study Definition Model (USDM). To access details of the USDM, go to <a target="_blank" href="https://www.cdisc.org/ddf">https://www.cdisc.org/ddf</a>.
 <p></p>
 </details>
 <p></p>
@@ -199,10 +198,14 @@ Click <a href="sdr-ri-sandbox-access.html">here</a> for directions on how to req
 <summary>How do I learn more about using GitHub?</summary>
 <p></p>
 Many reference materials and documents supporting GitHub are available. Here are some links to get you started:
-- [Creating a GitHub Account](https://github.com/join)
-- [GitHub Support Website](https://support.github.com/)
-- [GitHub Documentation Website](https://docs.github.com/en)
-- [GitHub YouTube Channel](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+<p></p>
+- <a href="https://github.com/join">Creating a GitHub Account</a>
+<p></p>
+- <a href="https://support.github.com/">GitHub Support Website</a>
+<p></p>
+- <a href="https://docs.github.com/en">GitHub Documentation Website</a>
+<p></p>
+- <a href="https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ">GitHub YouTube Channel</a>
 <p></p>
 </details>
 <details>
@@ -216,7 +219,7 @@ Administrators to the DDF repositories will be actively monitoring and respondin
 <p></p>
 For simple changes, administrators will help manage changes to both code, documents, or both.
 <p></p>
-For more complex changes, TBD.
+For more complex changes, the pull requests will be reviewed and triaged by members of the <strong>Collaborating Steering Committee (CSC)</strong>.  Please see the links below for more information about the CSC.
 <p></p>
 </details>
 <p></p>
