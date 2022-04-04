@@ -5,9 +5,7 @@ description: Landing page for a toolkit created to help companies get started wi
 ---
 # Adoption Toolkit for DDF
 
-An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations. 
-
-NOTE: Adoption Toolkits for Vendor Solution Companies, CROs, and Others are forthcoming. 
+An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations. Please see the Sponsor Company Adoption Toolkit below.  Other stakeholder adoption toolkits will be forthcoming.  
 
 ## Sponsor Company DDF Adoption Toolkit
 The DDF Adoption Toolkit has been created to help sponsor companies faciliate change management activities in adopting DDF.   
