@@ -6,6 +6,8 @@ docs:
   url: overview.html
 - title: Getting Started
   url: getting-started.html
+- title: Adoption Toolkit
+  url: adoption-toolkit-sponsor.md
 - title: Community
   url: community.html
 - title: FAQ

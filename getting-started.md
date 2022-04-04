@@ -10,7 +10,7 @@ Guidance has been developed to support folks new to DDF and as well as those who
 ## High Level Starting Points
 ### General Awareness
 
-Please see the links below for general inforamtion about DDF, benefits, and inititative outputs. 
+Please see the links below for general information about DDF, benefits, and inititative outputs. 
 
 - [DDF Overview](overview.md)
 - [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
