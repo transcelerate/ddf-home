@@ -20,7 +20,7 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 ## Latest News & Upcoming Events
 
-2022 will focus on getting sponsor companies and vendor solutions to pilot DDF, confirming connectivity, and expanding functionality.
+2022 will focus on getting sponsor companies and vendor solutions to confirm connectivity, expand functionality, and pilot DDF. 
   
 - 2022.TBD - DDF Connectathon Event
 - 2022.05.29 - CDISC USDM Public Review Start [(Link to CDISC)](https://www.cdisc.org/ddf)
@@ -31,7 +31,7 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 ## Getting Started with DDF
 
-The DDF initiative has several components. TransCelerate has provided guidance both to people new to DDF and to people who want to dive right in. This guidance ensures support is available to different types of stakeholders with different levels of understanding about DDF.
+Guidance has been developed to support folks new to DDF and as well as those who want to dive right in.
 
 Click [Getting Started](getting-started.md) for more details.
 
