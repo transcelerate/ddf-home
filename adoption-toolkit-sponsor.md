@@ -3,13 +3,16 @@ title: DDF Adoption Toolkit
 description: Landing page for a toolkit created to help companies get started with DDF and providing change management support
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Adoption Toolkit for DDF: Sponsor Company
+# Adoption Toolkit for DDF
 
-The Adoption Toolkit has been created to help sponsor companies faciliate change management activities in adopting DDF.  
+An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations. 
 
-## How to Use this Toolkit
+NOTE: Adoption Toolkits for Vendor Solution Companies, CROs, and Others are forthcoming. 
 
-The DDF Adoption Toolkit is organized into 5 sections that will guide your organization on key activities.
+## Sponsor Company DDF Adoption Toolkit
+The DDF Adoption Toolkit has been created to help sponsor companies faciliate change management activities in adopting DDF.   
+
+To use this toolkit, the toolkit is organized into 5 sections below that will guide your organization on key activities.
 
 ### Section 1
 <img src="media\images\Toolkit Step 1.png" width=500>
