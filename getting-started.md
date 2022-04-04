@@ -66,4 +66,6 @@ For stakeholders who have a good understanding of DDF, and want to actively star
 | **SDR RI Sandbox**  | Accessing the working model of the SDR Reference Implementation in a sandbox environment.  Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).                                   |
 
 ## DDF Adoption Toolkit
-An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  Please click here to reference [toolkit](adoption-toolkit-sponsor.md).
+An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  
+
+For more information, please click the [Adoption Toolkit](adoption-toolkit-sponsor.md).
