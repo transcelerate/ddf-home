@@ -26,11 +26,9 @@ The SDR Reference Implementation enables the format of information from a digiti
 In summary, DDF will combine data standards and a new technology to enable the flow of data across all systems involved in the design and execution of a clinical trial.  
 
 ### Additional details regarding the USDM:
-The framework for the DDF initiative is the **Unified Study Definitions Model**, developed by **CDISC**. 
+To create a consistent, comprehensive, and structured representation of a study definition as described in text in clinical trial protocols, a **Unified Study Definitions Model** has been developed by **CDISC**. 
 
 The USDM contains both new and existing standards, and also provides common vocabulary, reusable designs, industry best practices, standards, and general implementation guidance for solution architects.  
-
-The USDM serves as a guideline for creating a **Study Definitions Repository**, which is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.  
 
 To learn more and get access to the USDM documentation, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf). 
 
@@ -41,6 +39,8 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the
 </a>             
 
 ### Additional details regarding the SDR Reference Implementation:
+The **Study Definitions Repository** is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
+
 Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working model of the Study Definitions Repository based on the USDM called the **Study Definitions Repository (SDR) Reference Implementation**.  
 
 The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
