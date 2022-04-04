@@ -5,7 +5,7 @@ description: Landing page for getting started on DDF, where to go for specific i
 ---
 # Getting Started on DDF
 
-The DDF initiative is comprised of several components.  Depending on a person's role in an organization and level of understanding of DDF, there may be different starting points.  
+Guidance has been developed to support folks new to DDF and as well as those who want to dive right in.  Depending on a person's role in an organization and level of understanding of DDF, there are different starting points that can be referenced.
 
 ## High Level Starting Points
 ### General Awareness

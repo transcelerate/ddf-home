@@ -47,7 +47,7 @@ The CSC will host and record DDF community meetings using the Microsoft Teams Me
 
 **Submitting DDF Community Meeting Discussion Topics**
 
-If you'd like to propose a topic for discussion, respond to posted [Discussion: Agenda Topics](https://github.com/transcelerate/ddf-home/discussions/categories/community-meetings). Before each DDF community meeting, the CSC will share the agenda.
+Before each DDF community meeting, the CSC will share a proposed agenda.  If you'd like to propose a topic for discussion, respond with a post to [Discussion: Agenda Topics](https://github.com/transcelerate/ddf-home/discussions/categories/community-meetings). 
 
 
 ## Upcoming Meetings
@@ -64,4 +64,4 @@ To save a meeting invite, click on the following meeting links:
 
 ## Previously Recorded Meetings
 
-- 20220204: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+- TBD
