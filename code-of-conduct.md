@@ -38,9 +38,9 @@ representative at an online or offline event.
 
 # Enforcement
 
-Report instances of abuse, harassment, or other unacceptable behaviors to the community leaders responsible for enforcement at [INSERT CONTACT METHOD].
-Community leaders responsible for enforcement
+Report instances of abuse, harassment, or other unacceptable behaviors to the community leaders responsible for enforcement at [DDF@transcelerate.com](mailto:DDF@transcelerate.com?subject=Code%20of%20Conduct%20Issues). 
 
+Community leaders responsible for enforcement:
 - will review and investigate all complaints promptly and fairly, and
 - must respect the privacy and security of those who report an incident.
 
@@ -81,16 +81,13 @@ sustained inappropriate behavior.
 
 # Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+This Code of Conduct is adapted from the [Contributor Covenant v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
+
+Community Impact Guidelines were inspired by 
+[Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+
 For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). 
+
+Translations are available at
+[https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
