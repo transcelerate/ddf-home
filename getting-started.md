@@ -68,4 +68,4 @@ For stakeholders who have a good understanding of DDF, and want to actively star
 ## DDF Adoption Toolkit
 An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  
 
-For more information, please click the [Adoption Toolkit](adoption-toolkit-sponsor.md).
+For more information, please click the [Adoption Toolkit](adoption-toolkit.md).
