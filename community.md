@@ -51,9 +51,8 @@ Before each DDF community meeting, the CSC will share a proposed agenda.  If you
 
 
 ## Upcoming Meetings
-To save a meeting invite, click on the following meeting links:  
+To save a meeting invite, click on the following meeting links:
 
-- 20220303: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 - 20220407: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
 **NOTE** - If you're using Outlook for Mac, you may have trouble adding the invitation to your calendar. In order to avoid issues, follow these steps:
@@ -62,6 +61,6 @@ To save a meeting invite, click on the following meeting links:
 - Open Outlook for the web.
 - Drag and drop the .ics file into your calendar.
 
-## Previously Recorded Meetings
+## Previous Meetings
 
 - TBD
