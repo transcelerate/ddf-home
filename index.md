@@ -13,8 +13,7 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the
 <a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
 <img src="media\images\overview.png">
 </a>
-</br>
-</br>
+<p></p>
 
 Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview](overview.md).
 
