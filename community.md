@@ -32,7 +32,7 @@ NOTE: Keep a copy for your records.
 
 ## Code of Conduct
 
-Click [here](CODE-OF-CONDUCT.md) to read the Code of Conduct.
+Click [here](code-of-conduct.md) to read the Code of Conduct.
 
 ## DDF Community Meetings
 To support collaboration and idea sharing, the Collaboration Steering Committee (CSC) will facilitate DDF community meetings. The CSC functions as the board and helps drive DDF initiative milestones and priorties.
