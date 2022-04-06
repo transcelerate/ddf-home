@@ -94,7 +94,7 @@ The intent is to follow open-source principles wherever possible, and to provide
 <details>
 <summary>How will TransCelerate support and position DDF for success?</summary>
 <p></p>
-TransCelerate is uniquely positioned to catalyze this change by sponsoring and leading the collaborative project to develop (a) an open-source technology, vendor-agnostic solution in collaboration with technology organizations, and (b) corresponding data standards in collaboration with SSOs.
+TransCelerate is uniquely positioned to catalyze this change by sponsoring and leading the collaborative project to develop (a) an open-source technology, vendor-agnostic solution in collaboration with technology organizations, and (b) corresponding data standards in collaboration with Standards Setting Organizations (SSO).
 <p></p>
 </details>
 <p></p>

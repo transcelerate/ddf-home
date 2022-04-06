@@ -75,8 +75,8 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the
 <img src="media\images\benefits.png">
 </a>
 
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transcelerate.com/initiatives/digital-data-flow/).
+For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
 ## Help and Support
 
-For general help requests, questions, or comments, please use this [form](https://www.transcelerate.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.
+For general help requests, questions, or comments, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.

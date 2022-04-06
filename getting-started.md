@@ -10,7 +10,7 @@ Guidance has been developed to support folks new to DDF and as well as those who
 ## High Level Starting Points
 ### General Awareness
 
-Please see the links below for general information about DDF, benefits, and inititative outputs. 
+Please see the links below for information about DDF, benefits, and inititative outputs. 
 
 - [DDF Overview](overview.md)
 - [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
@@ -19,7 +19,7 @@ Please see the links below for general information about DDF, benefits, and init
 
 ### Active Exploration
 
-Please see the links below for information about USDM, SDR Reference Implementation, and GitHub.
+Please expand the sections below to see links for information about about USDM, SDR Reference Implementation, and Open Source/GitHub.
 
 <p></p>
 <details>
@@ -37,7 +37,7 @@ Please see the links below for information about USDM, SDR Reference Implementat
 <p></p>
 <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">DDF SDR Reference Implementation Overview Video</a>
 <p></p>
-<a target="_blank" href="https://cdisc.org/ddf">DDF Azure Solution Architecture Document</a>
+<a target="_blank" href="https://github.com/transcelerate/ddf-sdr-platform/blob/main/documents/ddf-sdr-azure-solution-architecture.pdf">DDF Azure Solution Architecture Document</a>
 <p></p>
 <a target="_blank" href="https://cdisc.org/ddf">SDR Reference Implementation User Interface Demo Video</a>
 <p></p>
@@ -49,10 +49,10 @@ Please see the links below for information about USDM, SDR Reference Implementat
 <details>
 <summary>Open Source & GitHub</summary>
 <p></p>
-<a target="_blank" href="https://cdisc.org/ddf">DDF Community</a>
+<a target="_blank" href="community.html">DDF Community</a>
 <p></p>
 <p></p>
-<a target="_blank" href="https://cdisc.org/ddf">GitHub Support</a>
+<a target="_blank" href="github-support.html">GitHub Support</a>
 <p></p>
 </details>
 <p></p>
