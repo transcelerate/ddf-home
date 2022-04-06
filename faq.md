@@ -104,9 +104,9 @@ TransCelerate is uniquely positioned to catalyze this change by sponsoring and l
 <details>
 <summary>What is the Unified Study Definition Model (USDM)?</summary>
 <p></p>
-The study definition described in clinical trial protocol text and CDISC data and technology API standards will be augmented with a consistent, comprehensive, and structured representation, and a new standard will be defined. To this end, the Unified Study Definition Model (USDM) has been created. Study definitions in the study definition repository (SDR) conform to the USDM data standard.
+The study definitions described in clinical trial protocol text and CDISC data and technology API standards will be augmented with a consistent, comprehensive, and structured representation, and a new standard will be defined. To this end, the Unified Study Definition Model (USDM) has been created. Study definitions in the study definition repository (SDR) conform to the USDM data standard.
 <p></p>
-CDISC developed the USDM. It included a class diagram describing the study design elements, their attributes, and relationships between them. The USDM defines all elements needed to construct a study definition, from high-level study design elements, such as study phase, indication, objectives and endpoints, and eligibility criteria, to detailed study design elements included in the schedule of activities and assessments.
+CDISC developed the USDM. It includes a class diagram describing the study design elements, their attributes, and relationships between them. The USDM defines all elements needed to construct a study definition, from high-level study design elements, such as study phase, indication, objectives and endpoints, and eligibility criteria, to detailed study design elements included in the schedule of activities and assessments.
 <p></p>
 Click <a target="_blank" href="">todo</a> for a video describing the USDM.
 <p></p>
