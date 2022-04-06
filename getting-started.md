@@ -1,5 +1,5 @@
 ---
-title: Getting Started on DDF
+title: Getting Started
 description: Landing page for getting started on DDF, where to go for specific information, and how to access content
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---

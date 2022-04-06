@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQ)
+title: FAQ
 description: Frequently asked questions and answers
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---

@@ -1,5 +1,5 @@
 ---
-title: DDF Overview
+title: About
 description: Details about the DDF initiative, objective, and benefits
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---

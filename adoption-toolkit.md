@@ -1,5 +1,5 @@
 ---
-title: DDF Adoption Toolkit
+title: Adoption Toolkit
 description: Landing page for a toolkit created to help companies get started with DDF and providing change management support
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---

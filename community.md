@@ -1,5 +1,5 @@
 ---
-title: DDF Community 
+title: Community 
 description: Overview of the DDF community, links code of conduct, and community meetings
 ---
 # DDF Community
