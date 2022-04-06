@@ -18,7 +18,7 @@ The Study Definitions Repository (SDR) Reference Implementation has been deploye
 
 ## GitHub Access
 
-To actively use and contribute to GitHub, a person needs to first create an account.
+To view content on GitHub, you do not need to create an account.  However, to actively participate and contribute to GitHub content, a person does need to create an account.
 
 Go to [https://github.com/join](https://github.com/join) and follow the instructions to create an account.  To access and use GitHub for DDF is free of charge.
 
