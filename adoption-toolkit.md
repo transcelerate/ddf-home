@@ -7,7 +7,7 @@ description: Landing page for a toolkit created to help companies get started wi
 
 TransCelerate has created a DDF Adoption Toolkit to help stakeholders manage the changes associated with DDF adoption in their organizations. 
 
-See the Sponsor Company DDF Adoption Toolkit information below. Other stakeholder adoption toolkits are forthcoming.  
+See the **Sponsor Company DDF Adoption Toolkit** information below. Other stakeholder adoption toolkits are forthcoming.  
 
 For guidance and information on DDF, click [Getting Started](getting-started.md). 
 
