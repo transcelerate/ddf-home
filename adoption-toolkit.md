@@ -12,7 +12,7 @@ See the Sponsor Company DDF Adoption Toolkit information below. Other stakeholde
 For guidance and information on DDF, click [Getting Started](getting-started.md). 
 
 ## Sponsor Company DDF Adoption Toolkit
-The Sponsor Company DDF Adoption Toolkit's purpose is to help sponsor companies manage the changes associated with DDF adoption.   
+The purpose of the Sponsor Company DDF Adoption Toolkit's is to help sponsor companies manage the changes associated with DDF adoption.   
 
 TransCelerate organized the toolkit into 5 sections to guide your company through key change management activities.
 
