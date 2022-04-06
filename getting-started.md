@@ -9,7 +9,7 @@ TransCelerate has developed guidance to support people who are new to DDF and as
 ## High Level Starting Points
 ### General Awareness
 
-Follow these links for information about DDF, benefits, and inititative outputs. 
+Follow these links for information about DDF, benefits, and inititative outputs: 
 
 - [DDF Overview](overview.md)
 - [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
