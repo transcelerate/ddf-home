@@ -18,7 +18,7 @@ Follow these links for information about DDF, benefits, and inititative outputs:
 
 ### Active Exploration
 
-Expand these sections to see links for information about about USDM, SDR Reference Implementation, and Open Source/GitHub:
+Expand these sections to see links to information about USDM, SDR Reference Implementation, and Open Source/GitHub:
 
 <p></p>
 <details>
