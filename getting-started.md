@@ -61,8 +61,8 @@ Stakeholders with a good understanding of DDF who want to start actively engagin
 
 | Pathway             | Description                                                                                                                                                                                                         |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **SDR RI Codebase** | Accessing the codebase to install the SDR Reference Implementation locally on a company's technology environment.  Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md). |
-| **SDR RI Sandbox**  | Accessing the working model of the SDR Reference Implementation in a sandbox environment.  Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).                                   |
+| **SDR RI Codebase** | A way to access the codebase to install the SDR Reference Implementation locally on a company's technology environment.  Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md). |
+| **SDR RI Sandbox**  | A way to access the working model of the SDR Reference Implementation in a sandbox environment.  Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).                                   |
 
 ## DDF Adoption Toolkit
 TransCelerate has created an Adoption Toolkit to help stakeholders manage the changes associated with DDF adoption in their organizations.  
