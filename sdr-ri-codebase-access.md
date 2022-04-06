@@ -1,5 +1,5 @@
 ---
-title: Accessing the SDR RI Codebase
+title: SDR RI Codebase
 description: Landing page for getting started with the SDR RI Codebase and GitHub basics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
@@ -15,7 +15,7 @@ The materials shared here are intended to be used solely for understanding DDF a
 
 These materials are not intended to guide the study definition process or configuration of clinical systems. Results of those activities are solely the responsibility of the user of the scripts and not the developers.
 
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transcelerate.com/initiatives/digital-data-flow/).
+For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
 ## SDR RI Codebase & GitHub
 
@@ -32,8 +32,8 @@ The DDF Community is about working together toward continuous improvement, learn
 Please refer to the **[DDF Community Overview](community.md)** for information and expectations about:
 
 - Community Values
-- [Contributor Covenant Code of Conduct](CODE-OF-CONDUCT.md)
-- [Contribution License Agreement](CONTRIBUTING.md)
+- [Contributor Covenant Code of Conduct](code-of-conduct.md)
+- [Contribution License Agreement](contributing.md)
 - Community Meetings  
 
 **NOTE** - It is highly recommended that all users that will be engaging with DDF read through all the DDF Community content.

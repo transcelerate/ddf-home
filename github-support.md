@@ -36,22 +36,21 @@ Here is a quick summary of the GitHub user interface.
 
 | Key Navigation    | Description                                                                            |
 |-------------------|----------------------------------------------------------------------------------------|
-| **Code**       | This is the default view to the folders and files that contain information and/or code |
+| **Code**       | This is the default view to the folders and files that contain information and/or code. |
 | **Issues**        | This is where users can post issues and questions.                                     |
 | **Pull Requests** | This is the area to access any submitted change requests to information and/or code.   |
 | **Discussions** | This is where users can post topics for discussion.|
 
-Please watch this [video]() for guidance on how to navigate within GitHub.
 
 ## Actively Using GitHub
 
 The main features of GitHub is allowing users to access content and make changes to the content for review, approval and distribution.  
 
-Please watch this [video]() for examples of how to actively use GitHub to:
+Please watch this [video](https://www.youtube.com/watch?v=w3jLJU7DT5E&t=110s) for an introduction on how to actively use GitHub to:
 
-- Review content, make changes, and submit the changes for review, approval and distribution, if applicable (the process is called Pull Requests)
 - Submitting an Issue
 - Submitting a Discussion
+- Review content, make changes, and submit the changes for review, approval and distribution, if applicable (the process is called Pull Requests)
 - Viewing the outcome of a Pull Request
 
 ## Help and Support

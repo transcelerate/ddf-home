@@ -1,5 +1,5 @@
 ---
-title: Getting Access to the SDR RI Sandbox environment
+title: SDR RI Sandbox environment
 description: Landing page for getting started with the SDR RI Sandbox environment, requesting access, and information about using the sandbox environment
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
@@ -15,11 +15,11 @@ The materials shared here are intended to be used solely for understanding DDF a
 
 These materials are not intended to guide the study definition process or configuration of clinical systems. Results of those activities are solely the responsibility of the user of the scripts and not the developers.
 
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transcelerate.com/initiatives/digital-data-flow/).
+For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
 ## SDR RI Sandbox Environment Overview
 
-The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
+The SDR Reference Implementation has been deployed as open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 
 As an outcome of the development process, a working model of the SDR Reference Implementation has been setup on **Microsoft Azure**.
 
@@ -66,4 +66,4 @@ To get started using the SDR Reference Implementation Sandbox environment, pleas
 
 ## Help and Support
 
-For technical support with Microsoft Azure or the SDR Reference Implementation Sandbox Environment, please email us [here](mailto:DDF@transcelerate.com?subject=Help%20with%20SDR%20RI%20Sandbox%20Environment).  Responses to questions will be posted to the [FAQ](faq.md) page.
+For technical support with the SDR Reference Implementation Sandbox Environment, please email us [here](mailto:DDF@transcelerate.com?subject=Help%20with%20SDR%20RI%20Sandbox%20Environment).  Responses to questions will be posted to the [FAQ](faq.md) page.
