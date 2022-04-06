@@ -38,10 +38,6 @@ Expand these sections to see links to information about USDM, SDR Reference Impl
 <p></p>
 <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-platform/blob/main/documents/ddf-sdr-azure-solution-architecture.pdf">DDF Azure Solution Architecture Document</a>
 <p></p>
-<a target="_blank" href="https://cdisc.org/ddf">SDR Reference Implementation User Interface Demo Video</a>
-<p></p>
-<a target="_blank" href="https://cdisc.org/ddf">SDR Reference Implementation API Demo Video</a>
-<p></p>
 </details>
 
 <p></p>

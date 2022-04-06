@@ -29,7 +29,7 @@ To facilitate the adoption of DDF, this Microsoft Azure environment, or **SDR RI
 
 The SDR Reference Implementation Sandbox environment will be made available through a request process for users who wish to access the environment.  
 
-To learn about what is functionality is available in the SDR RI Sandbox environment and expectations on how to use the environment, please first read the [Getting Started with SDR Reference Implementation Guidelines]().
+To learn about what is functionality is available in the SDR RI Sandbox environment and expectations on how to use the environment, please first read the [Getting Started with SDR Reference Implementation Sandbox Environment]().
 
 ## Terms of Use
 
@@ -55,14 +55,15 @@ To request access, follow the instructions below:
    - *Please Provide Reason(s) for Access:
    - *Please respond with Yes or No that you have read and understood the terms of use:
 
-If approved, you will get an email with an assigned User ID, and default password.  You will be asked to change your password the first time you log into the environment.
+If approved, you will get an email confirming access and instructions on logging into the sandbox environment.
 
 ## Getting Started Once Access is Granted
 
-To get started using the SDR Reference Implementation Sandbox environment, please refer to the following documents:
+To get started using the SDR Reference Implementation Sandbox environment, please refer to the following references:
 
-- Azure Login Instructions (LINK)
-- How to Use the SDR Reference Implementation Sandbox Environment (LINK)
+- [SDR RI Sandbox Environment User Interface Demo Video]()
+- [SDR RI Sandbox Environment API Demo Video]()
+- todo - need links to docs
 
 ## Help and Support
 

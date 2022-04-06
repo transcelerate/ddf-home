@@ -20,10 +20,10 @@ The DDF Community Values provide the foundation for the DDF initiative's success
 
 ## Requirements to Contribute and Propose Changes
 
-Before you can contribute and propose changes, you must acknowledge the Contribution License Agreement (CLA).
+Before participating, you must acknowledge the Contribution License Agreement (CLA).
 
 To acknowledge the CLA, follow these instructions:
-- Click [here](CONTRIBUTING.md) to download and carefully read the CLA.
+- Click [here](contributing.md) to download and carefully read the CLA.
 - Print the document.
 - Complete and sign the document.
 - Scan and email a PDF version of the completed and signed document to [DDF@transcelerate.com](mailto:DDF@transcelerate.com?subject=Signed%20CLA).
