@@ -4,13 +4,12 @@ description: Landing page for getting started on DDF, where to go for specific i
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # Getting Started on DDF
-
-Guidance has been developed to support folks new to DDF and as well as those who want to dive right in.  Depending on a person's role in an organization and level of understanding of DDF, there are different starting points that can be referenced.
+TransCelerate has developed guidance to support people who are new to DDF and as well as those who want to dive right in. Depending on a person's role in an organization and level of understanding of DDF, they can reference different starting points.
 
 ## High Level Starting Points
 ### General Awareness
 
-Please see the links below for information about DDF, benefits, and inititative outputs. 
+Follow these links for information about DDF, benefits, and inititative outputs. 
 
 - [DDF Overview](overview.md)
 - [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
@@ -19,7 +18,7 @@ Please see the links below for information about DDF, benefits, and inititative 
 
 ### Active Exploration
 
-Please expand the sections below to see links for information about about USDM, SDR Reference Implementation, and Open Source/GitHub.
+Expand these sections to see links for information about about USDM, SDR Reference Implementation, and Open Source/GitHub:
 
 <p></p>
 <details>
@@ -58,14 +57,14 @@ Please expand the sections below to see links for information about about USDM, 
 <p></p>
 
 ### Proactive Adoption
-For stakeholders who have a good understanding of DDF, and want to actively start engaging with the technology framework and platform, there are two pathways for accessing the SDR Reference Implementation.
+Stakeholders with a good understanding of DDF who want to start actively engaging with the technology framework and platform can access the SDR Reference Implementation by following two pathways.
 
 | Pathway             | Description                                                                                                                                                                                                         |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **SDR RI Codebase** | Accessing the codebase for the purposes of installing the SDR Reference Implementation locally on a company's technology environment.  Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md). |
+| **SDR RI Codebase** | Accessing the codebase to install the SDR Reference Implementation locally on a company's technology environment.  Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md). |
 | **SDR RI Sandbox**  | Accessing the working model of the SDR Reference Implementation in a sandbox environment.  Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).                                   |
 
 ## DDF Adoption Toolkit
-An Adoption Tool Kit has been created to help stakeholders faciliate change management and adoption of DDF in their organizations.  
+TransCelerate has created an Adoption Toolkit to help stakeholders manage the changes associated with DDF adoption in their organizations.  
 
-For more information, please click the [Adoption Toolkit](adoption-toolkit.md).
+For more information, click the [Adoption Toolkit](adoption-toolkit.md).
