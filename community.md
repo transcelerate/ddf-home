@@ -35,9 +35,12 @@ NOTE: Keep a copy for your records.
 Click [here](code-of-conduct.md) to read the Code of Conduct.
 
 ## DDF Community Meetings
-To support collaboration and idea sharing, the Collaboration Steering Committee (CSC) will facilitate DDF community meetings. The CSC functions as the board and helps drive DDF initiative milestones and priorties.
+To support collaboration and idea sharing, a Collaboration Steering Committee (CSC) will facilitate DDF community meetings. The CSC functions as the board and helps drive DDF initiative milestones and priorties.
 
-The CSC will host and record DDF community meetings using the Microsoft Teams Meetings platform. 
+**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and will not be hosting DDF community meetings until a later date. 
+
+<!-- 
+The CSC will host DDF community meetings using a video conferencing technology. 
 
 ### Typical DDF Community Meeting Agenda
 
@@ -51,9 +54,11 @@ Before each DDF community meeting, the CSC will share a proposed agenda.  If you
 
 
 ## Upcoming Meetings
+
+
 To save a meeting invite, click on the following meeting links:
 
-- 20220407: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
+- TBD: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
 
 **NOTE** - If you're using Outlook for Mac, you may have trouble adding the invitation to your calendar. In order to avoid issues, follow these steps:
 
@@ -64,3 +69,4 @@ To save a meeting invite, click on the following meeting links:
 ## Previous Meetings
 
 - TBD
+-->

@@ -70,3 +70,5 @@ For questions, comments, or issues regarding the code, please post to the Issues
 - [Link to Issues](https://github.com/transcelerate/ddf-sdr-platform/issues) in Platform repository
 - [Link to Issues](https://github.com/transcelerate/ddf-sdr-api/issues) in API repository
 - [Link to Issues](https://github.com/transcelerate/ddf-sdr-ui/issues) in UI repository
+
+**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and any pull requests submitted will not be triaged at this point in time. 

@@ -12,13 +12,13 @@ A platform supporting open source allows anyone to:
 
 - Distribute the code as they see fit
 - Access the code
-- Contribute to the code (i.e. openly review, suggest changes, etc.).
+- Contribute (i.e. openly review, suggest changes, etc.).
 
 The Study Definitions Repository (SDR) Reference Implementation has been deployed onto GitHub, a popular platform for Open source.  Having the SDR RI developed and deployed as open source and vendor agnostic supports collaboration, transparency, and innovation across the industry.
 
 ## GitHub Access
 
-To view content on GitHub, you do not need to create an account.  However, to actively participate and contribute to GitHub content, a person does need to create an account.
+To view content on GitHub, you do not need to create an account.  However, to actively participate and contribute, a person does need to create a GitHub account.
 
 Go to [https://github.com/join](https://github.com/join) and follow the instructions to create an account.  To access and use GitHub for DDF is free of charge.
 
