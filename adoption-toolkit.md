@@ -7,25 +7,25 @@ description: Landing page for a toolkit created to help companies get started wi
 
 TransCelerate has created a DDF Adoption Toolkit to help stakeholders manage the changes associated with DDF adoption in their organizations. 
 
-See the **Sponsor Company DDF Adoption Toolkit** information below. Other stakeholder adoption toolkits are forthcoming.  
+See the **Sponsor Company DDF Adoption Toolkit** information on this page. Other stakeholder adoption toolkits are forthcoming.  
 
 For guidance and information on DDF, click [Getting Started](getting-started.md). 
 
 ## Sponsor Company DDF Adoption Toolkit
-The purpose of the Sponsor Company DDF Adoption Toolkit's is to help sponsor companies manage the changes associated with DDF adoption.   
+The purpose of the Sponsor Company DDF Adoption Toolkit is to help sponsor companies manage the changes associated with DDF adoption.   
 
-TransCelerate organized the toolkit into 5 sections to guide your company through key change management activities.
+TransCelerate organized the toolkit into 5 steps to guide your company through key change management activities.
 
-### Section 1
+### Step 1
 <img src="media\images\Toolkit Step 1.png" width=500>
 
 | Topic             | Description                                                                                                                           |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | **Purpose**      | Understand the 5 stages toward DDF adoption                                                                        |
-| **Outcome**      | Use the maturity curve to create a potential roadmap toward a future state involving DDF. It should be used with the current state determination in Section 3.| 
+| **Outcome**      | Use the maturity curve to create a potential roadmap toward a future state involving DDF. You should use it with the current state determination in Step 3| 
 | **Action Steps** | Click here for the [DDF Maturity Curve]()| 
 
-### Section 2
+### Step 2
 <img src="media\images\Toolkit Step 2.png" width=500>
 
 | Topic             | Description                                                                                                                           |
@@ -34,7 +34,7 @@ TransCelerate organized the toolkit into 5 sections to guide your company throug
 | **Outcome**      | Understand which of your organization's functional areas DDF adoption impacts| 
 | **Action Steps** | Click here for the [DDF Personas: Sponsor Company Edition]()| 
 
-### Section 3
+### Step 3
 <img src="media\images\Toolkit Step 3.png" width=500>
 
 | Topic             | Description                                                                                                                           |
@@ -43,7 +43,7 @@ TransCelerate organized the toolkit into 5 sections to guide your company throug
 | **Outcome**      | Determine your organization's readiness for a future state involving DDF so you can plan for it| 
 | **Action Steps** | Click here for an [Organization Self-Assessment]()   | 
 
-### Section 4
+### Step 4
 <img src="media\images\Toolkit Step 4.png" width=500>
 
 | Topic             | Description                                                                                                                           |
@@ -52,7 +52,7 @@ TransCelerate organized the toolkit into 5 sections to guide your company throug
 | **Outcome**      | Determine an action plan for your organization that includes activities to facilitate DDF adoption | 
 | **Action Steps** | Use the DDF Maturity Curve, Current State information, and Quick Start Guide to create a future state roadmap | 
 
-### Section 5
+### Step 5
 <img src="media\images\Toolkit Step 5.png" width=500>
 
 | Topic             | Description                                                                                                                           |
