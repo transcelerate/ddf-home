@@ -17,17 +17,17 @@ These materials are not intended to guide the study definition process or config
 
 For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
 
-## SDR RI Codebase & GitHub
+## SDR RI Codebase as Open Source & GitHub
 
-The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
+The SDR Reference Implementation has been deployed as open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 
 GitHub is the platform where the SDR RI code is published.  
 
 **New to GitHub?** Click [Getting Started with GitHub](github-support.md) for some guidance on accessing and using GitHub.  
 
-## DDF Open-Source Community and Participation
+## DDF Community and Participation
 
-The DDF Community is about working together toward continuous improvement, learning from each other, and sharing information.
+The DDF Community is about working together under open-source framework toward continuous improvement, learning from each other, and sharing information.
 
 Please refer to the **[DDF Community Overview](community.md)** for information and expectations about:
 
