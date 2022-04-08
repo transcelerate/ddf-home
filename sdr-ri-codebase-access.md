@@ -3,7 +3,7 @@ title: SDR RI Codebase
 description: Landing page for getting started with the SDR RI Codebase and GitHub basics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Getting Started on Accessing the SDR RI Codebase
+# Getting Started: SDR RI Codebase
 
 The Study Definitions Repository (SDR) Reference Implementation is a working model of a Study Definitions Repository that has been developed based on the **CDISC Unified Study Definitions Model (USDM)**.  
 

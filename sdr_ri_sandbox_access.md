@@ -3,7 +3,7 @@ title: SDR RI Sandbox environment
 description: Landing page for getting started with the SDR RI Sandbox environment, requesting access, and information about using the sandbox environment
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Getting Started on Accessing the SDR RI Sandbox Environment
+# Getting Started: SDR RI Sandbox Environment
 
 The Study Definitions Repository (SDR) Reference Implementation is a working model of a Study Definitions Repository that has been developed based on the **CDISC Unified Study Definitions Model (USDM)**.
 

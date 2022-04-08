@@ -16,50 +16,153 @@ The purpose of the Sponsor Company DDF Adoption Toolkit is to help sponsor compa
 
 TransCelerate organized the toolkit into 5 steps to guide your company through key change management activities.
 
-### Step 1
 <img src="media\images\Toolkit Step 1.png" width=500>
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+<table>
+ <thead>
+  <tr>
+   <th>Topic</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>Purpose</strong></td>
+   <td>Understand the 5 stages toward DDF adoption to help create a potential roadmap toward a future state involving DDF</td>
+  </tr>
+  <tr>
+   <td><strong>Outcome</strong></td>
+   <td>Clear understanding of the DDF maturity curve</td>
+  </tr>
+  <tr>
+   <td><strong>Action Steps</strong></td>
+   <td>Click here for the DDF Maturity Curve</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
 
-| Topic             | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Purpose**      | Understand the 5 stages toward DDF adoption                                                                        |
-| **Outcome**      | Use the maturity curve to create a potential roadmap toward a future state involving DDF. You should use it with the current state determination in Step 3| 
-| **Action Steps** | Click here for the [DDF Maturity Curve]()| 
-
-### Step 2
 <img src="media\images\Toolkit Step 2.png" width=500>
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+<table>
+ <thead>
+  <tr>
+   <th>Topic</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>Purpose</strong></td>
+   <td>Identify and match organizational functional areas to DDF personas</td>
+  </tr>
+  <tr>
+   <td><strong>Outcome</strong></td>
+   <td>Understand which of your organization's functional areas are impacted by adopting DDF</td>
+  </tr>
+  <tr>
+   <td><strong>Action Steps</strong></td>
+   <td>Click here for the DDF Personas: Sponsor Company Edition</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
 
-| Topic             | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Purpose**      | Identify and match organizational functional areas to DDF personas                                                                         |
-| **Outcome**      | Understand which of your organization's functional areas DDF adoption impacts| 
-| **Action Steps** | Click here for the [DDF Personas: Sponsor Company Edition]()| 
-
-### Step 3
 <img src="media\images\Toolkit Step 3.png" width=500>
 
-| Topic             | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Purpose**      | Determine the current state of your organization on the DDF maturity curve               |
-| **Outcome**      | Determine your organization's readiness for a future state involving DDF so you can plan for it| 
-| **Action Steps** | Click here for an [Organization Self-Assessment]()   | 
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+<table>
+ <thead>
+  <tr>
+   <th>Topic</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>Purpose</strong></td>
+   <td>Determine the current state of your organization on the DDF maturity curve</td>
+  </tr>
+  <tr>
+   <td><strong>Outcome</strong></td>
+   <td>Obtain a clear understanding of where your organization aligns to on the DDF Maturity curve</td>
+  </tr>
+  <tr>
+   <td><strong>Action Steps</strong></td>
+   <td>Click here for an [rganization Self-Assessment</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
 
-### Step 4
 <img src="media\images\Toolkit Step 4.png" width=500>
 
-| Topic             | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Purpose**      | Determine your organization's future state involving DDF           |
-| **Outcome**      | Determine an action plan for your organization that includes activities to facilitate DDF adoption | 
-| **Action Steps** | Use the DDF Maturity Curve, Current State information, and Quick Start Guide to create a future state roadmap | 
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+<table>
+ <thead>
+  <tr>
+   <th>Topic</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>Purpose</strong></td>
+   <td>Determine your organization's future state involving DDF</td>
+  </tr>
+  <tr>
+   <td><strong>Outcome</strong></td>
+   <td>Develop a high level roadmap for your organization regarding DDF</td>
+  </tr>
+  <tr>
+   <td><strong>Action Steps</strong></td>
+   <td>Use the DDF Maturity Curve, Current State information, and Quick Start Guide to create a future state roadmap</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
 
-### Step 5
 <img src="media\images\Toolkit Step 5.png" width=500>
 
-| Topic             | Description                                                                                                                           |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Purpose**      | Learn about the Quick Start Guide and options on adopting DDF       |
-| **Outcome**      | Potentially leverage the Quick Start Guide to help create an action plan for your organization to adopt DDF | 
-| **Action Steps** | Click here for the [Quick Start Guide]()  | 
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+<table>
+ <thead>
+  <tr>
+   <th>Topic</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>Purpose</strong></td>
+   <td>Learn about the Quick Start Guide and options on adopting DDF</td>
+  </tr>
+  <tr>
+   <td><strong>Outcome</strong></td>
+   <td>Develop an action plan for your organization that includes activities to facilitate DDF adoption from current to future state</td>
+  </tr>
+  <tr>
+   <td><strong>Action Steps</strong></td>
+   <td>Click here for the Quick Start Guide</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
 
 ## Help and Support
 
