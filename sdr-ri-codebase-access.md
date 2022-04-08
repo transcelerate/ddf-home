@@ -56,11 +56,11 @@ Several videos have been created to show steps a user would need to go through t
 
 NOTE: The instructions and guidance are based on deploying the code in Azure only.  
 
-- [1. Environment Creation for SDR on Azure]()
-- [2. Deploying SDR code on Azure DevOps]()
-- [3. Azure PaaS Configurations]()
-- [4. Application Data Setup and Smoke Test]()
-- [5. SonarQube Integration with Azure]()
+1. [Environment Creation for SDR on Azure](https://www.youtube.com/watch?v=8k_fdwMNafY&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=1)
+2. [Deploying SDR code on Azure DevOps](https://www.youtube.com/watch?v=yulXnWUPbp8&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=2)
+3. [Azure PaaS Configurations](https://www.youtube.com/watch?v=MXLUbjDAqgs&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=3)
+4. [Application Data Setup and Smoke Test](https://www.youtube.com/watch?v=KQ7PPmGOz7A&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=4)
+5. [SonarQube Integration with Azure](https://www.youtube.com/watch?v=w11p7R10L2w&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=5)
 
 
 ## Help and Support
