@@ -38,6 +38,8 @@ Expand these sections to see links to information about USDM, SDR Reference Impl
 <p></p>
 <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-platform/blob/main/documents/ddf-sdr-azure-solution-architecture.pdf">DDF Azure Solution Architecture Document</a>
 <p></p>
+<a target="_blank" href="https://github.com/transcelerate/ddf-sdr-platform/blob/main/documents/MVP%20Process%20Flows%20(final).pdf">DDF SDR RI Process Flows</a>
+<p></p>
 </details>
 
 <p></p>
@@ -55,10 +57,10 @@ Expand these sections to see links to information about USDM, SDR Reference Impl
 ### Proactive Adoption
 Stakeholders with a good understanding of DDF who want to start actively engaging with the technology framework and platform can access the SDR Reference Implementation by following two pathways.
 
-| Pathway             | Description                                                                                                                                                                                                         |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **SDR RI Codebase** | A way to access the codebase to install the SDR Reference Implementation locally on a company's technology environment.  Click here to [Get Started with SDR RI Codebase](sdr-ri-codebase-access.md). |
-| **SDR RI Sandbox**  | A way to access the working model of the SDR Reference Implementation in a sandbox environment.  Click here to [Get Started with SDR RI Sandbox environment](sdr_ri_sandbox_access.md).                                   |
+| Pathway                                                            | Description                                                                                                             |
+|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **[SDR RI Codebase](sdr-ri-codebase-access.md)** <br>(click to assess) | A way to access the codebase to install the SDR Reference Implementation locally on a company's technology environment. |
+| **[SDR RI Sandbox Environment](sdr_ri_sandbox_access.md)**  <br>(click to access)  | A way to access the working model of the SDR Reference Implementation in a sandbox environment.                         |
 
 ## DDF Adoption Toolkit
 TransCelerate has created an Adoption Toolkit to help stakeholders manage the changes associated with DDF adoption in their organizations.  
