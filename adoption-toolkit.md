@@ -96,7 +96,7 @@ TransCelerate organized the toolkit into 5 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
-   <td>Click here for an [rganization Self-Assessment</td>
+   <td>Click here for an Organization Self-Assessment</td>
   </tr>
  </thead>
 </table>
