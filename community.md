@@ -6,7 +6,9 @@ description: Overview of the DDF community, links code of conduct, and community
 
 DDF aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
 
-The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.
+The DDF community is about working together toward continuous improvement, learning from each other, and sharing information.  
+
+GitHub is the open source platform that will be used for community engagement. New to GitHub? Click [Getting Started with GitHub](github-support.md) for some guidance on accessing and using GitHub.
 
 ## DDF Community Values
 
