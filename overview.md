@@ -28,7 +28,7 @@ Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2
 <p></p>
 The objective of DDF is to automate and expedite the study start-up process by revolutionizing how data flows across clinical trial systems. The automation begins with upstream clinical systems, such as study builders, and continues with downstream clinical systems, such as electronic data capture systems (EDC) and clinical trial management systems (CTMS).
 <p></p>
-TransCelerate has collaborated with others to develop an open-source, vendor agnostic, <strong>Study Definition Repository (SDR) Reference Implementation</strong>. The SDR Reference Implementation is based on a <strong>Unified Study Definitions Model (USDM)</strong>, developed by CDISC, that standardizes protocol study definitions.
+TransCelerate has collaborated with others to design and develop an open-source, vendor agnostic, <strong>Study Definition Repository (SDR) Reference Implementation</strong>. The SDR Reference Implementation is based on a <strong>Unified Study Definitions Model (USDM)</strong>, developed by CDISC, that standardizes protocol study definitions.
 <p></p>
 The SDR Reference Implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally. This allows the information to be passed to systems through application programming interfaces (APIs) used for study execution and data collection and reused throughout the clinical development lifecycle.  
 <p></p>
@@ -60,9 +60,9 @@ Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2
 <p></p>
 The <strong>Study Definitions Repository</strong> is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
 <p></p>
-Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working model of the Study Definitions Repository based on the USDM called the <strong>Study Definitions Repository (SDR) Reference Implementation</strong>.  
+Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working instance of the Study Definitions Repository based on the USDM called the <strong>Study Definitions Repository (SDR) Reference Implementation</strong>.  
 <p></p>
-The SDR Reference Implementation has been designed and deployed to be open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
+The SDR Reference Implementation has been designed and developed to be open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 <p></p>
 Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">video</a> describing the SDR RI. 
 <p></p>
