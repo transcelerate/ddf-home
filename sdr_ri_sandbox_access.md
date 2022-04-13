@@ -19,11 +19,11 @@ For more information on the DDF initiative on the TransCelerate BioPharma Inc. w
 
 ## SDR RI Sandbox Environment Overview
 
-The SDR Reference Implementation has been deployed as open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
+The SDR Reference Implementation has been designed and deployed to be open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 
-As an outcome of the development process, a working model of the SDR Reference Implementation has been setup on **Microsoft Azure**.
+As an outcome of the development process, a working instance of the SDR Reference Implementation has been setup on **Microsoft Azure**.
 
-To facilitate the adoption of DDF, this Microsoft Azure environment, or **SDR RI Sandbox Environment**, is available for those who are interested in leveraging this environment to view what has been developed, and test out API connections with the working model of the SDR without having to deploy the SDR Reference Implementation codebase locally.
+To facilitate the adoption of DDF, this Microsoft Azure environment, or **SDR RI Sandbox Environment**, is available for those who are interested in leveraging this shared environment to view what has been developed, and test out API connections with the working instance of the SDR without having to deploy the SDR Reference Implementation codebase locally.
 
 ## Using the SDR RI Sandbox Environment
 
