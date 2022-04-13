@@ -5,7 +5,7 @@ description: Landing page for getting started with the SDR RI Sandbox environmen
 ---
 # Getting Started: SDR RI Sandbox Environment
 
-The Study Definitions Repository (SDR) Reference Implementation is a working instance of a Study Definitions Repository that has been developed based on the **CDISC Reference Architecture (RA)** which includes the **Unified Study Definitions Model (USDM)**.
+The Study Definitions Repository (SDR) Reference Implementation is a working instance of a Study Definitions Repository that has been developed based on the **CDISC Reference Architecture (RA)** which is part of the **Unified Study Definitions Model (USDM)**.
 
 For details and documents regarding the RA and USDM, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
