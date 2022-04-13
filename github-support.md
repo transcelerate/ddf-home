@@ -14,7 +14,7 @@ A platform supporting open source allows anyone to:
 - Access the code
 - Contribute (i.e. openly review, suggest changes, etc.).
 
-The Study Definitions Repository (SDR) Reference Implementation has been deployed onto GitHub, a popular platform for Open source.  Having the SDR RI developed and deployed as open source and vendor agnostic supports collaboration, transparency, and innovation across the industry.
+The Study Definitions Repository (SDR) Reference Implementation has been shared via GitHub, a popular platform for open source.  Having the SDR RI designed and developed to be open source and vendor agnostic supports collaboration, transparency, and innovation across the industry.
 
 ## GitHub Access
 

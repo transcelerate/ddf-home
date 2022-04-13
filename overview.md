@@ -62,7 +62,7 @@ The <strong>Study Definitions Repository</strong> is a novel central component a
 <p></p>
 Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working model of the Study Definitions Repository based on the USDM called the <strong>Study Definitions Repository (SDR) Reference Implementation</strong>.  
 <p></p>
-The SDR Reference Implementation has been deployed as open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
+The SDR Reference Implementation has been designed and deployed to be open-source, and is meant to be vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 <p></p>
 Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">video</a> describing the SDR RI. 
 <p></p>
