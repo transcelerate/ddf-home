@@ -38,7 +38,7 @@ representative at an online or offline event.
 
 # Enforcement
 
-Report instances of abuse, harassment, or other unacceptable behaviors to the community leaders responsible for enforcement at [DDF@transcelerate.com](mailto:DDF@transcelerate.com?subject=Code%20of%20Conduct%20Issues&body=First%20Name:%0D%0ALast%20Name:%0D%0AEmail%20Address:%0D%0ACompany%20Name:%0D%0ACompany%20Type%20(Sponsor,%20Solution%20Vendor,%20CRO,%20Health%20Authority,%20Site,%20Other):%0D%0APlease%20Provide%20Details%20of%20Conduct%20Issues:).  Please provide the following required information:
+Report instances of abuse, harassment, or other unacceptable behaviors to the community leaders responsible for enforcement at [DDF@transceleratebiopharma.com](mailto:DDF@transceleratebiopharma.com?subject=Code%20of%20Conduct%20Issues&body=First%20Name:%0D%0ALast%20Name:%0D%0AEmail%20Address:%0D%0ACompany%20Name:%0D%0ACompany%20Type%20(Sponsor,%20Solution%20Vendor,%20CRO,%20Health%20Authority,%20Site,%20Other):%0D%0APlease%20Provide%20Details%20of%20Conduct%20Issues:).  Please provide the following required information:
 - First Name:
 - Last Name:
 - Email Address:

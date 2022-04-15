@@ -45,7 +45,7 @@ Also, the user accounts will be **deactivated after 30 days of inactivity**.  To
 
 To request access, follow the instructions below:
 
-1. Click [here](mailto:DDF@transcelerate.com?subject=Request%20Access%20to%20SDR%20RI%20Sandbox%20Environment&body=First%20Name:%0D%0ALast%20Name:%0D%0AEmail%20Address:%0D%0ACompany%20Name:%0D%0ACompany%20Type%20(Sponsor,%20Solution%20Vendor,%20CRO,%20Health%20Authority,%20Site,%20Other):%0D%0APlease%20Provide%20Reason(s)%20for%20Access:%0D%0APlease%20respond%20with%20Yes%20or%20No%20that%20you%20have%20read%20and%20understood%20the%20terms%20of%20use:) to send an email request
+1. Click [here](mailto:DDF@transceleratebiopharma.com?subject=Request%20Access%20to%20SDR%20RI%20Sandbox%20Environment&body=First%20Name:%0D%0ALast%20Name:%0D%0AEmail%20Address:%0D%0ACompany%20Name:%0D%0ACompany%20Type%20(Sponsor,%20Solution%20Vendor,%20CRO,%20Health%20Authority,%20Site,%20Other):%0D%0APlease%20Provide%20Reason(s)%20for%20Access:%0D%0APlease%20respond%20with%20Yes%20or%20No%20that%20you%20have%20read%20and%20understood%20the%20terms%20of%20use:) to send an email request
 1. In the body of the email, please include the following information.  Please note that * indicates a required field:
    - *First Name:
    - *Last Name:
@@ -67,4 +67,4 @@ To get started using the SDR Reference Implementation Sandbox environment, pleas
 
 ## Help and Support
 
-For technical support with the SDR Reference Implementation Sandbox Environment, please email us [here](mailto:DDF@transcelerate.com?subject=Help%20with%20SDR%20RI%20Sandbox%20Environment).  Responses to questions will be posted to the [FAQ](faq.md) page.
+For technical support with the SDR Reference Implementation Sandbox Environment, please email us [here](mailto:DDF@transceleratebiopharma.com?subject=Help%20with%20SDR%20RI%20Sandbox%20Environment).  Responses to questions will be posted to the [FAQ](faq.md) page.
