@@ -61,8 +61,8 @@ If approved, you will get an email confirming access and instructions on logging
 
 To get started using the SDR Reference Implementation Sandbox environment, please refer to the following references:
 
-- [SDR RI Sandbox Environment User Interface Demo Video]()
-- [SDR RI Sandbox Environment API Demo Video]()
+- [SDR RI Sandbox Environment User Interface Demo Video](https://www.youtube.com/watch?v=223OgGvERRw&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=6)
+- [SDR RI Sandbox Environment API Demo Video](https://www.youtube.com/watch?v=s9Qnzxy7HME&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=7)
 - todo - need links to docs
 
 ## Help and Support
