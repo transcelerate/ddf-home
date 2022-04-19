@@ -6,7 +6,7 @@ docs:
   url: overview.html
 - title: Getting Started
   url: getting-started.html
-  - title: Transformation Tools
+- title: Transformation Tools
   url: tools.html
 - title: Community
   url: community.html
