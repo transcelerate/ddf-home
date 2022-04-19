@@ -29,7 +29,7 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Purpose</strong></td>
-   <td>Understand the 5 stages toward DDF adoption to help create a potential roadmap toward a future state involving DDF</td>
+   <td>Understand the stages toward adopting DDF to help create a potential roadmap toward a future state with DDF</td>
   </tr>
   <tr>
    <td><strong>Outcome</strong></td>
