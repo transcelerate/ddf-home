@@ -1,20 +1,20 @@
 ---
-title: Adoption Toolkit
-description: Landing page for a toolkit created to help companies get started with DDF and providing change management support
+title: Transformation Tools
+description: Landing page for tools created to help companies get started with DDF and providing change management support
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# DDF Adoption Toolkit
+# DDF Transformation Tools
 
-TransCelerate has created a DDF Adoption Toolkit to help stakeholders manage the changes associated with DDF adoption in their organizations. 
+TransCelerate has created Transformation Tools to help stakeholders manage the changes associated with adopting DDF in their organizations. 
 
-See the **Sponsor Company DDF Adoption Toolkit** information on this page. Other stakeholder adoption toolkits are forthcoming.  
+See the **Sponsor Company DDF Transformation Tools** information on this page. Other stakeholder tools are forthcoming.  
 
 For guidance and information on DDF, click [Getting Started](getting-started.md). 
 
-## Sponsor Company DDF Adoption Toolkit
-The purpose of the Sponsor Company DDF Adoption Toolkit is to help sponsor companies manage the changes associated with DDF adoption.   
+## Sponsor Company DDF Transformation Tools
+The purpose of the Sponsor Company DDF Transformation Tools is to help sponsor companies manage the changes associated with adopting DDF.   
 
-TransCelerate organized the toolkit into 5 steps to guide your company through key change management activities.
+TransCelerate organized the toolkit into 4 steps to guide your company through key change management activities.
 
 <img src="media\images\Toolkit Step 1.png" width=500>
 <p></p>
@@ -126,37 +126,7 @@ TransCelerate organized the toolkit into 5 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
-   <td>Use the DDF Maturity Curve, Current State information, and Quick Start Guide to create a future state roadmap</td>
-  </tr>
- </thead>
-</table>
-<p></p>
-</details>
-<p></p>
-
-<img src="media\images\Toolkit Step 5.png" width=500>
-
-<p></p>
-<details>
-<summary>Click for details</summary>
-<p></p>
-<table>
- <thead>
-  <tr>
-   <th>Topic</th>
-   <th>Description</th>
-  </tr>
-  <tr>
-   <td><strong>Purpose</strong></td>
-   <td>Learn about the Quick Start Guide and options on adopting DDF</td>
-  </tr>
-  <tr>
-   <td><strong>Outcome</strong></td>
-   <td>Develop an action plan for your organization that includes activities to facilitate DDF adoption from current to future state</td>
-  </tr>
-  <tr>
-   <td><strong>Action Steps</strong></td>
-   <td>Click here for the Quick Start Guide</td>
+   <td>Use the DDF Maturity Curve and Current State information to create a future state roadmap</td>
   </tr>
  </thead>
 </table>
