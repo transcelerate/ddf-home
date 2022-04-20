@@ -163,6 +163,8 @@ In addition, sponsors can create an SDR based on the SDR reference implementatio
 Click <a target="_blank" href="">todo</a> to access a video describing the SDR reference implementation.
 <p></p>
 </details>
+
+<!--
 <p></p>
 <strong>Getting Started with the SDR reference implementation</strong>
 <p></p>
@@ -195,6 +197,8 @@ Click <a href="sdr-ri-sandbox-access.html">here</a> for directions on how to req
 <p></p>
 </details>
 <p></p>
+-->
+
 <p></p>
 <strong>GitHub Support Questions</strong>
 <p></p>
