@@ -88,11 +88,11 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Purpose</strong></td>
-   <td>Determine the current state of your organization on the DDF maturity curve</td>
+   <td>Determine the current state of your organization on the DDF Change Management Journey</td>
   </tr>
   <tr>
    <td><strong>Outcome</strong></td>
-   <td>Obtain a clear understanding of where your organization aligns to on the DDF Maturity curve</td>
+   <td>Obtain a clear understanding of where your organization aligns to on the DDF Change Management Journey</td>
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
@@ -126,7 +126,7 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
-   <td>Use the DDF Maturity Curve and Current State information to create a future state roadmap</td>
+   <td>Use the DDF Change Management Journey and Current State information to create a future state roadmap</td>
   </tr>
  </thead>
 </table>
