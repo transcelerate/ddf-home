@@ -33,11 +33,11 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Outcome</strong></td>
-   <td>Clear understanding of the change management journey</td>
+   <td>Clear understanding of the Change Management Journey</td>
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
-   <td>Click here for the change management journey</td>
+   <td>Click here for the Change Management Journey</td>
   </tr>
  </thead>
 </table>
