@@ -20,7 +20,7 @@ Click <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4">here
 <p></p>
 The objective of DDF is to automate and expedite the study start-up process by revolutionizing how data flows across clinical trial systems. The automation begins with upstream clinical systems, such as study builders, and continues with downstream clinical systems, such as electronic data capture systems (EDC) and clinical trial management systems (CTMS).
 <p></p>
-TransCelerate has collaborated to develop an open-source, vendor agnostic, study definition repository (SDR) reference implementation. The SDR's basis is a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes protocol study definitions.
+TransCelerate has collaborated to develop an open-source, vendor agnostic, study definition repository (SDR) reference implementation. The SDR's basis is a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes the data model for protocol study definitions.
 <p></p>
 The SDR reference implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally. This allows the information to be passed to systems through application programming interfaces (APIs) used for study execution and data collection and reused throughout the clinical development lifecycle.
 <p></p>
@@ -171,9 +171,11 @@ Click <a target="_blank" href="">todo</a> to access a video describing the SDR r
 <details>
 <summary>What are the options to getting access to the SDR reference implementation?</summary>
 <p></p>
-The SDR reference implementation is available in a shared environment and populated with sample study definition data in order to provide a working environment to demonstrate functionality and upstream and downstream system connectivity.
+The SDR reference implementation is available in an Azure shared environment, and is populated with sample study definition data in order to provide a working environment to demonstrate functionality and upstream and downstream system connectivity.
 <p></p>
-The code and configurations is available by means of an open source license, enabling production deployments by customers, such as vendors or individual pharmaceutical companies.
+While a particular cloud platform was needed for this test environment, users can deploy the SDR Reference Implementation and ultimately the SDR in any cloud environment they wish.
+<p></p>
+The code and configurations is also available by means of an open source license, enabling production deployments by customers, such as vendors or individual pharmaceutical companies.
 <p></p>
 Several potential deployment options are available, recognizing that sponsors may choose to adopt only specific elements of the minimal viable product (MVP) and subsequent releases of the SDR. Benefit realization will vary depending on the deployment option selected and implementation details.
 <p></p>
