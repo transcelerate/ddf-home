@@ -6,6 +6,8 @@ description: Landing page for getting started on DDF, where to go for specific i
 # Getting Started on DDF
 TransCelerate has developed guidance to support people who are new to DDF and as well as those who want to dive right in. Depending on a person's role in an organization and level of understanding of DDF, they can reference different starting points.
 
+For guidance on managing changes associated with adopting to DDF within an organiation, click [Transformation Tools](tools.md)
+
 ## High Level Starting Points
 ### General Awareness
 
@@ -34,7 +36,3 @@ Stakeholders with a good understanding of DDF who want to start actively engagin
 <!-- | **[SDR RI Sandbox Environment](sdr_ri_sandbox_access.md)**  <br>(click to access) | A way to access the working instance of the SDR Reference Implementation in a shared sandbox environment.                         |
 -->
 
-## DDF Transformation Tools
-TransCelerate has created Transformation Tools to help stakeholders manage the changes associated with adoption to DDF in their organizations.  
-
-For more information, click the [Transformation Tools](tools.md).

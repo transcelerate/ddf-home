@@ -9,7 +9,7 @@ TransCelerate has created Transformation Tools to help stakeholders manage the c
 
 See the **Sponsor Company DDF Transformation Tools** information on this page. Other stakeholder tools are forthcoming.  
 
-For guidance and information on DDF, click [Getting Started](getting-started.md). 
+For guidance and information on getting started with DDF, click [Getting Started](getting-started.md). 
 
 ## Sponsor Company DDF Transformation Tools
 The purpose of the Sponsor Company DDF Transformation Tools is to help sponsor companies manage the changes associated with adopting DDF.   
