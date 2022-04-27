@@ -8,8 +8,7 @@ TransCelerate has developed guidance to support people who are new to DDF and as
 
 For guidance on managing changes associated with adopting to DDF within an organiation, click [Transformation Tools](tools.md).
 
-## High Level Starting Points
-### General Awareness
+## Starting Point: General Awareness
 
 Follow these links for information about DDF, benefits, and initiative outputs: 
 
@@ -18,7 +17,7 @@ Follow these links for information about DDF, benefits, and initiative outputs:
 - [DDF Benefits Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
 - [FAQ](faq.md)
 
-### Active Exploration
+## Starting Point: Active Exploration
 
 Click for information about USDM, SDR Reference Implementation, and Open Source/GitHub:
 
@@ -26,7 +25,8 @@ Click for information about USDM, SDR Reference Implementation, and Open Source/
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">- DDF USDM Overview Video</a> <br> <a target="_blank" href="https://cdisc.org/ddf">- Latest USDM Version from CDISC</a> | <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">- DDF SDR Reference Implementation Overview Video</a> <br> <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-platform/blob/main/documents/ddf-sdr-azure-solution-architecture.pdf">- DDF Azure Solution Architecture Document</a> <br> <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-platform/blob/main/documents/MVP%20Process%20Flows%20(final).pdf">- DDF SDR Reference Implementation Process Flows</a> | <a target="_blank" href="community.html">- DDF Community</a> <br> <a target="_blank" href="github-support.html">- GitHub Support</a> |
 
-### Proactive Adoption
+## Starting Point: Proactive Adoption
+
 Stakeholders with a good understanding of DDF who want to start actively engaging with the technology framework and platform can access the SDR Reference Implementation using the following link.
 
 | Link                                                                              | Description                                                                                                             |
