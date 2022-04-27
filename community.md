@@ -25,10 +25,10 @@ The DDF Community Values provide the foundation for the DDF initiative's success
 Before participating, you must acknowledge the Contribution License Agreement (CLA).
 
 To acknowledge the CLA, follow these instructions:
-- Click [here](contributing.md) to download and carefully read the CLA.
+- Click [here](\documents\DDF_CLA_2022MAR28_FINAL.pdf) to download and carefully read the CLA.
 - Print the document.
 - Complete and sign the document.
-- Scan and email a PDF version of the completed and signed document to [DDF@transceleratebiopharma.com](mailto:DDF@transceleratebiopharma.com?subject=Signed%20CLA).
+- Scan and email a PDF version of the completed and signed document to [DDF@transceleratebiopharmainc.com](mailto:DDF@transceleratebiopharmainc.com?subject=Signed%20CLA).
 
 NOTE: Keep a copy for your records.
 

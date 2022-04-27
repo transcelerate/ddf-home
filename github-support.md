@@ -53,7 +53,7 @@ Please watch this [video](https://www.youtube.com/watch?v=w3jLJU7DT5E&t=110s) fo
 - Review content, make changes, and submit the changes for review, approval and distribution, if applicable (the process is called Pull Requests)
 - Viewing the outcome of a Pull Request
 
-## Help and Support
+## GitHub Support
 
 For GitHub specific support needs:
 

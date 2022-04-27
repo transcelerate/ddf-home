@@ -37,7 +37,7 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
-   <td>Click here for the Change Management Journey</td>
+   <td>Click <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Change%20Management%20journey.pdf">here</a> for the Change Management Journey</td>
   </tr>
  </thead>
 </table>
@@ -66,7 +66,7 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
-   <td>Click here for the DDF Personas: Sponsor Company Edition</td>
+   <td>Click <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Persona%20Infographic.pdf">here</a> for the DDF Personas: Sponsor Company Edition</td>
   </tr>
  </thead>
 </table>
@@ -133,7 +133,3 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
 <p></p>
 </details>
 <p></p>
-
-## Help and Support
-
-For general help requests, questions, or comments, please use this [form](https://www.transcelerate.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.

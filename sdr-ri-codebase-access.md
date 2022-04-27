@@ -63,16 +63,3 @@ NOTE: The instructions and guidance are based on deploying the code in Azure onl
 5. [SonarQube Integration with Azure](https://www.youtube.com/watch?v=w11p7R10L2w&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=5)
 6. [SDR RI API Demo](https://www.youtube.com/watch?v=s9Qnzxy7HME&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=7&t=7s)
 7. [SDR RI UI Demo](https://www.youtube.com/watch?v=223OgGvERRw&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=6)
-
-
-## Help and Support
-
-For issues or enhancement requests regarding the code, please post to the Issues tab in the applicable GitHub repository.
-
-- [Link to Issues](https://github.com/transcelerate/ddf-sdr-platform/issues) in Platform repository
-- [Link to Issues](https://github.com/transcelerate/ddf-sdr-api/issues) in API repository
-- [Link to Issues](https://github.com/transcelerate/ddf-sdr-ui/issues) in UI repository
-
-For any other feedback, comments, or questions about getting stared with the SDR RI, please post to the [Discussions: Getting Started](https://github.com/transcelerate/ddf-home/discussions/categories/getting-started) in the DDF Home repository. 
-
-**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and any pull requests submitted will not be triaged at this point in time. 

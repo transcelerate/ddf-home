@@ -5,135 +5,38 @@ description: Landing page where to go with help and support on DDF
 ---
 # Help and Support
 
-TransCelerate has created Transformation Tools to help stakeholders manage the changes associated with adopting DDF in their organizations. 
+## General Help
 
-See the **Sponsor Company DDF Transformation Tools** information on this page. Other stakeholder tools are forthcoming.  
+Please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) to submit your questions about:
+- DDF Initiative, Vision, Benefits, Strategy
+- DDF Transformation Tools
+- Other general questions about DDF
 
-For guidance and information on DDF, click [Getting Started](getting-started.md). 
+## Standards Support
 
-## Sponsor Company DDF Transformation Tools
-The purpose of the Sponsor Company DDF Transformation Tools is to help sponsor companies manage the changes associated with adopting DDF.   
+Please send an email to CDISC at [CDISC@TBD]() regarding:
+- USDM Class Diagram
+- API Specifications
+- Controlled Terminology
+- Architecture Principles
 
-TransCelerate organized the toolkit into 4 steps to guide your company through key change management activities.
+## Technical Support
 
-<img src="media\images\Toolkit Step 1.png" width=500>
-<p></p>
-<details>
-<summary>Click for details</summary>
-<p></p>
-<table>
- <thead>
-  <tr>
-   <th>Topic</th>
-   <th>Description</th>
-  </tr>
-  <tr>
-   <td><strong>Purpose</strong></td>
-   <td>Understand the stages toward adopting DDF to help create a potential roadmap toward a future state with DDF</td>
-  </tr>
-  <tr>
-   <td><strong>Outcome</strong></td>
-   <td>Clear understanding of the Change Management Journey</td>
-  </tr>
-  <tr>
-   <td><strong>Action Steps</strong></td>
-   <td>Click here for the Change Management Journey</td>
-  </tr>
- </thead>
-</table>
-<p></p>
-</details>
-<p></p>
+### Getting Started with SDR Reference Implementation
 
-<img src="media\images\Toolkit Step 2.png" width=500>
-<p></p>
-<details>
-<summary>Click for details</summary>
-<p></p>
-<table>
- <thead>
-  <tr>
-   <th>Topic</th>
-   <th>Description</th>
-  </tr>
-  <tr>
-   <td><strong>Purpose</strong></td>
-   <td>Identify and match organizational functional areas to DDF personas</td>
-  </tr>
-  <tr>
-   <td><strong>Outcome</strong></td>
-   <td>Understand which of your organization's functional areas are impacted by adopting DDF</td>
-  </tr>
-  <tr>
-   <td><strong>Action Steps</strong></td>
-   <td>Click here for the DDF Personas: Sponsor Company Edition</td>
-  </tr>
- </thead>
-</table>
-<p></p>
-</details>
-<p></p>
+Please post to [Discussions: Getting Started](https://github.com/transcelerate/ddf-home/discussions/categories/getting-started) in the DDF Home repository for feedback, comments, or questions about getting started with the SDR RI or with the solution architecture document. 
 
-<img src="media\images\Toolkit Step 3.png" width=500>
+### Reporting Issues/Suggestions on SDR Reference Implementation
 
-<p></p>
-<details>
-<summary>Click for details</summary>
-<p></p>
-<table>
- <thead>
-  <tr>
-   <th>Topic</th>
-   <th>Description</th>
-  </tr>
-  <tr>
-   <td><strong>Purpose</strong></td>
-   <td>Determine the current state of your organization on the DDF Change Management Journey</td>
-  </tr>
-  <tr>
-   <td><strong>Outcome</strong></td>
-   <td>Obtain a clear understanding of where your organization aligns to on the DDF Change Management Journey</td>
-  </tr>
-  <tr>
-   <td><strong>Action Steps</strong></td>
-   <td>Click here for an Organization Self-Assessment</td>
-  </tr>
- </thead>
-</table>
-<p></p>
-</details>
-<p></p>
+For any of the following topics:
+- Code defects
+- Platform, API, or UI technical documentation issues
+- Questions on codebase
+- Suggestions on updates to specific codebase
 
-<img src="media\images\Toolkit Step 4.png" width=500>
+Please post to the Issues tab in the applicable GitHub repository.
+- [Link to Issues](https://github.com/transcelerate/ddf-sdr-platform/issues) in Platform repository
+- [Link to Issues](https://github.com/transcelerate/ddf-sdr-api/issues) in API repository
+- [Link to Issues](https://github.com/transcelerate/ddf-sdr-ui/issues) in UI repository
 
-<p></p>
-<details>
-<summary>Click for details</summary>
-<p></p>
-<table>
- <thead>
-  <tr>
-   <th>Topic</th>
-   <th>Description</th>
-  </tr>
-  <tr>
-   <td><strong>Purpose</strong></td>
-   <td>Determine your organization's future state involving DDF</td>
-  </tr>
-  <tr>
-   <td><strong>Outcome</strong></td>
-   <td>Develop a high level roadmap for your organization regarding DDF</td>
-  </tr>
-  <tr>
-   <td><strong>Action Steps</strong></td>
-   <td>Use the DDF Change Management Journey and Current State information to create a future state roadmap</td>
-  </tr>
- </thead>
-</table>
-<p></p>
-</details>
-<p></p>
-
-## Help and Support
-
-For general help requests, questions, or comments, please use this [form](https://www.transcelerate.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.
+**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and any pull requests submitted will not be triaged at this point in time. 

@@ -41,6 +41,3 @@ Click [Getting Started](getting-started.md) for more details.
 - [YouTube Channel for TransCelerate BioPharma, Inc.](https://www.youtube.com/channel/UC9S20EmzIBGJJ70utCrtNBQ/videos)
 - [Twitter account for TransCelerate BioPharma, Inc.](https://twitter.com/transcelerate)
 
-## Help and Support
-
-For general help requests, questions, or comments, please use this [form](hhttps://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.

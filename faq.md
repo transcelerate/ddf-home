@@ -251,7 +251,3 @@ This multi-stakeholder governance entity has not yet been determined. But it wou
 <p></p>
 </details>
 <p></p>
-<strong>Help and Support</strong>
-<p></p>
-For additional help, support, questions, or comments, please use this <a target="blank" href="https://www.transcelerate.com/assets/digital-data-flow-feedback-form/">form</a>. TransCelerate will post responses to the FAQ page.
-<p></p>

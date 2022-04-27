@@ -116,6 +116,3 @@ For more information on the DDF initiative on the TransCelerate BioPharma Inc. w
 <p></p>
 <p></p>
 
-## **Help and Support**
-
-For general help requests, questions, or comments, please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/). TransCelerate will post responses to the [FAQ](faq.md) page.
