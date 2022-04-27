@@ -6,7 +6,7 @@ description: Landing page for getting started on DDF, where to go for specific i
 # Getting Started on DDF
 TransCelerate has developed guidance to support people who are new to DDF and as well as those who want to dive right in. Depending on a person's role in an organization and level of understanding of DDF, they can reference different starting points.
 
-For guidance on managing changes associated with adopting to DDF within an organiation, click [Transformation Tools](tools.md)
+For guidance on managing changes associated with adopting to DDF within an organiation, click [Transformation Tools](tools.md).
 
 ## High Level Starting Points
 ### General Awareness
