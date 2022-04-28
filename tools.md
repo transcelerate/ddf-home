@@ -96,7 +96,7 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
   </tr>
   <tr>
    <td><strong>Action Steps</strong></td>
-   <td>Click here for an Organization Self-Assessment</td>
+   <td>Click <a target="_blank" href="transcelerate/ddf-home/documents/DDF%20Organizational%20Self%20Assessment.pdf">here</a> for an Organization Self-Assessment</td>
   </tr>
  </thead>
 </table>
