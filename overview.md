@@ -32,7 +32,7 @@ TransCelerate has collaborated with others to design and develop an open-source,
 <p></p>
 The SDR Reference Implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally. This allows the information to be passed to systems through application programming interfaces (APIs) used for study execution and data collection and reused throughout the clinical development lifecycle.  
 <p></p>
-In summary, DDF will combine data standards and a new technology to enable the flow of data across all systems involved in the design and execution of a clinical trial.  
+In summary, DDF will combine data standards and a novel technology to enable the flow of data across all systems involved in the design and execution of a clinical trial.  
 <p></p>
 </details>
 <p></p>
@@ -58,7 +58,7 @@ Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2
 <details>
 <summary>Additional details regarding the <strong>SDR Reference Implementation</strong></summary>
 <p></p>
-The <strong>Study Definitions Repository</strong> is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using technical and data standards.
+The <strong>Study Definitions Repository</strong> is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using both technical and data standards.
 <p></p>
 Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working instance of the Study Definitions Repository based on the USDM called the <strong>Study Definitions Repository (SDR) Reference Implementation</strong>.  
 <p></p>
