@@ -32,7 +32,3 @@ Stakeholders with a good understanding of DDF who want to start actively engagin
 | Link                                                                              | Description                                                                                                             |
 |-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | **[SDR RI Codebase](sdr-ri-codebase-access.md)** <br>(click to assess)            | A way to access the codebase to install the SDR Reference Implementation locally on a company's technology environment. |
-
-<!-- | **[SDR RI Sandbox Environment](sdr_ri_sandbox_access.md)**  <br>(click to access) | A way to access the working instance of the SDR Reference Implementation in a shared sandbox environment.                         |
--->
-

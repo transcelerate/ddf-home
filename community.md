@@ -40,35 +40,3 @@ Click [here](code-of-conduct.md) to read the Code of Conduct.
 To support collaboration and idea sharing, a Collaboration Steering Committee (CSC) will facilitate DDF community meetings. The CSC functions as the board and helps drive DDF initiative milestones and priorties.
 
 **NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and will not be hosting DDF community meetings until a later date. 
-
-<!-- 
-The CSC will host DDF community meetings using a video conferencing technology. 
-
-### Typical DDF Community Meeting Agenda
-
-- 5-10 minutes: Welcome, followed by DDF and ecosystem updates
-- 20-30 minutes: Talk and demo on specific topic of the day
-- 20-30 minutes: “Ask us anything” and customer feedback discussion
-
-**Submitting DDF Community Meeting Discussion Topics**
-
-Before each DDF community meeting, the CSC will share a proposed agenda.  If you'd like to propose a topic for discussion, respond with a post to [Discussion: Agenda Topics](https://github.com/transcelerate/ddf-home/discussions/categories/community-meetings). 
-
-
-## Upcoming Meetings
-
-
-To save a meeting invite, click on the following meeting links:
-
-- TBD: Monthly DDF Product Owner-Vendor Collaboration Q&A Session
-
-**NOTE** - If you're using Outlook for Mac, you may have trouble adding the invitation to your calendar. In order to avoid issues, follow these steps:
-
-- Download the .ics file.
-- Open Outlook for the web.
-- Drag and drop the .ics file into your calendar.
-
-## Previous Meetings
-
-- TBD
--->
