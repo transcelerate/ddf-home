@@ -9,6 +9,8 @@ The Study Definitions Repository (SDR) Reference Implementation is a working ins
 
 For details and documents regarding the RA and USDM, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
+TransCelerate’s intent is to facilitate the development of open-source, vendor-agnostic solutions to facilitate digital data flow (“DDF”).  Accordingly, while the SDR is currently developed with Microsoft Azure, the intent is for users to be able to implement the elements of DDF in any environment or system.  
+
 ## Disclaimer
 
 The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.
