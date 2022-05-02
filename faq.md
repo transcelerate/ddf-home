@@ -165,42 +165,7 @@ Click <a target="_blank" href="">todo</a> to access a video describing the SDR r
 <p></p>
 </details>
 
-<!--
-<p></p>
-<strong>Getting Started with the SDR reference implementation</strong>
-<p></p>
-<details>
-<summary>What are the options to getting access to the SDR reference implementation?</summary>
-<p></p>
-The SDR reference implementation is available in an Azure shared environment, and is populated with sample study definition data in order to provide a working environment to demonstrate functionality and upstream and downstream system connectivity.
-<p></p>
-While a particular cloud platform was needed for this test environment, users can deploy the SDR Reference Implementation and ultimately the SDR in any cloud environment they wish.
-<p></p>
-The code and configurations is also available by means of an open source license, enabling production deployments by customers, such as vendors or individual pharmaceutical companies.
-<p></p>
-Several potential deployment options are available, recognizing that sponsors may choose to adopt only specific elements of the minimal viable product (MVP) and subsequent releases of the SDR. Benefit realization will vary depending on the deployment option selected and implementation details.
-<p></p>
-Click <a href="getting-started.html">here</a> to get started with accessing the SDR reference implementation.
-<p></p>
-</details>
-<details>
-<summary>What can I do in the shared environment?</summary>
-<p></p>
-To learn what functionality is available in the SDR reference inplementation sandbox environment and expectations on how to use it, first read the [Getting Started with SDR Reference Implementation Guidelines]().
-<p></p>
-Click <a href="getting-started.html">here</a> to get started with accessing the SDR reference implementation.
-<p></p>
-</details>
-<details>
-<summary>How do I get access to the shared environment?</summary>
-<p></p>
-Users can access the SDR reference implementation sandbox environment by following the request process.
-<p></p>
-Click <a href="sdr-ri-sandbox-access.html">here</a> for directions on how to request access.
-<p></p>
-</details>
-<p></p>
--->
+
 
 <p></p>
 <strong>Open Source and GitHub FAQ</strong>
@@ -247,16 +212,6 @@ Many reference materials and documents supporting GitHub are available. Here are
 As of May 2022, the DDF initiative is still the process of setting up operations, and any pull requests submitted will not be triaged at this point in time. We will update as and when we expect to start actively monitoring and responding to issues, discussions, and pull requests.
 <p></p>
 </details>
-<!--
-<details>
-<summary>Who decides which pull requests get committed?</summary>
-<p></p>
-For simple changes, administrators will help manage changes to both code, documents, or both.
-<p></p>
-For more complex changes, the pull requests will be reviewed and triaged by members of the <strong>Collaborating Steering Committee (CSC)</strong>.  Please see the links below for more information about the CSC.
-<p></p>
-</details>
--->
 <p></p>
 <strong>Governance on SDR reference implementation Code Updates FAQ</strong>
 <p></p>
@@ -268,18 +223,6 @@ As the SDR reference implementation matures and becomes more stable, responsibil
 The owning entity for this multi-stakeholder governance model has not yet been determined. The governance model is expected to involve additional advisory committees or members to engage stakeholders, such as additional SSOs, health authorities, technology solution providers, systems integrators, and others.
 <p></p>
 </details>
-<!--
-<details>
-<summary>How do I become a member of the CSC?</summary>
-<p></p>
-As the SDR reference implementation matures and is adopted by stakeholders, overall responsibility for the Collaboration Steering Committee will transition from being led mostly by TransCelerate to a new host organization that will become the formal SDR reference implementation governance entity.
-<p></p>
-This multi-stakeholder governance entity has not yet been determined. But it would be a separate organization whose stakeholders and objectives align with the concepts of interoperability and vendor agnostic access. The governance entity may require additional advisory committees or members to engage stakeholders, such as additional SSOs, (e.g., HL7, OHDSI, LOINC), health authorities, technology solution providers, systems integrators, and others.
-<p></p>
-</details>
-<p></p>
--->
-
 <p></p>
 <strong>Adopting DDF FAQ</strong>
 <p></p>
