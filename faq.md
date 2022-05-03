@@ -48,7 +48,7 @@ Digital Data Flow (DDF) benefits include:
 <p></p>
 This initiative will assist many organizations, including study sponsors, CROs, standards organizations, upstream and downstream clinical technology providers, sites, regulatory agencies, technology companies, and the open-source community. With DDF, organizations across the R&D ecosystem will be able to leverage the open-source code of the SDR reference implementation and deploy their own SDR implementations or other solutions compatible with the SDR and the standards it uses.
 <p></p>
-Click <a target="_blank" href="">todo</a> for a video describing benefits of DDF.
+Click <a target="_blank" href="https://www.youtube.com/watch?v=Otg0d2385is">here</a> for a video describing benefits of DDF.
 <p></p>
 </details>
 <details>
@@ -56,7 +56,7 @@ Click <a target="_blank" href="">todo</a> for a video describing benefits of DDF
 <p></p>
 Roles impacted by DDF would be study managers, study protocol authors, medical writers, data management stakeholders concerned with ensuring consistent use of standards, clinical systems (IT) stakeholders, data managers and clinicians primarily accountable for a study.
 <p></p>
-Click <a target="_blank" href="">todo</a> for a video describing benefits of DDF.
+Click <a target="_blank" href="https://www.youtube.com/watch?v=Otg0d2385is">here</a> for a video describing benefits of DDF.
 <p></p>
 </details>
 <p></p>
