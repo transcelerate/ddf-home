@@ -46,9 +46,9 @@ The USDM contains both new and existing standards, and also provides common voca
 <p></p>
 To learn more and get access to the USDM documentation, please go to the <a href="https://www.cdisc.org/ddf">CDISC Digital Data Flow website</a>. 
 <p></p>
-Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">video</a> describing the USDM. 
+Watch a <a target="_blank" href="">video</a> describing the USDM. 
 <p></p>
-<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
+<a href="">
 <img src="media\images\USDM.png">
 </a>             
 <p></p>
@@ -64,9 +64,9 @@ Transcelerate, along with Accenture, Microsoft, and other life sciences technolo
 <p></p>
 The SDR Reference Implementation has been designed and developed to be open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 <p></p>
-Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">video</a> describing the SDR RI. 
+Watch a <a target="_blank" href="">video</a> describing the SDR RI. 
 <p></p>
-<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
+<a href="">
 <img src="media\images\SDRRI.png">
 </a>
 <p></p>
@@ -104,13 +104,13 @@ The DDF initiative will help many organizations, including pharmaceutical compan
 <p></p>
 With DDF, organizations across the research and development ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations. These implementations will enable efficiencies in clinical trial operations to help get medicines to patients faster.
 <p></p>
-Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">video</a> describing the benefits DDF initiative. 
+Watch a <a target="_blank" href="https://www.youtube.com/watch?v=Otg0d2385is">video</a> describing the benefits DDF initiative. 
 <p></p>
-<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
+<a href="https://www.youtube.com/watch?v=Otg0d2385is">
 <img src="media\images\benefits.png">
 </a>
 <p></p>
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click <a href=https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/">here</a>.
+For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click <a href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/">here</a>.
 <p></p>
 </details>
 <p></p>
