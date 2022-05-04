@@ -48,7 +48,7 @@ To learn more and get access to the USDM documentation, please go to the <a href
 <p></p>
 Watch a <a target="_blank" href="https://www.youtube.com/watch?v=C2g7OZEgyjY">video</a> describing the USDM. 
 <p></p>
-<a href="">
+<a href="https://www.youtube.com/watch?v=C2g7OZEgyjY">
 <img src="media\images\USDM.png">
 </a>             
 <p></p>
@@ -66,7 +66,7 @@ The SDR Reference Implementation has been designed and developed to be open-sour
 <p></p>
 Watch a <a target="_blank" href="https://www.youtube.com/watch?v=z-_XPnP0U0k">video</a> describing the SDR RI. 
 <p></p>
-<a href="">
+<a href="https://www.youtube.com/watch?v=z-_XPnP0U0k">
 <img src="media\images\SDRRI.png">
 </a>
 <p></p>
