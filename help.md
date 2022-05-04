@@ -14,7 +14,7 @@ Please use this [form](https://www.transceleratebiopharmainc.com/assets/digital-
 
 ## Standards Support
 
-Please contact [CDISC](https://www.cdisc.org/ddf) regarding:
+Please contact [CDISC](https://www.cdisc.org/ddf#standard__Contact_Us) regarding:
 - USDM Class Diagram
 - API Specifications
 - Controlled Terminology
