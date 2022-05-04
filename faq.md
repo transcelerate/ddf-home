@@ -110,7 +110,7 @@ USDM includes a UML class diagram describing the study design elements, their at
 <p></p>
 CDISC has developed the USDM.
 <p></p>
-Click <a target="_blank" href="">todo</a> for a video describing the USDM.
+Click <a target="_blank" href="https://www.youtube.com/watch?v=C2g7OZEgyjY">todo</a> for a video describing the USDM.
 <p></p>
 Click <a target="_blank" href="https://www.cdisc.org/ddf">here</a> to access the latest version of the USDM posted on CDISC.
 <p></p>
@@ -143,7 +143,7 @@ A study definition repository (SDR) is a novel central component aimed at facili
 <p></p>
 The SDR reference implementation demonstrates the implementation of data and technical standards defined by CDISC as the first step toward digital data flow and will catalyze the broader development of an ecosystem of connecting products. The SDR reference implementation will also demonstrate the ability to flow digital study definition information between systems through API connections to systems such as study builders, EDCs, and CTMS, with the opportunity for many additional use cases to follow., While these systems will not be part of the SDR reference implementation per se, they could demonstrate the ability to send (e.g., study builders) and receive (e.g., EDC and CTMS) study definitions data.
 <p></p>
-Click <a target="_blank" href="">todo</a> to access a video describing the SDR reference implementation.
+Click <a target="_blank" href="https://www.youtube.com/watch?v=z-_XPnP0U0k">here</a> to access a video describing the SDR reference implementation.
 <p></p>
 </details>
 <details>
@@ -151,7 +151,7 @@ Click <a target="_blank" href="">todo</a> to access a video describing the SDR r
 <p></p>
 No, the SDR reference implementation will not be a fully functional product.  Rather, it will be used to demonstrate and test ecosystem connectivity and interoperability. The SDR reference implementation may enable others to develop innovative commercial products. By creating a reference implementation of an SDR, we hope to motivate vendors to align their products with it and thus incorporate the new data standards. This will allow sponsors to more readily adopt an SDR.
 <p></p>
-Click <a target="_blank" href="">todo</a> to access a video describing the SDR reference implementation.
+Click <a target="_blank" href="https://www.youtube.com/watch?v=z-_XPnP0U0k">here</a> to access a video describing the SDR reference implementation.
 <p></p>
 </details>
 <details>
@@ -161,7 +161,7 @@ Vendors can connect to the SDR reference implementation to test compatibility an
 <p></p>
 In addition, sponsors can create an SDR based on the SDR reference implementation for their own use, adding new functionality if desired, with the ability to contribute to further development of the SDR reference implementation.
 <p></p>
-Click <a target="_blank" href="">todo</a> to access a video describing the SDR reference implementation.
+Click <a target="_blank" href="https://www.youtube.com/watch?v=z-_XPnP0U0k">here</a> to access a video describing the SDR reference implementation.
 <p></p>
 </details>
 

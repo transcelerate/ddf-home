@@ -46,7 +46,7 @@ The USDM contains both new and existing standards, and also provides common voca
 <p></p>
 To learn more and get access to the USDM documentation, please go to the <a href="https://www.cdisc.org/ddf">CDISC Digital Data Flow website</a>. 
 <p></p>
-Watch a <a target="_blank" href="">video</a> describing the USDM. 
+Watch a <a target="_blank" href="https://www.youtube.com/watch?v=C2g7OZEgyjY">video</a> describing the USDM. 
 <p></p>
 <a href="">
 <img src="media\images\USDM.png">
@@ -64,7 +64,7 @@ Transcelerate, along with Accenture, Microsoft, and other life sciences technolo
 <p></p>
 The SDR Reference Implementation has been designed and developed to be open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
 <p></p>
-Watch a <a target="_blank" href="">video</a> describing the SDR RI. 
+Watch a <a target="_blank" href="https://www.youtube.com/watch?v=z-_XPnP0U0k">video</a> describing the SDR RI. 
 <p></p>
 <a href="">
 <img src="media\images\SDRRI.png">
