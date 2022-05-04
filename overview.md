@@ -26,11 +26,12 @@ Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4&t=2
 <details>
 <summary>Click for answer</summary>
 <p></p>
-The objective of DDF is to automate and expedite the study start-up process by revolutionizing how data flows across clinical trial systems. The automation begins with upstream clinical systems, such as study builders, and continues with downstream clinical systems, such as electronic data capture systems (EDC) and clinical trial management systems (CTMS).
+The objective of DDF is to automate and expedite the Study Start-Up process by revolutionizing how data flows across clinical trial systems, beginning with upstream (e.g., study builder) and downstream (e.g., electronic data capturing/EDC, clinical trial management system/CTMS) clinical systems.
+
 <p></p>
-TransCelerate has collaborated with others to design and develop an open-source, vendor agnostic, <strong>Study Definition Repository (SDR) Reference Implementation</strong>. The SDR Reference Implementation is based on a <strong>Unified Study Definitions Model (USDM)</strong>, developed by CDISC, that standardizes protocol study definitions.
+TransCelerate has collaborated to develop an open-source, vendor agnostic, <strong>study definition repository</strong> (SDR) reference implementation. The SDR's basis is a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes the data model for protocol study definitions..
 <p></p>
-The SDR Reference Implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally. This allows the information to be passed to systems through application programming interfaces (APIs) used for study execution and data collection and reused throughout the clinical development lifecycle.  
+The SDR reference implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally. This allows the information to be passed to systems through application programming interfaces (APIs) used for study execution and data collection and reused throughout the clinical development lifecycle.  
 <p></p>
 In summary, DDF will combine data standards and a novel technology to enable the flow of data across all systems involved in the design and execution of a clinical trial.  
 <p></p>
@@ -100,9 +101,9 @@ Digital Data Flow (DDF) benefits include:
 <details>
 <summary>Click for answer</summary>
 <p></p>
-The DDF initiative will help many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, investigator sites, regulatory agencies, technology companies, and open-source pharmaceutical and IT communities.
+The DDF initiative will help many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities.
 <p></p>
-With DDF, organizations across the research and development ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations. These implementations will enable efficiencies in clinical trial operations to help get medicines to patients faster.
+With DDF, organizations across the R&D ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations.
 <p></p>
 Watch a <a target="_blank" href="https://www.youtube.com/watch?v=Otg0d2385is">video</a> describing the benefits DDF initiative. 
 <p></p>
