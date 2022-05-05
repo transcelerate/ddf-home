@@ -8,9 +8,9 @@ description: Landing page for the DDF reference implementation and related infor
 
 The DDF initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
 
-Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s) describing the DDF initiative. 
+Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. 
 
-<a href="https://www.youtube.com/watch?v=082onW7jhe4&t=2s">
+<a href="https://www.youtube.com/watch?v=082onW7jhe4">
 <img src="media\images\overview.png">
 </a>
 <p></p>

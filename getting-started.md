@@ -13,7 +13,7 @@ For guidance on managing changes associated with adopting to DDF within an organ
 Follow these links for information about DDF, benefits, and initiative outputs: 
 
 - [DDF Overview](overview.md)
-- [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4&t=2s)
+- [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4)
 - [DDF Benefits Video](https://www.youtube.com/watch?v=Otg0d2385is)
 - [FAQ](faq.md)
 

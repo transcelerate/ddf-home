@@ -46,7 +46,7 @@ Here is a quick summary of the GitHub user interface.
 
 The main features of GitHub is allowing users to access content and make changes to the content for review, approval and distribution.  
 
-Please watch this [video](https://www.youtube.com/watch?v=w3jLJU7DT5E&t=110s) for an introduction on how to actively use GitHub to:
+Please watch this [video](https://youtu.be/w3jLJU7DT5E) for an introduction on how to actively use GitHub to:
 
 - Submitting an Issue
 - Submitting a Discussion
