@@ -21,17 +21,15 @@
 title: Digital Data Flow
 email: info@transcelerate.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: transcelerate
 github_username:  transcelerate
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-#theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 header_pages:
  - community.md
@@ -55,5 +53,3 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-slate
