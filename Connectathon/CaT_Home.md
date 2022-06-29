@@ -11,7 +11,8 @@ TransCelerate's DDF Initiative is hosting a virtual DDF Connectathon!
 <img src="https://github.com/transcelerate/ddf-home/blob/main/media/images/Connectathon_Banner.png">
 </a>
 <p></p>
-<b>Registration opens on August 1st, 2022.</b>
+
+## Registration opens on August 1st, 2022.
 
 TransCelerate will provide more information about the DDF Connectathon when registration opens.
 <p></p>
