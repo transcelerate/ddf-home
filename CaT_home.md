@@ -3,7 +3,7 @@ title: Connectathon Home
 description: Landing page for the 2022 DDF Connectathon
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Introducing the 2022 TransCelerate DDF Connectathon
+# 2022 TransCelerate DDF Connectathon
 
 TransCelerate's DDF Initiative is hosting a virtual DDF Connectathon!
 
