@@ -7,10 +7,7 @@ description: Landing page for the 2022 DDF Connectathon
 
 TransCelerate's DDF Initiative is hosting a virtual DDF Connectathon!
 
-<a href="">
 <img src="media/images/Connectathon_Banner.png">
-</a>
-<p></p>
 
 ### Registration opens on August 1st, 2022.
 
