@@ -15,3 +15,5 @@ TransCelerate will provide more information about the DDF Connectathon when regi
 <p></p>
 
 ### Stayed Tuned for More Details!
+
+<!-- Don't miss out - click [here](ADD URL) to receive DDF Connectathon updates. -->
