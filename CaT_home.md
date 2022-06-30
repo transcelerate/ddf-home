@@ -17,3 +17,9 @@ TransCelerate will provide more information about the DDF Connectathon when regi
 ### Stayed Tuned for More Details!
 
 <!-- Don't miss out - click [here](ADD URL) to receive DDF Connectathon updates. -->
+
+<!-- ###[What is the DDF Connectathon?](CaT_About.md#What-is-the-DDF-Connectathon) -->
+
+<!-- ###[Objectives of the DDF Connectathon](CaT_About.md#Objectives-of-the-DDF-Connectathon) -->
+
+<!-- ###[Participating in the DDF Connectathon](CaT_About.md#Participating-in-the-DDF-Connectathon) -->
