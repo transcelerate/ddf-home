@@ -14,11 +14,11 @@ description: Frequently Asked Questions for the 2022 DDF Connectathon
 <p></p>
 Some key goals of the DDF Connectathon are:
 <p></p>
-- <b>Development Revision Feedback</b>: As different groups use the SDR and USDM to connect their solutions, we will get a better idea of what future functionality will be needed and how to get there. This feedback will be collected formally at the end of the event and given to our development teams to incorporate into the next revision of the standard  
+- <strong>Development Revision Feedback</strong>: As different groups use the SDR and USDM to connect their solutions, we will get a better idea of what future functionality will be needed and how to get there. This feedback will be collected formally at the end of the event and given to our development teams to incorporate into the next revision of the standard  
 <p></p>
-- <b>Stress Tested System</b>: We want to gain a better understanding how the system behaves when multiple users are being engaged, and what enhancements need to be made to scale the solution in response to a growing community.
+- <strong>Stress Tested System</strong>: We want to gain a better understanding how the system behaves when multiple users are being engaged, and what enhancements need to be made to scale the solution in response to a growing community.
 <p></p>
-- <b>Community Kickstart</b>: Showing the solution while also demonstrating community engagement will prove an open-source model which can be sustainable and productive to all involved. As the first organized event for DDF, we want this to be a central place for organizations to learn more about the standard and start to think of ways they can contribute and engage with others in the community for mutual benefit.
+- <strong>Community Kickstart</strong>: Showing the solution while also demonstrating community engagement will prove an open-source model which can be sustainable and productive to all involved. As the first organized event for DDF, we want this to be a central place for organizations to learn more about the standard and start to think of ways they can contribute and engage with others in the community for mutual benefit.
 <p></p>
 It is also encouraged that participants of the Connectathon leverage the event as a way to network and connect to others, in the non-technical sense, in order to lay the foundation of the DDF community moving forward.
 <p></p>
@@ -31,9 +31,9 @@ The overall aim of the DDF Connectathon is to improve the DDF Minimal Viable Pro
 <p></p>
 In addition, we want to:  
 <p></p>
-- <b>Create Community Engagement</b>: Build up open-source community within the ecosystem and encourage future participation in long-term development/governance of the DDF solutions. Ideally, this creates positive momentum in the community, allowing organizations to integrate DDF into product roadmaps as result of the event.
+- <strong>Create Community Engagement</strong>: Build up open-source community within the ecosystem and encourage future participation in long-term development/governance of the DDF solutions. Ideally, this creates positive momentum in the community, allowing organizations to integrate DDF into product roadmaps as result of the event.
 <p></p>
-- <b>Be a Catalyst for Innovation</b>: As a gathering of developers across the clinical studies space, we should have the best opportunity and environment for novel concepts and designs to be built and shared with the community.
+- <strong>Be a Catalyst for Innovation</strong>: As a gathering of developers across the clinical studies space, we should have the best opportunity and environment for novel concepts and designs to be built and shared with the community.
 <p></p>
 </details>
 <p></p>
@@ -76,9 +76,9 @@ However, you may work on your project at the time most convenient to you and you
 <p></p>
 The Connectathon makes use of the DDF online areas, that you will want to get familiar with:
 <p></p>
-<strong><a href="https://github.com/transcelerate">TransCelerate on GitHub</a></strong>: This is the place to start researching the details of the Connectathon.
+<strong><a href="https://transcelerate.github.io/ddf-home/index.html">DDF Website</a></strong>:  The official TransCelerate DDF website offers a good overview on the resources available. 
 <p></p>
-<strong><a href="https://transcelerate.github.io/ddf-home/index.html">DDF Website</a></strong>:  The official TransCelerate DDF webpage offers a good overview on the resources available.  
+<strong><a href="https://github.com/transcelerate">TransCelerate on GitHub</a></strong>: This is the place to start researching the more technical aspects and details of DDF.
 <p></p>
 </details>
 <p></p>
@@ -133,8 +133,6 @@ It is possible to do more than one, but this needs some care. Tracks want to ach
 <summary>Does everyone in my organization need to do the same track?</summary>
 <p></p>
 No, not at all. Divide up your efforts as you wish.
-<p></p>
-</details>
 <p></p>
 </details>
 <p></p>
