@@ -17,7 +17,9 @@ TransCelerate will provide more information about the DDF Connectathon when regi
 ### Stayed Tuned for More Details!
 
 <p></p>
-<strong>What is the DDF Connectathon?</strong>
+
+### What is the DDF Connectathon?
+
 <p></p>
 <details>
 <summary>Click for more details</summary>
@@ -37,7 +39,9 @@ A key principle of the Connectathon is that it is a safe place to explore option
 <p></p>
 </details>
 <p></p>
-<strong>Objectives of the DDF Connectathon</strong>
+
+### Objectives of the DDF Connectathon
+
 <p></p>
 <details>
 <summary>Click for more details</summary>
@@ -56,7 +60,9 @@ The DDF Connectathon strives to...
 <p></p>
 </details>
 <p></p>
-<strong>Participating in the DDF Connectathon</strong>
+
+### Participating in the DDF Connectathon
+
 <p></p>
 <details>
 <summary>Click for more details</summary>
@@ -88,12 +94,14 @@ This will be an interactive event. Participants will get the most out it by havi
 <p></p>
 </details>
 <p></p>
-<strong>Solution Exploration Opportunities at DDF Connectathon</strong>
+
+### Solution Exploration Opportunities at DDF Connectathon
+
 <p></p>
 <details>
 <summary>Click for more details</summary>
 <p></p>
-There are six tracks across two categories.  Innovative exploration not detailed below is also welcome and encouraged. 
+There are six tracks across two categories.  Innovative exploration not detailed below is also welcome and encouraged. More information about tracks will be provided post-registration. 
 <p></p>
 <u>Category: Data Interoperability</u>
 <p></p>
@@ -125,4 +133,5 @@ TRACK: User Interface (UI) / User Experience (UX)
 <p></p>
 </details>
 <p></p>
-<strong>DDF Connectathon FAQ - Forthcoming</strong>
+
+### DDF Connectathon FAQ - Forthcoming
