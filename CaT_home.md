@@ -24,9 +24,9 @@ TransCelerate will provide more information about the DDF Connectathon when regi
 <p></p>
 The DDF Connectathon is a virtual event for sponsor companies, life sciences technology vendors, CROs, and other stakeholders to experiment and test how well their applications align to the <b>CDISC Unified Study Definitions Model (USDM)</b> and the connectivity and interoperability of these applications with the <b>Study Definitions Repository Reference Implementation (SDR RI)</b>.
 <p></p>
-<!-- Watch a <a target="_blank" href="">video</a> describing the DDF Connectathon. -->
+Watch a <a target="_blank" href="https://www.youtube.com/watch?v=vbq9HbhasFw">video</a> describing the DDF Connectathon.
 <p></p>
-<a href="">
+<a href="https://www.youtube.com/watch?v=vbq9HbhasFw">
 <img src="media\images\Connectathon_Video.png" width="400"></a>
 <p></p>
 <u>Principles of the DDF Connectathon</u>
