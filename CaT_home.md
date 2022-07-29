@@ -10,7 +10,7 @@ TransCelerate's DDF Initiative is hosting a virtual DDF Connectathon!
 <img src="media/images/CONNECT-A-THON-BMA.png" width="500">
 
 
-### What is the DDF Connectathon?
+### [What is the DDF Connectathon?](https://www.youtube.com/watch?v=vbq9HbhasFw)
 
 <p></p>
 <details>
