@@ -9,14 +9,6 @@ TransCelerate's DDF Initiative is hosting a virtual DDF Connectathon!
 
 <img src="media/images/CONNECT-A-THON-BMA.png" width="500">
 
-### Registration opens on August 1st, 2022.
-
-TransCelerate will provide more information about the DDF Connectathon when registration opens.
-<p></p>
-
-### Stayed Tuned for More Details!
-
-<p></p>
 
 ### What is the DDF Connectathon?
 
@@ -134,4 +126,12 @@ TRACK: User Interface (UI) / User Experience (UX)
 </details>
 <p></p>
 
-### DDF Connectathon FAQ - Forthcoming
+### [DDF Connectathon FAQ](CaT_FAQ.md)
+<p></p>
+<p></p>
+
+### Registration is now open!
+<p></p>
+<a href="https://transcelerateddf.bemyapp.com/">
+<img src="media/images/Connectathon_Register_Button.png" width="250">
+</a>
