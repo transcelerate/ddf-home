@@ -130,7 +130,7 @@ TRACK: User Interface (UI) / User Experience (UX)
 <p></p>
 <p></p>
 
-### Registration is now open!
+### <i>Registration is now open!</i>
 <p></p>
 <a href="https://transcelerateddf.bemyapp.com/">
 <img src="media/images/Connectathon_Register_Button.png" width="250">
