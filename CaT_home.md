@@ -128,6 +128,7 @@ TRACK: User Interface (UI) / User Experience (UX)
 
 ### [DDF Connectathon FAQ](CaT_FAQ.md)
 <p></p>
+<img src="media/images/Line_Break.png" width="500">
 <p></p>
 
 <i>Registration is now open!</i>
