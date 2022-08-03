@@ -14,11 +14,11 @@ description: Frequently Asked Questions for the 2022 DDF Connectathon
 <p></p>
 Some key goals of the DDF Connectathon are:
 <p></p>
-- <strong>Development Revision Feedback</strong>: As different groups use the SDR and USDM to connect their solutions, we will get a better idea of what future functionality will be needed and how to get there. This feedback will be collected formally at the end of the event and given to our development teams to incorporate into the next revision of the standard  
+- <strong>Development Revision Feedback</strong>: As different groups use the SDR and USDM to connect their solutions, we will get a better idea of what future functionality will be needed and how to get there. This feedback will be collected formally at the end of the event and given to our development teams to incorporate into the next revision of the standard, both the USDM and SDR.
 <p></p>
 - <strong>Stress Tested System</strong>: We want to gain a better understanding how the system behaves when multiple users are being engaged, and what enhancements need to be made to scale the solution in response to a growing community.
 <p></p>
-- <strong>Community Kickstart</strong>: Showing the solution while also demonstrating community engagement will prove an open-source model which can be sustainable and productive to all involved. As the first organized event for DDF, we want this to be a central place for organizations to learn more about the standard and start to think of ways they can contribute and engage with others in the community for mutual benefit.
+- <strong>Community Kickstart</strong>: Showing the solution while also demonstrating community engagement will prove an open-source model which can be sustainable and productive to all involved. As the first organized event for DDF, we want this to be a central place for organizations to learn more about the SDR and start to think of ways they can contribute and engage with others in the community for mutual benefit.
 <p></p>
 It is also encouraged that participants of the Connectathon leverage the event as a way to network and connect to others, in the non-technical sense, in order to lay the foundation of the DDF community moving forward.
 <p></p>
@@ -27,20 +27,20 @@ It is also encouraged that participants of the Connectathon leverage the event a
 <details>
 <summary>What is the purpose of the Connectathon?</summary>
 <p></p>
-The overall aim of the DDF Connectathon is to improve the DDF Minimal Viable Product (MVP) by implementing and testing it out through connections with different software solutions. We will then discover what works and what does not, and identify possible improvements to be made. The different Connectathon tracks focus on different areas. (See also "What are tracks?")
+The overall aim of the DDF Connectathon is to improve the DDF Minimal Viable Solution (MVS) by implementing and testing it out through connections with different software solutions. We will then discover what works and what does not, and identify possible improvements to be made. The different Connectathon tracks focus on different areas. (See also "What are tracks?")
 <p></p>
 In addition, we want to:  
 <p></p>
-- <strong>Create Community Engagement</strong>: Build up open-source community within the ecosystem and encourage future participation in long-term development/governance of the DDF solutions. Ideally, this creates positive momentum in the community, allowing organizations to integrate DDF into product roadmaps as result of the event.
+- <strong>Create Community Engagement</strong>: Build up open-source community within the ecosystem and encourage future participation in long-term development/governance of the DDF solutions. Ideally, this creates positive momentum in the community, encouraging organizations to integrate DDF into product roadmaps as result of the event.
 <p></p>
-- <strong>Be a Catalyst for Innovation</strong>: As a gathering of developers across the clinical studies space, we should have the best opportunity and environment for novel concepts and designs to be built and shared with the community.
+- <strong>Be a Catalyst for Innovation</strong>: As a gathering of developers across the clinical studies space, we should have a unique opportunity and environment for novel concepts and designs to be built and shared with the community.
 <p></p>
 </details>
 <p></p>
 <details>
 <summary>What types of roles/resources are expected to participate in this event?</summary>
 <p></p>
-The focus of this event will be working hands on with your technical solution, and how it connects to the DDF SDR. This will require technical resources, capable of developing, debugging, and configuring your solution. However, there will be other responsibilities during the event such as presenting your solution and answering questions around future development. To deal with these business and process questions it may be beneficial.
+The focus of this event will be working hands on with your technical solution, and how it connects to the DDF SDR. This will require technical resources, capable of developing, debugging, and configuring your solution. However, there will be other responsibilities during the event such as presenting your solution and answering questions around future development. To deal with these business and process questions it may be beneficial to have business and process experts available from your organization to contribute.
 <p></p>
 </details>
 <p></p>
@@ -116,7 +116,7 @@ See also "Track Leads".
 <p></p>
 All Connectathon work takes place on a track, so you should choose one to take part in and contribute to. In theory you could just do your own work, but the idea is to collaborate and that happens on the tracks.
 <p></p>
-The list of tracks is published on the DDF GitHub page (forthcoming) in the weeks leading up to the Connectathon. There is also likely to be forum discussion on GitHub (link forthcoming). Also see “What are the key online resources” (add link) below.
+The list of tracks will be published on the DDF GitHub page (forthcoming) in the weeks leading up to the Connectathon. There is also likely to be forum discussion on GitHub (link forthcoming). Also see “What are the key online resources” (add link) below.
 <p></p>
 Find the list of tracks and chose one that you are interested in and can help out with. You don’t need to be an expert in that area, just willing to learn and be useful. The actual track registration is done via the pre-Connectathon survey that is circulated, but you can always get in touch with the Track Lead or just show up. Choosing a track does not commit you to staying with it for the entire event. While it is preferable to focus on one track, there is nothing to stop you from finding another that suits you better.
 <p></p>
@@ -159,18 +159,18 @@ The track leads will be announced in due time prior to the event.
 
 <p></p>
 <details>
-<summary>What is the aim for an individual participant?</summary>
+<summary>How will individual participants work within the Connectathon's framework?</summary>
 <p></p>
 Participants will join tracks and work jointly with others to test out and improve DDF solution connectivity.
 <p></p>
-Each track will have certain aims it wants to achieve. For individuals, everyone will judge success themselves. It may be proving your software works against another vendor in a semi-formal manner or adding a new enhancement to your working code. It may be testing a DDF resource that is relevant to you to help move it along in published maturity - which may be important for your stakeholders.
+Each track will have certain aims it wants to achieve. For individuals, everyone will judge success themselves. It may be proving in a semi-formal manner that your software works with another vendor's software or adding a new enhancement to your working code. It may be testing a DDF resource that is relevant to you to help move it along in published maturity - which may be important for your stakeholders.
 <p></p>
 </details>
 <p></p>
 <details>
 <summary>Do I have to come prepared, or can I start on the day?</summary>
 <p></p>
-Either is fine. People can take a look at a new area for them or they bring working software that they have been writing for months or years. It would however be helpful if you have an understanding of DDF and what you would like to work on at the Connectathon. The most important thing is to set your own goals for your code.
+Either is fine. People can take a look at a new area for them or they bring working software that they have been writing for months or years. It would however be helpful if you have an understanding of DDF’s overall objectives/goals and what you would like to work on at the Connectathon. The most important thing is to set your own goals for your code.
 <p></p>
 </details>
 <p></p>
@@ -195,7 +195,7 @@ Ideally, you should have some prior knowledge of DDF to maximize your Connectath
 <details>
 <summary>Do I have to write code?</summary>
 <p></p>
-The Connectathon is all about testing out the DDF specification in actual use. That means coding, running and testing DDF applications. Writing software is key to this and is one of the main activities of the Connectathon. Coding is not mandatory but is usual and is encouraged. Some people bring existing code, and some start from scratch. But, there are also non-coding software integration tasks such as testing and configuration (and to a lesser extent analysis). People also contribute to DDF at Connectathon’s by spending time reviewing, learning and commenting  - this is welcome and appreciated.
+The Connectathon is all about testing out the SDR specifications in actual use. That means coding, running and testing relevant applications. Writing software is key to this and is one of the main activities of the Connectathon. Coding is not mandatory but is usual and is encouraged. Some people bring existing code, and some start from scratch. But, there are also non-coding software integration tasks such as testing and configuration (and to a lesser extent analysis). People also contribute to DDF at Connectathon’s by spending time reviewing, learning and commenting  - this is welcome and appreciated.
 <p></p>
 </details>
 <p></p>
@@ -216,14 +216,14 @@ You will want to make progress with coding at the event and don’t want to spen
 <details>
 <summary>Does it matter what tools, systems, languages I use?</summary>
 <p></p>
-You can use whatever tools and software frameworks you wish. DDF can be implemented in many ways.
+You can use whatever tools and software frameworks you wish. The SDR can be implemented in many ways.
 <p></p>
 </details>
 <p></p>
 <details>
 <summary>Will someone be checking or marking what has been produced during the Connectathon?</summary>
 <p></p>
-Your code will not be reviewed by someone. But the idea of a Connectathon is interoperability. So, it is expected that you will connect the output of your code to that of others and see what works. That is how you can test out your (and their) code. One of your main goals will be to check your code’s operation against other systems.
+Your code will not be reviewed by someone. But the idea of this Connectathon is interoperability. So, it is expected that you will connect the output of your code to that of others and see what works. That is how you can test out your (and their) code. One of your main goals will be to check your code’s operation against other systems.
 <p></p>
 </details>
 <p></p>
@@ -237,11 +237,12 @@ No, there is no formal certification or accreditation. Some tracks have a way to
 <details>
 <summary>Can I demo my software?</summary>
 <p></p>
-Please don’t use this forum to do this. The Connectathon is a TransCelerate hosted event and not a product demo. People may be interested in your product, but that is for outside of the Connectathon. Overtly doing product demonstrations are not welcomed. However, your great product will speak for itself, if it takes part in successful connection tracks!
+Please don’t use this forum to do this. The Connectathon is a TransCelerate hosted event and not a product demo. People may be interested in your product, but that is for outside of the Connectathon. Doing project demonstrations not necessary to facilitate the Connectathon work, or sale pitches are not welcomed. However, your great product will speak for itself, if it takes part in successful connection tracks!
 <p></p>
-Also, if you want your product to become well known, consider becoming a keynote speaker for the event. You can reach out to us <a href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">here.</a> 
+Also, if you want more visibility for your product, consider becoming a keynote speaker for the event. You can reach out to us <a href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">here.</a> 
 <p></p>
 </details>
 <p></p>
 
 
+![image](https://user-images.githubusercontent.com/97183374/182706943-504c5ea8-b5e0-44c1-bec6-62e7fc69fb52.png)
