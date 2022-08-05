@@ -243,6 +243,3 @@ Also, if you want more visibility for your product, consider becoming a keynote 
 <p></p>
 </details>
 <p></p>
-
-
-![image](https://user-images.githubusercontent.com/97183374/182706943-504c5ea8-b5e0-44c1-bec6-62e7fc69fb52.png)
