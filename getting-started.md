@@ -27,11 +27,9 @@ Click for information about USDM, SDR Reference Implementation, and Open Source/
 
 **See some examples of what is possible with DDF:**
 
-[DDF Connection Showcase Video - IBM](https://www.youtube.com/watch?v=R98PfI0iXqA&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=26)
-
-[DDF Connection Showcase Video - Trials.ai](https://www.youtube.com/watch?v=EjBCok4HyNM&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=27)
-
-[DDF Connection Showcase Video - Nuracor & Oracle](https://www.youtube.com/watch?v=4RQHx2GMm3k&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=28)
+- [DDF Connection Showcase Video - IBM](https://www.youtube.com/watch?v=R98PfI0iXqA&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=26)
+- [DDF Connection Showcase Video - Trials.ai](https://www.youtube.com/watch?v=EjBCok4HyNM&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=27)
+- [DDF Connection Showcase Video - Nuracor & Oracle](https://www.youtube.com/watch?v=4RQHx2GMm3k&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=28)
 
 ## Starting Point: Proactive Adoption
 
