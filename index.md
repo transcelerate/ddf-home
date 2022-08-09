@@ -39,6 +39,6 @@ Click [Getting Started](getting-started.md) for more details.
 - [TransCelerate on GitHub](https://github.com/transcelerate)
 - [Digital Data Flow Initiative on the main TransCelerate BioPharma, Inc. Website](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/)
 - [TransCelerate BioPharma, Inc. Events](https://www.transceleratebiopharmainc.com/transcelerate-events-2/)
-- [YouTube Channel for TransCelerate BioPharma, Inc.; DDF Playlist](https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u)
+- [YouTube Channel for TransCelerate BioPharma, Inc.: DDF Playlist](https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u)
 - [Twitter account for TransCelerate BioPharma, Inc.](https://twitter.com/transcelerate)
 
