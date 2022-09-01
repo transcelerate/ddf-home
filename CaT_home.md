@@ -128,6 +128,7 @@ TRACK: User Interface (UI) / User Experience (UX)
 
 ### [DDF Connectathon FAQ](CaT_FAQ.md)
 ### [Connectathon Q&A Call Recording](https://www.youtube.com/watch?v=C7gLc4JtmPg)
+### [Connectathon Participant Checklist](DDF - Connectathon - Participant Checklist.docx)
 <p></p>
 
 <img src="media/images/Line_Break.png" width="500">
