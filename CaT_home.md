@@ -130,6 +130,8 @@ TRACK: User Interface (UI) / User Experience (UX)
 ### [Connectathon Q&A Call Recording](https://www.youtube.com/watch?v=C7gLc4JtmPg)
 ### [Connectathon Participant Checklist](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20-%20Connectathon%20-%20Participant%20Checklist.docx)
 ### [Connectathon Sample Data Call Recording](https://www.youtube.com/watch?v=ZrZ7WsAiTlI)
+### [Connectathon Sample Study Data Shell Spreadsheet](https://github.com/transcelerate/ddf-home/blob/main/documents/StudyDesignShell-BS%2007SEP2022.xlsx)
+
 <p></p>
 
 <img src="media/images/Line_Break.png" width="500">
