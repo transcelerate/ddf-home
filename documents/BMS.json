@@ -1,0 +1,3996 @@
+{
+  "studyTitle": "BMS Test Study",
+  "studyVersion": "1",
+  "studyType": {
+    "code": "C98388",
+    "codeSystem": "http://www.cdisc.org",
+    "codeSystemVersion": "2022-03-25",
+    "decode": "Interventional Study"
+  },
+  "studyPhase": {
+    "code": "C49686",
+    "codeSystem": "http://www.cdisc.org",
+    "codeSystemVersion": "2022-03-25",
+    "decode": "Phase II Trial"
+  },
+  "studyIdentifiers": [
+    {
+      "studyIdentifier": "XX03CC05",
+      "studyIdentifierScope": {
+        "organisationIdentifierScheme": "DUNS",
+        "organisationIdentifier": "123456789",
+        "organisationName": "ACME Pharma",
+        "organisationType": {
+          "code": "C70793",
+          "codeSystem": "http://www.cdisc.org",
+          "codeSystemVersion": "2022-03-25",
+          "decode": "Clinical Study Sponsor"
+        }
+      }
+    },
+    {
+      "studyIdentifier": "NCT12345678",
+      "studyIdentifierScope": {
+        "organisationIdentifierScheme": "USGOV",
+        "organisationIdentifier": "CT-GOV",
+        "organisationName": "ClinicalTrials.gov",
+        "organisationType": {
+          "code": "C93453",
+          "codeSystem": "http://www.cdisc.org",
+          "codeSystemVersion": "2022-03-25",
+          "decode": "Study Registry"
+        }
+      }
+    },
+    {
+      "studyIdentifier": "FDA1234",
+      "studyIdentifierScope": {
+        "organisationIdentifierScheme": "FDA",
+        "organisationIdentifier": "FDA",
+        "organisationName": "Food and Drug Adminstration",
+        "organisationType": {
+          "code": "C188863",
+          "codeSystem": "http://www.cdisc.org",
+          "codeSystemVersion": "2022-03-25",
+          "decode": "Regulatory Agency"
+        }
+      }
+    },
+    {
+      "studyIdentifier": "EMA1234",
+      "studyIdentifierScope": {
+        "organisationIdentifierScheme": "EMA",
+        "organisationIdentifier": "EMA",
+        "organisationName": "European Medicines Agency",
+        "organisationType": {
+          "code": "C188863",
+          "codeSystem": "http://www.cdisc.org",
+          "codeSystemVersion": "2022-03-25",
+          "decode": "Regulatory Agency"
+        }
+      }
+    }
+  ],
+  "studyProtocolVersions": [
+    {
+      "briefTitle": "BMS",
+      "officialTitle": "BMS Study Official title",
+      "publicTitle": "BMS Study Public title",
+      "scientificTitle": "BMS Study Scientific title",
+      "protocolVersion": "1",
+      "protocolAmendment": null,
+      "protocolEffectiveDate": "2022-01-01",
+      "protocolStatus": {
+        "code": "C85255",
+        "codeSystem": "http://www.cdisc.org",
+        "codeSystemVersion": "2022-03-25",
+        "decode": "Draft"
+      }
+    }
+  ],
+  "studyDesigns": [
+    {
+      "trialIntentTypes": [
+        {
+          "code": "C49654",
+          "codeSystem": "http://www.cdisc.org",
+          "codeSystemVersion": "2022-03-25",
+          "decode": "Cure Study"
+        }
+      ],
+      "trialType": {
+        "code": "C49666",
+        "codeSystem": "http://www.cdisc.org",
+        "codeSystemVersion": "2022-03-25",
+        "decode": "Efficacy Study"
+      },
+      "interventionModel": {
+        "code": "C142568",
+        "codeSystem": "http://www.cdisc.org",
+        "codeSystemVersion": "2022-03-25",
+        "decode": "Group Sequential Design"
+      },
+      "studyCells": [
+        {
+          "studyArm": {
+            "studyArmName": "Treatment",
+            "studyArmDesc": "Treatment",
+            "studyArmType": {
+              "code": "C15538",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Protocol Treatment Arm"
+            },
+            "studyArmDataOriginDesc": "Captured subject data",
+            "studyArmDataOriginType": {
+              "code": "C188866",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Data Generated Within Study"
+            }
+          },
+          "studyEpoch": {
+            "studyEpochName": "Screening",
+            "studyEpochDesc": "Screening",
+            "previousStudyEpochId": null,
+            "nextStudyEpochId": "d286e327-e540-44a0-807a-25c175c784b5",
+            "studyEpochType": {
+              "code": "C48262",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Trial Screening"
+            },
+            "encounters": [
+              {
+                "encounterName": "Screening",
+                "encounterDesc": "SCREENING",
+                "previousEncounterId": null,
+                "nextEncounterId": "70b0f007-0305-4d17-91e1-a8d10ff7c186",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C51282",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Clinic"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "6 weeks prior to treatment"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "start of run-in period"
+                },
+                "uuid": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d"
+              }
+            ],
+            "uuid": "3d8a8568-0130-4df7-9386-52dbb5ae8c7f"
+          },
+          "studyElements": [
+            {
+              "studyElementName": "Screening",
+              "studyElementDesc": "Screening",
+              "transitionStartRule": {
+                "transitionRuleDesc": "6 weeks prior to treatment"
+              },
+              "transitionEndRule": {
+                "transitionRuleDesc": "Start of run-in period"
+              }
+            }
+          ]
+        },
+        {
+          "studyArm": {
+            "studyArmName": "Treatment",
+            "studyArmDesc": "Treatment",
+            "studyArmType": {
+              "code": "C15538",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Protocol Treatment Arm"
+            },
+            "studyArmDataOriginDesc": "Captured subject data",
+            "studyArmDataOriginType": {
+              "code": "C188866",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Data Generated Within Study"
+            }
+          },
+          "studyEpoch": {
+            "studyEpochName": "Titration Period 1",
+            "studyEpochDesc": "Titration Period 1",
+            "previousStudyEpochId": "3d8a8568-0130-4df7-9386-52dbb5ae8c7f",
+            "nextStudyEpochId": "d159886c-84dd-4064-85d9-490d75af45cb",
+            "studyEpochType": {
+              "code": "C101526",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Treatment Epoch"
+            },
+            "encounters": [
+              {
+                "encounterName": "Day 1",
+                "encounterDesc": "DAY 1",
+                "previousEncounterId": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d",
+                "nextEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": null,
+                "uuid": "70b0f007-0305-4d17-91e1-a8d10ff7c186"
+              },
+              {
+                "encounterName": "Week 1",
+                "encounterDesc": "WEEK 1",
+                "previousEncounterId": "70b0f007-0305-4d17-91e1-a8d10ff7c186",
+                "nextEncounterId": "b332fb6b-3094-437e-9456-d17c2d024ff4",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 1"
+                },
+                "uuid": "94cc2359-1c6d-4f60-8933-384b70a63374"
+              },
+              {
+                "encounterName": "Week 2",
+                "encounterDesc": "WEEK 2",
+                "previousEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "nextEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 8"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 14"
+                },
+                "uuid": "b332fb6b-3094-437e-9456-d17c2d024ff4"
+              },
+              {
+                "encounterName": "Week 3",
+                "encounterDesc": "WEEK 3",
+                "previousEncounterId": "b332fb6b-3094-437e-9456-d17c2d024ff4",
+                "nextEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 15"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 21"
+                },
+                "uuid": "5281d216-af13-4aa5-8366-9f480170b21c"
+              },
+              {
+                "encounterName": "Week 4",
+                "encounterDesc": "WEEK 4",
+                "previousEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "nextEncounterId": "b0721ebc-f4aa-4346-99c3-05b4d3697118",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 22"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 28"
+                },
+                "uuid": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf"
+              }
+            ],
+            "uuid": "d286e327-e540-44a0-807a-25c175c784b5"
+          },
+          "studyElements": [
+            {
+              "studyElementName": "Titration Period 1",
+              "studyElementDesc": "dose range 10 mg to 20 mg",
+              "transitionStartRule": {
+                "transitionRuleDesc": "Start of Week 1"
+              },
+              "transitionEndRule": {
+                "transitionRuleDesc": "End of Week 4"
+              }
+            }
+          ]
+        },
+        {
+          "studyArm": {
+            "studyArmName": "Treatment",
+            "studyArmDesc": "Treatment",
+            "studyArmType": {
+              "code": "C15538",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Protocol Treatment Arm"
+            },
+            "studyArmDataOriginDesc": "Captured subject data",
+            "studyArmDataOriginType": {
+              "code": "C188866",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Data Generated Within Study"
+            }
+          },
+          "studyEpoch": {
+            "studyEpochName": "Titration Period 2",
+            "studyEpochDesc": "Titration Period 2",
+            "previousStudyEpochId": "d286e327-e540-44a0-807a-25c175c784b5",
+            "nextStudyEpochId": "3b74e8a4-f226-4ac2-b07b-38c1de16c169",
+            "studyEpochType": {
+              "code": "C101526",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Treatment Epoch"
+            },
+            "encounters": [
+              {
+                "encounterName": "Week 5",
+                "encounterDesc": "WEEK 5",
+                "previousEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "nextEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 29"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 35"
+                },
+                "uuid": "b0721ebc-f4aa-4346-99c3-05b4d3697118"
+              },
+              {
+                "encounterName": "Week 6",
+                "encounterDesc": "WEEK 6",
+                "previousEncounterId": "b0721ebc-f4aa-4346-99c3-05b4d3697118",
+                "nextEncounterId": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 36"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 42"
+                },
+                "uuid": "b61568de-0450-42de-ad7e-ff09af060cd1"
+              },
+              {
+                "encounterName": "Week 7",
+                "encounterDesc": "WEEK 7",
+                "previousEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "nextEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 43"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 49"
+                },
+                "uuid": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052"
+              },
+              {
+                "encounterName": "Week 8",
+                "encounterDesc": "WEEK 8",
+                "previousEncounterId": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052",
+                "nextEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 50"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 56"
+                },
+                "uuid": "a74e8a73-b528-4fdb-9880-7f25e723587f"
+              }
+            ],
+            "uuid": "d159886c-84dd-4064-85d9-490d75af45cb"
+          },
+          "studyElements": [
+            {
+              "studyElementName": "Titration Period 2",
+              "studyElementDesc": "dose range 20 mg to 30 mg",
+              "transitionStartRule": {
+                "transitionRuleDesc": "Start of Week 5"
+              },
+              "transitionEndRule": {
+                "transitionRuleDesc": "End of Week 8"
+              }
+            }
+          ]
+        },
+        {
+          "studyArm": {
+            "studyArmName": "Treatment",
+            "studyArmDesc": "Treatment",
+            "studyArmType": {
+              "code": "C15538",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Protocol Treatment Arm"
+            },
+            "studyArmDataOriginDesc": "Captured subject data",
+            "studyArmDataOriginType": {
+              "code": "C188866",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Data Generated Within Study"
+            }
+          },
+          "studyEpoch": {
+            "studyEpochName": "Titration Period 3",
+            "studyEpochDesc": "Titration Period 3",
+            "previousStudyEpochId": "d159886c-84dd-4064-85d9-490d75af45cb",
+            "nextStudyEpochId": "7c6c0cb7-3fc4-4e16-8d44-7621401a3184",
+            "studyEpochType": {
+              "code": "C101526",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Treatment Epoch"
+            },
+            "encounters": [
+              {
+                "encounterName": "Week 9",
+                "encounterDesc": "WEEK 9",
+                "previousEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "nextEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 57"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 63"
+                },
+                "uuid": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859"
+              },
+              {
+                "encounterName": "Week 10",
+                "encounterDesc": "WEEK 10",
+                "previousEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "nextEncounterId": "c477a011-69b7-4d05-aa2f-ba507ff995e9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 64"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 70"
+                },
+                "uuid": "304c5f91-656c-48da-9c17-508af7b4658f"
+              },
+              {
+                "encounterName": "Week 11",
+                "encounterDesc": "WEEK 11",
+                "previousEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "nextEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 71"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 77"
+                },
+                "uuid": "c477a011-69b7-4d05-aa2f-ba507ff995e9"
+              },
+              {
+                "encounterName": "Week 12",
+                "encounterDesc": "WEEK 12",
+                "previousEncounterId": "c477a011-69b7-4d05-aa2f-ba507ff995e9",
+                "nextEncounterId": "089263a7-a009-43b1-9f3e-72f9e370197f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 78"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 84"
+                },
+                "uuid": "6aaee373-a24e-4eda-bd16-6a47c435f1c2"
+              }
+            ],
+            "uuid": "3b74e8a4-f226-4ac2-b07b-38c1de16c169"
+          },
+          "studyElements": [
+            {
+              "studyElementName": "Titration Period 3",
+              "studyElementDesc": "dose range 30 mg to 40 mg",
+              "transitionStartRule": {
+                "transitionRuleDesc": "Start of Week 9"
+              },
+              "transitionEndRule": {
+                "transitionRuleDesc": "End of Week 12"
+              }
+            }
+          ]
+        },
+        {
+          "studyArm": {
+            "studyArmName": "Treatment",
+            "studyArmDesc": "Treatment",
+            "studyArmType": {
+              "code": "C15538",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Protocol Treatment Arm"
+            },
+            "studyArmDataOriginDesc": "Captured subject data",
+            "studyArmDataOriginType": {
+              "code": "C188866",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Data Generated Within Study"
+            }
+          },
+          "studyEpoch": {
+            "studyEpochName": "Titration Period 4",
+            "studyEpochDesc": "Titration Period 4",
+            "previousStudyEpochId": "3b74e8a4-f226-4ac2-b07b-38c1de16c169",
+            "nextStudyEpochId": "7a92fb46-d6b9-47eb-8aa5-be76ba8be7d3",
+            "studyEpochType": {
+              "code": "C101526",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Treatment Epoch"
+            },
+            "encounters": [
+              {
+                "encounterName": "Week 13",
+                "encounterDesc": "WEEK 13",
+                "previousEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "nextEncounterId": "444e2e28-f17b-40af-9fcb-863278da083f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 85"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 91"
+                },
+                "uuid": "089263a7-a009-43b1-9f3e-72f9e370197f"
+              },
+              {
+                "encounterName": "Week 14",
+                "encounterDesc": "WEEK 14",
+                "previousEncounterId": "089263a7-a009-43b1-9f3e-72f9e370197f",
+                "nextEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 92"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 99"
+                },
+                "uuid": "444e2e28-f17b-40af-9fcb-863278da083f"
+              },
+              {
+                "encounterName": "Week 15",
+                "encounterDesc": "WEEK 15",
+                "previousEncounterId": "444e2e28-f17b-40af-9fcb-863278da083f",
+                "nextEncounterId": "0f2211b2-d98f-4c6b-a119-553c210f3051",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 99"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 105"
+                },
+                "uuid": "878eb852-1277-47dc-a3d6-0cc4e1bdb018"
+              },
+              {
+                "encounterName": "Week 16",
+                "encounterDesc": "WEEK 16",
+                "previousEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "nextEncounterId": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 106"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 112"
+                },
+                "uuid": "0f2211b2-d98f-4c6b-a119-553c210f3051"
+              }
+            ],
+            "uuid": "7c6c0cb7-3fc4-4e16-8d44-7621401a3184"
+          },
+          "studyElements": [
+            {
+              "studyElementName": "Titration Period 4",
+              "studyElementDesc": "dose range 40 mg to 50 mg",
+              "transitionStartRule": {
+                "transitionRuleDesc": "Start of Week 13"
+              },
+              "transitionEndRule": {
+                "transitionRuleDesc": "End of Week 16"
+              }
+            }
+          ]
+        },
+        {
+          "studyArm": {
+            "studyArmName": "Treatment",
+            "studyArmDesc": "Treatment",
+            "studyArmType": {
+              "code": "C15538",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Protocol Treatment Arm"
+            },
+            "studyArmDataOriginDesc": "Captured subject data",
+            "studyArmDataOriginType": {
+              "code": "C188866",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Data Generated Within Study"
+            }
+          },
+          "studyEpoch": {
+            "studyEpochName": "Follow-upP",
+            "studyEpochDesc": "Follow-up",
+            "previousStudyEpochId": "7c6c0cb7-3fc4-4e16-8d44-7621401a3184",
+            "nextStudyEpochId": null,
+            "studyEpochType": {
+              "code": "C99158",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Clinical Study Follow-up"
+            },
+            "encounters": [
+              {
+                "encounterName": "Follow up",
+                "encounterDesc": "FOLLOW-UP",
+                "previousEncounterId": "0f2211b2-d98f-4c6b-a119-553c210f3051",
+                "nextEncounterId": null,
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": null,
+                "transitionEndRule": null,
+                "uuid": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9"
+              }
+            ],
+            "uuid": "7a92fb46-d6b9-47eb-8aa5-be76ba8be7d3"
+          },
+          "studyElements": [
+            {
+              "studyElementName": "FOLLOW_UP",
+              "studyElementDesc": "Follow up",
+              "transitionStartRule": null,
+              "transitionEndRule": null
+            }
+          ]
+        }
+      ],
+      "studyIndications": [
+        {
+          "codes": [
+            {
+              "code": "E11",
+              "codeSystem": "ICD-10-CM",
+              "codeSystemVersion": "10",
+              "decode": "Type 2 diabetes mellitus"
+            },
+            {
+              "code": "44054006",
+              "codeSystem": "SNOMED",
+              "codeSystemVersion": "2022",
+              "decode": "Diabetes mellitus type 2 (disorder)"
+            }
+          ],
+          "indicationDesc": "Diabetes Type II"
+        },
+        {
+          "codes": [
+            {
+              "code": "E10",
+              "codeSystem": "ICD-10-CM",
+              "codeSystemVersion": "10",
+              "decode": "Type 1 diabetes mellitus"
+            },
+            {
+              "code": "44635009",
+              "codeSystem": "SNOMED",
+              "codeSystemVersion": "2022",
+              "decode": "Diabetes mellitus type 1 (disorder)"
+            }
+          ],
+          "indicationDesc": "Diabetes Type I"
+        }
+      ],
+      "studyObjectives": [
+        {
+          "objectiveDesc": "Evaluate sensitivity index from baseline to end of study (16 weeks)",
+          "objectiveLevel": {
+            "code": "C85826",
+            "codeSystem": "http://www.cdisc.org",
+            "codeSystemVersion": "2022-03-25",
+            "decode": "Trial Primary Objective"
+          },
+          "objectiveEndpoints": [
+            {
+              "endpointDesc": "Survival rate after cycle 8 of treatment",
+              "endpointPurposeDesc": "EFFICACY",
+              "endpointLevel": {
+                "code": "C94496",
+                "codeSystem": "http://www.cdisc.org",
+                "codeSystemVersion": "2022-03-25",
+                "decode": "Primary Endpoint"
+              }
+            }
+          ]
+        }
+      ],
+      "studyPopulations": [
+        {
+          "populationDesc": "A metastatic cancer population"
+        }
+      ],
+      "studyInvestigationalInterventions": [
+        {
+          "codes": [
+            {
+              "code": "XX031ZA",
+              "codeSystem": "ATC",
+              "codeSystemVersion": "2021",
+              "decode": "SubstX"
+            }
+          ],
+          "interventionDesc": "Treatment with substX"
+        }
+      ],
+      "studyWorkflows": [
+        {
+          "workflowDesc": "Workflow 1",
+          "workflowItems": [
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Screening",
+                "encounterDesc": "SCREENING",
+                "previousEncounterId": null,
+                "nextEncounterId": "70b0f007-0305-4d17-91e1-a8d10ff7c186",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C51282",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Clinic"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "6 weeks prior to treatment"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "start of run-in period"
+                },
+                "uuid": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d"
+              },
+              "workflowItemActivity": {
+                "activityName": "Informed Consent",
+                "activityDesc": "Informed consent is obtained at screening",
+                "previousActivityId": null,
+                "nextActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "bb2381d5-70f1-44be-b403-28cb3e30cf4b"
+              },
+              "uuid": "94fbe230-46d2-4070-90fb-b67b2ce5a92a",
+              "previousWorkflowItemId": null,
+              "nextWorkflowItemId": "de6baa97-643c-4726-b2d8-e215e270ba7f"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Screening",
+                "encounterDesc": "SCREENING",
+                "previousEncounterId": null,
+                "nextEncounterId": "70b0f007-0305-4d17-91e1-a8d10ff7c186",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C51282",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Clinic"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "6 weeks prior to treatment"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "start of run-in period"
+                },
+                "uuid": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d"
+              },
+              "workflowItemActivity": {
+                "activityName": "Eligibility Screening",
+                "activityDesc": "Inclusion and Exclusion criteria evaluation",
+                "previousActivityId": "bb2381d5-70f1-44be-b403-28cb3e30cf4b",
+                "nextActivityId": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "01981777-b0ad-448b-b031-03c3278bee00"
+              },
+              "uuid": "de6baa97-643c-4726-b2d8-e215e270ba7f",
+              "previousWorkflowItemId": "94fbe230-46d2-4070-90fb-b67b2ce5a92a",
+              "nextWorkflowItemId": "e3ac6726-ff4e-4dee-96d2-72eeeacc36ac"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Screening",
+                "encounterDesc": "SCREENING",
+                "previousEncounterId": null,
+                "nextEncounterId": "70b0f007-0305-4d17-91e1-a8d10ff7c186",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C51282",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Clinic"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "6 weeks prior to treatment"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "start of run-in period"
+                },
+                "uuid": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "e3ac6726-ff4e-4dee-96d2-72eeeacc36ac",
+              "previousWorkflowItemId": "de6baa97-643c-4726-b2d8-e215e270ba7f",
+              "nextWorkflowItemId": "c792b07f-29d7-4689-a880-399d326b65a7"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Day 1",
+                "encounterDesc": "DAY 1",
+                "previousEncounterId": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d",
+                "nextEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": null,
+                "uuid": "70b0f007-0305-4d17-91e1-a8d10ff7c186"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "c792b07f-29d7-4689-a880-399d326b65a7",
+              "previousWorkflowItemId": "e3ac6726-ff4e-4dee-96d2-72eeeacc36ac",
+              "nextWorkflowItemId": "5a9a007f-2749-49ca-b018-67178479ef2a"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Day 1",
+                "encounterDesc": "DAY 1",
+                "previousEncounterId": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d",
+                "nextEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": null,
+                "uuid": "70b0f007-0305-4d17-91e1-a8d10ff7c186"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "5a9a007f-2749-49ca-b018-67178479ef2a",
+              "previousWorkflowItemId": "c792b07f-29d7-4689-a880-399d326b65a7",
+              "nextWorkflowItemId": "6ae43dfb-540b-4696-872c-58abc17d47fe"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Day 1",
+                "encounterDesc": "DAY 1",
+                "previousEncounterId": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d",
+                "nextEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": null,
+                "uuid": "70b0f007-0305-4d17-91e1-a8d10ff7c186"
+              },
+              "workflowItemActivity": {
+                "activityName": "Plasma Biomarker",
+                "activityDesc": "Biomarker assessments for xxx",
+                "previousActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "nextActivityId": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "4cbe5fb7-6386-44a2-ab75-03d054c55636"
+              },
+              "uuid": "6ae43dfb-540b-4696-872c-58abc17d47fe",
+              "previousWorkflowItemId": "5a9a007f-2749-49ca-b018-67178479ef2a",
+              "nextWorkflowItemId": "58ef9d57-bf65-4ef5-ab71-19d509aedff4"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Day 1",
+                "encounterDesc": "DAY 1",
+                "previousEncounterId": "e54b4b6b-fff9-4f43-bdff-2f24814fcf9d",
+                "nextEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": null,
+                "uuid": "70b0f007-0305-4d17-91e1-a8d10ff7c186"
+              },
+              "workflowItemActivity": {
+                "activityName": "PK",
+                "activityDesc": "PK Sample",
+                "previousActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "nextActivityId": null,
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1"
+              },
+              "uuid": "58ef9d57-bf65-4ef5-ab71-19d509aedff4",
+              "previousWorkflowItemId": "6ae43dfb-540b-4696-872c-58abc17d47fe",
+              "nextWorkflowItemId": "69f59c0e-20f5-4216-9b9f-57d1a23f8a7c"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 1",
+                "encounterDesc": "WEEK 1",
+                "previousEncounterId": "70b0f007-0305-4d17-91e1-a8d10ff7c186",
+                "nextEncounterId": "b332fb6b-3094-437e-9456-d17c2d024ff4",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 1"
+                },
+                "uuid": "94cc2359-1c6d-4f60-8933-384b70a63374"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "69f59c0e-20f5-4216-9b9f-57d1a23f8a7c",
+              "previousWorkflowItemId": "58ef9d57-bf65-4ef5-ab71-19d509aedff4",
+              "nextWorkflowItemId": "1fac4bb8-7574-4659-8224-0cd956198014"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 1",
+                "encounterDesc": "WEEK 1",
+                "previousEncounterId": "70b0f007-0305-4d17-91e1-a8d10ff7c186",
+                "nextEncounterId": "b332fb6b-3094-437e-9456-d17c2d024ff4",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "2 hours before treatment"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 1"
+                },
+                "uuid": "94cc2359-1c6d-4f60-8933-384b70a63374"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "1fac4bb8-7574-4659-8224-0cd956198014",
+              "previousWorkflowItemId": "69f59c0e-20f5-4216-9b9f-57d1a23f8a7c",
+              "nextWorkflowItemId": "43b98b6c-1e08-4f45-af31-ed3e9676290c"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 2",
+                "encounterDesc": "WEEK 2",
+                "previousEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "nextEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 8"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 14"
+                },
+                "uuid": "b332fb6b-3094-437e-9456-d17c2d024ff4"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "43b98b6c-1e08-4f45-af31-ed3e9676290c",
+              "previousWorkflowItemId": "1fac4bb8-7574-4659-8224-0cd956198014",
+              "nextWorkflowItemId": "d5cacedd-0851-401f-95cb-028c1f75a068"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 2",
+                "encounterDesc": "WEEK 2",
+                "previousEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "nextEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 8"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 14"
+                },
+                "uuid": "b332fb6b-3094-437e-9456-d17c2d024ff4"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "d5cacedd-0851-401f-95cb-028c1f75a068",
+              "previousWorkflowItemId": "43b98b6c-1e08-4f45-af31-ed3e9676290c",
+              "nextWorkflowItemId": "e7b44c09-fedc-427e-ac30-eba27b714801"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 2",
+                "encounterDesc": "WEEK 2",
+                "previousEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "nextEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 8"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 14"
+                },
+                "uuid": "b332fb6b-3094-437e-9456-d17c2d024ff4"
+              },
+              "workflowItemActivity": {
+                "activityName": "Plasma Biomarker",
+                "activityDesc": "Biomarker assessments for xxx",
+                "previousActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "nextActivityId": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "4cbe5fb7-6386-44a2-ab75-03d054c55636"
+              },
+              "uuid": "e7b44c09-fedc-427e-ac30-eba27b714801",
+              "previousWorkflowItemId": "d5cacedd-0851-401f-95cb-028c1f75a068",
+              "nextWorkflowItemId": "ef8a7907-96bc-44af-aca6-ea20797a3d48"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 2",
+                "encounterDesc": "WEEK 2",
+                "previousEncounterId": "94cc2359-1c6d-4f60-8933-384b70a63374",
+                "nextEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 8"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 14"
+                },
+                "uuid": "b332fb6b-3094-437e-9456-d17c2d024ff4"
+              },
+              "workflowItemActivity": {
+                "activityName": "PK",
+                "activityDesc": "PK Sample",
+                "previousActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "nextActivityId": null,
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1"
+              },
+              "uuid": "ef8a7907-96bc-44af-aca6-ea20797a3d48",
+              "previousWorkflowItemId": "e7b44c09-fedc-427e-ac30-eba27b714801",
+              "nextWorkflowItemId": "9211b011-f353-4aa3-9c6c-ce296c50a6ff"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 3",
+                "encounterDesc": "WEEK 3",
+                "previousEncounterId": "b332fb6b-3094-437e-9456-d17c2d024ff4",
+                "nextEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 15"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 21"
+                },
+                "uuid": "5281d216-af13-4aa5-8366-9f480170b21c"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "9211b011-f353-4aa3-9c6c-ce296c50a6ff",
+              "previousWorkflowItemId": "ef8a7907-96bc-44af-aca6-ea20797a3d48",
+              "nextWorkflowItemId": "4ae1f95b-f259-4363-a53a-685dba16a719"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 3",
+                "encounterDesc": "WEEK 3",
+                "previousEncounterId": "b332fb6b-3094-437e-9456-d17c2d024ff4",
+                "nextEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 15"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 21"
+                },
+                "uuid": "5281d216-af13-4aa5-8366-9f480170b21c"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "4ae1f95b-f259-4363-a53a-685dba16a719",
+              "previousWorkflowItemId": "9211b011-f353-4aa3-9c6c-ce296c50a6ff",
+              "nextWorkflowItemId": "9440cf15-94c9-46e8-85e5-2bad822310d8"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 4",
+                "encounterDesc": "WEEK 4",
+                "previousEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "nextEncounterId": "b0721ebc-f4aa-4346-99c3-05b4d3697118",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 22"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 28"
+                },
+                "uuid": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "9440cf15-94c9-46e8-85e5-2bad822310d8",
+              "previousWorkflowItemId": "4ae1f95b-f259-4363-a53a-685dba16a719",
+              "nextWorkflowItemId": "a6f305e3-f761-4ae8-829a-bf2312bd56b7"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 4",
+                "encounterDesc": "WEEK 4",
+                "previousEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "nextEncounterId": "b0721ebc-f4aa-4346-99c3-05b4d3697118",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 22"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 28"
+                },
+                "uuid": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "a6f305e3-f761-4ae8-829a-bf2312bd56b7",
+              "previousWorkflowItemId": "9440cf15-94c9-46e8-85e5-2bad822310d8",
+              "nextWorkflowItemId": "e5eeb687-5777-4ad5-b1b2-7badae37f353"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 4",
+                "encounterDesc": "WEEK 4",
+                "previousEncounterId": "5281d216-af13-4aa5-8366-9f480170b21c",
+                "nextEncounterId": "b0721ebc-f4aa-4346-99c3-05b4d3697118",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 22"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 28"
+                },
+                "uuid": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf"
+              },
+              "workflowItemActivity": {
+                "activityName": "Plasma Biomarker",
+                "activityDesc": "Biomarker assessments for xxx",
+                "previousActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "nextActivityId": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "4cbe5fb7-6386-44a2-ab75-03d054c55636"
+              },
+              "uuid": "e5eeb687-5777-4ad5-b1b2-7badae37f353",
+              "previousWorkflowItemId": "a6f305e3-f761-4ae8-829a-bf2312bd56b7",
+              "nextWorkflowItemId": "13a5b3b3-c07d-40cd-ae0a-8c4cdb1f4395"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 5",
+                "encounterDesc": "WEEK 5",
+                "previousEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "nextEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 29"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 35"
+                },
+                "uuid": "b0721ebc-f4aa-4346-99c3-05b4d3697118"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "13a5b3b3-c07d-40cd-ae0a-8c4cdb1f4395",
+              "previousWorkflowItemId": "e5eeb687-5777-4ad5-b1b2-7badae37f353",
+              "nextWorkflowItemId": "0984387c-f9cb-4dca-aed1-0c385dcc0b45"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 5",
+                "encounterDesc": "WEEK 5",
+                "previousEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "nextEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 29"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 35"
+                },
+                "uuid": "b0721ebc-f4aa-4346-99c3-05b4d3697118"
+              },
+              "workflowItemActivity": {
+                "activityName": "Biochemistry",
+                "activityDesc": "Biochemistry assessment in plasma samples",
+                "previousActivityId": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a",
+                "nextActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "ea1462db-d1af-47d6-b774-029d81261503"
+              },
+              "uuid": "0984387c-f9cb-4dca-aed1-0c385dcc0b45",
+              "previousWorkflowItemId": "13a5b3b3-c07d-40cd-ae0a-8c4cdb1f4395",
+              "nextWorkflowItemId": "fef6a893-8b00-46f6-bc2e-cc7a2ca4b078"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 5",
+                "encounterDesc": "WEEK 5",
+                "previousEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "nextEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 29"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 35"
+                },
+                "uuid": "b0721ebc-f4aa-4346-99c3-05b4d3697118"
+              },
+              "workflowItemActivity": {
+                "activityName": "Demographics",
+                "activityDesc": "Demographics",
+                "previousActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "nextActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "58e48a2c-29f5-415d-a530-ae0826e554ba"
+              },
+              "uuid": "fef6a893-8b00-46f6-bc2e-cc7a2ca4b078",
+              "previousWorkflowItemId": "0984387c-f9cb-4dca-aed1-0c385dcc0b45",
+              "nextWorkflowItemId": "8406893e-6a25-4167-8ccc-7e37fa03b39c"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 5",
+                "encounterDesc": "WEEK 5",
+                "previousEncounterId": "bfa00f86-e8a9-4c21-83e5-9b557dd1c3cf",
+                "nextEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 29"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 35"
+                },
+                "uuid": "b0721ebc-f4aa-4346-99c3-05b4d3697118"
+              },
+              "workflowItemActivity": {
+                "activityName": "PK",
+                "activityDesc": "PK Sample",
+                "previousActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "nextActivityId": null,
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1"
+              },
+              "uuid": "8406893e-6a25-4167-8ccc-7e37fa03b39c",
+              "previousWorkflowItemId": "fef6a893-8b00-46f6-bc2e-cc7a2ca4b078",
+              "nextWorkflowItemId": "9d937023-96d1-4ef5-8f15-9f0ba60006a9"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 6",
+                "encounterDesc": "WEEK 6",
+                "previousEncounterId": "b0721ebc-f4aa-4346-99c3-05b4d3697118",
+                "nextEncounterId": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 36"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 42"
+                },
+                "uuid": "b61568de-0450-42de-ad7e-ff09af060cd1"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "9d937023-96d1-4ef5-8f15-9f0ba60006a9",
+              "previousWorkflowItemId": "8406893e-6a25-4167-8ccc-7e37fa03b39c",
+              "nextWorkflowItemId": "0dbdeae1-c92f-4c14-ad36-1c0ead965c53"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 6",
+                "encounterDesc": "WEEK 6",
+                "previousEncounterId": "b0721ebc-f4aa-4346-99c3-05b4d3697118",
+                "nextEncounterId": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 36"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 42"
+                },
+                "uuid": "b61568de-0450-42de-ad7e-ff09af060cd1"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "0dbdeae1-c92f-4c14-ad36-1c0ead965c53",
+              "previousWorkflowItemId": "9d937023-96d1-4ef5-8f15-9f0ba60006a9",
+              "nextWorkflowItemId": "cc6fdb6d-c2fd-4d85-beb3-d57423883365"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 7",
+                "encounterDesc": "WEEK 7",
+                "previousEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "nextEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 43"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 49"
+                },
+                "uuid": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "cc6fdb6d-c2fd-4d85-beb3-d57423883365",
+              "previousWorkflowItemId": "0dbdeae1-c92f-4c14-ad36-1c0ead965c53",
+              "nextWorkflowItemId": "dfc7e646-09a7-46df-afde-4ecd2c56eb18"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 7",
+                "encounterDesc": "WEEK 7",
+                "previousEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "nextEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 43"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 49"
+                },
+                "uuid": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "dfc7e646-09a7-46df-afde-4ecd2c56eb18",
+              "previousWorkflowItemId": "cc6fdb6d-c2fd-4d85-beb3-d57423883365",
+              "nextWorkflowItemId": "8a98ffcb-74bd-414e-9f16-8f58d3ce57f7"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 7",
+                "encounterDesc": "WEEK 7",
+                "previousEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "nextEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 43"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 49"
+                },
+                "uuid": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052"
+              },
+              "workflowItemActivity": {
+                "activityName": "Plasma Biomarker",
+                "activityDesc": "Biomarker assessments for xxx",
+                "previousActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "nextActivityId": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "4cbe5fb7-6386-44a2-ab75-03d054c55636"
+              },
+              "uuid": "8a98ffcb-74bd-414e-9f16-8f58d3ce57f7",
+              "previousWorkflowItemId": "dfc7e646-09a7-46df-afde-4ecd2c56eb18",
+              "nextWorkflowItemId": "8429c8f7-ed32-48f1-a275-4d395e764420"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 7",
+                "encounterDesc": "WEEK 7",
+                "previousEncounterId": "b61568de-0450-42de-ad7e-ff09af060cd1",
+                "nextEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 43"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 49"
+                },
+                "uuid": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052"
+              },
+              "workflowItemActivity": {
+                "activityName": "PK",
+                "activityDesc": "PK Sample",
+                "previousActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "nextActivityId": null,
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1"
+              },
+              "uuid": "8429c8f7-ed32-48f1-a275-4d395e764420",
+              "previousWorkflowItemId": "8a98ffcb-74bd-414e-9f16-8f58d3ce57f7",
+              "nextWorkflowItemId": "0fe04a95-adf6-43a3-bfa9-94d5e5ca65f8"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 8",
+                "encounterDesc": "WEEK 8",
+                "previousEncounterId": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052",
+                "nextEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 50"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 56"
+                },
+                "uuid": "a74e8a73-b528-4fdb-9880-7f25e723587f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "0fe04a95-adf6-43a3-bfa9-94d5e5ca65f8",
+              "previousWorkflowItemId": "8429c8f7-ed32-48f1-a275-4d395e764420",
+              "nextWorkflowItemId": "39e1ad7a-c19d-48ff-b9e8-6d1ed90960b3"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 8",
+                "encounterDesc": "WEEK 8",
+                "previousEncounterId": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052",
+                "nextEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 50"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 56"
+                },
+                "uuid": "a74e8a73-b528-4fdb-9880-7f25e723587f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Biochemistry",
+                "activityDesc": "Biochemistry assessment in plasma samples",
+                "previousActivityId": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a",
+                "nextActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "ea1462db-d1af-47d6-b774-029d81261503"
+              },
+              "uuid": "39e1ad7a-c19d-48ff-b9e8-6d1ed90960b3",
+              "previousWorkflowItemId": "0fe04a95-adf6-43a3-bfa9-94d5e5ca65f8",
+              "nextWorkflowItemId": "5d765c81-13c7-493c-92c7-b89cac8023ae"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 8",
+                "encounterDesc": "WEEK 8",
+                "previousEncounterId": "e51c9c6c-a71f-4183-9ac6-289ebd7a2052",
+                "nextEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 50"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 56"
+                },
+                "uuid": "a74e8a73-b528-4fdb-9880-7f25e723587f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Demographics",
+                "activityDesc": "Demographics",
+                "previousActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "nextActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "58e48a2c-29f5-415d-a530-ae0826e554ba"
+              },
+              "uuid": "5d765c81-13c7-493c-92c7-b89cac8023ae",
+              "previousWorkflowItemId": "39e1ad7a-c19d-48ff-b9e8-6d1ed90960b3",
+              "nextWorkflowItemId": "c03728da-5161-4193-a181-26859bc34c44"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 9",
+                "encounterDesc": "WEEK 9",
+                "previousEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "nextEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 57"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 63"
+                },
+                "uuid": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "c03728da-5161-4193-a181-26859bc34c44",
+              "previousWorkflowItemId": "5d765c81-13c7-493c-92c7-b89cac8023ae",
+              "nextWorkflowItemId": "e3f8279d-c806-4a22-b892-7090608db0ef"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 9",
+                "encounterDesc": "WEEK 9",
+                "previousEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "nextEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 57"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 63"
+                },
+                "uuid": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "e3f8279d-c806-4a22-b892-7090608db0ef",
+              "previousWorkflowItemId": "c03728da-5161-4193-a181-26859bc34c44",
+              "nextWorkflowItemId": "e280f551-39ad-4d88-b93a-3610ab9de129"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 9",
+                "encounterDesc": "WEEK 9",
+                "previousEncounterId": "a74e8a73-b528-4fdb-9880-7f25e723587f",
+                "nextEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 57"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 63"
+                },
+                "uuid": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859"
+              },
+              "workflowItemActivity": {
+                "activityName": "PK",
+                "activityDesc": "PK Sample",
+                "previousActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "nextActivityId": null,
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1"
+              },
+              "uuid": "e280f551-39ad-4d88-b93a-3610ab9de129",
+              "previousWorkflowItemId": "e3f8279d-c806-4a22-b892-7090608db0ef",
+              "nextWorkflowItemId": "fa1c9c82-7d0b-45c1-8fa4-6cf485de09fa"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 10",
+                "encounterDesc": "WEEK 10",
+                "previousEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "nextEncounterId": "c477a011-69b7-4d05-aa2f-ba507ff995e9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 64"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 70"
+                },
+                "uuid": "304c5f91-656c-48da-9c17-508af7b4658f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "fa1c9c82-7d0b-45c1-8fa4-6cf485de09fa",
+              "previousWorkflowItemId": "e280f551-39ad-4d88-b93a-3610ab9de129",
+              "nextWorkflowItemId": "8b5cf33e-fcb7-47e8-b3d4-b75a34f5b8e5"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 10",
+                "encounterDesc": "WEEK 10",
+                "previousEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "nextEncounterId": "c477a011-69b7-4d05-aa2f-ba507ff995e9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 64"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 70"
+                },
+                "uuid": "304c5f91-656c-48da-9c17-508af7b4658f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "8b5cf33e-fcb7-47e8-b3d4-b75a34f5b8e5",
+              "previousWorkflowItemId": "fa1c9c82-7d0b-45c1-8fa4-6cf485de09fa",
+              "nextWorkflowItemId": "bcacc1f6-2944-4f1a-b839-edd48228e9ef"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 10",
+                "encounterDesc": "WEEK 10",
+                "previousEncounterId": "63fc6fc3-c333-492f-b6ed-f7d5cbeee859",
+                "nextEncounterId": "c477a011-69b7-4d05-aa2f-ba507ff995e9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 64"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 70"
+                },
+                "uuid": "304c5f91-656c-48da-9c17-508af7b4658f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Plasma Biomarker",
+                "activityDesc": "Biomarker assessments for xxx",
+                "previousActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "nextActivityId": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "4cbe5fb7-6386-44a2-ab75-03d054c55636"
+              },
+              "uuid": "bcacc1f6-2944-4f1a-b839-edd48228e9ef",
+              "previousWorkflowItemId": "8b5cf33e-fcb7-47e8-b3d4-b75a34f5b8e5",
+              "nextWorkflowItemId": "2ef52ef2-d968-46d5-bd68-3987517eb43d"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 11",
+                "encounterDesc": "WEEK 11",
+                "previousEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "nextEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 71"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 77"
+                },
+                "uuid": "c477a011-69b7-4d05-aa2f-ba507ff995e9"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "2ef52ef2-d968-46d5-bd68-3987517eb43d",
+              "previousWorkflowItemId": "bcacc1f6-2944-4f1a-b839-edd48228e9ef",
+              "nextWorkflowItemId": "2c080386-4900-4364-9291-84f86825a037"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 11",
+                "encounterDesc": "WEEK 11",
+                "previousEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "nextEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 71"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 77"
+                },
+                "uuid": "c477a011-69b7-4d05-aa2f-ba507ff995e9"
+              },
+              "workflowItemActivity": {
+                "activityName": "Biochemistry",
+                "activityDesc": "Biochemistry assessment in plasma samples",
+                "previousActivityId": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a",
+                "nextActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "ea1462db-d1af-47d6-b774-029d81261503"
+              },
+              "uuid": "2c080386-4900-4364-9291-84f86825a037",
+              "previousWorkflowItemId": "2ef52ef2-d968-46d5-bd68-3987517eb43d",
+              "nextWorkflowItemId": "35f063cf-9b54-4470-bff9-3b6995ce5e75"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 11",
+                "encounterDesc": "WEEK 11",
+                "previousEncounterId": "304c5f91-656c-48da-9c17-508af7b4658f",
+                "nextEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 71"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 77"
+                },
+                "uuid": "c477a011-69b7-4d05-aa2f-ba507ff995e9"
+              },
+              "workflowItemActivity": {
+                "activityName": "Demographics",
+                "activityDesc": "Demographics",
+                "previousActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "nextActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "58e48a2c-29f5-415d-a530-ae0826e554ba"
+              },
+              "uuid": "35f063cf-9b54-4470-bff9-3b6995ce5e75",
+              "previousWorkflowItemId": "2c080386-4900-4364-9291-84f86825a037",
+              "nextWorkflowItemId": "7e2f41ed-c5eb-485e-8472-a97159f30bcd"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 12",
+                "encounterDesc": "WEEK 12",
+                "previousEncounterId": "c477a011-69b7-4d05-aa2f-ba507ff995e9",
+                "nextEncounterId": "089263a7-a009-43b1-9f3e-72f9e370197f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 78"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 84"
+                },
+                "uuid": "6aaee373-a24e-4eda-bd16-6a47c435f1c2"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "7e2f41ed-c5eb-485e-8472-a97159f30bcd",
+              "previousWorkflowItemId": "35f063cf-9b54-4470-bff9-3b6995ce5e75",
+              "nextWorkflowItemId": "dd4e56e4-6b0b-459a-b77f-be78a8281acc"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 12",
+                "encounterDesc": "WEEK 12",
+                "previousEncounterId": "c477a011-69b7-4d05-aa2f-ba507ff995e9",
+                "nextEncounterId": "089263a7-a009-43b1-9f3e-72f9e370197f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 78"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 84"
+                },
+                "uuid": "6aaee373-a24e-4eda-bd16-6a47c435f1c2"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "dd4e56e4-6b0b-459a-b77f-be78a8281acc",
+              "previousWorkflowItemId": "7e2f41ed-c5eb-485e-8472-a97159f30bcd",
+              "nextWorkflowItemId": "c423c539-1096-44a0-b633-69fe9625e771"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 13",
+                "encounterDesc": "WEEK 13",
+                "previousEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "nextEncounterId": "444e2e28-f17b-40af-9fcb-863278da083f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 85"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 91"
+                },
+                "uuid": "089263a7-a009-43b1-9f3e-72f9e370197f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "c423c539-1096-44a0-b633-69fe9625e771",
+              "previousWorkflowItemId": "dd4e56e4-6b0b-459a-b77f-be78a8281acc",
+              "nextWorkflowItemId": "e50c7549-277b-4a22-8138-bd07cd6dbb75"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 13",
+                "encounterDesc": "WEEK 13",
+                "previousEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "nextEncounterId": "444e2e28-f17b-40af-9fcb-863278da083f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 85"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 91"
+                },
+                "uuid": "089263a7-a009-43b1-9f3e-72f9e370197f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "e50c7549-277b-4a22-8138-bd07cd6dbb75",
+              "previousWorkflowItemId": "c423c539-1096-44a0-b633-69fe9625e771",
+              "nextWorkflowItemId": "c0655da2-84b1-4f9d-8bce-68164b0f70f5"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 13",
+                "encounterDesc": "WEEK 13",
+                "previousEncounterId": "6aaee373-a24e-4eda-bd16-6a47c435f1c2",
+                "nextEncounterId": "444e2e28-f17b-40af-9fcb-863278da083f",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 85"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 91"
+                },
+                "uuid": "089263a7-a009-43b1-9f3e-72f9e370197f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Plasma Biomarker",
+                "activityDesc": "Biomarker assessments for xxx",
+                "previousActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "nextActivityId": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "4cbe5fb7-6386-44a2-ab75-03d054c55636"
+              },
+              "uuid": "c0655da2-84b1-4f9d-8bce-68164b0f70f5",
+              "previousWorkflowItemId": "e50c7549-277b-4a22-8138-bd07cd6dbb75",
+              "nextWorkflowItemId": "5d3b965d-a038-4a02-8aa6-8469f68653d4"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 14",
+                "encounterDesc": "WEEK 14",
+                "previousEncounterId": "089263a7-a009-43b1-9f3e-72f9e370197f",
+                "nextEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 92"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 99"
+                },
+                "uuid": "444e2e28-f17b-40af-9fcb-863278da083f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "5d3b965d-a038-4a02-8aa6-8469f68653d4",
+              "previousWorkflowItemId": "c0655da2-84b1-4f9d-8bce-68164b0f70f5",
+              "nextWorkflowItemId": "05f1634d-8e39-4c50-9ffa-19a10002925b"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 14",
+                "encounterDesc": "WEEK 14",
+                "previousEncounterId": "089263a7-a009-43b1-9f3e-72f9e370197f",
+                "nextEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 92"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 99"
+                },
+                "uuid": "444e2e28-f17b-40af-9fcb-863278da083f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Biochemistry",
+                "activityDesc": "Biochemistry assessment in plasma samples",
+                "previousActivityId": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a",
+                "nextActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "ea1462db-d1af-47d6-b774-029d81261503"
+              },
+              "uuid": "05f1634d-8e39-4c50-9ffa-19a10002925b",
+              "previousWorkflowItemId": "5d3b965d-a038-4a02-8aa6-8469f68653d4",
+              "nextWorkflowItemId": "6580edf4-b90d-40df-adc7-2efa8ae1edc4"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 14",
+                "encounterDesc": "WEEK 14",
+                "previousEncounterId": "089263a7-a009-43b1-9f3e-72f9e370197f",
+                "nextEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 92"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 99"
+                },
+                "uuid": "444e2e28-f17b-40af-9fcb-863278da083f"
+              },
+              "workflowItemActivity": {
+                "activityName": "Demographics",
+                "activityDesc": "Demographics",
+                "previousActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "nextActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "58e48a2c-29f5-415d-a530-ae0826e554ba"
+              },
+              "uuid": "6580edf4-b90d-40df-adc7-2efa8ae1edc4",
+              "previousWorkflowItemId": "05f1634d-8e39-4c50-9ffa-19a10002925b",
+              "nextWorkflowItemId": "feadf6bb-be63-4bd2-8813-956d183eb500"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 15",
+                "encounterDesc": "WEEK 15",
+                "previousEncounterId": "444e2e28-f17b-40af-9fcb-863278da083f",
+                "nextEncounterId": "0f2211b2-d98f-4c6b-a119-553c210f3051",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 99"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 105"
+                },
+                "uuid": "878eb852-1277-47dc-a3d6-0cc4e1bdb018"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "feadf6bb-be63-4bd2-8813-956d183eb500",
+              "previousWorkflowItemId": "6580edf4-b90d-40df-adc7-2efa8ae1edc4",
+              "nextWorkflowItemId": "3520a5f3-36fd-46e3-a163-b4308dc1480e"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 15",
+                "encounterDesc": "WEEK 15",
+                "previousEncounterId": "444e2e28-f17b-40af-9fcb-863278da083f",
+                "nextEncounterId": "0f2211b2-d98f-4c6b-a119-553c210f3051",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 99"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 105"
+                },
+                "uuid": "878eb852-1277-47dc-a3d6-0cc4e1bdb018"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "3520a5f3-36fd-46e3-a163-b4308dc1480e",
+              "previousWorkflowItemId": "feadf6bb-be63-4bd2-8813-956d183eb500",
+              "nextWorkflowItemId": "e7b21008-eb47-485f-b799-7a705b850028"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 16",
+                "encounterDesc": "WEEK 16",
+                "previousEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "nextEncounterId": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 106"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 112"
+                },
+                "uuid": "0f2211b2-d98f-4c6b-a119-553c210f3051"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "e7b21008-eb47-485f-b799-7a705b850028",
+              "previousWorkflowItemId": "3520a5f3-36fd-46e3-a163-b4308dc1480e",
+              "nextWorkflowItemId": "5ac60185-5876-4c94-9863-def5c2461a17"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 16",
+                "encounterDesc": "WEEK 16",
+                "previousEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "nextEncounterId": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 106"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 112"
+                },
+                "uuid": "0f2211b2-d98f-4c6b-a119-553c210f3051"
+              },
+              "workflowItemActivity": {
+                "activityName": "Dosing",
+                "activityDesc": "Dosing of Drug A - 2 times a week",
+                "previousActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "nextActivityId": "4cbe5fb7-6386-44a2-ab75-03d054c55636",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "16799187-3b3e-4556-8d4d-027c63fdcdb4"
+              },
+              "uuid": "5ac60185-5876-4c94-9863-def5c2461a17",
+              "previousWorkflowItemId": "e7b21008-eb47-485f-b799-7a705b850028",
+              "nextWorkflowItemId": "e0b7e616-6c60-4b7c-999a-e348f77d16cd"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Week 16",
+                "encounterDesc": "WEEK 16",
+                "previousEncounterId": "878eb852-1277-47dc-a3d6-0cc4e1bdb018",
+                "nextEncounterId": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9",
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": {
+                  "transitionRuleDesc": "start of day 106"
+                },
+                "transitionEndRule": {
+                  "transitionRuleDesc": "end of day 112"
+                },
+                "uuid": "0f2211b2-d98f-4c6b-a119-553c210f3051"
+              },
+              "workflowItemActivity": {
+                "activityName": "Plasma Biomarker",
+                "activityDesc": "Biomarker assessments for xxx",
+                "previousActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "nextActivityId": "5f4ff366-e8c1-48b4-90f6-ea7708604ee1",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "4cbe5fb7-6386-44a2-ab75-03d054c55636"
+              },
+              "uuid": "e0b7e616-6c60-4b7c-999a-e348f77d16cd",
+              "previousWorkflowItemId": "5ac60185-5876-4c94-9863-def5c2461a17",
+              "nextWorkflowItemId": "b0e5a663-1713-47ef-a834-3857bfd71311"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Follow up",
+                "encounterDesc": "FOLLOW-UP",
+                "previousEncounterId": "0f2211b2-d98f-4c6b-a119-553c210f3051",
+                "nextEncounterId": null,
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": null,
+                "transitionEndRule": null,
+                "uuid": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9"
+              },
+              "workflowItemActivity": {
+                "activityName": "Hematology",
+                "activityDesc": "Hematology assessment in blood samples",
+                "previousActivityId": "01981777-b0ad-448b-b031-03c3278bee00",
+                "nextActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "definedProcedures": [],
+                "studyDataCollection": [
+                  {
+                    "studyDataName": "RBC",
+                    "studyDataDesc": "Red Blood Cell count",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "HCT",
+                    "studyDataDesc": "Hematocrit",
+                    "crfLink": ""
+                  },
+                  {
+                    "studyDataName": "WBC",
+                    "studyDataDesc": "White blood Cell differential",
+                    "crfLink": ""
+                  }
+                ],
+                "uuid": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a"
+              },
+              "uuid": "b0e5a663-1713-47ef-a834-3857bfd71311",
+              "previousWorkflowItemId": "e0b7e616-6c60-4b7c-999a-e348f77d16cd",
+              "nextWorkflowItemId": "d17db169-39c5-4ed8-9344-fecb80001e88"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Follow up",
+                "encounterDesc": "FOLLOW-UP",
+                "previousEncounterId": "0f2211b2-d98f-4c6b-a119-553c210f3051",
+                "nextEncounterId": null,
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": null,
+                "transitionEndRule": null,
+                "uuid": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9"
+              },
+              "workflowItemActivity": {
+                "activityName": "Biochemistry",
+                "activityDesc": "Biochemistry assessment in plasma samples",
+                "previousActivityId": "3ca91cd7-2c74-46bb-8e0d-8fac61f5d09a",
+                "nextActivityId": "58e48a2c-29f5-415d-a530-ae0826e554ba",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "ea1462db-d1af-47d6-b774-029d81261503"
+              },
+              "uuid": "d17db169-39c5-4ed8-9344-fecb80001e88",
+              "previousWorkflowItemId": "b0e5a663-1713-47ef-a834-3857bfd71311",
+              "nextWorkflowItemId": "c5dec849-ab07-4ac5-8129-dba744fc2476"
+            },
+            {
+              "workflowItemDesc": "",
+              "workflowItemEncounter": {
+                "encounterName": "Follow up",
+                "encounterDesc": "FOLLOW-UP",
+                "previousEncounterId": "0f2211b2-d98f-4c6b-a119-553c210f3051",
+                "nextEncounterId": null,
+                "encounterType": {
+                  "code": "C25716",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Visit"
+                },
+                "encounterEnvironmentalSetting": {
+                  "code": "C16696",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "Hospital"
+                },
+                "encounterContactMode": {
+                  "code": "C175574",
+                  "codeSystem": "http://www.cdisc.org",
+                  "codeSystemVersion": "2022-03-25",
+                  "decode": "In Person"
+                },
+                "transitionStartRule": null,
+                "transitionEndRule": null,
+                "uuid": "d69f1b0f-a1fc-40cc-be1a-53c8dc25b7b9"
+              },
+              "workflowItemActivity": {
+                "activityName": "Demographics",
+                "activityDesc": "Demographics",
+                "previousActivityId": "ea1462db-d1af-47d6-b774-029d81261503",
+                "nextActivityId": "16799187-3b3e-4556-8d4d-027c63fdcdb4",
+                "definedProcedures": [],
+                "studyDataCollection": [],
+                "uuid": "58e48a2c-29f5-415d-a530-ae0826e554ba"
+              },
+              "uuid": "c5dec849-ab07-4ac5-8129-dba744fc2476",
+              "previousWorkflowItemId": "d17db169-39c5-4ed8-9344-fecb80001e88",
+              "nextWorkflowItemId": null
+            }
+          ]
+        }
+      ],
+      "studyEstimands": [
+        {
+          "summaryMeasure": "Measure 1",
+          "analysisPopulation": {
+            "populationDesc": "ITT"
+          },
+          "treatment": {
+            "codes": [
+              {
+                "code": "XX031ZA",
+                "codeSystem": "ATC",
+                "codeSystemVersion": "2021",
+                "decode": "SubstX"
+              }
+            ],
+            "interventionDesc": "Treatment with substX"
+          },
+          "variableOfInterest": {
+            "endpointDesc": "Survival rate after cycle 8 of treatment",
+            "endpointPurposeDesc": "EFFICACY",
+            "endpointLevel": {
+              "code": "C94496",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Primary Endpoint"
+            }
+          },
+          "intercurrentEvents": [
+            {
+              "intercurrentEventName": "Termination",
+              "intercurrentEventDesc": "Termination",
+              "intercurrentEventStrategy": "Patients with out of range lab values before dosing will be excluded"
+            }
+          ]
+        },
+        {
+          "summaryMeasure": "Measure 2",
+          "analysisPopulation": {
+            "populationDesc": "PP"
+          },
+          "treatment": {
+            "codes": [
+              {
+                "code": "XX031ZA",
+                "codeSystem": "ATC",
+                "codeSystemVersion": "2021",
+                "decode": "SubstX"
+              }
+            ],
+            "interventionDesc": "Treatment with substX"
+          },
+          "variableOfInterest": {
+            "endpointDesc": "Survival rate after cycle 8 of treatment",
+            "endpointPurposeDesc": "EFFICACY",
+            "endpointLevel": {
+              "code": "C94496",
+              "codeSystem": "http://www.cdisc.org",
+              "codeSystemVersion": "2022-03-25",
+              "decode": "Primary Endpoint"
+            }
+          },
+          "intercurrentEvents": [
+            {
+              "intercurrentEventName": "Missed dose",
+              "intercurrentEventDesc": "Missed dose",
+              "intercurrentEventStrategy": "Patients with 1 missed dose will be included. Patients with >1 missed dose will be excluded"
+            },
+            {
+              "intercurrentEventName": "Termination",
+              "intercurrentEventDesc": "Termination",
+              "intercurrentEventStrategy": "Patients with out of range lab values before dosing will be excluded"
+            },
+            {
+              "intercurrentEventName": "Out of range lab values",
+              "intercurrentEventDesc": "Out of range lab values",
+              "intercurrentEventStrategy": "Patients with out of range lab values before dosing will be excluded"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
