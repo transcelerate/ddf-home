@@ -5,7 +5,7 @@ description: Landing page for the 2022 DDF Connectathon
 ---
 # 2022 TransCelerate DDF Connectathon
 
-TransCelerate's DDF Initiative is hosting a virtual DDF Connectathon!
+TransCelerate's DDF Initiative hoste a virtual DDF Connectathon in September of 2022. 
 
 <img src="media/images/CONNECT-A-THON-BMA.png" width="500">
 
@@ -137,9 +137,10 @@ TRACK: User Interface (UI) / User Experience (UX)
 <img src="media/images/Line_Break.png" width="500">
 <p></p>
 
-<i>Registration is now open!</i>
+### Connectathon Results 
 <p></p>
 <p></p>
-<a href="https://transcelerateddf.bemyapp.com/#/register">
-<img src="media/images/Connectathon_Register_Button.png" width="250">
-</a>
+<a href="https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-connectathon-results-and-outcomes/">Connecathon Webinar Recap (Coming Soon)</a>
+<p></p>
+<a href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1Ihb31TsYjCdKvKik-37LIJ">Connectathon Distinguished Submissions Video Playlist</a>
+<p></p>
