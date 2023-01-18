@@ -5,18 +5,18 @@ description: Landing page for the 2022 DDF Connectathon
 ---
 # 2022 TransCelerate DDF Connectathon
 
-TransCelerate's DDF Initiative hoste a virtual DDF Connectathon in September of 2022. 
+TransCelerate's DDF Initiative hosted a virtual DDF Connectathon in September of 2022. 
 
 <img src="media/images/CONNECT-A-THON-BMA.png" width="500">
 
 
-### [What is the DDF Connectathon?](https://www.youtube.com/watch?v=vbq9HbhasFw)
+### [What was the DDF Connectathon?](https://www.youtube.com/watch?v=vbq9HbhasFw)
 
 <p></p>
 <details>
 <summary>Click for more details</summary>
 <p></p>
-The DDF Connectathon is a virtual event for sponsor companies, life sciences technology vendors, CROs, and other stakeholders to experiment and test how well their applications align to the <b>CDISC Unified Study Definitions Model (USDM)</b> and the connectivity and interoperability of these applications with the <b>Study Definitions Repository Reference Implementation (SDR RI)</b>.
+The DDF Connectathon was a virtual event for sponsor companies, life sciences technology vendors, CROs, and other stakeholders to experiment and test how well their applications align to the <b>CDISC Unified Study Definitions Model (USDM)</b> and the connectivity and interoperability of these applications with the <b>Study Definitions Repository Reference Implementation (SDR RI)</b>.
 <p></p>
 Watch a <a target="_blank" href="https://www.youtube.com/watch?v=vbq9HbhasFw">video</a> describing the DDF Connectathon.
 <p></p>
@@ -25,9 +25,9 @@ Watch a <a target="_blank" href="https://www.youtube.com/watch?v=vbq9HbhasFw">vi
 <p></p>
 <u>Principles of the DDF Connectathon</u>
 <p></p>
-The DDF Connectathon event focuses on practical ways that companies have and can use the SDR RI and the USDM, and is not meant to be used as an application showcase. 
+The DDF Connectathon event focused on practical ways that companies have and can use the SDR RI and the USDM, and was not meant to be used as an application showcase. 
 <p></p>
-A key principle of the Connectathon is that it is a safe place to explore options for connectivity, innovation, and interoperatbility. Collaboration with and across different stakeholders is highly encouraged.
+A key principle of the Connectathon was that it is a safe place to explore options for connectivity, innovation, and interoperatbility. Collaboration with and across different stakeholders was highly encouraged.
 <p></p>
 </details>
 <p></p>
@@ -38,9 +38,9 @@ A key principle of the Connectathon is that it is a safe place to explore option
 <details>
 <summary>Click for more details</summary>
 <p></p>
-TransCelerate's DDF Initiative is planning an exciting and inspiring event to encourage innovation and to progress DDF's objectives to faciliate interoperability across disparate systems to achieve the seamless flow of protocol data.
+TransCelerate's DDF Initiative planned an exciting and inspiring event to encourage innovation and to progress DDF's objectives to faciliate interoperability across disparate systems to achieve the seamless flow of protocol data.
 <p></p>
-The DDF Connectathon strives to... 
+The DDF Connectathon strived to... 
 <p></p>
 - increase stakeholder knowledge and awareness of the DDF solution across the industry through direct and interactive engagement with a functioning SDR RI
 <p></p>
@@ -59,11 +59,11 @@ The DDF Connectathon strives to...
 <details>
 <summary>Click for more details</summary>
 <p></p>
-The DDF Connectathon is a cross-industry event. Participants from sponsor companies, life science technology solution vendors, CROs, and other stakeholders are welcome to participate.
+The DDF Connectathon was a cross-industry event. Participants from sponsor companies, life science technology solution vendors, CROs, and other stakeholders were welcomed to participate.
 <p></p>
 <u>Benefits of Participating</u>
 <p></p>
-By participating in the DDF Connectathon, you will benefit by:
+By participating in the DDF Connectathon, benefits included:
 <p></p>
 - actively demonstrating and watching others demonstrate connectivity and interoperability with stakeholder solutions
 <p></p>
@@ -93,7 +93,7 @@ This will be an interactive event. Participants will get the most out it by havi
 <details>
 <summary>Click for more details</summary>
 <p></p>
-There are six tracks across two categories.  Innovative exploration not detailed below is also welcome and encouraged. More information about tracks will be provided post-registration. 
+There were six tracks across two categories.  Innovative exploration not detailed below were also welcome and encouraged.  
 <p></p>
 <u>Category: Data Interoperability</u>
 <p></p>
@@ -140,7 +140,7 @@ TRACK: User Interface (UI) / User Experience (UX)
 ### Connectathon Results 
 <p></p>
 <p></p>
-<a href="https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-connectathon-results-and-outcomes/">Connecathon Webinar Recap (Coming Soon)</a>
+<a href="https://www.youtube.com/watch?v=IbmGLtfAW9o">Connecathon Webinar Recap</a>
 <p></p>
 <a href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1Ihb31TsYjCdKvKik-37LIJ">Connectathon Distinguished Submissions Video Playlist</a>
 <p></p>
