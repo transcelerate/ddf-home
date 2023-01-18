@@ -21,13 +21,11 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 2022 will focus on getting sponsor companies and vendor solutions to confirm connectivity, expand functionality, and pilot DDF. 
   
-- 2022.11.01 - [DDF Webinar - Connectathon Results and Outcomes (Recording Coming Soon)](https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-connectathon-results-and-outcomes/)
+- 2022.11.01 - [DDF Webinar - Connectathon Results and Outcomes](https://www.youtube.com/watch?v=IbmGLtfAW9o)
 - 2022.09.12-30 - [DDF Connectathon Event](CaT_home.md)
 - 2022.05.11 - [DDF Webinar - Cross Industry Collaboration Part 2 (Recording)](https://www.youtube.com/watch?v=II5Cuq4Q7QE)
 - 2022.03.29 - CDISC USDM Public Review Start [(Link to CDISC)](https://www.cdisc.org/ddf)
 - 2022.03.01 - [DDF Webinar - Cross Industry Collaboration Part 1 (Recording)](https://www.youtube.com/watch?v=O6qqTSz8ls0)
-- 2021.11.16 - [DDF Introduction Webinar (Recording)](https://www.youtube.com/watch?v=pfTI7aBMv0Y)
-- 2021.09.09 - [DDF Press Release](https://www.businesswire.com/news/home/20210909005612/en/TransCelerate-BioPharma-Commences-Collaborative-Development-of-a-Novel-Digital-Data-Flow-Solution-for-Study-Start-Up)
 
 ## Getting Started with DDF
 
