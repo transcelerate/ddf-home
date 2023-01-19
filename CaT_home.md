@@ -27,7 +27,7 @@ Watch a <a target="_blank" href="https://www.youtube.com/watch?v=vbq9HbhasFw">vi
 <p></p>
 The DDF Connectathon event focused on practical ways that companies have and can use the SDR RI and the USDM, and was not meant to be used as an application showcase. 
 <p></p>
-A key principle of the Connectathon was that it is a safe place to explore options for connectivity, innovation, and interoperatbility. Collaboration with and across different stakeholders was highly encouraged.
+The Connectathon was a safe place to explore options for connectivity, innovation, and interoperatbility. Collaboration with and across different stakeholders was highly encouraged.
 <p></p>
 </details>
 <p></p>
@@ -63,7 +63,7 @@ The DDF Connectathon was a cross-industry event. Participants from sponsor compa
 <p></p>
 <u>Benefits of Participating</u>
 <p></p>
-By participating in the DDF Connectathon, benefits included:
+By participating in the DDF Connectathon, benefits included
 <p></p>
 - actively demonstrating and watching others demonstrate connectivity and interoperability with stakeholder solutions
 <p></p>
@@ -76,7 +76,7 @@ By participating in the DDF Connectathon, benefits included:
 <p></p>
 <u>Participant Expectations</u>
 <p></p>
-This will be an interactive event. Participants will get the most out it by having:
+This was an interactive event. Participants got the most out it by having
 <p></p>
 - a functioning solution capable of integrating with the DDF Initiative standards and technology
 <p></p>
@@ -93,13 +93,13 @@ This will be an interactive event. Participants will get the most out it by havi
 <details>
 <summary>Click for more details</summary>
 <p></p>
-There were six tracks across two categories.  Innovative exploration not detailed below were also welcome and encouraged.  
+The Connectathon had six tracks across two categories.  Innovative exploration not detailed below was also welcomed and encouraged.  
 <p></p>
 <u>Category: Data Interoperability</u>
 <p></p>
 TRACK: Connectivity Completeness
 <p></p>
-- Of the complete set of data elements within the USDM, how many elements are you able to store and transfer (up and/or down)​
+- Of the complete set of data elements within the USDM, how many elements were you able to store and transfer (up, down, or both)​
 <p></p>
 <u>Category: Solution Innovation</u>
 <p></p>
@@ -117,11 +117,11 @@ TRACK: SDR Host Migration
 <p></p>
 TRACK: Supplemental Data and Additional Standards
 <p></p>
-- Solution features dedicated to layering additional data or incorporating additional standards on top of what is described with the USDM​
+- Solution features dedicated to layering additional data or incorporating additional standards on top of what the USDM describes
 <p></p>
 TRACK: User Interface (UI) / User Experience (UX)
 <p></p>
-- Solution features around displaying relevant data in an easy to use and understand format​
+- Solution features around displaying relevant data in an easy to use and understandable format​
 <p></p>
 </details>
 <p></p>
