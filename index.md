@@ -19,7 +19,7 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 ## Latest News & Upcoming Events
 
-2022 will focus on getting sponsor companies and vendor solutions to confirm connectivity, expand functionality, and pilot DDF. 
+2022 focused on getting sponsor companies and vendor solutions to confirm connectivity, expand functionality, and pilot DDF. 
   
 - 2022.11.01 - [DDF Webinar - Connectathon Results and Outcomes (Recording)](https://www.youtube.com/watch?v=IbmGLtfAW9o)
 - 2022.09.12-30 - [DDF Connectathon Event](CaT_home.md)
