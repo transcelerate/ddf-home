@@ -59,11 +59,7 @@ The DDF Connectathon strived to...
 <details>
 <summary>Click for more details</summary>
 <p></p>
-<<<<<<< HEAD
 The DDF Connectathon was a cross-industry event. Participants from sponsor companies, life science technology solution vendors, CROs, and other stakeholders were welcome to participate.
-=======
-The DDF Connectathon was a cross-industry event. Participants from sponsor companies, life science technology solution vendors, CROs, and other stakeholders were welcomed to participate.
->>>>>>> 7a61dce70e86864d57ec047d96904b84c74bcda4
 <p></p>
 <u>Benefits of Participating</u>
 <p></p>
@@ -80,11 +76,7 @@ By participating in the DDF Connectathon, benefits included
 <p></p>
 <u>Participant Expectations</u>
 <p></p>
-<<<<<<< HEAD
 This was an interactive event. Participants got the most out it by having:
-=======
-This was an interactive event. Participants got the most out it by having
->>>>>>> 32af916652c8005e2b55682e56677a88b6c4c982
 <p></p>
 - a functioning solution capable of integrating with the DDF Initiative standards and technology
 <p></p>

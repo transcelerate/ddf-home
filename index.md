@@ -21,6 +21,7 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 2022 focused on getting sponsor companies and vendor solutions to confirm connectivity, expand functionality, and pilot DDF. 
   
+- 2022.12 - [December 2022 Newsletter](/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202022%20Newsletter.pdf)
 - 2022.11.01 - [DDF Webinar - Connectathon Results and Outcomes (Recording)](https://www.youtube.com/watch?v=IbmGLtfAW9o)
 - 2022.09.12-30 - [DDF Connectathon Event](CaT_home.md)
 - 2022.05.11 - [DDF Webinar - Cross Industry Collaboration Part 2 (Recording)](https://www.youtube.com/watch?v=II5Cuq4Q7QE)
