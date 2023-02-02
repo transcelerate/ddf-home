@@ -27,7 +27,7 @@ Watch a <a target="_blank" href="https://www.youtube.com/watch?v=vbq9HbhasFw">vi
 <p></p>
 The DDF Connectathon event focused on practical ways that companies have and can use the SDR RI and the USDM, and was not meant to be used as an application showcase. 
 <p></p>
-The Connectathon was a safe place to explore options for connectivity, innovation, and interoperatbility. Collaboration with and across different stakeholders was highly encouraged.
+A key principle of the Connectathon was that it is a safe place to explore options for connectivity, innovation, and interoperatbility. Collaboration with and across different stakeholders was highly encouraged.
 <p></p>
 </details>
 <p></p>
@@ -59,7 +59,11 @@ The DDF Connectathon strived to...
 <details>
 <summary>Click for more details</summary>
 <p></p>
+<<<<<<< HEAD
+The DDF Connectathon was a cross-industry event. Participants from sponsor companies, life science technology solution vendors, CROs, and other stakeholders were welcome to participate.
+=======
 The DDF Connectathon was a cross-industry event. Participants from sponsor companies, life science technology solution vendors, CROs, and other stakeholders were welcomed to participate.
+>>>>>>> 7a61dce70e86864d57ec047d96904b84c74bcda4
 <p></p>
 <u>Benefits of Participating</u>
 <p></p>
@@ -76,7 +80,11 @@ By participating in the DDF Connectathon, benefits included
 <p></p>
 <u>Participant Expectations</u>
 <p></p>
+<<<<<<< HEAD
+This was an interactive event. Participants got the most out it by having:
+=======
 This was an interactive event. Participants got the most out it by having
+>>>>>>> 32af916652c8005e2b55682e56677a88b6c4c982
 <p></p>
 - a functioning solution capable of integrating with the DDF Initiative standards and technology
 <p></p>
@@ -93,7 +101,15 @@ This was an interactive event. Participants got the most out it by having
 <details>
 <summary>Click for more details</summary>
 <p></p>
+<<<<<<< HEAD
+<<<<<<< HEAD
+There were six tracks across two categories.  Innovative exploration not detailed below was also welcome and encouraged. 
+=======
+There were six tracks across two categories.  Innovative exploration not detailed below were also welcome and encouraged.  
+>>>>>>> 7a61dce70e86864d57ec047d96904b84c74bcda4
+=======
 The Connectathon had six tracks across two categories.  Innovative exploration not detailed below was also welcomed and encouraged.  
+>>>>>>> 32af916652c8005e2b55682e56677a88b6c4c982
 <p></p>
 <u>Category: Data Interoperability</u>
 <p></p>
