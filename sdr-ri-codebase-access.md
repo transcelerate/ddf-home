@@ -3,13 +3,13 @@ title: SDR RI Codebase
 description: Landing page for getting started with the SDR RI Codebase and GitHub basics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# *Disclaimer*
+# Disclaimer
 
-The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.
+<i> The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.
 
 These materials are not intended to guide the study definition process or configuration of clinical systems. Results of those activities are solely the responsibility of the user of the scripts and not the developers.
 
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
+For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/). </i>
 
 ## Getting Started: SDR RI Codebase
 
