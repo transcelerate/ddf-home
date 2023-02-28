@@ -19,6 +19,16 @@ For details and documents regarding the RA and USDM, please go to the [CDISC Dig
 
 TransCelerate’s intent is to facilitate the development of open-source, vendor-agnostic solutions to facilitate digital data flow (“DDF”).  Accordingly, while the SDR is currently developed with Microsoft Azure, the intent is for users to be able to implement the elements of DDF in any environment or system.  
 
+### SDR RI Releases
+
+
+| Version                                                                                                                                                                                               | Date                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Release Notes                                                                                                                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| R1.0 (USDM v1 Draft) | April 2022 | TBD |
+| R1.1 (USDM v1 Provisional) | Sept 2022 | TBD |
+
+
+
 ## SDR RI Codebase as Open Source & GitHub
 
 The SDR Reference Implementation has been designed and deployed to be open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
