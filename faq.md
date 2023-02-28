@@ -254,7 +254,7 @@ In addition, individual organizations may develop other innovative implementatio
 <p></p>
 The Digital Data Flow will focus on enabling flow of study definitions data from study builders to Study Definitions Repositories (SDR) to Electronic Data Capture (EDC)/CDMS. The DDF GitHub site has been set up to foster, develop, and maintain an open-source community of active DDF project contributors. GitHub repository will be the central destination for OS material & future collaboration. 
 <p></p>
-A Connectathon event will encourage demonstrations of use/connectivity to the Study Definitions Repository & CDISC standards by anyone in the vendor community. Through the GitHub and Connectathon, potential users, study builders and EDC vendors can test out the initial solution functionality and viability. 
+A Connectathon event was conducted in late 2022 to encourage demonstrations of use/connectivity to the Study Definitions Repository & CDISC standards by anyone in the vendor community. Through the GitHub and Connectathon, potential users, study builders and EDC vendors were able to test out the initial solution functionality and viability. Click <a href="https://www.youtube.com/watch?v=IbmGLtfAW9o">here</a> for a video of the Connectathon results and outcomes.
 <p></p>
 </details>
 <details>
