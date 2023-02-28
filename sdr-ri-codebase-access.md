@@ -3,21 +3,21 @@ title: SDR RI Codebase
 description: Landing page for getting started with the SDR RI Codebase and GitHub basics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Getting Started: SDR RI Codebase
-
-The Study Definitions Repository (SDR) Reference Implementation is a working instance of a Study Definitions Repository that has been developed based on the **CDISC Reference Architecture (RA)** which is part of the **Unified Study Definitions Model (USDM)**.  
-
-For details and documents regarding the RA and USDM, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
-
-TransCelerate’s intent is to facilitate the development of open-source, vendor-agnostic solutions to facilitate digital data flow (“DDF”).  Accordingly, while the SDR is currently developed with Microsoft Azure, the intent is for users to be able to implement the elements of DDF in any environment or system.  
-
-## Disclaimer
+# Disclaimer
 
 The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.
 
 These materials are not intended to guide the study definition process or configuration of clinical systems. Results of those activities are solely the responsibility of the user of the scripts and not the developers.
 
 For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).
+
+## Getting Started: SDR RI Codebase
+
+The Study Definitions Repository (SDR) Reference Implementation is a working instance of a Study Definitions Repository that has been developed based on the **CDISC Reference Architecture (RA)** which is part of the **Unified Study Definitions Model (USDM)**.  
+
+For details and documents regarding the RA and USDM, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
+
+TransCelerate’s intent is to facilitate the development of open-source, vendor-agnostic solutions to facilitate digital data flow (“DDF”).  Accordingly, while the SDR is currently developed with Microsoft Azure, the intent is for users to be able to implement the elements of DDF in any environment or system.  
 
 ## SDR RI Codebase as Open Source & GitHub
 
