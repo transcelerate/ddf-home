@@ -11,5 +11,5 @@ Please see the list of Digital Data Flow (DDF) events.
 - TBD
 
 ## Previous Events
-- [2022 Connectathon](CAT_home.md)
+- [2022 Connectathon](CaT_home.md)
 
