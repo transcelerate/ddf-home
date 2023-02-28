@@ -3,7 +3,7 @@ title: SDR RI Codebase
 description: Landing page for getting started with the SDR RI Codebase and GitHub basics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Disclaimer
+# *Disclaimer*
 
 The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.
 
