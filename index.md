@@ -32,6 +32,7 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 - 2022.03.01 - [DDF Webinar - Cross Industry Collaboration Part 1 (Recording)](https://www.youtube.com/watch?v=O6qqTSz8ls0)
 
 ### Other Webinars
+- 2023.04.20 - CDISC USDM V2.0 Public Review [(Link to CDISC)](https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-2-public-review)
 - 2022.03.29 - CDISC USDM Public Review Start [(Link to CDISC)](https://www.cdisc.org/ddf)
 
 ### DDF at Conferences
