@@ -65,15 +65,4 @@ The SDR Reference Implementation codebase is separated into different repositori
 
 Each repository contains supporting documentation for access and installing the code.
 
-<!--- ### How-To Videos >
-<!--- Several videos have been created to show steps a user would need to go through to provision a new instance of the SDR in their organization's local environment. >
 
-<!--- NOTE: The instructions and guidance are based on deploying the code in Azure only. >
-
-<!--- 1. [Environment Creation for SDR on Azure](https://www.youtube.com/watch?v=8k_fdwMNafY&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=1)>
-<!--- 2. [Deploying SDR code on Azure DevOps](https://www.youtube.com/watch?v=yulXnWUPbp8&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=2)>
-<!--- 3. [Azure PaaS Configurations](https://www.youtube.com/watch?v=MXLUbjDAqgs&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=3)>
-<!--- 4. [Application Data Setup and Smoke Test](https://www.youtube.com/watch?v=KQ7PPmGOz7A&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=4)>
-<!--- 5. [SonarQube Integration with Azure](https://www.youtube.com/watch?v=w11p7R10L2w&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=5)>
-<!--- 6. [SDR RI API Demo](https://www.youtube.com/watch?v=s9Qnzxy7HME&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=7)>
-<!--- 7. [SDR RI UI Demo](https://www.youtube.com/watch?v=223OgGvERRw&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=6)>
