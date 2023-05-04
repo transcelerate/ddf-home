@@ -21,7 +21,11 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 
 Please see links below for newsletters, webinars and conferences featuring DDF. 
 
+### Announcements
+- [Attention clinical technology community: Sign up by June 2nd to participate in the Digital Data Flow Discussion Forum for Clinical Technology Solution Providers](community.md#special-annoucement---digital-data-flow-discussion-forum-for-clinical-technology-solution-providers)
+
 ### Newsletters  
+- 2023.04 - [April 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202023%20Newsletter.png)
 - 2023.02 - [February 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20FEB%202023%20Newsletter.png)
 - 2022.12 - [December 2022 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202022%20Newsletter.pdf)
 
