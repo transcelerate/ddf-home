@@ -25,8 +25,7 @@ If you would like to participate, please fill out [this form](https://www.transc
 - **Active in Discussions**: Active participation in monthly one-hour Forum meeting discussions (first Thursday of each month, 11a-12p ET), during which feedback from participants will be solicited on the future development or direction of DDF solutions and/or participants will be expected to raise relevant topics of interest for discussion among the group (no silent bystanders)
 - **Testing/Piloting**: Willingness to pilot, test and/or demonstrate DDF solutions (outside of meetings; could involve several hours or several weeks of effort depending on the relevant technology solutions, desired use cases, and existing familiarity with DDF solutions) – providing useful feedback based on test/pilot experiences that can improve future development of the USDM and/or SDR
 - **Tech Demonstrations**: Willingness to demonstrate to a broad audience, where feasible, use cases which apply DDF solutions to upstream and downstream technology solutions, either in TransCelerate-hosted forums or other external fora (e.g. industry meetings, conferences)
-
-Optional participation in additional CDISC-led meetings soliciting input on continued development of the Unified Study Definitions Model (~bi-weekly starting late summer)
+- Optional participation in additional CDISC-led meetings soliciting input on continued development of the Unified Study Definitions Model (~bi-weekly starting late summer)
 
 
 ## DDF Community Values
