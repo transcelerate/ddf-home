@@ -10,16 +10,6 @@ The DDF community is about working together toward continuous improvement, learn
 
 GitHub is the open source platform that will be used for community engagement. New to GitHub? Click [Getting Started with GitHub](github-support.md) for some guidance on accessing and using GitHub.
 
-## Special Annoucement - Digital Data Flow Discussion Forum for Clinical Technology Solution Providers
-**Attention clinical technology community**:  TransCelerate is hosting a regular Discussion Forum for clinical technology solution providers seeking to become actively involved in further development of Digital Data Flow (DDF) solutions, including the CDISC Unified Study Definitions Model (USDM) and the Study Definitions Repository (SDR) Reference Implementation. 
-
-If you would like to participate, please fill out [this form](https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/) by **Friday, June 2**, to confirm your interest (please submit the form even if you have already submitted one in the past). To distinguish your interest specifically in the DDF Discussion Forum within this form, please be sure to include the following in the comment box, as well as clicking all relevant boxes which indicate you agree to be contacted by us:
-- 2-3 sentence description of your company’s product and service portfolio relevant to Digital Data Flow, including any solutions or work in which your company is involved related to producing or using clinical study design specifications / clinical study protocol information
-- 2-3 sentence description of how you plan to meet the expectations for forum attendees set out below
-
-**Note**:  Technically proficient developers, product/system owners, data modelers, database admins, etc. are expected in this Forum. The form submitter should be the same individual from your organization who expects to participate in the Forum. We are limiting one representative per company at this time.
-
-
 **Expectations of Forum Attendees**
 - **Good-faith Interest**: Good-faith interest in better understanding and furthering the development and application of DDF solutions
 - **Active in Discussions**: Active participation in monthly one-hour Forum meeting discussions (first Thursday of each month, 11a-12p ET), during which feedback from participants will be solicited on the future development or direction of DDF solutions and/or participants will be expected to raise relevant topics of interest for discussion among the group (no silent bystanders)
