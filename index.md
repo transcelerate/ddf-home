@@ -23,9 +23,9 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 
 ### Announcements
 - TBD
-- 
 
 ### Newsletters  
+- 2023.06 - [June 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20JUN%202023%20Newsletter.png)
 - 2023.04 - [April 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202023%20Newsletter.png)
 - 2023.02 - [February 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20FEB%202023%20Newsletter.png)
 - 2022.12 - [December 2022 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202022%20Newsletter.pdf)
@@ -41,6 +41,8 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 - 2022.03.29 - CDISC USDM Public Review Start [(Link to CDISC)](https://www.cdisc.org/ddf)
 
 ### DDF at Conferences
+- 2023.11.5-8 - [PHUSE EU Connect](https://www.cdisc.org/events/education/external-events/2023/11/phuse-eu-connect-2023)
+- 2023.10.18-19 - [CDICS US Interchange](https://www.cdisc.org/events/interchange/2023-us-interchange)
 - 2023.06.25-29 - [DIA Global Annual Meeting](https://www.diaglobal.org/en/flagship/dia-2023)
 - 2023.04.26-27 - [CDISC EU Interchange](https://www.cdisc.org/events/interchange/2023-europe-interchange)
 - 2023.04.18-20 - [Decentralized Clinical Trials Conference](https://informaconnect.com/decentralized-clinical-trials/)
