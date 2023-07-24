@@ -17,6 +17,32 @@ Follow these links for information about DDF, benefits, and initiative outputs:
 - [DDF Benefits Video](https://www.youtube.com/watch?v=Otg0d2385is)
 - [FAQ](faq.md)
 
+TransCelerate has created informational videos to support the understanding of some key concepts in the USDM v2.0 and/or SDR v2.0.
+
+<table>
+ <thead>
+  <tr>
+   <th>Video</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong><a target="_blank" href="https://youtu.be/0tGpj8g5gxY ">Supporting Automation of Case Report Forms Using Biomedical Concepts</a></strong></td>
+   <td>Short video introducing Biomedical Concepts and the benefits of this data model concept in the study lifecycle</td>
+  </tr>
+  <tr>
+   <td><strong><a target="_blank" href="https://youtu.be/M6XT3WrxkVc">Time Points: Supporting Protocol Digitization with Complex Timing Components</a></strong></td>
+   <td>Short video introducing Time Points and how it can be used to support complex studies designs</td>
+  </tr>
+  <tr>
+   <td><strong><a target="_blank" href="https://youtu.be/oCCjGddM8us ">Integrating Clinical Content & Reuse (CC&R) and Digital Data Flow (DDF) Initiatives</a></strong></td>
+   <td>Short video introducing the synergies between TransCelerate’s CC&R and DDF initiatives.</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
+
 ## Starting Point: Active Exploration
 
 Click for information about USDM, SDR Reference Implementation, and Open Source/GitHub:
