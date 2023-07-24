@@ -12,11 +12,11 @@ TransCelerate has collaborated with CDISC and other stakeholders to develop a st
 
 The important deliverables/activities from this initiative include:
 
-1. CDISC Unified Study Definitions Model (USDM) and API specifications – the foundational standards to create a common, digital data model and method for exchanging protocol information
+1. **CDISC Unified Study Definitions Model (USDM) and API specifications** – the foundational standards to create a common, digital data model and method for exchanging protocol information
 
-2. Study Definitions Repository (SDR) Reference Implementation and associated source code available in open source – a functioning, example approach to connect systems that produce protocol information with those that consume it to drive study operations – in the form of a reference implementation that stores and facilitates the exchange of protocol information
+2. **Study Definitions Repository (SDR) Reference Implementation and associated source code available in open source** – a functioning, example approach to connect systems that produce protocol information with those that consume it to drive study operations – in the form of a reference implementation that stores and facilitates the exchange of protocol information
 
-3. Engagements with implementers (sponsors, vendors, CROs) who play a critical role in leveraging standards in their software and their protocol digitization approach
+3. **Engagements with implementers (sponsors, vendors, CROs)** who play a critical role in leveraging standards in their software and their protocol digitization approach
 
 Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. 
 
