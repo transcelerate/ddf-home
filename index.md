@@ -6,7 +6,17 @@ description: Landing page for the DDF reference implementation and related infor
 ---
 # Introduction to DDF
 
-The DDF initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution.
+The initiative will help to modernize clinical trials by enabling a digital workflow to allow for the automated creation of study assets and configuration of study systems to support clinical trial execution. This initiative will establish a foundation for a future state of automated and dynamic readiness that can transform the drug development process. 
+
+TransCelerate has collaborated with CDISC and other stakeholders to develop a standard data model for specifying protocol information, as well as a demonstrated way to connect systems that produce, exchange or consume this information. 
+
+The important deliverables/activities from this initiative include:
+
+1. CDISC Unified Study Definitions Model (USDM) and API specifications – the foundational standards to create a common, digital data model and method for exchanging protocol information
+
+2. Study Definitions Repository (SDR) Reference Implementation and associated source code available in open source – a functioning, example approach to connect systems that produce protocol information with those that consume it to drive study operations – in the form of a reference implementation that stores and facilitates the exchange of protocol information
+
+3. Engagements with implementers (sponsors, vendors, CROs) who play a critical role in leveraging standards in their software and their protocol digitization approach
 
 Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. 
 
@@ -22,7 +32,8 @@ Want to read more about DDF, the objectives, and benefits?  Go to [DDF Overview]
 Please see links below for newsletters, webinars and conferences featuring DDF. 
 
 ### Announcements
-- TBD
+- 2023.06 - USDM 2.0 Final is live
+- 2023.07 - SDR v2.0.1 is live
 
 ### Newsletters  
 - 2023.06 - [June 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20JUN%202023%20Newsletter.png)
