@@ -158,7 +158,7 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong>[Full Toolkit] DDF Persona Toolkit for Protocol Medical Writer</strong></td>
+   <td><strong>[Full Toolkit] DDF Persona Toolkit for Protocol Medical Writer (MW)</strong></td>
    <td>The objective is to help protocol medical writers understand and better prepare for how to adapt their role and responsibilities to new ways of working within an automated and digitalized study lifecycle.</td>
   </tr>
   <tr>
@@ -166,8 +166,20 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <td>This overview provides key information pertaining to the overall Digital Data Flow (DDF) Initiative. </td>
   </tr>
   <tr>
-   <td><strong>Action Steps</strong></td>
-   <td>Use the DDF Change Management Journey and Current State information to create a future state roadmap</td>
+   <td><strong>Toolkit Overview (MW)</strong></td>
+   <td>This describes the toolkit purpose, components, and ways to use it.</td>
+  </tr>
+    <tr>
+   <td><strong>Persona Profile Card (MW)</strong></td>
+   <td>This articulates potential impacts to a Protocol Medical Writer’s role comparing the current state (As-Is) to the anticipated future state (To-Be).</td>
+  </tr>
+    <tr>
+   <td><strong>Persona Change Impacts (MW)</strong></td>
+   <td>This articulates potential impacts to a Protocol Medical Writer’s role comparing the current state (As-Is) to the anticipated future state (To-Be).</td>
+  </tr>
+    <tr>
+   <td><strong>Persona Day in the Life (MW)</strong></td>
+   <td>An illustrative flow of “What could a work-day look like with the application of DDF?”</td>
   </tr>
  </thead>
 </table>
@@ -204,6 +216,18 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <td><strong>C</strong></td>
    <td>C</td>
   </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
+  </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
+  </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
+  </tr>
  </thead>
 </table>
 <p></p>
@@ -238,6 +262,18 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
   <tr>
    <td><strong>C</strong></td>
    <td>C</td>
+   </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
+  </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
+  </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
   </tr>
  </thead>
 </table>
