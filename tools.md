@@ -209,28 +209,28 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Toolkit_eBook.pdf">[Full Toolkit] DDF Persona Toolkit for Clinical Data Manager (DM)</a></strong></td>
+   <td>The objective is to help clinical data managers understand and better prepare for how to adapt their role and responsibilities to new ways of working within an automated and digitalized study lifecycle.</td>
   </tr>
   <tr>
-   <td><strong>B</strong></td>
-   <td>B</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/DDF-Overview_FINAL.pdf">DDF Initiative Overview</a></strong></td>
+   <td>This overview provides key information pertaining to the overall Digital Data Flow (DDF) Initiative.</td>
   </tr>
   <tr>
-   <td><strong>C</strong></td>
-   <td>C</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Toolkit-Overview_FINAL.pdf">Toolkit Overview (DM)</a></strong></td>
+   <td>This describes the toolkit purpose, components, and ways to use it.</td>
   </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Profile-Card_FINAL.pdf">Persona Profile Card (DM)</a></strong></td>
+   <td>This describes the profile for a typical Clinical Data Manager role as described in this toolkit. It can be utilized to help Clinical Data Manager understand the benefits and value of digitalization of data flow within the context of protocol authoring.</td>
   </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Change-Impact_FINAL.pdf">Persona Change Impacts (DM)</a></strong></td>
+   <td>This articulates potential impacts to a Clinical Data Manager role comparing the current state (As-Is) to the anticipated future state (To-Be).</td>
   </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Day-in-the-Life_FINAL.pdf">Persona Day in the Life (DM)</a></strong></td>
+   <td>An illustrative flow of “What could a work-day look like with the application of DDF?”</td>
   </tr>
  </thead>
 </table>
@@ -258,28 +258,28 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/IT-Persona-Toolkit_eBook.pdf">[Full Toolkit] DDF Persona Toolkit for Information Technology (IT)</a></strong></td>
+   <td>The objective is to help the IT Leadership and IT Technical Expert roles understand the anticipated benefits of the DDF initiative and better prepare for how their role and responsibilities may need to adapt to new ways of working.</td>
   </tr>
   <tr>
-   <td><strong>B</strong></td>
-   <td>B</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/DDF-Overview_FINAL.pdf">DDF Initiative Overview</a></strong></td>
+   <td>This overview provides key information pertaining to the overall Digital Data Flow (DDF) Initiative.</td>
   </tr>
   <tr>
-   <td><strong>C</strong></td>
-   <td>C</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/IT-Persona-Toolkit-Overview_FINAL.pdf">Toolkit Overview (IT)</a></strong></td>
+   <td>This describes the toolkit purpose, components, and ways to use it.</td>
    </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/IT-Persona-Profile-Card-Leadership_FINAL.pdf">Persona Profile Card – IT Leadership</a></strong></td>
+   <td>This describes the profile for a typical Information Technology (IT) Leadership role as described in this toolkit. It can be utilized to help this role understand the benefits and value of digitalization of data flow across the study lifecycle from study design startup to execution.</td>
   </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/IT-Persona-Profile-Card-Tech-Expert_FINAL.pdf">Persona Profile Card – IT Technical Expert</a></strong></td>
+   <td>This describes the profile for a typical Information Technology (IT) Technical Expert role as described in this toolkit. It can be utilized to help this role understand the benefits and value of digitalization of data flow across the study lifecycle from study design startup to execution.</td>
   </tr>
   <tr>
-   <td><strong>A</strong></td>
-   <td>A</td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/IT-Persona-Partnering-Guidance_FINAL.pdf">Building a Case for Change</a></strong></td>
+   <td>High-level guidance for Business and IT functions to partner on implementing DDF solutions within sponsor companies.</td>
   </tr>
  </thead>
 </table>
