@@ -147,10 +147,12 @@ Please note, job titles, roles, & responsibilities can and will vary, often sign
 <summary>Click for details</summary>
 <p></p>
 
+
 This toolkit is a change resource for Protocol Medical Writers that describes how the DDF initiative will likely impact some discrete tasks commonly performed by this persona.
 
 Below table includes a link to the full toolkit (eBook), as well as each individual section of the toolkit so each component can be accessed separately. 
  
+
 <table>
  <thead>
   <tr>
@@ -158,27 +160,27 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href=https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Toolkit_eBook.pdf>[Full Toolkit] DDF Persona Toolkit for Protocol Medical Writer (MW)</a></strong></td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Toolkit_eBook.pdf">[Full Toolkit] DDF Persona Toolkit for Protocol Medical Writer (MW)</a></strong></td>
    <td>The objective is to help protocol medical writers understand and better prepare for how to adapt their role and responsibilities to new ways of working within an automated and digitalized study lifecycle.</td>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href=https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/DDF-Overview_FINAL.pdf>DDF Initiative Overview</a></strong></td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/DDF-Overview_FINAL.pdf">DDF Initiative Overview</a></strong></td>
    <td>This overview provides key information pertaining to the overall Digital Data Flow (DDF) Initiative. </td>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href=https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-WRiter-Persona-Toolkit-Overview_FINAL.pdf>Toolkit Overview (MW)</a></strong></td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-WRiter-Persona-Toolkit-Overview_FINAL.pdf">Toolkit Overview (MW)</a></strong></td>
    <td>This describes the toolkit purpose, components, and ways to use it.</td>
   </tr>
     <tr>
-   <td><strong><a target="_blank" href=https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Profile-Card_FINAL.pdf>Persona Profile Card (MW)</a></strong></td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Profile-Card_FINAL.pdf">Persona Profile Card (MW)</a></strong></td>
    <td>This articulates potential impacts to a Protocol Medical Writer’s role comparing the current state (As-Is) to the anticipated future state (To-Be).</td>
   </tr>
     <tr>
-   <td><strong><a target="_blank" href=https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Change-Impact_FINAL.pdf>Persona Change Impacts (MW)</a></strong></td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Change-Impact_FINAL.pdf">Persona Change Impacts (MW)</a></strong></td>
    <td>This articulates potential impacts to a Protocol Medical Writer’s role comparing the current state (As-Is) to the anticipated future state (To-Be).</td>
   </tr>
     <tr>
-   <td><strong><a target="_blank" href=https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Day-in-the-Life_FINAL.pdf>Persona Day in the Life (MW)</a></strong></td>
+   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Protocol-Medical-Writer-Persona-Day-in-the-Life_FINAL.pdf">Persona Day in the Life (MW)</a></strong></td>
    <td>An illustrative flow of “What could a work-day look like with the application of DDF?”</td>
   </tr>
  </thead>
@@ -194,10 +196,12 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
 <summary>Click for details</summary>
 <p></p>
 
+
 This toolkit is a change resource for Clinical Data Manager that describes how the DDF initiative will likely impact some discrete tasks commonly performed by this persona.
 
 Below table includes a link to the full toolkit (eBook), as well as each individual section of the toolkit so each component can be accessed separately. 
  
+
 <table>
  <thead>
   <tr>
@@ -241,10 +245,12 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
 <summary>Click for details</summary>
 <p></p>
 
+
 This toolkit is a change resource for IT Leadership and IT Technical Experts that describes how the DDF initiative will likely impact some discrete tasks commonly performed by these personas.
 
 Below table includes a link to the full toolkit (eBook), as well as each individual section of the toolkit so each component can be accessed separately. 
  
+
 <table>
  <thead>
   <tr>
