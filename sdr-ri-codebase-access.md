@@ -28,6 +28,7 @@ TransCelerate’s intent is to facilitate the development of open-source, vendor
 | R1.0.1 ([USDM 1.0 Provisional](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Provisional).zip)) <br> (previously described as v0.5)| Sept 2022 | - Updates to support updates from USDM v1.0 to USDM v1.0 Provisional |
 | R2.0.0 ([USDM 2.0 Draft](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v2.0_(Draft).zip)) | March 2023 | Summary is provided below with detailed Release Notes available [here](https://github.com/transcelerate/ddf-sdr-support/tree/main/documents) <br> **SDR Data Model** <br> - Biomedical Concepts <br> - Complex Time Relationships <br> - Stores Study Versions <br> **SDR User Interface** <br> - Dashboard of landing page <br> - View Study Data <br> - Search & Filter <br> - Study Comparison <br> - Study Version Comparision <br> - Admin Only: Change Audit <br> - Revision History <br> - Conformance Rules Validation <br> - System Usage Report (Admin-only) <br> **SDR APIs** <br> - Upstream APIs extended <br> - Downstream APIs extended <br> - API for eCPT Export <br> **Security** <br> - Certificate-based Authentication <br> - Token-based Authentication for API <br> - Data Segmentation, Group Management, and User Management  |
 
+| R2.0.1 ([USDM 2.0 Final](LINK)) | July 2023 | Summary is provided below with detailed Release Notes available [here](LINK)|
 
 
 ## SDR RI Codebase as Open Source & GitHub
@@ -65,4 +66,16 @@ The SDR Reference Implementation codebase is separated into different repositori
 
 Each repository contains supporting documentation for access and installing the code.
 
-
+## How-To Video(s)
+<table>
+ <thead>
+  <tr>
+   <th>Video</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong><a target="_blank" href="https://youtu.be/sJf_QSvOH4s">DDF Study Definition Repository Overview</a></strong></td>
+   <td>This video provides an overview of the Study Definition Repository (SDR), a component output of the TransCelerate Digital Data Flow (DDF) Initiative, and a walkthrough of the main features covering the User Interface, the API and deployment configurations is presented. </td>
+  </tr>
+ </thead>
+</table>

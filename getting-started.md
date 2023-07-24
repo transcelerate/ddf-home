@@ -39,9 +39,6 @@ TransCelerate has created informational videos to support the understanding of s
   </tr>
  </thead>
 </table>
-<p></p>
-</details>
-<p></p>
 
 ## Starting Point: Active Exploration
 
