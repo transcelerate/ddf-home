@@ -133,3 +133,114 @@ TransCelerate organized the toolkit into 4 steps to guide your company through k
 <p></p>
 </details>
 <p></p>
+
+
+## Sponsor Company Persona Toolkits
+TransCelerate has created several persona-specific toolkits to support change management and transformational activities within sponsor organizations. 
+
+Please note, job titles, roles, & responsibilities can and will vary, often significantly, across companies.  The persona toolkits seek to outline some discrete tasks commonly performed by specific roles as part of that persona and explain how the DDF initiative will likely impact these tasks.  The toolkits do not seek to address all tasks performed by personas nor does it seek to dictate or suggest to the persona how relevant tasks must or should be performed, as this will vary greatly across companies. 
+
+<img src="media\images\Protocol Medical Writer - Header.png" width=300>
+
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+
+This toolkit is a change resource for Protocol Medical Writers that describes how the DDF initiative will likely impact some discrete tasks commonly performed by this persona.
+
+Below table includes a link to the full toolkit (eBook), as well as each individual section of the toolkit so each component can be accessed separately. 
+ 
+<table>
+ <thead>
+  <tr>
+   <th>Content</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>[Full Toolkit] DDF Persona Toolkit for Protocol Medical Writer</strong></td>
+   <td>The objective is to help protocol medical writers understand and better prepare for how to adapt their role and responsibilities to new ways of working within an automated and digitalized study lifecycle.</td>
+  </tr>
+  <tr>
+   <td><strong>DDF Initiative Overview</strong></td>
+   <td>This overview provides key information pertaining to the overall Digital Data Flow (DDF) Initiative. </td>
+  </tr>
+  <tr>
+   <td><strong>Action Steps</strong></td>
+   <td>Use the DDF Change Management Journey and Current State information to create a future state roadmap</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
+
+<img src="media\images\Clinical Data Manager - Header.png" width=300>
+
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+
+This toolkit is a change resource for Clinical Data Manager that describes how the DDF initiative will likely impact some discrete tasks commonly performed by this persona.
+
+Below table includes a link to the full toolkit (eBook), as well as each individual section of the toolkit so each component can be accessed separately. 
+ 
+<table>
+ <thead>
+  <tr>
+   <th>Content</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
+  </tr>
+  <tr>
+   <td><strong>B</strong></td>
+   <td>B</td>
+  </tr>
+  <tr>
+   <td><strong>C</strong></td>
+   <td>C</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
+
+<img src="media\images\Information Technology - Header.png" width=300>
+
+<p></p>
+<details>
+<summary>Click for details</summary>
+<p></p>
+
+This toolkit is a change resource for IT Leadership and IT Technical Experts that describes how the DDF initiative will likely impact some discrete tasks commonly performed by these personas.
+
+Below table includes a link to the full toolkit (eBook), as well as each individual section of the toolkit so each component can be accessed separately. 
+ 
+<table>
+ <thead>
+  <tr>
+   <th>Content</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><strong>A</strong></td>
+   <td>A</td>
+  </tr>
+  <tr>
+   <td><strong>B</strong></td>
+   <td>B</td>
+  </tr>
+  <tr>
+   <td><strong>C</strong></td>
+   <td>C</td>
+  </tr>
+ </thead>
+</table>
+<p></p>
+</details>
+<p></p>
