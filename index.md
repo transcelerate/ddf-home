@@ -36,6 +36,7 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 - 2023.07 - SDR v2.0.1 is live
 
 ### Newsletters  
+- 2023.08 - [AUG 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20AUG%202023%20Newsletter.png)
 - 2023.06 - [June 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20JUN%202023%20Newsletter.png)
 - 2023.04 - [April 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202023%20Newsletter.png)
 - 2023.02 - [February 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20FEB%202023%20Newsletter.png)
