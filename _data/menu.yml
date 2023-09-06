@@ -16,3 +16,5 @@ docs:
   url: help.html
 - title: Events
   url: events.html
+- title: Utilities
+  url: utilities.html
