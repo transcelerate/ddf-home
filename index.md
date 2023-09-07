@@ -54,7 +54,7 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 
 ### DDF at Conferences
 - 2023.11.5-8 - [PHUSE EU Connect](https://www.cdisc.org/events/education/external-events/2023/11/phuse-eu-connect-2023)
-- 2023.10.18-19 - [CDICS US Interchange](https://www.cdisc.org/events/interchange/2023-us-interchange)
+- 2023.10.18-19 - [CDISC US Interchange](https://www.cdisc.org/events/interchange/2023-us-interchange)
 - 2023.06.25-29 - [DIA Global Annual Meeting](https://www.diaglobal.org/en/flagship/dia-2023)
 - 2023.04.26-27 - [CDISC EU Interchange](https://www.cdisc.org/events/interchange/2023-europe-interchange)
 - 2023.04.18-20 - [Decentralized Clinical Trials Conference](https://informaconnect.com/decentralized-clinical-trials/)
