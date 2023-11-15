@@ -54,6 +54,25 @@ Click for information about USDM, SDR Reference Implementation, and Open Source/
 - [DDF Connection Showcase Video - Trials.ai](https://www.youtube.com/watch?v=EjBCok4HyNM&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=27)
 - [DDF Connection Showcase Video - Nuracor & Oracle](https://www.youtube.com/watch?v=4RQHx2GMm3k&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u&index=28)
 
+**[Nov 2023] DDF Technical Architecture Scenarios Tool**
+
+[Link to Resource]()
+<details>
+<summary>What is it and why?</summary>
+<p></p>
+Each organization considering the adoption of USDM and DDF concepts has its own unique ecosystem of technology solutions as well as custom processes in working with data across the solutions. To provide guidance and support, this document has been developed to highlight several potential scenarios for technical implementation.  The scenarios range from having all technical components supporting study design to electronic data capture fully-compliant to the Unified Study Definitions Model (USDM), to having partial application of the USDM in certain portions of the data flow process.  While this tool is not a rundown of all possible implementations, the DDF team hopes that these examples help kickstart the thinking about what may be possible.  
+<p></p>
+</details>
+
+<details>
+<summary>Who may benefit the most from this tool?</summary>
+<p></p>
+- Technical Architects
+<p></p>
+</details>
+
+
+
 ## Starting Point: Proactive Adoption
 
 Stakeholders with a good understanding of DDF who want to start actively engaging with the technology framework and platform can access the SDR Reference Implementation using the following link.
