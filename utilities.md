@@ -5,8 +5,6 @@ description: Page to store and link to useful tools for DDF development/implemen
 ---
 # Utilities
 
-
-
 ## DDF CPT-CLI Tool
 
 ### Summary
