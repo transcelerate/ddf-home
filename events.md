@@ -11,6 +11,6 @@ Please see the list of Digital Data Flow (DDF) events.
 - TBD
 
 ## Previous Events
-- [Sep 2023 DDF Discovery Day] (2023_discovery_day.md)
+- [Sep 2023 DDF Discovery Day](2023_discovery_day.md)
 - [2022 Connectathon](CaT_home.md)
 

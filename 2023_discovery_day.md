@@ -11,6 +11,6 @@ TransCelerate DDF Discovery Day event brought together TransCeleraste member com
 ![Alt text](media/images/DDF_DD_Cover_Page.png)
 
 # Event Output
-- [TransCelerate Blog: DDF Discovery Day – The “Art of the Possible”] (https://www.transceleratebiopharmainc.com/digital-data-flow-discovery-day-the-art-of-the-possible/)
-- [Summary Report: DDF Discovery Day – Exploring the “Art of the Possible”] (<documents/DDF Discovery Day Readout.pdf>)
-- [Presentation Materials] (<documents/DDF Discovery Day_Master Slides_FINAL DISTRIBUTION.pdf>)
+- [TransCelerate Blog: DDF Discovery Day – The “Art of the Possible”](https://www.transceleratebiopharmainc.com/digital-data-flow-discovery-day-the-art-of-the-possible/)
+- [Summary Report: DDF Discovery Day – Exploring the “Art of the Possible”](<documents/DDF Discovery Day Readout.pdf>)
+- [Presentation Materials](<documents/DDF Discovery Day_Master Slides_FINAL DISTRIBUTION.pdf>)
