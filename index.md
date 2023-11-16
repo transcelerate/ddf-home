@@ -33,7 +33,7 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 
 ### Announcements
 - 2023.06 - USDM 2.0 Final is live
-- 2023.07 - SDR v2.0.1 is live
+- 2023.11 - SDR v2.0.2 is live
 
 ### Newsletters  
 - 2023.08 - [August 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20AUG%202023%20Newsletter.png)
@@ -47,6 +47,7 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 - 2022.09.12-30 - [DDF Connectathon Event](CaT_home.md)
 - 2022.05.11 - [DDF Webinar - Cross Industry Collaboration Part 2 (Recording)](https://www.youtube.com/watch?v=II5Cuq4Q7QE)
 - 2022.03.01 - [DDF Webinar - Cross Industry Collaboration Part 1 (Recording)](https://www.youtube.com/watch?v=O6qqTSz8ls0)
+- 2023.12.13 - [DDF Modernizing Clinical Trials Using Digitized Protocol Information](<documents/SOCIAL - DDF Webinar Poster_13Dec2023_FINAL.pdf>)
 
 ### Other Webinars
 - 2023.04.20 - CDISC USDM V2.0 Public Review [(Link to CDISC)](https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-2-public-review)
