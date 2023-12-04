@@ -36,7 +36,7 @@ Please see links below for newsletters, webinars and conferences featuring DDF.
 - 2023.06 - USDM 2.0 Final is live
 
 ### Newsletters  
-- 2023.12 - [December 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202023%20Newsletter.pdf)
+- 2023.12 - [December 2023 Newsletter]([https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202023%20Newsletter.pdf](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202023%20Newsletter.png)
 - 2023.08 - [August 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20AUG%202023%20Newsletter.png)
 - 2023.06 - [June 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20JUN%202023%20Newsletter.png)
 - 2023.04 - [April 2023 Newsletter](https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202023%20Newsletter.png)
