@@ -15,7 +15,7 @@ The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enab
 Click <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4">here</a> for a video describing DDF.
 <p></p>
 </details>
-<details>
+<detail>
 <summary>What is the objective of the DDF initiative?</summary>
 <p></p>
 The objective of DDF is to automate and expedite the Study Start-Up process by revolutionizing how data flows across clinical trial systems, beginning with upstream (e.g., study builder) and downstream (e.g., electronic data capturing/EDC, clinical trial management system/CTMS) clinical systems.

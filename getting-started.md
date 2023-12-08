@@ -56,7 +56,7 @@ Click for information about USDM, SDR Reference Implementation, and Open Source/
 
 **[Nov 2023] DDF Technical Architecture Scenarios Tool**
 
-[Link to Resource]()
+[Link to Resource](<documents/DDF Technology Architecture Scenarios Tool - CLEAN_FINAL.pdf>)
 <details>
 <summary>What is it and why?</summary>
 <p></p>
