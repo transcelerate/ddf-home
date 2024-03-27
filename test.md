@@ -5,7 +5,8 @@ description: Testing graphics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # Website Links
-doing it using "p"
+adding first link
 <p style="position: relative;">
-<img src="media/images/Website%20Links.png">
+  <img src="media/images/Website%20Links.png">
+  <a style="position: absolute; top: 0%; left: 0%; width: 50%; height: 50%" href="https://transcelerate.github.io/ddf-home/index.html"></a>
 </p>
