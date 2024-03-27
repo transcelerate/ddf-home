@@ -30,7 +30,7 @@ vertical view
 
 horiztonal view - updated to be larger
 <p style="position: relative;">
-  <img src="media/images/Website%20Links%20H.png">
+  <img src="media/images/Website%20Links%20H.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/index.html"></a>
   <a style="position: absolute; top: 0%; left: 25%; width: 25%; height: 100%" href="https://www.cdisc.org/ddf"></a>
   <a style="position: absolute; top: 0%; left: 50%; width: 25%; height: 100%" href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/"></a>
