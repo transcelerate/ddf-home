@@ -12,11 +12,20 @@ Below are different websites sourcing specific content and resources.  Dependin
 Resized image
 
 <p style="position: relative;">
-  <img src="media/images/Website%20Links.png" width="600">
+  <img src="media/images/Website%20Links%20Highlight.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 50%; height: 50%" href="https://transcelerate.github.io/ddf-home/index.html"></a>
   <a style="position: absolute; top: 0%; left: 50%; width: 50%; height: 50%" href="https://www.cdisc.org/ddf"></a>
   <a style="position: absolute; top: 50%; left: 0%; width: 50%; height: 50%" href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/"></a>
   <a style="position: absolute; top: 50%; left: 50%; width: 50%; height: 50%" href="https://github.com/transcelerate"></a>
+</p>
+
+vertical view
+<p style="position: relative;">
+  <img src="media/images/Website%20Links%20V.png" width="600">
+  <a style="position: absolute; top: 0%; left: 0%; width: 100%; height: 25%" href="https://transcelerate.github.io/ddf-home/index.html"></a>
+  <a style="position: absolute; top: 25%; left: 0%; width: 100%; height: 25%" href="https://www.cdisc.org/ddf"></a>
+  <a style="position: absolute; top: 50%; left: 0%; width: 100%; height: 25%" href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/"></a>
+  <a style="position: absolute; top: 75%; left: 0%; width: 100%; height: 25%" href="https://github.com/transcelerate"></a>
 </p>
 
 horiztonal view - updated to be larger
@@ -27,3 +36,4 @@ horiztonal view - updated to be larger
   <a style="position: absolute; top: 0%; left: 50%; width: 25%; height: 100%" href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/"></a>
   <a style="position: absolute; top: 0%; left: 75%; width: 25%; height: 100%" href="https://github.com/transcelerate"></a>
 </p>
+
