@@ -9,8 +9,10 @@ Digital Data Flow Initiative will help modernize clinical trials by enabling a d
 
 Below are different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
 
-Resized image
+Testing Jump Down Links:
+[Option 3](https://transcelerate.github.io/ddf-home/test.html#Option-3)
 
+## Option 1
 <p style="position: relative;">
   <img src="media/images/Website%20Links%20Highlight.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 50%; height: 50%" href="https://transcelerate.github.io/ddf-home/index.html" target="_blank"></a>
@@ -19,7 +21,7 @@ Resized image
   <a style="position: absolute; top: 50%; left: 50%; width: 50%; height: 50%" href="https://github.com/transcelerate" target="_blank"></a>
 </p>
 
-vertical view
+## Option 2 - Vertical View
 <p style="position: relative;">
   <img src="media/images/Website%20Links%20V.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 100%; height: 25%" href="https://transcelerate.github.io/ddf-home/index.html" target="_blank"></a>
@@ -28,7 +30,7 @@ vertical view
   <a style="position: absolute; top: 75%; left: 0%; width: 100%; height: 25%" href="https://github.com/transcelerate" target="_blank"></a>
 </p>
 
-horiztonal view - updated to be larger
+## Option 3
 <p style="position: relative;">
   <img src="media/images/Website%20Links%20H.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/index.html" target="_blank"></a>
