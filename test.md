@@ -10,7 +10,7 @@ Digital Data Flow Initiative will help modernize clinical trials by enabling a d
 Below are different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
 
 Testing Jump Down Links:
-[Option 3](https://transcelerate.github.io/ddf-home/test.html#Option-3)
+[Option 3](https://transcelerate.github.io/ddf-home/test.html#Option3)
 
 ## Option 1
 <p style="position: relative;">
@@ -31,6 +31,7 @@ Testing Jump Down Links:
 </p>
 
 ## Option 3
+<a name="Option3"></a>
 <p style="position: relative;">
   <img src="media/images/Website%20Links%20H.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/index.html" target="_blank"></a>
