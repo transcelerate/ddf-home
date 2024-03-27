@@ -7,7 +7,7 @@ description: Testing graphics
 # Welcome to Digital Data Flow (DDF) for Clinical Trial Protocols
 Digital Data Flow Initiative will help modernize clinical trials by enabling a digital workflow with protocol digitization. This initiative establishes a foundation for a future state of automated & dynamic readiness that can transform the drug development process.
 
-Below is a list of different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
+Below are different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
 
 Resized image
 
