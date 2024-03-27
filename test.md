@@ -10,7 +10,7 @@ Digital Data Flow Initiative will help modernize clinical trials by enabling a d
 Below are different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
 
 Testing Jump Down Links:
-<a href"#Option3">Option 3</a>
+<a href="#Option3">Option 3</a>
 [Option 3](https://transcelerate.github.io/ddf-home/test.html#Option3)
 
 ## Option 1
