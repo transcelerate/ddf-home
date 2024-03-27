@@ -10,7 +10,7 @@ Digital Data Flow Initiative will help modernize clinical trials by enabling a d
 Below are a list of the different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
 
 <p style="position: relative;">
-  <img src="media/images/Website%20Links.png">
+  <img src="media/images/Website%20Links.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 50%; height: 50%" href="https://transcelerate.github.io/ddf-home/index.html"></a>
   <a style="position: absolute; top: 0%; left: 50%; width: 50%; height: 50%" href="https://www.cdisc.org/ddf"></a>
   <a style="position: absolute; top: 50%; left: 0%; width: 50%; height: 50%" href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/"></a>
