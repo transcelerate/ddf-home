@@ -5,7 +5,7 @@ description: Testing graphics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 # Website Links
-<img src="https://github.com/transcelerate/ddf-home/blob/main/media/images/Website%20Links.png" usemap="#image-map">
+<img src="https://github.com/transcelerate/ddf-home/blob/main/media/images/Website%20Links.png">
 
 <!--map name="image-map"-->
   <!--area target="" alt="DDF Website" title="DDF Website" href="https://transcelerate.github.io/ddf-home/" coords="1,3,973,1028" shape="rect"-->
