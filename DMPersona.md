@@ -28,23 +28,23 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <td>The objective is to help clinical data managers understand and better prepare for how to adapt their role and responsibilities to new ways of working within an automated and digitalized study lifecycle.</td>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/DDF-Overview_FINAL.pdf">DDF Initiative Overview</a></strong></td>
+   <td><strong><a target="_blank" href="documents/persona/Infographic%20DDF%20Overview.pdf">DDF Initiative Overview</a></strong></td>
    <td>This overview provides key information pertaining to the overall Digital Data Flow (DDF) Initiative.</td>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Toolkit-Overview_FINAL.pdf">Toolkit Overview (DM)</a></strong></td>
+   <td><strong><a target="_blank" href="documents/persona/Infographic%20DM%20Persona%20Toolkit%20Overview_FINAL.pdf">Toolkit Overview (DM)</a></strong></td>
    <td>This describes the toolkit purpose, components, and ways to use it.</td>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Profile-Card_FINAL.pdf">Persona Profile Card (DM)</a></strong></td>
+   <td><strong><a target="_blank" href="documents/persona/Infographic%20DM%20Persona%20Profile_FINAL.pdf">Persona Profile Card (DM)</a></strong></td>
    <td>This describes the profile for a typical Clinical Data Manager role as described in this toolkit. It can be utilized to help Clinical Data Manager understand the benefits and value of digitalization of data flow within the context of protocol authoring.</td>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Change-Impact_FINAL.pdf">Persona Change Impacts (DM)</a></strong></td>
+   <td><strong><a target="_blank" href="documents/persona/Infographic%20DM%20Persona%20Change%20Impact_FINAL.pdf">Persona Change Impacts (DM)</a></strong></td>
    <td>This articulates potential impacts to a Clinical Data Manager role comparing the current state (As-Is) to the anticipated future state (To-Be).</td>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Day-in-the-Life_FINAL.pdf">Persona Day in the Life (DM)</a></strong></td>
+   <td><strong><a target="_blank" href="documents/persona/Infographic%20DM%20Persona%20Day%20in%20the%20Life_FINAL.pdf">Persona Day in the Life (DM)</a></strong></td>
    <td>An illustrative flow of “What could a work-day look like with the application of DDF?”</td>
   </tr>
  </thead>
