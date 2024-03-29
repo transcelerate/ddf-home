@@ -24,7 +24,7 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href="https://www.transceleratebiopharmainc.com/wp-content/uploads/2023/07/Clinical-Data-Manager-Persona-Toolkit_eBook.pdf">[Full Toolkit] DDF Persona Toolkit for Clinical Data Manager (DM)</a></strong></td>
+   <td><strong><a target="_blank" href="documents/persona/Clinical-Data-Manager-Persona-Toolkit_eBook.pdf"[Full Toolkit] DDF Persona Toolkit for Clinical Data Manager (DM)</a></strong></td>
    <td>The objective is to help clinical data managers understand and better prepare for how to adapt their role and responsibilities to new ways of working within an automated and digitalized study lifecycle.</td>
   </tr>
   <tr>
