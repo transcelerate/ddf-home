@@ -7,15 +7,9 @@ description: Landing page for the Medical Writer Persona Toolkit
 TransCelerate has created several persona-specific toolkits to support change management and transformational activities within sponsor organizations. 
 
 Please note, job titles, roles, & responsibilities can and will vary, often significantly, across companies.  The persona toolkits seek to outline some discrete tasks commonly performed by specific roles as part of that persona and explain how the DDF initiative will likely impact these tasks.  The toolkits do not seek to address all tasks performed by personas nor does it seek to dictate or suggest to the persona how relevant tasks must or should be performed, as this will vary greatly across companies. 
-
+<p></p>
 <img src="media\images\Protocol Medical Writer - Header.png" width=300>
-
 <p></p>
-<details>
-<summary>Click for details</summary>
-<p></p>
-
-
 This toolkit is a change resource for Protocol Medical Writers that describes how the DDF initiative will likely impact some discrete tasks commonly performed by this persona.
 
 Below table includes a link to the full toolkit (eBook), as well as each individual section of the toolkit so each component can be accessed separately. 
@@ -53,6 +47,4 @@ Below table includes a link to the full toolkit (eBook), as well as each individ
   </tr>
  </thead>
 </table>
-<p></p>
-</details>
 <p></p>
