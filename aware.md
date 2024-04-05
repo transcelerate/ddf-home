@@ -6,7 +6,10 @@ description: I'm new to DDF and want to self-learning
 ---
 Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
 
-# Awareness: I'm new to DDF and want to undergo self-learning
+# Getting Started: Awareness
+
+## I'm new to DDF and want to undergo self-learning
+
 If you are a sponsor leader, a medical writer, a data manager, a sponsor information technologist, or a solution vendor technologist, these links to general information about DDF background, solutions, and benefits can help you increase your awareness of DDF
 
 - [DDF Overview](help-support.md)
