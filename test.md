@@ -10,6 +10,10 @@ Digital Data Flow Initiative will help modernize clinical trials by enabling a d
 Below are different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
 
 Temp Menu
+[Getting Started](getting-started.md)
+[Tools & Resources]
+[News & Events]
+[Help & Support]
 
 <p style="position: relative;">
   <img src="media/images/Website%20Links%20Highlight.png" width="600">
@@ -19,4 +23,8 @@ Temp Menu
   <a style="position: absolute; top: 50%; left: 50%; width: 50%; height: 50%" href="https://github.com/transcelerate" target="_blank"></a>
 </p>
 
+Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. 
 
+<a href="https://www.youtube.com/watch?v=082onW7jhe4">
+<img src="media\images\overview.png">
+</a>
