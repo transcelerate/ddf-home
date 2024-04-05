@@ -22,11 +22,11 @@ Temp Menu
   <a style="position: absolute; top: 50%; left: 0%; width: 50%; height: 50%" href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/" target="_blank"></a>
   <a style="position: absolute; top: 50%; left: 50%; width: 50%; height: 50%" href="https://github.com/transcelerate" target="_blank"></a>
 </p>
-<p></p>
+
 Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. 
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4">
 <img src="media\images\overview.png">
 </a>
-<p></p>
+
 If you are new to DDF, click [Getting Started](get-started.md) for more details.
