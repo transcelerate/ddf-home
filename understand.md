@@ -18,7 +18,7 @@ Follow these links for more general information about preparing to take action:
 - [DDF Webinar (2023-DEC) - Digital Data Flow: Modernizing Clinical Trials Using Digitized Protocol Information](https://www.youtube.com/watch?v=nX86V8TJISw)
 - [DDF Discovery Day](2023_discovery_day.md)
 
-Here is additional information specific to your role:
+Here is additional information specific to your role*:
 <p style="position: relative;">
   <img src="media/images/Understanding.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 20%; height: 100%" href="https://transcelerate.github.io/ddf-home/Understand-MW.html" target="_blank"></a>
@@ -30,3 +30,4 @@ Here is additional information specific to your role:
 
 For specific questions that need a conversation, <a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">click here</a>.
 
+*NOTE: Job titles, roles, & responsibilities can and will vary, often significantly, across companies
