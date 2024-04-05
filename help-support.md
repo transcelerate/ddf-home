@@ -167,12 +167,57 @@ We will be implementing a review process for all of the open-source contribution
 <p></p>
 <details>
 <summary>How can I get general help?</summary>  
+<p></p>
+Please use this <a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">form</a> to submit your questions about:
+<p></p>
+- DDF Initiative, Vision, Benefits, Strategy
+<p></p>
+- DDF Transformation Tools
+<p></p>
+- Other general questions about DDF
+<p></p>
 </details>
 <details>
-<summary>How can I get standard support?</summary>  
+<summary>How can I get Standards support?</summary>  
+<p></p>
+Please contact <a target="_blank" href="https://www.cdisc.org/ddf#standard__Contact_Us">CDISC</a> regarding:
+<p></p>
+- USDM Class Diagram
+<p></p>
+- API Specifications
+<p></p>
+- Controlled Terminology
+<p></p>
+- Architecture Principles
+<p></p>
 </details>
 <details>
-<summary>How can I get technical support?</summary>  
+<summary>How can I get technical support?</summary>
+<p></p>
+Please post to <a target="_blank" href="https://github.com/transcelerate/ddf-home/discussions/categories/getting-started">Discussions: Getting Started</a> in the DDF Home repository for feedback, comments, or questions about getting started with the SDR RI or with the solution architecture document. 
+<p></p>
+<p></p>
+For any of the following topics:
+<p></p>
+- Code defects
+<p></p>
+- Platform, API, or UI technical documentation issues
+<p></p>
+- Questions on codebase
+<p></p>
+- Suggestions on updates to specific codebase
+<p></p>
+<p></p>
+Please post to the Issues tab in the applicable GitHub repository.
+<p></p>
+- <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-platform/issues">Link to Issues</a> in Platform repository
+<p></p>
+- <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-api/issues">Link to Issues</a> in API repository
+<p></p>
+- <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-ui/issues">Link to Issues</a> in UI repository
+<p></p>
+**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and any pull requests submitted will not be triaged at this point in time. 
+<p></p>
 </details>
 <details>
 <summary>How can join the Solution Vendors Collaobrations Forum?</summary>  
