@@ -28,9 +28,9 @@ Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources]
 <p></p>
 - 2023.06 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20JUN%202023%20Newsletter.png">June 2023 Newsletter</a>
 <p></p>
-- 2023.04 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202023%20Newsletter.png">April 2023 Newsletter</a
+- 2023.04 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202023%20Newsletter.png">April 2023 Newsletter</a>
 <p></p>
-- 2023.02 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20FEB%202023%20Newsletter.png">Feb 2023 Newsletter</a
+- 2023.02 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20FEB%202023%20Newsletter.png">Feb 2023 Newsletter</a>
 <p></p>
 -  <a target="_blank" href="https://github.com/transcelerate/ddf-home/tree/main/documents/newsletters">Older Versions</a>
 </details>
@@ -45,9 +45,29 @@ Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources]
 </details>
 <details>
 <summary>Past Events</summary>
+<p></p>
+- 2022.09.12 <a target="_blank" href="https://transcelerate.github.io/ddf-home/CaT_home.html">DDF Connectathon</a>
+<p></p>
+- 2023.09.19 <a target="_blank" href="https://transcelerate.github.io/ddf-home/2023_discovery_day.html">DDF Discovery Day</a>
+<p></p>
 </details>
 <details>
 <summary>Past Webinars</summary>
+<p></p>
+- 2019.11.05 <a target="_blank" href="https://www.youtube.com/watch?v=rfFjIM9XG3o">Transforming Clinical Trial Start Up with Digital Data Flow: A Solution Framework</a>
+<p></p>
+- 2021.11.16 <a target="_blank" href="https://www.youtube.com/watch?v=pfTI7aBMv0Y">Digital Data Flow (DDF): Modernizing Clinical Trials by Enabling A Digital Work Flow</a>
+<p></p>
+- 2022.03.01 <a target="_blank" href="https://www.youtube.com/watch?v=O6qqTSz8ls0">DDF Webinar - Cross Industry Collaboration Part 1</a>
+<p></p>
+- 2022.05.11 <a target="_blank" href="https://www.youtube.com/watch?v=II5Cuq4Q7QE">DDF Webinar - Cross Industry Collaboration Part 1</a>  
+<p></p>
+- 2022.10.01 <a target="_blank" href="https://www.youtube.com/watch?v=IbmGLtfAW9o">Digital Data Flow DDF Connectathon Results and Outcomes</a>
+<p></p>
+- 2023.09.14 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-3-informational-webinar">Digital Data Flow Project Phase 3 Informational Webinar (CDISC)</a> 
+<p></p>
+- 2023.12.13 <a target="_blank" href="https://www.youtube.com/watch?v=nX86V8TJISw">DDF Modernizing Clinical Trials Using Digitized Protocol Information</a>  
+<p></p>
 </details>
 <p></p>
 <p></p>
