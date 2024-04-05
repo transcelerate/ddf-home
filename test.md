@@ -10,7 +10,7 @@ Digital Data Flow Initiative will help modernize clinical trials by enabling a d
 Below are different websites sourcing specific content and resources.  Depending on where you are in the journey, please feel free to explore the different websites and their information.
 
 Temp Menu
-[Getting Started](getting-started.md)
+[Getting Started](get-started.md)
 [Tools & Resources]
 [News & Events]
 [Help & Support]
