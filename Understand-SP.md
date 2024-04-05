@@ -14,3 +14,4 @@ Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources]
 Click one of the resources below for more information about:
 - [Digital Data Flow Technology Architecture Scenarios Tool](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Technology%20Architecture%20Scenarios%20Tool%20-%20CLEAN_FINAL.pdf)
 - [Digital Data Flow: Connectathon Results and Outcomes (Video)](https://www.youtube.com/watch?v=IbmGLtfAW9o)
+- [Digital Data Flow Study Definitions Repository (SDR) Reference Implementation Overview (Video)](https://www.youtube.com/watch?v=BQfI-u9QHvM)
