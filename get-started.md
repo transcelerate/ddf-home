@@ -3,6 +3,8 @@ title: Getting Started
 description: Landing page for getting started on DDF, where to go for specific information, and how to access content
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
+Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
+
 # Getting Started on DDF
 TransCelerate has developed guidance for implementing DDF Solutions.  Depending on a person's role in an organization and level of understanding of DDF, they can reference different starting points.  
 
