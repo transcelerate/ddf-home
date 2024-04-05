@@ -16,4 +16,4 @@ TransCelerate has developed guidance for implementing DDF Solutions.  Depending 
   <a style="position: absolute; top: 0%; left: 75%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/commit.html" target="_blank"></a>
 </p>
 
-If you are already familiar with DDF and want to dive right in, click [Tools & Resources](tools.md) for more details.
+If you are already familiar with DDF and want to dive right in, click [Tools & Resources](tools-resources.md) for more details.
