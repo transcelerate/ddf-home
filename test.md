@@ -12,8 +12,8 @@ Below are different websites sourcing specific content and resources.  Dependin
 Temp Menu
 [Getting Started](get-started.md)
 [Tools & Resources](tools-resources.md)
-[News & Events]
-[Help & Support]
+[News & Events](news-events.md)
+[Help & Support](help-support.md)
 
 <p style="position: relative;">
   <img src="media/images/Website%20Links%20Highlight.png" width="600">
