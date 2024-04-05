@@ -10,7 +10,7 @@ Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources]
 
 ## I'm new to DDF and want to undergo self-learning
 
-If you are a sponsor leader, a medical writer, a data manager, a sponsor information technologist, or a solution vendor technologist, these links to general information about DDF background, solutions, and benefits can help you increase your awareness of DDF:
+If you are a sponsor company leader, a protocol medical writer, a clinical data manager, a sponsor information technologist, or a solution vendor technologist*, these links to general information about DDF background, solutions, and benefits can help you increase your awareness of DDF:
 
 - [DDF Overview](help-support.md)
 - [DDF Overview Video](https://www.youtube.com/watch?v=082onW7jhe4)
@@ -21,3 +21,5 @@ For clinical data managers, sponsor information technologists, and solution vend
 | Clinical Data Managers                                                                | Solution Information Technologist; Solution Vendor Technologist                          |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |<a target="_blank" href="https://www.cdisc.org/sites/default/files/2023-06/USDM-RA-v3.0-%20final.zip">- USDM Reference Architecture v3.0</a>|<a target="_blank" href="https://www.cdisc.org/sites/default/files/2023-06/USDM-RA-v3.0-%20final.zip">- USDM Reference Architecture v3.0</a><br> [- Getting Started with the SDR RI Codebase](sdr-ri-codebase-access.md)|
+
+*NOTE: Job titles, roles, & responsibilities can and will vary, often significantly, across companies
