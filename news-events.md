@@ -38,10 +38,22 @@ Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources]
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-- 2024.XX.XX <a target="_blank" href="">TBD</a>
+- 2024.07.17-18 <a target="_blank" href="">CDISC + TMF Europe Interchange 2024</a>
 <p></p>
 <details>
 <summary>Past Conferences</summary>
+<p></p>
+- 2023.04.18-20 <a target="_blank" href="https://informaconnect.com/decentralized-clinical-trials/">Decentralized Clinical Trials Conference 2023</a>
+<p></p>
+- 2023.04.26-27 <a target="_blank" href="https://www.cdisc.org/events/interchange/2023-europe-interchange">CDISC EU Interchange 2023</a>
+<p></p>
+- 2023.06.25-29 <a target="_blank" href="https://www.diaglobal.org/en/flagship/dia-2023">DIA Global Annual Meeting 2023</a>
+<p></p>
+- 2023.10.18-19 <a target="_blank" href="https://www.cdisc.org/events/interchange/2023-us-interchange">CDISC US Interchange 2023</a>
+<p></p>
+- 2023.11.05-08 <a target="_blank" href="https://www.cdisc.org/events/education/external-events/2023/11/phuse-eu-connect-2023">PHUSE EU Connect 2023</a>
+<p></p>
+- 2024.04.22-26 <a target="_blank" href="https://informaconnect.com/data-driven-hybrid-full-decentralized-trials/">Data Driven, Hybrid and Full Decentralized Clinical Trials 2024</a>
 </details>
 <details>
 <summary>Past Events</summary>
