@@ -220,5 +220,8 @@ Please post to the Issues tab in the applicable GitHub repository.
 <p></p>
 </details>
 <details>
-<summary>How can join the Solution Vendors Collaobrations Forum?</summary>  
+<summary>How can join the Solutions Collaborations Forum (SCF)?</summary>  
+<p></p>
+If you would like to learn more about the SCF and/or if you are a solution provider interested in joining the forum, please <a target="_blank" href="mailto:ddf@transceleratebiopharmainc.com?subject=DDF SCF Questions">email us</a> at ddf@transceleratebiopharmainc.com.
+<p></p>
 </details>
