@@ -19,4 +19,4 @@ Here is the inventory of all tools & resources for DDF.
 
 | Videos                                                                                |
 |---------------------------------------------------------------------------------------|
-|<a target="_blank" href="">- DDF General Information Videos</a><br><a target="_blank" href="">- DDF Webinar Videos</a><br><a target="_blank" href="">- DDF Connectathon</a><br>|
+|<a target="_blank" href="">- DDF General Information Videos</a><br><a target="_blank" href="">- DDF Webinar Videos</a><br><a target="_blank" href="">- DDF Connectathon</a><br><a target="_blank" href="">- DDF Technical Videos</a>|
