@@ -9,7 +9,7 @@ Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources]
 
 # Getting Started: Understanding
 
-## I'm an Information Technologist.  I've learned about DDF. 
+## I'm an Information Technologist*.  I've learned about DDF. 
 ## Now I have questions to prepare to take action.
 Click one of the resources below for more information about:
 - [Digital Data Flow Technology Architecture Scenarios Tool](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Technology%20Architecture%20Scenarios%20Tool%20-%20CLEAN_FINAL.pdf)
@@ -21,3 +21,5 @@ Click below to access your persona details:
 <a href="https://transcelerate.github.io/ddf-home/ITPersona.html">
 <img src="media\images\Information Technology - Header.png">
 </a>
+
+*NOTE: Job titles, roles, & responsibilities can and will vary, often significantly, across companies
