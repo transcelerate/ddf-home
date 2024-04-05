@@ -7,5 +7,16 @@ description: I’ve learned about DDF, and now I have questions in preparation f
 ---
 Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
 
-# Understanding: I’ve learned about DDF, and now I have questions to prepare to take action
+# Getting Started: Understanding
+
+## I’ve learned about DDF, and now I have questions to prepare to take action
+
+Follow these links for more general information about preparing to take action:
+- [DDF Webinar (2021-NOV) - Digital Data Flow: Modernizing Clinical Trials by Enabling a Digital Workflow](https://youtu.be/pfTI7aBMv0Y)
+- [DDF Webinar (2022-MAR) - Digital Data Flow: Cross Industry Collaboration Part 1](https://www.youtube.com/watch?v=O6qqTSz8ls0)
+- [DDF Webinar (2022-MAY) - Digital Data Flow: Cross Industry Collaboration Part 2](https://www.youtube.com/watch?v=II5Cuq4Q7QE)
+- [DDF Webinar (2023-DEC) - Digital Data Flow: Modernizing Clinical Trials Using Digitized Protocol Information](https://www.youtube.com/watch?v=nX86V8TJISw)
+- [DDF Discovery Day](2023_discovery_day.md)
+
+
 
