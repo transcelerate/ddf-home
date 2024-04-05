@@ -8,3 +8,6 @@ description: I’m ready to design a solution to be implemented
 Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
 
 # Commitment
+## I’m ready to design a solution to be implemented
+
+Stay tuned for updates!
