@@ -23,10 +23,8 @@ Temp Menu
   <a style="position: absolute; top: 50%; left: 50%; width: 50%; height: 50%" href="https://github.com/transcelerate" target="_blank"></a>
 </p>
 
-Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. 
+Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. If you are new to DDF, click [Getting Started](get-started.md) for more details.
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4">
 <img src="media\images\overview.png">
 </a>
-
-If you are new to DDF, click [Getting Started](get-started.md) for more details.
