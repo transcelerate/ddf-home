@@ -17,7 +17,11 @@ Click one of the resources below for more information about:
 - [DDF Personas - Sponsor Company](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Persona%20Infographic.pdf)
 
 Here are some resources to think through how DDF will impact your employees:
-
+|Clinical Data Manager                                      | Information Technologist                                    |Protocol MedicalWriter                           |
+|-----------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------|
+|<a target="_blank" href="documents/persona/Infographic%20DM%20Persona%20Profile_FINAL.pdf">Persona Profile Card (DM)</a>|<a target="_blank" href="documents/persona/IT-Persona-Profile-Card-Leadership_FINAL.pdf">Persona Profile Card – IT Leadership</a>|<a target="_blank" href="documents/persona/Infographic%20MW%20Persona%20Profile%20Card_FINAL.pdf">Persona Profile Card (MW)</a>|
+|<a target="_blank" href="documents/persona/Infographic%20DM%20Persona%20Change%20Impact_FINAL.pdf">Persona Change Impacts (DM)</a>|<a target="_blank" href="documents/persona/IT-Persona-Profile-Card-Tech-Expert_FINAL.pdf">Persona Profile Card – IT Technical Expert</a>|<a target="_blank" href="documents/persona/Infographic%20MW%20Persona%20Change%20Impact_FINAL.pdf">Persona Change Impacts (MW)</a>|
+|<a target="_blank" href="documents/persona/Infographic%20DM%20Persona%20Day%20in%20the%20Life_FINAL.pdf">Persona Day in the Life (DM)</a>|<a target="_blank" href="documents/persona/IT-Persona-Partnering-Guidance_FINAL.pdf">Building a Case for Change</a>|<a target="_blank" href="documents/persona/Infographic%20MW%20Persona%20Day%20in%20the%20Life_FINAL.pdf">Persona Day in the Life (MW)</a>|
 
 For specific questions that need a conversation, <a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">click here</a>.
 
