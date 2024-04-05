@@ -8,10 +8,10 @@ TransCelerate has developed guidance for implementing DDF Solutions.  Depending 
 
 <p style="position: relative;">
   <img src="media/images/GettingStarted.png" width="600">
-  <a style="position: absolute; top: 0%; left: 0%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/index.html" target="_blank"></a>
-  <a style="position: absolute; top: 0%; left: 25%; width: 25%; height: 100%" href="https://www.cdisc.org/ddf" target="_blank"></a>
-  <a style="position: absolute; top: 0%; left: 50%; width: 25%; height: 100%" href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/" target="_blank"></a>
-  <a style="position: absolute; top: 0%; left: 75%; width: 25%; height: 100%" href="https://github.com/transcelerate" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 0%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/aware.html" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 25%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/understand.html" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 50%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/action.html" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 75%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/commit.html" target="_blank"></a>
 </p>
 
 If you are already familiar with DDF and want to dive right in, click [Tools & Resources](tools.md) for more details.
