@@ -11,7 +11,7 @@ description: Landing page for getting started with the SDR RI Codebase and GitHu
 
 <em>For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click [here](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/).</em>
 
-## Getting Started: SDR RI Codebase
+## Getting Started with the SDR RI Codebase
 
 The Study Definitions Repository (SDR) Reference Implementation is a working instance of a Study Definitions Repository that has been developed based on the **CDISC Reference Architecture (RA)** which is part of the **Unified Study Definitions Model (USDM)**.  
 
