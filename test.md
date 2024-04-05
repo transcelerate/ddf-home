@@ -11,7 +11,7 @@ Below are different websites sourcing specific content and resources.  Dependin
 
 Temp Menu
 [Getting Started](get-started.md)
-[Tools & Resources]
+[Tools & Resources](tools-resources.md)
 [News & Events]
 [Help & Support]
 
