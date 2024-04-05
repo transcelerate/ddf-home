@@ -33,9 +33,11 @@ Click <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4">here
 <p></p>
 </details>
 <details>
-<summary>What are the benefits of the DDF initiative?</summary>
+<summary>Who does the DDF initiative help, and what are the benefits?</summary>
 <p></p>
-Digital Data Flow (DDF) benefits include:
+This initiative will assist many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities. 
+<p></p>
+With DDF, organizations across the R&D ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations. Digital Data Flow (DDF) benefits include:
 <p></p>
 - Minimized process hand-offs, data re-entry, and data format inconsistencies across study start-Up and execution
 <p></p>
@@ -44,12 +46,6 @@ Digital Data Flow (DDF) benefits include:
 - A more seamless flow of data leading to accelerated study start-up, and further enabling trials automation for sponsors and research partners
 <p></p>
 - Harmonization of the data format that can support greater interoperability and spark innovation within the R&D ecosystem and across the clinical trial solutions landscape.
-<p></p>
-</details>
-<details>
-<summary>Who does the DDF initiative help?</summary>
-<p></p>
-This initiative will assist many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities. With DDF, organizations across the R&D ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations.
 <p></p>
 Click <a target="_blank" href="https://www.youtube.com/watch?v=Otg0d2385is">here</a> for a video describing benefits of DDF.
 <p></p>
