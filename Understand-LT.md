@@ -7,7 +7,7 @@ description: I’ve learned about DDF, and now I have questions in preparation f
 ---
 Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
 
-# Getting Started: Understanding DDF as a Leader at a Sponsor Company. 
+# Getting Started: Understanding DDF as a Leader at a Sponsor Company 
 I've learned about DDF. 
 
 ## Now I have questions to prepare to take action. Specifically, I’m trying to find ways to get my organization to take the next step.
@@ -16,7 +16,7 @@ Click one of the resources below for more information about:
 - [Organizational Self-Assessment](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Organizational%20Self%20Assessment.pdf)
 - [DDF Personas - Sponsor Company](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Persona%20Infographic.pdf)
 
-Here are some resources to think through how DDF will impact your employees:
+Here are some resources to think through how DDF will impact your employees*:
 
 |Clinical Data Manager                                      | Information Technologist                                    |Protocol Medical Writer                          |
 |-----------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------|
