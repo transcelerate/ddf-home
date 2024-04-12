@@ -7,9 +7,9 @@ description: I’ve learned about DDF, and now I have questions in preparation f
 ---
 Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
 
-# Getting Started: Understanding
+# Getting Started: Understanding DDF as a Leader at a Sponsor Company. 
+I've learned about DDF. 
 
-## I'm a leader at a sponsor company.  I've learned about DDF. 
 ## Now I have questions to prepare to take action. Specifically, I’m trying to find ways to get my organization to take the next step.
 Click one of the resources below for more information about:
 - [DDF Change Management Journey]()
