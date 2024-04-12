@@ -7,9 +7,9 @@ description: I’ve learned about DDF, and now I have questions in preparation f
 ---
 Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
 
-# Getting Started: Understanding
+# Getting Started: Understanding DDF as a Solution Vendor Technologist
+I've learned about DDF. 
 
-## I'm a Solution Vendor Technologist.  I've learned about DDF. 
 ## Now I have questions to prepare to take action.
 Click one of the resources below for more information about:
 - [Digital Data Flow Technology Architecture Scenarios Tool](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Technology%20Architecture%20Scenarios%20Tool%20-%20CLEAN_FINAL.pdf)
