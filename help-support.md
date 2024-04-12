@@ -100,6 +100,8 @@ In addition to the development of new standards, DDF will use existing standards
 <p></P>
 Click <a target="_blank" href="https://www.cdisc.org/ddf">here</a> to access the latest version of the USDM posted on CDISC.
 <p></p>
+ENTER INFO ABOUT ICH M11 & VULCAN HERE
+<p></p>  
 </details>
 <p></p>
 <p></p>
