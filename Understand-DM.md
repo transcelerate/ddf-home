@@ -7,9 +7,8 @@ description: I’ve learned about DDF, and now I have questions in preparation f
 ---
 Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
 
-# Getting Started: Understanding
+# Getting Started: Understanding DDF as a Clinical Data Manager. 
 
-## I'm a Clinical Data Manager*.  I've learned about DDF. 
 ## Now I have questions to prepare to take action.
 Click one of the resources below for more information about:
 - [Supporting Automation of Case Report Forms Using Biomedical Concepts (Video)](https://youtu.be/0tGpj8g5gxY)
