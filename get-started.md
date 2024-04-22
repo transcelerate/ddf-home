@@ -9,7 +9,7 @@ Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources]
 TransCelerate has developed guidance for implementing DDF Solutions.  Depending on a person's role in an organization and level of understanding of DDF, they can reference different starting points.  
 
 <p style="position: relative;">
-  <img src="media/images/GettingStarted.png" width="600">
+  <img src="media/images/GettingStarted2.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/aware.html" target="_blank"></a>
   <a style="position: absolute; top: 0%; left: 25%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/understand.html" target="_blank"></a>
   <a style="position: absolute; top: 0%; left: 50%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/action.html" target="_blank"></a>
