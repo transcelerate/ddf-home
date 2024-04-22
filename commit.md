@@ -15,7 +15,7 @@ I would like to...
 ### Be involved with USDM Development
 Click [here](https://www.cdisc.org/ddf) for instructions on how to be involved with USDM Development (see "Participant" tab)
   
-### Be a part of the DDF Initative team
+### Be a part of the DDF Initiative team
 Please use this <a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">form</a> to submit your request regarding joining the DDF Initiative.  NOTE: This is only for Member Company colleagues
 
 ### Be a part of the Solutions Collaboration Forum (solution vendors only)
