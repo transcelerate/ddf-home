@@ -3,8 +3,6 @@ title: Protocol Medical Writer Persona
 description: Landing page for the Medical Writer Persona Toolkit
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
-
 # Protocol Medical Writer Toolkit
 TransCelerate has created several persona-specific toolkits to support change management and transformational activities within sponsor organizations. 
 
