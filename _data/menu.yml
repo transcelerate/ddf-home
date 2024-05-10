@@ -2,19 +2,11 @@ docs_list_title: DDF Navigation Menu
 docs:
 - title: Home
   url: index.html
-- title: About
-  url: overview.html
 - title: Getting Started
-  url: getting-started.html
-- title: Transformation Tools
-  url: tools.html
-- title: Community
-  url: community.html
-- title: FAQ
-  url: faq.html
+  url: get-started.html
+- title: Tools & Resources
+  url: tools-resources.html
+- title: News & Events
+  url: news-events.html
 - title: Help & Support
-  url: help.html
-- title: Events
-  url: events.html
-- title: Utilities
-  url: utilities.html
+  url: help-support.html
