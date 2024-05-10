@@ -4,8 +4,6 @@ description: Testing graphics
 # layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-Temp Menu: [Home](test.md) [Getting Started](get-started.md) [Tools & Resources](tools-resources.md) [News & Events](news-events.md) [Help & Support](help-support.md)
-
 # Welcome to Digital Data Flow (DDF) for Clinical Trial Protocols
 Digital Data Flow Initiative will help modernize clinical trials by enabling a digital workflow with protocol digitization. This initiative establishes a foundation for a future state of automated & dynamic readiness that can transform the drug development process.
 
