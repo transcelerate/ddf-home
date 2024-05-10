@@ -10,8 +10,8 @@ I've learned about DDF.
 
 ## Now I have questions to prepare to take action. Specifically, I’m trying to find ways to get my organization to take the next step.
 Click one of the resources below for more information about:
-- [DDF Change Management Journey]()
-- [DDF Personas - Sponsor Company](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Persona%20Infographic.pdf)
+- [DDF Change Management Journey](https://github.com/transcelerate/ddf-home/blob/main/documents/documents/DDF%20Change%20Management%20journey%202024.pdf)
+- [DDF Personas - Sponsor Company](https://github.com/transcelerate/ddf-home/blob/main/documents/DDF%20Persona%20Infographic%202024.pdf)
 
 Here are some resources to think through how DDF will impact your employees*:
 
