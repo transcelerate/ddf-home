@@ -1,6 +1,6 @@
 ---
-title: Test
-description: Testing graphics
+title: Welcome to Digital Data Flow for Clinical Trial Protocols
+description: Website for Digital Data Flow for Clinical Trial Protocols
 # layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
