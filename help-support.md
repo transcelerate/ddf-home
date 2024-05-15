@@ -90,15 +90,11 @@ CDISC developed the Unified Study Definition Model (USDM). To access details of 
 <summary>How do standards developed through DDF relate to other existing standards such as ICH M11 or Vulcan HLF FHIR?
 </summary>
 <p></p>
-The idea is not to create new models, but to pull together all existing standards. DDF’s collaboration with CDISC will define success from a standards perspective. 
+CDISC’s Unified Study Definitions Model (USDM) is the foundational data model developed as part of the DDF initiative.  It defines standardized and structured data content for clinical trial protocols and is designed to facilitate sharing and reuse of trial data across studies and organizations. The USDM is an abstract model independent of any particular rendering e.g. as a Word document, or PDF etc.  
 <p></p>
-CDISC is leading the development and maintenance of standards used by the Digital Data Flow solution. By unifying existing standards and developing new standards with input from all potential end users, we enable the accessibility, interoperability, and reusability of protocol-related study definitions data. 
+The ICH M11 Clinical electronic Structured Harmonized Protocol (CeSHarP) initiative also defines the structure and content for a clinical protocol but does so more from a document perspective, with the two primary components being a human-readable document template and an associated technical specification <a target="_blank" href="https://ich.org/page/multidisciplinary-guidelines">(https://ich.org/page/multidisciplinary-guidelines)</a>.  The USDM content is a “superset” of the M11 content, encapsulating all the data elements defined for M11, as well as covering many other aspects of a clinical protocol in much more depth (such as the Schedule of Activities (SoA)).  As such, an M11 document can be generated from the data content encapsulated in the USDM. 
 <p></p>
-In addition to the development of new standards, DDF will use existing standards where they exist - controlled terminology for phase of a trial is an example.
-<p></P>
-Click <a target="_blank" href="https://www.cdisc.org/ddf">here</a> to access the latest version of the USDM posted on CDISC.
-<p></p>
-ENTER INFO ABOUT ICH M11 & VULCAN HERE
+HL7 FHIR is an interoperability standard that contains an information model based on standard constructs that can be used to contain elements from CeSHarP and USDM but has a much wider scope.  FHIR also provides an infrastructure of tooling, servers and vendors to facilitate assured data transport, transaction management and persistence.
 <p></p>  
 </details>
 <p></p>
