@@ -13,7 +13,7 @@ Here is the inventory of all tools & resources for DDF.
 
 |USDM Standards                                                                         | 
 |---------------------------------------------------------------------------------------|
-|<a target="_blank" href="https://www.cdisc.org/sites/default/files/2023-06/USDM-RA-v3.0-%20final.zip">- USDM Reference Architecture v3.0 (includes USDM Model, API, Controlled Terminology, User Stories, Architecture Principles, Supporting Documentation)</a><br> [- Common Protocol Template to USDM Tool](utilities.md)|
+|- USDM Reference Architecture v3.0 <br><a target="_blank" href="https://github.com/cdisc-org/DDF-RA/blob/v3.0.0/Deliverables/IG/USDM-IG.pdf">-- Implementation Guide</a><br><a target="_blank" href="https://github.com/cdisc-org/DDF-RA/blob/v3.0.0/Deliverables/UML/USDM_UML.png">-- Logical Model (PNG)</a><br><a target="_blank" href="https://github.com/cdisc-org/DDF-RA/blob/v3.0.0/Deliverables/UML/USDM_UML.qea">-- Logical Model (QEA)</a><br><a target="_blank" href="https://github.com/cdisc-org/DDF-RA/blob/v3.0.0/Deliverables/UML/USDM_UML.xmi">-- Logical Model (XMI)</a><br><a target="_blank" href="https://github.com/cdisc-org/DDF-RA/blob/v3.0.0/Deliverables/API/USDM_API.json">-- API (JSON)</a><br><a target="_blank" href="https://github.com/cdisc-org/DDF-RA/blob/v3.0.0/Deliverables/API/USDM_API.yaml">-- API (YAML)</a><br><a target="_blank" href="https://github.com/cdisc-org/DDF-RA/blob/v3.0.0/Deliverables/CT/USDM_CT.xlsx">-- Controlled Terminology</a><br><a target="_blank" href="https://www.cdisc.org/sites/default/files/2024-04/USDM%20v3.0%20Public%20Review%20Comments-1.xlsx">-- Public Review Comments</a><br><br>[- Common Protocol Template to USDM Tool](utilities.md)|
 
 |SDR RI                                                                         |
 |-------------------------------------------------------------------------------|
@@ -21,4 +21,4 @@ Here is the inventory of all tools & resources for DDF.
 
 | Videos                                                                                |
 |---------------------------------------------------------------------------------------|
-|<a target="_blank" href="">- DDF General Information Videos</a><br><a target="_blank" href="">- DDF Webinar Videos</a><br><a target="_blank" href="">- DDF Connectathon</a><br><a target="_blank" href="">- DDF Technical Videos</a>|
+|<a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1L_vQ8xporort6tBfrcNy2W">- DDF General Information Videos</a><br><a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1IoMvLH8Ov7YYgAEl7MWpka">- DDF Webinar Videos</a><br><a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1Juda8dFZXbGY7PaGQwH6FJ">- DDF Connectathon</a><br><a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KLxO6nzXWSNJ6PWtIJhGjK">- DDF Technical Videos</a>|
