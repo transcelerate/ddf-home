@@ -1,3 +1,11 @@
+<p style="position: relative;">
+  <img src="media/images/Repos.png">
+  <a style="position: absolute; top: 0%; left: 0%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/aware.html" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 25%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/understand.html" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 50%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/action.html" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 75%; width: 25%; height: 100%" href="https://transcelerate.github.io/ddf-home/commit.html" target="_blank"></a>
+</p>
+
 - [Introduction](#introduction)
   - [Requirements to Contribute and Propose Changes](#requirements-to-contribute-and-propose-changes)
 - [Intended Audience](#intended-audience)
