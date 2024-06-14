@@ -38,7 +38,7 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-- 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPiHYByLUg$">Digital Data Flow Project Phase 4 Informational Webinar</a>
+- 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar">Digital Data Flow Project Phase 4 Informational Webinar</a>
 <p></p>
 - 2024.07.11 <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/vulcan_tcb_cdisc__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPitaqG53I$">Vulcan UDP (Utilizing the Digital Protocol): Collaborating to Accelerate ICH M11 and End User Value</a>
 <p></p>
