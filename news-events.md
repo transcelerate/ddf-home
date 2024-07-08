@@ -15,10 +15,12 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Newsletters</H2>
 <p></p>
-- 2024.04 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202024%20Newsletter.png">April 2024 Newsletter</a> 
+- 2024.06 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-1?ecid=ACsprvvbwUbJV_xJrtiTAdm6O9V4KJhc3tHfn1x1BFkN87y3onuoemeOBFCN8FuIjKR4DkVCtbr8&utm_medium=email&_hsenc=p2ANqtz-8FsQQf4dimjNnz1X3rlL5jQklAlGc5dymTIajyK2WXYOvSxfQ7Sl2JWXCbTR0JtBhFoMeFGjmBNx8PouCGNdnp9m83Qw&_hsmi=313526622&utm_content=313526622&utm_source=hs_email">June 2024 Newsletter</a> 
 <p></p>
 <details>
 <summary>Previous Versions</summary>
+<p></p>
+- 2024.04 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202024%20Newsletter.png">April 2024 Newsletter</a> 
 <p></p>
 - 2024.03 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20MAR%202024%20Newsletter.png">March 2024 Newsletter</a> 
 <p></p>
@@ -38,16 +40,18 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-- 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar">Digital Data Flow Project Phase 4 Informational Webinar</a>
-<p></p>
 - 2024.07.11 <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/vulcan_tcb_cdisc__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPitaqG53I$">Vulcan UDP (Utilizing the Digital Protocol): Collaborating to Accelerate ICH M11 and End User Value</a>
 <p></p>
 - 2024.10.23-24 <a target="_blank" href="https://www.cdisc.org/events/interchange/2024-cdisc-tmf-us-interchange">CDISC + TMF US Interchange 2024</a>
 <p></p>
 - 2024.10.29-30 <a target="_blank" href="https://www.scopesummiteurope.com/__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPi3fHuvHM$">Summit for Clinical Ops Executives (SCOPE) Europe</a>
 <p></p>
+- 2024.11.10-13 <a target="_blank" href="https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=28735&eventID=45&traceRedir=2">PHUSE EU Connect 2024</a>
+<p></p>
 <details>
 <summary>Past Conferences</summary>
+<p></p>
+- 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar">Digital Data Flow Project Phase 4 Informational Webinar</a>
 <p></p>
 - 2024.04.22-26 <a target="_blank" href="https://informaconnect.com/data-driven-hybrid-full-decentralized-trials/">Data Driven, Hybrid and Full Decentralized Clinical Trials 2024</a>
 <p></p>
