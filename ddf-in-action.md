@@ -7,7 +7,7 @@ description: Landing page for the 2024 DDF In Action day event
 
 TransCelerate is having an in-person full day event: 
 
-<p style="text-align:center;font-weight:bold">DDF IN ACTION</p>
+<p style="text-align:center;font-weight:bold;font-size:medium">DDF IN ACTION</p>
 
 <p style="text-align:center;font-style:italic">Transforming Clinical Trials with Standards and Digitalization: Continuing the Journey, Charting the Future</p>
 
