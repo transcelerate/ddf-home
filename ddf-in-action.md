@@ -3,7 +3,7 @@ title: DDF In Action
 description: Landing page for the 2024 DDF In Action day event
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# 2024 TransCelerate 'DDF In Action' Full Day Event
+# 2024 'DDF In Action' Day
 
 TransCelerate is having an in-person full day event: <strong>DDF In Action - Transforming Clinical Trials with Standards and Digitalization: Continuing the Journey, Charting the Future</strong>
 
