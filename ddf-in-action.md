@@ -16,8 +16,8 @@ This interactive in-person experience will bring together sponsor companies, cli
 ### Date: Thursday, October 10th, 2024
 
 ### Locations: Europe & US
-- <strong>Copenhagen, Denmark</strong>, hosted by Novo Nordisk
-- <strong>New Jersey, US</strong>, hosted by Johnson & Johnson
+- <strong>Copenhagen, Denmark</strong>: Hosted by Novo Nordisk
+- <strong>New Jersey, US</strong>: Hosted by Johnson & Johnson
 
 ## Objectives
 <img src="media/images/DDF_IA_OBJ.png" width="600">
