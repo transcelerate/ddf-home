@@ -15,6 +15,7 @@ This interactive in-person experience will bring together sponsor companies, cli
 ## Date & Locations
 ### Date
 - Thursday, October 10th, 2024
+
 ### Locations
 - <strong>EURPOE</strong>:  Hosted by Novo Nordisk in Copenhagen, Denmark
 - <strong>US</strong>:  Hosted by Johnson & Johnson in New Jersey, US
