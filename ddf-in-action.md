@@ -7,7 +7,8 @@ description: Landing page for the 2024 DDF In Action day event
 
 TransCelerate is having an in-person full day event: 
 
-*<strong><font size="14">DDF In Action - Transforming Clinical Trials with Standards and Digitalization: Continuing the Journey, Charting the Future</font></strong>*
+*<strong><font size="14">DDF In Action</font></strong>*
+*Transforming Clinical Trials with Standards and Digitalization: Continuing the Journey, Charting the Future*
 
 ## Overview
 This interactive in-person experience will bring together sponsor companies, clinical solution providers, and key industry stakeholders to exchange knowledge and collaborate on implementing the Unified Study Definition Model (USDM) and Study Definitions Repository (SDR) DDF solutions. 
