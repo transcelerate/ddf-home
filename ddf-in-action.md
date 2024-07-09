@@ -7,17 +7,17 @@ description: Landing page for the 2024 DDF In Action day event
 
 TransCelerate is having an in-person "DDF In Action" event on October 10th, 2024. 
 
-## Event Overview
+## Overview
 This one-day interactive in-person experience will bring together sponsor companies, clinical solution providers, and key industry stakeholders to exchange knowledge and collaborate on implementing the Unified Study Definition Model (USDM) and Study Definitions Repository (SDR) DDF solutions. 
 
-## Event Locations
+## Locations
 - <strong>EURPOE</strong>:  Hosted by Novo Nordisk in Copenhagen, Denmark
 - <strong>US</strong>:  Hosted by Johnson & Johnson in New Jersey, US
 
-## Event Objectives
+## Objectives
 <img src="media/images/DDF_IA_OBJ.png" width="600">
 
-## Event Participation
+## Participation
 ### Attendance Registration
 To register for the event, click here. 
 
