@@ -15,6 +15,11 @@ This one-day interactive in-person experience will bring together sponsor compan
 - <strong>US</strong>:  Hosted by Johnson & Johnson in New Jersey, US
 
 ## Event Objectives
-<img src="media/images/DDF_IA_OBJ.png">
+<img src="media/images/DDF_IA_OBJ.png" width="600">
 
 ## Event Participation
+### Attendance Registration
+To register for the event, click here. 
+
+### Abstract Submission for DDF In Action Day Poster Session (Due Date: By July 19th, 2024)
+If you have developed a solution that focuses on how the USDM and/or the SDR Reference Implementation have been or can be applied to achieve protocol digitalization, you can submit an abstract for DDF in Action Day (poster session).  Click <a target="_blank" href="https://19866797.fs1.hubspotusercontent-na1.net/hubfs/19866797/DDF%20Events_Abstract%20Submission%20for%20Protocol%20Digitalization_v.pdf">here</a> to learn more.
