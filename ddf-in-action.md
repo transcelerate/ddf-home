@@ -9,7 +9,9 @@ TransCelerate is having an in-person full day event:
 
 <p style="text-align:center;font-weight:bold;font-size:medium">DDF IN ACTION</p>
 
-<p style="text-align:center;font-style:italic">Transforming Clinical Trials with Standards and Digitalization: Continuing the Journey, Charting the Future</p>
+<p style="text-align:center;font-style:italic">Transforming Clinical Trials with Standards and Digitalization:</p>
+
+<p style="text-align:center;font-style:italic">Continuing the Journey, Charting the Future</p>
 
 ## Overview
 This interactive in-person experience will bring together sponsor companies, clinical solution providers, and key industry stakeholders to exchange knowledge and collaborate on implementing the Unified Study Definition Model (USDM) and Study Definitions Repository (SDR) DDF solutions. 
