@@ -13,12 +13,11 @@ TransCelerate is having an in-person full day event:
 This interactive in-person experience will bring together sponsor companies, clinical solution providers, and key industry stakeholders to exchange knowledge and collaborate on implementing the Unified Study Definition Model (USDM) and Study Definitions Repository (SDR) DDF solutions. 
 
 ## Date & Locations
-### Date
-- Thursday, October 10th, 2024
+### Date: Thursday, October 10th, 2024
 
-### Locations
-- <strong>EURPOE</strong>:  Hosted by Novo Nordisk in Copenhagen, Denmark
-- <strong>US</strong>:  Hosted by Johnson & Johnson in New Jersey, US
+### Locations: Europe & US
+- <strong>Copenhagen, Denmark</strong>, hosted by Novo Nordisk
+- <strong>New Jersey, US</strong>, hosted by Johnson & Johnson
 
 ## Objectives
 <img src="media/images/DDF_IA_OBJ.png" width="600">
