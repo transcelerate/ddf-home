@@ -30,7 +30,7 @@ This interactive in-person experience will bring together sponsor companies, cli
 ### Attendance Registration
 Anyone interested in 'Protocol Digitization and Interoperability' may benefit from attending this event.  
 
-Click here to register for the event. NOTE: Space is limited. Registration will close once capacity has been reached. 
+Click <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/ddfdayinaction-2024">here</a> to register for the event. NOTE: Space is limited. Registration will close once capacity has been reached. 
 
 ### Abstract Submission for DDF In Action Day Poster Session
 If you have developed a solution that focuses on how the USDM and/or the SDR Reference Implementation have been or can be applied to achieve protocol digitalization, you can submit an abstract for DDF in Action Day Poster Session.
