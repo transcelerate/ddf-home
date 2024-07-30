@@ -40,11 +40,11 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-- 2024.07.11 <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/vulcan_tcb_cdisc__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPitaqG53I$">Vulcan UDP (Utilizing the Digital Protocol): Collaborating to Accelerate ICH M11 and End User Value</a>
+- 2024.09.26 DDF Vendor Showcase Webinar Series
 <p></p>
 - 2024.10.10 <a target="_blank" href="https://transcelerate.github.io/ddf-home/ddf-in-action.html">DDF In Action Day 2024</a>
 <p></p>
-- 2024.10.23-24 <a target="_blank" href="https://www.cdisc.org/events/interchange/2024-cdisc-tmf-us-interchange">CDISC + TMF US Interchange 2024</a>
+- 2024.10.21-24 <a target="_blank" href="https://www.cdisc.org/events/interchange/2024-cdisc-tmf-us-interchange">CDISC + TMF US Interchange 2024</a>
 <p></p>
 - 2024.10.29-30 <a target="_blank" href="https://www.scopesummiteurope.com/__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPi3fHuvHM$">Summit for Clinical Ops Executives (SCOPE) Europe</a>
 <p></p>
@@ -52,6 +52,8 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <details>
 <summary>Past Conferences</summary>
+<p></p>
+- 2024.07.11 <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/vulcan_tcb_cdisc__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPitaqG53I$">Vulcan UDP (Utilizing the Digital Protocol): Collaborating to Accelerate ICH M11 and End User Value</a>
 <p></p>
 - 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar">Digital Data Flow Project Phase 4 Informational Webinar</a>
 <p></p>
