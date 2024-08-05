@@ -40,7 +40,13 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
+- 2024.09.17-18 <a target="_blank" href="https://dpharmconference.com/overview">DPHARM Conference 2024</a>
+<p></p>
 - 2024.09.26 DDF Vendor Showcase Webinar Series
+<p></p>
+- 2024.09.26-10.02 <a target="_blank" href="https://urldefense.com/v3/__https://scdm.org/scdm-2024-annual-conference/">Society for Clinical Data Management (SCDM) 2024 Annual Conference</a>
+<p></p>
+- 2024.10.03-04 <a target="_blank" href="https://innovationgathering.network/">Innovation Network Gathering</a>
 <p></p>
 - 2024.10.10 <a target="_blank" href="https://transcelerate.github.io/ddf-home/ddf-in-action.html">DDF In Action Day 2024</a>
 <p></p>
