@@ -73,7 +73,7 @@ Each repository contains supporting documentation for access and installing the 
    <th>Description</th>
   </tr>
   <tr>
-   <td><strong><a target="_blank" href="https://youtu.be/sJf_QSvOH4s">DDF Study Definition Repository Overview</a></strong></td>
+   <td><strong><a target="_blank" href="https://www.youtube.com/watch?v=BQfI-u9QHvM&t=602s">DDF Study Definition Repository Overview</a></strong></td>
    <td>This video provides an overview of the Study Definition Repository (SDR), a component output of the TransCelerate Digital Data Flow (DDF) Initiative, and a walkthrough of the main features covering the User Interface, the API and deployment configurations is presented. </td>
   </tr>
  </thead>
