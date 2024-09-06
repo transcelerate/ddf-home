@@ -15,10 +15,12 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Newsletters</H2>
 <p></p>
-- 2024.06 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-1?ecid=ACsprvvbwUbJV_xJrtiTAdm6O9V4KJhc3tHfn1x1BFkN87y3onuoemeOBFCN8FuIjKR4DkVCtbr8&utm_medium=email&_hsenc=p2ANqtz-8FsQQf4dimjNnz1X3rlL5jQklAlGc5dymTIajyK2WXYOvSxfQ7Sl2JWXCbTR0JtBhFoMeFGjmBNx8PouCGNdnp9m83Qw&_hsmi=313526622&utm_content=313526622&utm_source=hs_email">June 2024 Newsletter</a> 
+- 2024.08 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-4?ecid=ACsprvuUcdhH8THKPHS3zrfQBaRuYMOw6JIao504rkZ8dQY9VknAlPg7pA5MTpEv3Yk7iQE_flu6&utm_source=hs_email&utm_medium=email&utm_content=322117366&_hsenc=p2ANqtz-8hNtmMDbRoxQqBV1dvoNyNQ30iqPa6Gxd4GZiM89ckdEnhczYA_Gcpl78SEk7R3ZnZWo1QRqzv6h2UCvZMABYn4Gb9iw">August 2024 Newsletter</a> 
 <p></p>
 <details>
 <summary>Previous Versions</summary>
+<p></p>
+- 2024.06 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-1?ecid=ACsprvvbwUbJV_xJrtiTAdm6O9V4KJhc3tHfn1x1BFkN87y3onuoemeOBFCN8FuIjKR4DkVCtbr8&utm_medium=email&_hsenc=p2ANqtz-8FsQQf4dimjNnz1X3rlL5jQklAlGc5dymTIajyK2WXYOvSxfQ7Sl2JWXCbTR0JtBhFoMeFGjmBNx8PouCGNdnp9m83Qw&_hsmi=313526622&utm_content=313526622&utm_source=hs_email">June 2024 Newsletter</a> 
 <p></p>
 - 2024.04 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20APR%202024%20Newsletter.png">April 2024 Newsletter</a> 
 <p></p>
