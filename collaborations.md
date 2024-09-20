@@ -13,18 +13,21 @@ Currently, multiple initiatives are focusing on different aspects of protocol di
 By aligning on content and working together, the collaboration across these initiatives amplifies the value of a Digital Protocol. 
 
 The DDF Initative is collaborating with the following organizations and initiatives:
-<p></p>
-<a href="">
-<img src="https://github.com/transcelerate/ddf-home/blob/main/media/images/CDISC.png">
+
+
+<a href="https://www.cdisc.org/ddf">
+<img src="media\images\CDISC.png">
 </a>
-<p></p>
-<a href="">
-<img src="https://github.com/transcelerate/ddf-home/blob/main/media/images/ICHM11.png">
+
+
+<a href="https://www.ema.europa.eu/en/ich-m11-guideline-clinical-study-protocol-template-and-technical-specifications-scientific-guideline">
+<img src="media\images\ICHM11.png">
 </a>
-<p></p>
-<a href="">
-<img src="https://github.com/transcelerate/ddf-home/blob/main/media/images/Vulcan.png">
+
+
+<a href="https://www.hl7vulcan.org/udp-project">
+<img src="media\images\Vulcan.png">
 </a>
-<p></p>
+
 
   
