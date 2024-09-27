@@ -4,7 +4,7 @@ description: Landing page for overview on collaborations
 # layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Collaborations
+# Data Standards Collaborations
 
 ## Collaborating Across Initiatives
 
@@ -12,7 +12,7 @@ Currently, multiple initiatives are focusing on different aspects of protocol di
 
 By aligning on content and working together, the collaboration across these initiatives amplifies the value of a Digital Protocol. 
 
-The DDF Initative is collaborating with the following organizations and initiatives:
+The DDF Initative is collaborating with the following organizations and initiatives with regards to data standards:
 
 
 <a href="https://www.cdisc.org/ddf">
