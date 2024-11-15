@@ -5,7 +5,7 @@ description: Landing page for the 2024 DDF In Action day event
 ---
 # 2024 'DDF In Action' Day
 
-TransCelerate is having an in-person full day event: 
+TransCelerate had an in-person full day event: 
 
 <p style="text-align:center;font-weight:bold;font-style:italic;font-size:xx-large">DDF IN ACTION</p>
 
@@ -14,7 +14,7 @@ TransCelerate is having an in-person full day event:
 <p style="text-align:center;font-style:italic;font-size:x-large">Continuing the Journey, Charting the Future</p>
 
 ## Overview
-This interactive in-person experience will bring together sponsor companies, clinical solution providers, and key industry stakeholders to exchange knowledge and collaborate on implementing the Unified Study Definition Model (USDM) and Study Definitions Repository (SDR) DDF solutions. 
+This interactive in-person experience brought together sponsor companies, clinical solution providers, and key industry stakeholders to exchange knowledge and collaborate on implementing the Unified Study Definition Model (USDM) and Study Definitions Repository (SDR) DDF solutions. 
 
 ## Date & Locations
 ### Date: Thursday, October 10th, 2024
@@ -26,13 +26,16 @@ This interactive in-person experience will bring together sponsor companies, cli
 ## Objectives
 <img src="media/images/DDF_IA_OBJ.png" width="600">
 
-## Participation
-### Attendance Registration
-Anyone interested in 'Protocol Digitization and Interoperability' may benefit from attending this event.  
+## Event Output
+### Summary Report
+- [DDF in Action Day - Transforming Clinical Trials with Standards and Digitalization: Summary Report](<documents/DDF in Action Day Readout.pdf>)
 
-Click <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/ddfdayinaction-2024">here</a> to register for the event. NOTE: Space is limited. Registration will close once capacity has been reached. 
+### Presentation Materials 
+- [Full Slide Deck - US](<documents/DDF in Action Day Presentation_NJ_FOR DISTRIBUTION.pdf>)
+- [Full Slide Deck - DK](<documents/DDF in Action Day Presentation_Copenhagen_FOR DISTRIBUTION.pdf>)
 
-### Abstract Submission for DDF In Action Day Poster Session
-If you have developed a solution that focuses on how the USDM and/or the SDR Reference Implementation have been or can be applied to achieve protocol digitalization, you can submit an abstract for DDF in Action Day Poster Session.
-
-Click <a target="_blank" href="https://19866797.fs1.hubspotusercontent-na1.net/hubfs/19866797/DDF%20Events_Abstract%20Submission%20for%20Protocol%20Digitalization_v.pdf">here</a> to learn more. NOTE: Abstract submission closes on July 19th, 2024.
+### Additional Content
+- [USDM Use Cases](<documents/USDM Use Cases.pdf>)
+- [Persona Toolkit Highlights](<documents/DDF Persona Toolkit Highlights.pdf>)
+- [Key Concepts](<documents/DDF Key Concepts.pdf>)
+- [Technology Architecture Scenarios](<documents/DDF Technology Architecture Scenarios Tool.pdf>)
