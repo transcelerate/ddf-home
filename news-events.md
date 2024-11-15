@@ -15,10 +15,12 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Newsletters</H2>
 <p></p>
-- 2024.08 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-4?ecid=ACsprvuUcdhH8THKPHS3zrfQBaRuYMOw6JIao504rkZ8dQY9VknAlPg7pA5MTpEv3Yk7iQE_flu6&utm_source=hs_email&utm_medium=email&utm_content=322117366&_hsenc=p2ANqtz-8hNtmMDbRoxQqBV1dvoNyNQ30iqPa6Gxd4GZiM89ckdEnhczYA_Gcpl78SEk7R3ZnZWo1QRqzv6h2UCvZMABYn4Gb9iw">August 2024 Newsletter</a> 
+- 2024.10 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-1024?ecid=ACsprvtK15Q84CU9FKRVNW-L4Kr-g-GglH-jRfJcBAcHasqnmnT08RriJyQdig4ovyVrcYg8ucPb&utm_medium=email&_hsenc=p2ANqtz--5Tm-SGasF1QJHiftEdhtldE0G-v9q03T7OtkKh99lmaOPEZpuGZfHsm-T1TKqCYpRd3Vu4j6YzRkp-4A1FVIfatWEjg&_hsmi=331144906&utm_content=331144906&utm_source=hs_email">October 2024 Newsletter</a> 
 <p></p>
 <details>
 <summary>Previous Versions</summary>
+<p></p>
+- 2024.08 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-4?ecid=ACsprvuUcdhH8THKPHS3zrfQBaRuYMOw6JIao504rkZ8dQY9VknAlPg7pA5MTpEv3Yk7iQE_flu6&utm_source=hs_email&utm_medium=email&utm_content=322117366&_hsenc=p2ANqtz-8hNtmMDbRoxQqBV1dvoNyNQ30iqPa6Gxd4GZiM89ckdEnhczYA_Gcpl78SEk7R3ZnZWo1QRqzv6h2UCvZMABYn4Gb9iw">August 2024 Newsletter</a> 
 <p></p>
 - 2024.06 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-1?ecid=ACsprvvbwUbJV_xJrtiTAdm6O9V4KJhc3tHfn1x1BFkN87y3onuoemeOBFCN8FuIjKR4DkVCtbr8&utm_medium=email&_hsenc=p2ANqtz-8FsQQf4dimjNnz1X3rlL5jQklAlGc5dymTIajyK2WXYOvSxfQ7Sl2JWXCbTR0JtBhFoMeFGjmBNx8PouCGNdnp9m83Qw&_hsmi=313526622&utm_content=313526622&utm_source=hs_email">June 2024 Newsletter</a> 
 <p></p>
@@ -39,31 +41,32 @@ description: Latest News & Events for DDF Initiative
 -  <a target="_blank" href="https://github.com/transcelerate/ddf-home/tree/main/documents/newsletters">Older Versions</a>
 </details>
 <p></p>
-<p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-- 2024.10.03-04 <a target="_blank" href="https://innovationgathering.network/">Innovation Network Gathering</a>
-<p></p>
-- 2024.10.10 <a target="_blank" href="https://transcelerate.github.io/ddf-home/ddf-in-action.html">DDF In Action Day 2024</a>
-<p></p>
-- 2024.10.21-24 <a target="_blank" href="https://www.cdisc.org/events/interchange/2024-cdisc-tmf-us-interchange">CDISC + TMF US Interchange 2024</a>
-<p></p>
-- 2024.10.29-30 <a target="_blank" href="https://www.scopesummiteurope.com/__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPi3fHuvHM$">Summit for Clinical Ops Executives (SCOPE) Europe</a>
-<p></p>
 - 2024.11.10-13 <a target="_blank" href="https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=28735&eventID=45&traceRedir=2">PHUSE EU Connect 2024</a>
+<p></p>
+- 2024.12.05 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-december-2024/">DDF Solution Showcase Webinar Series #2</a>
+<p></p>
+- 2025.02.03-04 <a target="_blank" href="https://www.scopesummit.com/Data#4">SCOPE US 2025</a>
+<p></p>
+- 2025.03.16-19 <a target="_blank" href="https://www.cdisc.org/events/education/external-events/2025/03/phuse-us-connect-2025">PHUSE US Connect 2025</a>
 <p></p>
 <details>
 <summary>Past Conferences</summary>
 <p></p>
-- 2024.09.26-10.02 <a target="_blank" href="https://urldefense.com/v3/__https://scdm.org/scdm-2024-annual-conference/">Society for Clinical Data Management (SCDM) 2024 Annual Conference</a>
+- 2024.10.29-30 <a target="_blank" href="https://www.scopesummiteurope.com/__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPi3fHuvHM$">Summit for Clinical Ops Executives (SCOPE) Europe</a>
 <p></p>
-- 2024.09.26 DDF Vendor Showcase Webinar Series
+- 2024.10.21-24 <a target="_blank" href="https://www.cdisc.org/events/interchange/2024-cdisc-tmf-us-interchange">CDISC + TMF US Interchange 2024</a>
+<p></p>
+- 2024.10.03-04 <a target="_blank" href="https://innovationgathering.network/">Innovation Network Gathering</a>
+<p></p>
+- 2024.09.26-10.02 <a target="_blank" href="https://urldefense.com/v3/__https://scdm.org/scdm-2024-annual-conference/">Society for Clinical Data Management (SCDM) 2024 Annual Conference</a>
 <p></p>
 - 2024.09.17-18 <a target="_blank" href="https://dpharmconference.com/overview">DPHARM Conference 2024</a>
 <p></p>
 - 2024.07.11 <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/vulcan_tcb_cdisc__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPitaqG53I$">Vulcan UDP (Utilizing the Digital Protocol): Collaborating to Accelerate ICH M11 and End User Value</a>
 <p></p>
-- 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar">Digital Data Flow Project Phase 4 Informational Webinar</a>
+- 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar">CDISC Digital Data Flow Project Phase 4 Informational Webinar</a>
 <p></p>
 - 2024.04.22-26 <a target="_blank" href="https://informaconnect.com/data-driven-hybrid-full-decentralized-trials/">Data Driven, Hybrid and Full Decentralized Clinical Trials 2024</a>
 <p></p>
@@ -81,6 +84,8 @@ description: Latest News & Events for DDF Initiative
 <details>
 <summary>Past Events</summary>
 <p></p>
+- 2024.10.10 <a target="_blank" href="https://transcelerate.github.io/ddf-home/ddf-in-action.html">DDF In Action Day 2024</a>
+<p></p>
 - 2023.09.19 <a target="_blank" href="https://transcelerate.github.io/ddf-home/2023_discovery_day.html">DDF Discovery Day</a>
 <p></p>
 - 2022.09.12 <a target="_blank" href="https://transcelerate.github.io/ddf-home/CaT_home.html">DDF Connectathon</a>
@@ -88,6 +93,8 @@ description: Latest News & Events for DDF Initiative
 </details>
 <details>
 <summary>Past Webinars</summary>
+<p></p>
+- 2024.09.26 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-solution-showcase-fall-2024/">DDF Solution Showcase Webinar Series #1</a>
 <p></p>
 - 2023.12.13 <a target="_blank" href="https://www.youtube.com/watch?v=nX86V8TJISw">DDF Modernizing Clinical Trials Using Digitized Protocol Information</a>  
 <p></p>
