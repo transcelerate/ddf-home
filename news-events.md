@@ -15,10 +15,12 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Newsletters</H2>
 <p></p>
-- 2024.10 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-1024?ecid=ACsprvtK15Q84CU9FKRVNW-L4Kr-g-GglH-jRfJcBAcHasqnmnT08RriJyQdig4ovyVrcYg8ucPb&utm_medium=email&_hsenc=p2ANqtz--5Tm-SGasF1QJHiftEdhtldE0G-v9q03T7OtkKh99lmaOPEZpuGZfHsm-T1TKqCYpRd3Vu4j6YzRkp-4A1FVIfatWEjg&_hsmi=331144906&utm_content=331144906&utm_source=hs_email">October 2024 Newsletter</a> 
+- 2024.12 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202024%20Newsletter.png">Dec 2024 Newsletter</a> 
 <p></p>
 <details>
 <summary>Previous Versions</summary>
+<p></p>
+- 2024.10 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-1024?ecid=ACsprvtK15Q84CU9FKRVNW-L4Kr-g-GglH-jRfJcBAcHasqnmnT08RriJyQdig4ovyVrcYg8ucPb&utm_medium=email&_hsenc=p2ANqtz--5Tm-SGasF1QJHiftEdhtldE0G-v9q03T7OtkKh99lmaOPEZpuGZfHsm-T1TKqCYpRd3Vu4j6YzRkp-4A1FVIfatWEjg&_hsmi=331144906&utm_content=331144906&utm_source=hs_email">October 2024 Newsletter</a> 
 <p></p>
 - 2024.08 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/digital-data-flow-updates-from-transcelerate-biopharma-4?ecid=ACsprvuUcdhH8THKPHS3zrfQBaRuYMOw6JIao504rkZ8dQY9VknAlPg7pA5MTpEv3Yk7iQE_flu6&utm_source=hs_email&utm_medium=email&utm_content=322117366&_hsenc=p2ANqtz-8hNtmMDbRoxQqBV1dvoNyNQ30iqPa6Gxd4GZiM89ckdEnhczYA_Gcpl78SEk7R3ZnZWo1QRqzv6h2UCvZMABYn4Gb9iw">August 2024 Newsletter</a> 
 <p></p>
@@ -43,16 +45,14 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-- 2024.11.10-13 <a target="_blank" href="https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=28735&eventID=45&traceRedir=2">PHUSE EU Connect 2024</a>
-<p></p>
-- 2024.12.05 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-december-2024/">DDF Solution Showcase Webinar Series #2</a>
-<p></p>
-- 2025.02.03-04 <a target="_blank" href="https://www.scopesummit.com/Data#4">SCOPE US 2025</a>
-<p></p>
 - 2025.03.16-19 <a target="_blank" href="https://www.cdisc.org/events/education/external-events/2025/03/phuse-us-connect-2025">PHUSE US Connect 2025</a>
 <p></p>
 <details>
 <summary>Past Conferences</summary>
+<p></p>
+- 2025.02.03-04 <a target="_blank" href="https://www.scopesummit.com/Data#4">SCOPE US 2025</a>
+<p></p>
+- 2024.11.10-13 <a target="_blank" href="https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=28735&eventID=45&traceRedir=2">PHUSE EU Connect 2024</a>
 <p></p>
 - 2024.10.29-30 <a target="_blank" href="https://www.scopesummiteurope.com/__;!!H9nueQsQ!-D-aTCTA-UErzNk0kyc9cVOFzfz4kcZ7QTomLdZ8M0Bo6E2Vo8GoQJHqxXvS0xL0fBbCLXhBFh7BWsPIzJYKsz8uBMh1_VPi3fHuvHM$">Summit for Clinical Ops Executives (SCOPE) Europe</a>
 <p></p>
@@ -93,6 +93,8 @@ description: Latest News & Events for DDF Initiative
 </details>
 <details>
 <summary>Past Webinars</summary>
+<p></p>
+- 2024.12.05 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-december-2024/">DDF Solution Showcase Webinar Series #2</a>
 <p></p>
 - 2024.09.26 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-solution-showcase-fall-2024/">DDF Solution Showcase Webinar Series #1</a>
 <p></p>
