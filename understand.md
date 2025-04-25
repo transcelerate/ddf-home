@@ -29,3 +29,9 @@ Here is additional information specific to your role*:
 For specific questions that need a conversation, <a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">click here</a>.
 
 *NOTE: Job titles, roles, & responsibilities can and will vary, often significantly, across companies
+
+For examples of how Digital Data Flow could be adopted, please see the following adoption stories.
+
+| Adoption Stories                                                                    |
+|-------------------------------------------------------------------------------------|
+|- [Adoption Story: Digital Schedule of Activities](<documents/stories/DDF_Case_Study_DOSA.pdf>) <br>- [Adoption Story: Adoption of a Digital Data Flow](<documents/stories/DDF_Case_Study_DDF_Adoption.pdf>)|
