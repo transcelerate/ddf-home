@@ -9,7 +9,7 @@ Here is the inventory of all tools & resources for DDF.
 
 | Adoption Stories                                                                    |
 |-------------------------------------------------------------------------------------|
-|- [Adoption Story 1](<documents/stories/DDF_Case_Study_DOSA.pdf>) <br>- [Adoption Story 2](<documents/stories/DDF_Case_Study_DDF_Adoption.pdf>)|
+|- [Adoption Story: Digital Schedule of Activities](<documents/stories/DDF_Case_Study_DOSA.pdf>) <br>- [Adoption Story: Adoption of a Digital Data Flow](<documents/stories/DDF_Case_Study_DDF_Adoption.pdf>)|
 
 
 | Change Management                                                                     | Collaboration                                                                            |
