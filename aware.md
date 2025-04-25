@@ -21,3 +21,9 @@ For clinical data managers, sponsor information technologists, and solution vend
 |<a target="_blank" href="https://www.youtube.com/watch?v=C2g7OZEgyjY&t=87s">- Digital Data Flow Unified Study Definitions Model (USDM) (Video)</a>|<a target="_blank" href="https://www.youtube.com/watch?v=z-_XPnP0U0k&t=68s">- Digital Data Flow Study Definitions Repository (SDR) Reference Implementation Overview (Video)</a>|
 
 *NOTE: Job titles, roles, & responsibilities can and will vary, often significantly, across companies
+
+For examples of how Digital Data Flow could be adopted, please see the following adoption stories.
+
+| Adoption Stories                                                                    |
+|-------------------------------------------------------------------------------------|
+|- [Adoption Story: Digital Schedule of Activities](<documents/stories/DDF_Case_Study_DOSA.pdf>) <br>- [Adoption Story: Adoption of a Digital Data Flow](<documents/stories/DDF_Case_Study_DDF_Adoption.pdf>)|
