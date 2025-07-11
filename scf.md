@@ -15,7 +15,8 @@ The DDF Solution Showcase Webinar series started and is co-hosted by TransCelera
 
 We have held 4 webinars to date averaging around 600 registrations and around 200 attendees each time. 
 
-During each webinar we showcase 2 solution provider presentations and you can access the first 3 webinar videos through this link. https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KSvDjYQd1m7Kgs7A8G-rEf
+During each webinar we showcase 2 solution provider presentations and you can access the first 3 webinar videos through this [link](https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KSvDjYQd1m7Kgs7A8G-rEf).
+
 
 ## DDF Solution Directory
 The DDF Solution Directory is a directory of solution providers in the protocol digitalization space, hosted in the TransCelerate GitHub platform. 
@@ -24,5 +25,5 @@ Solution Providers provide details about their organization, solution and produc
 
 We encourage SCF and non-SCF members, and participants in our virtual and in-person events to enter into the directory. 
 
-The directory can be accessed through this link.
-https://transcelerate.github.io/ddf-directory/directory/directory.html
+The directory can be accessed through this [link](https://transcelerate.github.io/ddf-directory/directory/directory.html).
+
