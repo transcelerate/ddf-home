@@ -14,7 +14,5 @@ TransCelerate is hosting a 2025 in-person event.
 <img src="media/images/2025_DDF_Event_Promo.png" width="600">
 
 ## Registration
-Save the date! 
-
-Registration link to come. 
+[Registration Link](https://awarenessandimplementation.transceleratebiopharmainc.com/digital-data-flow-ddf-mission-possible-practical-approaches-for-protocol-digitalization)
 
