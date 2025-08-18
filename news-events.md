@@ -15,16 +15,16 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Newsletters</H2>
 <p></p>
-- 2025.08 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Apr%202025.png">Aug 2025 Newsletter</a> 
+- 2025.08 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Aug%202025.png">Aug 2025 Newsletter</a> 
 <p></p>
 <details>
 <summary>Previous Versions</summary>
 <p></p>
-- 2025.06 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Apr%202025.png">Jun 2025 Newsletter</a>
+- 2025.06 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Jun%202025.png">Jun 2025 Newsletter</a>
 <p></p>
 - 2025.04 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Apr%202025.png">Apr 2025 Newsletter</a>
 <p></p>
-- 2025.02 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Apr%202025.png">Feb 2025 Newsletter</a> 
+- 2025.02 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Feb%202025.png">Feb 2025 Newsletter</a> 
 <p></p>
 - 2024.12 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/Digital%20Data%20Flow%20-%20DEC%202024%20Newsletter.png">Dec 2024 Newsletter</a> 
 <p></p>
