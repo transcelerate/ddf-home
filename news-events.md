@@ -120,12 +120,24 @@ description: Latest News & Events for DDF Initiative
 <details>
 <summary>Past Webinars - DDF Solution Showcase</summary>
 <p></p>
-- 2024.12.05 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-december-2024/">DDF Solution Showcase Webinar Series #2</a>
+- 2025.07.10 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-july-2025/">DDF Solution Showcase Webinar Series Jul 2025</a>
 <p></p>
-- 2024.09.26 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-solution-showcase-fall-2024/">DDF Solution Showcase Webinar Series #1</a>
+- 2025.03.27 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-march-2025/">DDF Solution Showcase Webinar Series Mar 2025</a>
+<p></p>
+- 2024.12.05 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-december-2024/">DDF Solution Showcase Webinar Series Dec 2024</a>
+<p></p>
+- 2024.09.26 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-solution-showcase-fall-2024/">DDF Solution Showcase Webinar Series Sept 2024</a>
 </details>
 <details>
 <summary>Past Webinars - General</summary>
+<p></p>
+- 2025.06.25 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-whats-next-in-accelerating-ich-m11-adoption-vulcan-udp-implementation-guide/">What’s Next in Accelerating ICH M11 Adoption: Vulcan UDP Implementation Guide</a>  
+<p></p>
+- 2025.02.11 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-vulcan-udp-utilizing-the-digital-protocol-complementing-ich-m11-with-an-interoperable-schedule-of-activities-soa/">Vulcan UDP (Utilizing the Digital Protocol): Complimenting ICH M11 with an Interoperable Schedule of Activities (SoA)</a>  
+<p></p>
+- 2024.10.15 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-vulcan-udp-utilizing-the-digital-protocol-spotlight-on-connectathon-results-and-plans/">Vulcan UDP (Utilizing the Digital Protocol): Spotlight on Connectathon Results & Plans</a>  
+<p></p>
+- 2024.07.11 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-vulcan-udp-utilizing-the-digital-protocol-collaborating-to-accelerate-ich-m11-and-end-user-value/">Vulcan UDP (Utilizing the Digital Protocol): Collaborating to Accelerate ICH M11 and End User Value</a>  
 <p></p>
 - 2023.12.13 <a target="_blank" href="https://www.youtube.com/watch?v=nX86V8TJISw">DDF Modernizing Clinical Trials Using Digitized Protocol Information</a>  
 <p></p>
