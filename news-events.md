@@ -8,9 +8,9 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Latest USDM and SDR Versions</H2>
 <p></p>
-- 2024.05.03 - SDR v3.0.1 is live
+- 2025.06.03 - USDM 4.0 Final is live
 <p></p>
-- 2024.04.16 - USDM 3.0 Final is live
+- 2024.05.03 - SDR v3.0.1 is live
 <p></p>
 <p></p>
 <H2>Newsletters</H2>
@@ -53,12 +53,27 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-- 2025.03.16-19 <a target="_blank" href="https://www.cdisc.org/events/education/external-events/2025/03/phuse-us-connect-2025">PHUSE US Connect 2025</a>
+- 2025.09.23 <a target="_blank" href="https://learnstore.cdisc.org/product?catalog=USDM-TransCelerate">CDISC USDM Training</a>
+<p></p>
+- 2025.09.24-25 <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/digital-data-flow-ddf-mission-possible-practical-approaches-for-protocol-digitalization">DDF Mission Possible</a>
+<p></p>
+- 2025.11.16 <a target="_blank" href="https://www.cdisc.org/events/education/external-event/2025/11/phuse-eu-connect-2025">PHUSE EU Connect Workshop with CDISC</a>
 <p></p>
 <details>
-<summary>Past Conferences</summary>
+<summary>Past Conferences 2025</summary>
+<p></p>
+- 2025.06.15-19 <a target="_blank" href="https://www.diaglobal.org/Flagship/DIA-2025">DIA Global Annual Meeting 2025</a>
+<p></p>
+- 2025.05.14-15 <a target="_blank" href="https://www.cdisc.org/events/interchange/2025-cdisc-tmf-europe-interchange">2025 CDISC + TMF Europe Interchange</a>
+<p></p>
+- 2025.04.22-23 <a target="_blank" href="https://www.diaglobal.org/Conference-Listing/Meetings/2025/04/DIA-Korea-Annual-Meeting-2025-22-23-April-2025">DIA Korean Annual Meeting</a>
+<p></p>
+- 2025.03.16-19 <a target="_blank" href="https://www.cdisc.org/events/education/external-events/2025/03/phuse-us-connect-2025">PHUSE US Connect 2025</a>
 <p></p>
 - 2025.02.03-04 <a target="_blank" href="https://www.scopesummit.com/Data#4">SCOPE US 2025</a>
+</details>
+<details>
+<summary>Past Conferences 2024</summary>
 <p></p>
 - 2024.11.10-13 <a target="_blank" href="https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=28735&eventID=45&traceRedir=2">PHUSE EU Connect 2024</a>
 <p></p>
@@ -77,6 +92,9 @@ description: Latest News & Events for DDF Initiative
 - 2024.07.02 <a target="_blank" href="https://www.cdisc.org/events/webinar/digital-data-flow-project-phase-4-informational-webinar">CDISC Digital Data Flow Project Phase 4 Informational Webinar</a>
 <p></p>
 - 2024.04.22-26 <a target="_blank" href="https://informaconnect.com/data-driven-hybrid-full-decentralized-trials/">Data Driven, Hybrid and Full Decentralized Clinical Trials 2024</a>
+</details>
+<details>
+<summary>Past Conferences 2023</summary>
 <p></p>
 - 2023.11.05-08 <a target="_blank" href="https://www.cdisc.org/events/education/external-events/2023/11/phuse-eu-connect-2023">PHUSE EU Connect 2023</a>
 <p></p>
@@ -100,11 +118,14 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 </details>
 <details>
-<summary>Past Webinars</summary>
+<summary>Past Webinars - DDF Solution Showcase</summary>
 <p></p>
 - 2024.12.05 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/webinar-digital-data-flow-ddf-solution-showcase-december-2024/">DDF Solution Showcase Webinar Series #2</a>
 <p></p>
 - 2024.09.26 <a target="_blank" href="https://www.transceleratebiopharmainc.com/events/digital-data-flow-ddf-solution-showcase-fall-2024/">DDF Solution Showcase Webinar Series #1</a>
+</details>
+<details>
+<summary>Past Webinars - General</summary>
 <p></p>
 - 2023.12.13 <a target="_blank" href="https://www.youtube.com/watch?v=nX86V8TJISw">DDF Modernizing Clinical Trials Using Digitized Protocol Information</a>  
 <p></p>
