@@ -46,7 +46,6 @@ Here is the inventory of all tools & resources for DDF.
 <summary>Technology Scenarios</summary>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/DDF%20Technology%20Architecture%20Scenarios%20Tool%20-%20CLEAN_FINAL.pdf">- DDF Technology Architecture Scenarios Toolkit</a><br>  
 </details>
-<p></p>
 <details>
 <summary>USDM Information</summary>
 <a target="_blank" href="https://www.cdisc.org/ddf">- USDM Reference Architecture v4.0</a><br>
