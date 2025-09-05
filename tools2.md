@@ -65,7 +65,7 @@ Here is the inventory of all tools & resources for DDF.
 <details>
 <summary>DDF Solution Collaboration Links</summary>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/scf.html">- Solutions Collaboration Forum (SCF)</a><br>
-<a target="_blank" href="https://transcelerate.github.io/ddf-directory/directory/directory.html">- DDF Solutions Directory</a></a><br>
+<a target="_blank" href="https://transcelerate.github.io/ddf-directory/directory/directory.html">- DDF Solutions Directory</a><br>
 <p></p>
 </details>
 <details>
