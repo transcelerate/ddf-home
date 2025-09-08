@@ -6,6 +6,7 @@ description: DDF User Training Course From Clinical Strategy to Filing
 # DDF User Training
 ## From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
 <p></p>
+<p></p>
 
 ## **Who Should Take This Course**
 <details>
