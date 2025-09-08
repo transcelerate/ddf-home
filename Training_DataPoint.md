@@ -3,12 +3,13 @@ title: DDF User Training From Clinical Strategy to Filing
 description: DDF User Training Course From Clinical Strategy to Filing
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# DDF User Training - From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
+# DDF User Training
+## From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
+<p></p>
 
 ## **Who Should Take This Course**
-
 <details>
-<summary>Click for answer</summary>
+<summary>Click for details</summary>
 <p></p>
 This course is designed for anyone involved in the clinical data lifecycle, especially those who contribute to or rely on the Digital Data Flow. 
 <p></p>
@@ -27,111 +28,121 @@ It’s ideal for roles across:
   - Regulatory and marketing authorization submission teams 
 <p></p> 
 Even if you're not hands-on with data every day, understanding how it flows digitally can help you collaborate better cross-functionally and add more value to the process. 
+<p></p> 
+</details>
+
+## **Course Introduction**
+<details>
+<summary>Click for details</summary>
+<p></p>
+This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission. 
+<p></p>
+The course introduces the CDISC USDM (Unified Study Definitions Model), a standardized reference architecture that supports the digitization and automation of clinical trial protocols.  While the USDM is one approach, Digital Data Flow can also be achieved using other models. 
+<p></p> 
+</details>
+
+## **Course Description**
+<details>
+<summary>Click for details</summary>
+<p></p>
+In this training course, you’ll see how a clinical data point moves from strategy through to marketing authorization submission —and how every contributor plays a key role in that end-to-end journey. 
+<p></p>
+The video and downloadable schematic shows the full vision of DDF, highlighting the interdependencies on other roles as we move from clinician portfolio building to submission writing, and how each step is related. 
+<p></p> 
+</details>
+
+## **Learning Objectives**
+<details>
+<summary>Click for details</summary>
+<p></p>
+By the end of this course, learners will be able to:  
+<p></p>
+- Describe the key stages of the DDF process, from study strategy to marketing authorization submission. 
+<p></p>
+- Identify the roles involved and interdependencies from portfolio building and writing for submission within the DDF framework. 
+<p></p>
+- Trace the flow of a clinical data point) through the end-to-end process. 
+<p></p>
+- Identify where to access additional training and resources for deeper learning.
+<p></p> 
+</details>
+
+## **Recommended Experience Level for Taking the Course**
+<details>
+<summary>Click for details</summary>
+<p></p>
+Before taking this course, learners should have:  
+<p></p>
+- A basic understanding of clinical trial processes (e.g., study design, data collection, and marketing authorization submission workflows)
+<p></p>
+- Familiarity with roles such as clinical strategic lead, clinical scientist, medical scientist, medical monitor, medical writer, study designer/builder, data manager, clinical data programmer, statistician, statistical programmer or regulatory strategist, or safety lead.
+<p></p>
+- A general awareness of clinical data standards (e.g., CDISC, SDTM) is helpful but not required. 
+<p></p>
+- No technical background needed—this course focuses on concepts and connections, not programming.
+<p></p>
+<p></p>
+Here are some reference videos to learn about DDF.
+<p></p> 
+-- General Information: <a href="https://www.youtube.com/watch?v=082onW7jhe4">Digital Data Flow Initiative</a>
+<p></p> 
+-- USDM Information: <a href="">DDF: Unified Study DEfinitions Model (USDM) Overview</a>
+<p></p> 
+-- SDR Information: <a href="">DDF: Study Definitions Repository (SDR) Reference Implementation Overview</a>
+<p></p> 
+-- Biomedical Concepts Information: <a href="">DDF: Supporting Automation of Case Report Forms Using Biomedical Concepts</a>
+<p></p> 
+-- Timepoints Information: <a href="">DDF: TimePoints - Support Protocol Digitization with Complex Timing Components</a>
+<p></p> 
+-- Benefits Information: <a href="">DDF: Benefits of Digital Data Flow (DDF)</a>
+<p></p> 
 </details>
 
 ## **DDF Use Case: From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey**
 <details>
 <summary>Click for training course</summary>
 <p></p> 
-<a href="https://www.youtube.com/watch?v=082onW7jhe4">
+<a href="">
 <img src="media\images\overview.png"></a>
 <p></p>
 </details>
 <p></p>
-<p></p>
 
-## **What is the objective of the DDF initiative?**
-
+## **Learning Assessment**
 <details>
-<summary>Click for answer</summary>
+<summary>Click Here to Test Your Knowledge!</summary>
 <p></p>
-The objective of DDF is to automate and expedite the Study Start-Up process by revolutionizing how data flows across clinical trial systems, beginning with upstream (e.g., study builder) and downstream (e.g., electronic data capturing/EDC, clinical trial management system/CTMS) clinical systems.
-
-<p></p>
-TransCelerate has collaborated to develop an open-source, vendor agnostic, <strong>study definition repository</strong> (SDR) reference implementation. The SDR's basis is a Unified Study Definitions Model (USDM), developed by CDISC, that standardizes the data model for protocol study definitions..
-<p></p>
-The SDR reference implementation enables the format of information from a digitized protocol and other sources to be standardized and stored centrally. This allows the information to be passed to systems through application programming interfaces (APIs) used for study execution and data collection and reused throughout the clinical development lifecycle.  
-<p></p>
-In summary, DDF will combine data standards and a novel technology to enable the flow of data across all systems involved in the design and execution of a clinical trial.  
-<p></p>
+<p></p> 
 </details>
-<p></p>
 
+## **Summary & Conclusion**
 <details>
-<summary>Additional details regarding the <strong>USDM</strong></summary>
+<summary>Click for details</summary>
 <p></p>
-To create a consistent, comprehensive, and structured representation of a study definition as described in text in clinical trial protocols, a <strong>Unified Study Definitions Model</strong> has been developed by <strong>CDISC</strong>. 
+You've just completed the training From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey. 
 <p></p>
-The USDM contains both new and existing standards, and also provides common vocabulary, reusable designs, industry best practices, standards, and general implementation guidance for solution architects.  
+We walked through each key stage, including clinician portfolio building and marketing authorization submission writing.   
 <p></p>
-To learn more and get access to the USDM documentation, please go to the <a href="https://www.cdisc.org/ddf">CDISC Digital Data Flow website</a>. 
+You saw how a data point, like a demographic field, flows through various functions—connecting people, processes, systems, and deliverables moving away from the document paradigm, as documents are auto-created from digital data (single source of truth). 
 <p></p>
-Watch a <a target="_blank" href="https://www.youtube.com/watch?v=C2g7OZEgyjY">video</a> describing the USDM. 
+We emphasized the importance of collaboration over working in silos, and how every role plays a part in the bigger picture. With tools like the flow diagram and the USDM structure, you now have a clearer understanding of how data move with purpose and consistency. 
 <p></p>
-<a href="https://www.youtube.com/watch?v=C2g7OZEgyjY">
-<img src="media\images\USDM.png">
-</a>             
+If you’d like to go deeper, additional training and resources are available to build on what you’ve learned.  
 <p></p>
+Thank you for joining us—and remember: your piece of the puzzle helps power the entire flow. 
+<p></p> 
 </details>
-<p></p>
 
+## **Additional Resources & References**
 <details>
-<summary>Additional details regarding the <strong>SDR Reference Implementation</strong></summary>
+<summary>Click for details</summary>
 <p></p>
-The <strong>Study Definitions Repository</strong> is a novel central component aimed at facilitating the exchange of structured study definitions across clinical systems using both technical and data standards.
+If you’d like to go deeper, additional training and resources are available to build on what you’ve learned.
 <p></p>
-Transcelerate, along with Accenture, Microsoft, and other life sciences technology vendors have developed a working instance of the Study Definitions Repository based on the USDM called the <strong>Study Definitions Repository (SDR) Reference Implementation</strong>.  
-<p></p>
-The SDR Reference Implementation has been designed and developed to be open-source and vendor agnostic.  The goal of having an open-source, vendor agnostic solution is to create a platform for both innovation and collaborative interoperability across the industry.
-<p></p>
-Watch a <a target="_blank" href="https://www.youtube.com/watch?v=z-_XPnP0U0k">video</a> describing the SDR RI. 
-<p></p>
-<a href="https://www.youtube.com/watch?v=z-_XPnP0U0k">
-<img src="media\images\SDRRI.png">
-</a>
-<p></p>
+Please feel free to download the following references.
+<p></p> 
+<a href="">Interactions with Clinical Data Points map</a>
+<p></p> 
+<a href="">DDF Persona Infographic</a>
+<p></p> 
 </details>
-<p></p>
-<p></p>
-
-## **What are the benefits of the DDF initiative?**
-<p></p>
-<details>
-<summary>Click for answer</summary>
-<p></p>
-Many companies still manually conduct many of the activities that support the process of moving data from protocol development through clinical trial execution and beyond.
-<p></p>
-Digital Data Flow (DDF) benefits include:  
-<p></p>
-- minimized process hand-offs, data re-entry, and data format inconsistencies across study start-up and execution
-<p></p>
-- a foundation for data exchange and interoperability between clinical technology systems, leading to greater compatibility among systems, flexibility for sponsors, and improved clinical trial efficiencies
-<p></p>
-- a more seamless flow of data, leading to accelerated study start-up and further enabling trial automation for sponsors and research partners, and
-<p></p>
-- data format harmonization that can support greater interoperability and spark innovation within the research and development ecosystem and across the clinical trial solutions landscape.
-<p></p>
-</details>
-<p></p>
-<p></p>
-
-## **Who does the DDF initiative help?**
-
-<details>
-<summary>Click for answer</summary>
-<p></p>
-The DDF initiative will help many organizations, including pharmaceutical companies, CROs, standards organizations, upstream and downstream clinical vendors, sites, regulatory agencies, technology companies, and the open-source pharmaceutical and IT communities.
-<p></p>
-With DDF, organizations across the R&D ecosystem will be able to leverage the open-source code of the SDR reference implementation and develop a framework to deploy their own SDR implementations.
-<p></p>
-Watch a <a target="_blank" href="https://www.youtube.com/watch?v=Otg0d2385is">video</a> describing the benefits DDF initiative. 
-<p></p>
-<a href="https://www.youtube.com/watch?v=Otg0d2385is">
-<img src="media\images\benefits.png">
-</a>
-<p></p>
-For more information on the DDF initiative on the TransCelerate BioPharma Inc. website, click <a href="https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/">here</a>.
-<p></p>
-</details>
-<p></p>
-<p></p>
