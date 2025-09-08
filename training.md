@@ -1,16 +1,16 @@
 ---
-title: Training
+title: DDF User Training
 description: Details for DDF-Specific Training
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# DDF Training
+# DDF User Training
 
-## **What is the Digital Data Flow initiative?**
+## **What is DDF User Training?**
 
 <details>
 <summary>Click for answer</summary>
 <p></p>
-The Digital Data Flow (DDF) initiative aims to modernize clinical trials by enabling a digital workflow that allows for automated creation of study content and configuration of study systems to support clinical trial execution. This initiative will establish a foundation for a future state of automated and dynamic readiness that can transform the drug development process.
+The Digital Data Flow (DDF) user training series is a set of specific DDF use cases that have been designed to educate and provide awareness for specific audiences on various aspects of DDF. 
 <p></p>
 Watch a <a target="_blank" href="https://www.youtube.com/watch?v=082onW7jhe4">video</a> describing the DDF Initiative. 
 
