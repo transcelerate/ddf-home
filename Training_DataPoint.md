@@ -9,7 +9,7 @@ description: DDF User Training Course From Clinical Strategy to Filing
 
 ## **Who Should Take This Course**
 <details>
-<summary>Click for details</summary>
+<summary>Click for the intended audience</summary>
 <p></p>
 This course is designed for anyone involved in the clinical data lifecycle, especially those who contribute to or rely on the Digital Data Flow. 
 <p></p>
@@ -33,7 +33,7 @@ Even if you're not hands-on with data every day, understanding how it flows digi
 
 ## **Course Introduction**
 <details>
-<summary>Click for details</summary>
+<summary>Click for course introduction</summary>
 <p></p>
 This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission. 
 <p></p>
@@ -43,7 +43,7 @@ The course introduces the CDISC USDM (Unified Study Definitions Model), a standa
 
 ## **Course Description**
 <details>
-<summary>Click for details</summary>
+<summary>Click for course description</summary>
 <p></p>
 In this training course, you’ll see how a clinical data point moves from strategy through to marketing authorization submission —and how every contributor plays a key role in that end-to-end journey. 
 <p></p>
@@ -53,7 +53,7 @@ The video and downloadable schematic shows the full vision of DDF, highlighting 
 
 ## **Learning Objectives**
 <details>
-<summary>Click for details</summary>
+<summary>Click for learning objectives</summary>
 <p></p>
 By the end of this course, learners will be able to:  
 <p></p>
@@ -69,7 +69,7 @@ By the end of this course, learners will be able to:
 
 ## **Recommended Experience Level for Taking the Course**
 <details>
-<summary>Click for details</summary>
+<summary>Click for recommended experience level for taking the course</summary>
 <p></p>
 Before taking this course, learners should have:  
 <p></p>
@@ -100,7 +100,7 @@ Here are some reference videos to learn about DDF.
 
 ## **DDF Use Case: From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey**
 <details>
-<summary>Click for training course</summary>
+<summary>Click for the training course</summary>
 <p></p> 
 <a href="">
 <img src="media\images\overview.png"></a>
@@ -110,14 +110,14 @@ Here are some reference videos to learn about DDF.
 
 ## **Learning Assessment**
 <details>
-<summary>Click Here to Test Your Knowledge!</summary>
+<summary>Click here to test your knowledge</summary>
 <p></p>
 <p></p> 
 </details>
 
 ## **Summary & Conclusion**
 <details>
-<summary>Click for details</summary>
+<summary>Click for the summary & conclusion</summary>
 <p></p>
 You've just completed the training From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey. 
 <p></p>
@@ -135,7 +135,7 @@ Thank you for joining us—and remember: your piece of the puzzle helps power th
 
 ## **Additional Resources & References**
 <details>
-<summary>Click for details</summary>
+<summary>Click for additional resources</summary>
 <p></p>
 If you’d like to go deeper, additional training and resources are available to build on what you’ve learned.
 <p></p>
