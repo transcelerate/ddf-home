@@ -12,4 +12,4 @@ The Digital Data Flow (DDF) user training series is a set of specific DDF use ca
 ## **What DDF User Trainings are Available?**
 There currently are the following DDF User Trainings Available.
 <p></p>
-<a target="_blank" href="">From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey</a>
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/Training_DataPoint.html">From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey</a>
