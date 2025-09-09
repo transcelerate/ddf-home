@@ -149,8 +149,8 @@ If you’d like to go deeper, additional training and resources are available to
 <p></p>
 Please feel free to download the following references.
 <p></p> 
-<a href="">Interactions with Clinical Data Points map</a>
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/training/Interactions_w_Clinical_Data_Points.pdf">- Interactions with Clinical Data Points map</a>
 <p></p> 
-<a href="">DDF Persona Infographic</a>
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/DDF Persona Infographic 2024.pdf">- DDF Persona Infographic</a>
 <p></p> 
 </details>
