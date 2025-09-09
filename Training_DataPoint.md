@@ -6,7 +6,6 @@ description: DDF User Training Course From Clinical Strategy to Filing
 # DDF User Training
 ## From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
 
-<br>
 <p>This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission.</p> 
 <p></p>
 <p>
@@ -86,17 +85,17 @@ Before taking this course, learners should have:
 <p></p>
 Here are some reference videos to learn about DDF.
 <p></p> 
--- General Information: <a href="https://www.youtube.com/watch?v=082onW7jhe4">Digital Data Flow Initiative</a>
+-- General Information: <a href="https://youtu.be/082onW7jhe4?si=AuhR3Z22Kc-qQjKa">Digital Data Flow Initiative</a>
 <p></p> 
--- USDM Information: <a href="">DDF: Unified Study DEfinitions Model (USDM) Overview</a>
+-- USDM Information: <a href="https://youtu.be/C2g7OZEgyjY?si=zfJree-OWMxDrLUm">DDF: Unified Study DEfinitions Model (USDM) Overview</a>
 <p></p> 
--- SDR Information: <a href="">DDF: Study Definitions Repository (SDR) Reference Implementation Overview</a>
+-- SDR Information: <a href="https://youtu.be/z-_XPnP0U0k?si=M95kQzbRB362qDQs">DDF: Study Definitions Repository (SDR) Reference Implementation Overview</a>
 <p></p> 
--- Biomedical Concepts Information: <a href="">DDF: Supporting Automation of Case Report Forms Using Biomedical Concepts</a>
+-- Biomedical Concepts Information: <a href="https://www.youtube.com/watch?v=0tGpj8g5gxY">DDF: Supporting Automation of Case Report Forms Using Biomedical Concepts</a>
 <p></p> 
--- Timepoints Information: <a href="">DDF: TimePoints - Support Protocol Digitization with Complex Timing Components</a>
+-- Timepoints Information: <a href="https://www.youtube.com/watch?v=M6XT3WrxkVc">DDF: TimePoints - Support Protocol Digitization with Complex Timing Components</a>
 <p></p> 
--- Benefits Information: <a href="">DDF: Benefits of Digital Data Flow (DDF)</a>
+-- Benefits Information: <a href="https://youtu.be/Otg0d2385is?si=8UPm4uPSbQuKN3C0">DDF: Benefits of Digital Data Flow (DDF)</a>
 <p></p> 
 </details>
 
@@ -107,7 +106,7 @@ Here are some reference videos to learn about DDF.
 <summary>Click for the training course</summary>
 <p></p> 
 <a href="">
-<img src="media\images\overview.png"></a>
+<img src="media\images\Training_DataPoints.png"></a>
 <p></p>
 </details>
 
