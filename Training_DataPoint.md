@@ -7,43 +7,9 @@ description: DDF User Training Course From Clinical Strategy to Filing
 ## From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
 
 <br>
-
-## **Who Should Take This Course**
-<details>
-<summary>Click for the intended audience</summary>
-<p></p>
-This course is designed for anyone involved in the clinical data lifecycle, especially those who contribute to or rely on the Digital Data Flow. 
-<p></p>
-Whether you're a clinician building a study portfolio, writing content for a marketing authorization submission, supporting data standards, or part of the data transformation and delivery process, this training will help you see how your work connects to the bigger picture. 
-<p></p>
-It’s ideal for roles across: 
-<p></p>
-  - Clinical content development 
-<p></p>
-  - Data standards and governance 
-<p></p>
-  - Study setup and design 
-<p></p>
-  - Data transformation and delivery 
-<p></p>
-  - Regulatory and marketing authorization submission teams 
-<p></p> 
-Even if you're not hands-on with data every day, understanding how it flows digitally can help you collaborate better cross-functionally and add more value to the process. 
-<p></p> 
-</details>
-
-<br>
-
-## **Course Introduction**
-<details>
-<summary>Click for course introduction</summary>
-<p></p>
 This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission. 
-<p></p>
+<br>
 The course introduces the CDISC USDM (Unified Study Definitions Model), a standardized reference architecture that supports the digitization and automation of clinical trial protocols.  While the USDM is one approach, Digital Data Flow can also be achieved using other models. 
-<p></p> 
-</details>
-
 <br>
 
 ## **Course Description**
@@ -71,6 +37,32 @@ By the end of this course, learners will be able to:
 - Trace the flow of a clinical data point) through the end-to-end process. 
 <p></p>
 - Identify where to access additional training and resources for deeper learning.
+<p></p> 
+</details>
+
+<br>
+
+## **Who Should Take This Course**
+<details>
+<summary>Click for the intended audience</summary>
+<p></p>
+This course is designed for anyone involved in the clinical data lifecycle, especially those who contribute to or rely on the Digital Data Flow. 
+<p></p>
+Whether you're a clinician building a study portfolio, writing content for a marketing authorization submission, supporting data standards, or part of the data transformation and delivery process, this training will help you see how your work connects to the bigger picture. 
+<p></p>
+It’s ideal for roles across: 
+<p></p>
+  - Clinical content development 
+<p></p>
+  - Data standards and governance 
+<p></p>
+  - Study setup and design 
+<p></p>
+  - Data transformation and delivery 
+<p></p>
+  - Regulatory and marketing authorization submission teams 
+<p></p> 
+Even if you're not hands-on with data every day, understanding how it flows digitally can help you collaborate better cross-functionally and add more value to the process. 
 <p></p> 
 </details>
 
