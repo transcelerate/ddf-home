@@ -7,9 +7,10 @@ description: DDF User Training Course From Clinical Strategy to Filing
 ## From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
 
 <br>
-This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission. 
-<br>
-The course introduces the CDISC USDM (Unified Study Definitions Model), a standardized reference architecture that supports the digitization and automation of clinical trial protocols.  While the USDM is one approach, Digital Data Flow can also be achieved using other models. 
+<p>This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission.</p> 
+<p></p>
+<p>
+The course introduces the CDISC USDM (Unified Study Definitions Model), a standardized reference architecture that supports the digitization and automation of clinical trial protocols.  While the USDM is one approach, Digital Data Flow can also be achieved using other models. </p>
 <br>
 
 ## **Course Description**
