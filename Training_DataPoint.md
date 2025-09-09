@@ -5,8 +5,7 @@ description: DDF User Training Course From Clinical Strategy to Filing
 ---
 # DDF User Training
 ## From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
-<p></p>
-<p></p>
+
 
 ## **Who Should Take This Course**
 <details>
@@ -32,6 +31,8 @@ Even if you're not hands-on with data every day, understanding how it flows digi
 <p></p> 
 </details>
 
+<br>
+
 ## **Course Introduction**
 <details>
 <summary>Click for course introduction</summary>
@@ -42,6 +43,8 @@ The course introduces the CDISC USDM (Unified Study Definitions Model), a standa
 <p></p> 
 </details>
 
+<br>
+
 ## **Course Description**
 <details>
 <summary>Click for course description</summary>
@@ -51,6 +54,8 @@ In this training course, you’ll see how a clinical data point moves from strat
 The video and downloadable schematic shows the full vision of DDF, highlighting the interdependencies on other roles as we move from clinician portfolio building to submission writing, and how each step is related. 
 <p></p> 
 </details>
+
+<br>
 
 ## **Learning Objectives**
 <details>
@@ -67,6 +72,8 @@ By the end of this course, learners will be able to:
 - Identify where to access additional training and resources for deeper learning.
 <p></p> 
 </details>
+
+<br>
 
 ## **Recommended Experience Level for Taking the Course**
 <details>
@@ -99,6 +106,8 @@ Here are some reference videos to learn about DDF.
 <p></p> 
 </details>
 
+<br>
+
 ## **DDF Use Case: From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey**
 <details>
 <summary>Click for the training course</summary>
@@ -107,7 +116,8 @@ Here are some reference videos to learn about DDF.
 <img src="media\images\overview.png"></a>
 <p></p>
 </details>
-<p></p>
+
+<br>
 
 ## **Learning Assessment**
 <details>
@@ -115,6 +125,8 @@ Here are some reference videos to learn about DDF.
 <p></p>
 <p></p> 
 </details>
+
+<br>
 
 ## **Summary & Conclusion**
 <details>
@@ -133,6 +145,8 @@ If you’d like to go deeper, additional training and resources are available to
 Thank you for joining us—and remember: your piece of the puzzle helps power the entire flow. 
 <p></p> 
 </details>
+
+<br>
 
 ## **Additional Resources & References**
 <details>
