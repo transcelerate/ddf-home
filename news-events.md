@@ -53,11 +53,21 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
+- 2025.09.16-17 <a target="_blank" href="https://urldefense.com/v3/__https://dpharmconference.com/registration-fees?_gl=1*5wxfoh*_gcl_au*MjEzNDI3Mzc2OC4xNzU3MDgxOTE0*_ga*Njc2MjkwNDI1LjE3NTcwODE5MTQ.*_ga_0KWDTCB44N*czE3NTcwODE5MTQkbzEkZzAkdDE3NTcwODE5MTQkajYwJGwwJGgw__;KioqKioqKg!!H9nueQsQ!5gM3Ah-U_UPR6ElHu5aORnGJSqJGKej7RLRiOpNdFyahkmZjKuSrCUS7VtCJeRMBL1TR18y0AAWLBP70-aQaUHCphi7N-dsRedhIRkw$">DPHARM Conference</a>
+<p></p>
 - 2025.09.23 <a target="_blank" href="https://learnstore.cdisc.org/product?catalog=USDM-TransCelerate">CDISC USDM Training</a>
 <p></p>
 - 2025.09.24-25 <a target="_blank" href="https://awarenessandimplementation.transceleratebiopharmainc.com/digital-data-flow-ddf-mission-possible-practical-approaches-for-protocol-digitalization">DDF Mission Possible</a>
 <p></p>
-- 2025.11.16 <a target="_blank" href="https://www.cdisc.org/events/education/external-event/2025/11/phuse-eu-connect-2025">PHUSE EU Connect Workshop with CDISC</a>
+- 2025.09.27-30 <a target="_blank" href="https://scdmlive.org/festival-of-opportunity-2025-program/">SCDM Annual Conference</a>
+<p></p>
+- 2025.10.07-10 <a target="_blank" href="https://innovationgathering.network">Innovation Network Gathering</a>
+<p></p>
+- 2025.10.13-14 <a target="_blank" href="https://www.cdisc.org/events/interchange/2025-cdisc-tmf-us-interchange">2025 CDISC US Interchange</a>
+<p></p>
+- 2025.10.19-21 <a target="_blank" href="https://www.diaglobal.org/en/conference-listing/meetings/2025/10/the-22nd-dia-japan-annual-meeting-2025?gad_source=1&gad_campaignid=22409283986&gclid=EAIaIQobChMIv9_D4b7TjwMVk0H_AR0iPTHuEAAYASAAEgJux_D_BwE">The 22nd DIA Japan Annual Meeting 2025</a>
+<p></p>
+- 2025.11.16-19 <a target="_blank" href="https://www.cdisc.org/events/education/external-event/2025/11/phuse-eu-connect-2025">PHUSE EU Connect Workshop with CDISC</a>
 <p></p>
 <details>
 <summary>Past Conferences 2025</summary>
