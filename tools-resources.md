@@ -26,14 +26,12 @@ Here is the inventory of all tools & resources for DDF.
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/MWPersona.html">- Protocol Writer Persona Toolkit</a><br>  
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/ITPersona.html">- Information Technology Persona Toolkit</a><br>  
 </details>
-<p></p>
 <details>
 <summary>Change Management Support</summary>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/DDF Change Management journey 2024.pdf">- Change Management Journey</a><br>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/DDF%20Technology%20Architecture%20Scenarios%20Tool%20-%20CLEAN_FINAL.pdf">- DDF Technology Architecture Scenarios Toolkit</a><br>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/white_paper/DDF_Practical_Approach_to_Implementation.pdf">- Practical Approach to Implementing DDF Framework</a><br>
 </details>
-<p></p>  
 <details>
 <summary>Adoption Stories</summary>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/DDF_Case_Study_DOSA.pdf">- Adoption Story: Digital Schedule of Activities</a><br> 
