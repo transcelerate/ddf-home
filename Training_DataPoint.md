@@ -115,8 +115,15 @@ Here are some reference videos to learn about DDF.
 
 ## **Learning Assessment**
 <details>
-<summary>Click here to test your knowledge</summary>
+<summary>Follow the instructions to test your knowledge</summary>
 <p></p>
+To test your knowledge, please complete the following steps.
+<p></p>
+1. Download <a href="https://github.com/transcelerate/ddf-home/raw/refs/heads/main/documents/training/From%20Clinical%20Strategy%20to%20Filing%20Learning%20Assessment.pptx">this</a> PowerPoint presentation.
+<p></p>
+2. Play the PowerPoint as a Slide Show from the beginning.
+<p></p>
+3. Answer each of the questions by clicking into the answer until you reach the end of the assessment.
 <p></p> 
 </details>
 
