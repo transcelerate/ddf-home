@@ -5,11 +5,11 @@ description: Details for DDF Use Cases
 ---
 # DDF Use Cases
 
-## **What is DDF User Training?**
+## **Use Case Details**
 
-The Digital Data Flow (DDF) user training series is a set of specific DDF use cases that have been designed to educate and provide awareness for specific audiences on various aspects of DDF. 
+Click here for the use cases document. 
 
-## **What DDF User Trainings are Available?**
+## **Comments for the User Cases**
 There currently are the following DDF User Trainings Available.
 <p></p>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/Training_DataPoint.html">From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey</a>
