@@ -10,6 +10,7 @@ description: Details for DDF Use Cases
 Click here for the use cases document. 
 
 ## **Comments for the User Cases**
-There currently are the following DDF User Trainings Available.
+If you have any feedback, questions, and/or comments for the use cases, please follow the instructions below.
+
 <p></p>
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/Training_DataPoint.html">From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey</a>
+<a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">Click here to submit your feedback</a>.  
