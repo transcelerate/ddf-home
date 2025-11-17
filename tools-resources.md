@@ -37,6 +37,10 @@ Here is the inventory of all tools & resources for DDF.
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/DDF_Case_Study_DOSA.pdf">- Adoption Story: Digital Schedule of Activities</a><br> 
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/DDF_Case_Study_DDF_Adoption.pdf">- Adoption Story: Adoption of a Digital Data Flow</a><br>   
 </details>
+<details>
+<summary>User Training</summary>
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/Training_DataPoint.html">- From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey</a><br>    
+</details>
 <p></p>
 <H2>Technology Information</H2>
 <p></p>
