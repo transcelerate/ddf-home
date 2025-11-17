@@ -39,6 +39,7 @@ Here is the inventory of all tools & resources for DDF.
 </details>
 <details>
 <summary>User Training</summary>
+<p>The Digital Data Flow (DDF) user training series is a set of specific DDF use cases that have been designed to educate and provide awareness for specific audiences on various aspects of DDF. </p>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/Training_DataPoint.html">- From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey</a><br>    
 </details>
 <p></p>
