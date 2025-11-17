@@ -104,10 +104,9 @@ Here are some reference videos to learn about DDF.
 
 ## **DDF Use Case: From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey**
 <details>
-<summary>Click for the training course</summary>
+<summary>Training Course Video</summary>
 <p></p> 
-<a href="">
-<img src="media\images\Training_DataPoints.png"></a>
+<a href="https://www.youtube.com/watch?v=zo9yByIluiA"><img src="media\images\Training_DataPoints.png"></a>
 <p></p>
 </details>
 
