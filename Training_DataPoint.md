@@ -6,7 +6,7 @@ description: DDF User Training Course From Clinical Strategy to Filing
 # DDF User Training
 ## From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey
 
-<p>This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission.</p> 
+<p>This training aims to show clinical study team members their involvement with a clinical data point through the stages from strategy through marketing authorization submission in an environment that has deployed DDF elements such as CDISC’s USDM standard and DDF tools and processed developed by TransCelerate.</p> 
 <p></p>
 <p>
 The course introduces the CDISC USDM (Unified Study Definitions Model), a standardized reference architecture that supports the digitization and automation of clinical trial protocols.  While the USDM is one approach, Digital Data Flow can also be achieved using other models. </p>
@@ -16,7 +16,7 @@ The course introduces the CDISC USDM (Unified Study Definitions Model), a standa
 <details>
 <summary>Click for course description</summary>
 <p></p>
-In this training course, you’ll see how a clinical data point moves from strategy through to marketing authorization submission —and how every contributor plays a key role in that end-to-end journey. 
+In this training course, you’ll see how a clinical data point moves from strategy through to marketing authorization submission in an environment that has deployed DDF elements —and how every contributor plays a key role in that end-to-end journey.
 <p></p>
 The video and downloadable schematic shows the full vision of DDF, highlighting the interdependencies on other roles as we move from clinician portfolio building to submission writing, and how each step is related. 
 <p></p> 
@@ -136,7 +136,7 @@ You've just completed the training From Clinical Strategy to Filing: Automating 
 <p></p>
 We walked through each key stage, including clinician portfolio building and marketing authorization submission writing.   
 <p></p>
-You saw how a data point, like a demographic field, flows through various functions—connecting people, processes, systems, and deliverables moving away from the document paradigm, as documents are auto-created from digital data (single source of truth). 
+You saw how a data point, like a demographic field, flows through various functions in a DDF-enabled environment—connecting people, processes, systems, and deliverables moving away from the document paradigm, as documents are auto-created from digital data (single source of truth). 
 <p></p>
 We emphasized the importance of collaboration over working in silos, and how every role plays a part in the bigger picture. With tools like the flow diagram and the USDM structure, you now have a clearer understanding of how data move with purpose and consistency. 
 <p></p>
@@ -152,6 +152,10 @@ Thank you for joining us—and remember: your piece of the puzzle helps power th
 <details>
 <summary>Click for additional resources</summary>
 <p></p>
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/code-of-conduct.html">Code of Conduct</a>
+<p></p>
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/contribution-license-agreement.html">Contribution License Agreement</a>
+<p></p>
 If you’d like to go deeper, additional training and resources are available to build on what you’ve learned.
 <p></p>
 Please feel free to download the following references.
@@ -161,3 +165,5 @@ Please feel free to download the following references.
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/DDF Persona Infographic 2024.pdf">- DDF Persona Infographic</a>
 <p></p> 
 </details>
+<p></p>
+<p></p> **Digital Data Flow maintained by TransCelerate**
