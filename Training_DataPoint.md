@@ -152,10 +152,6 @@ Thank you for joining us—and remember: your piece of the puzzle helps power th
 <details>
 <summary>Click for additional resources</summary>
 <p></p>
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/code-of-conduct.html">Code of Conduct</a>
-<p></p>
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/contribution-license-agreement.html">Contribution License Agreement</a>
-<p></p>
 If you’d like to go deeper, additional training and resources are available to build on what you’ve learned.
 <p></p>
 Please feel free to download the following references.
@@ -165,5 +161,3 @@ Please feel free to download the following references.
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/DDF Persona Infographic 2024.pdf">- DDF Persona Infographic</a>
 <p></p> 
 </details>
-<p></p>
-<p></p> **Digital Data Flow maintained by TransCelerate**
