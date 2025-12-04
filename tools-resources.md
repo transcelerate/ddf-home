@@ -34,11 +34,11 @@ Here is the inventory of all tools & resources for DDF.
 </details>
 <details>
 <summary>Adoption Stories</summary>
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/DDF_Case_Study_DOSA.pdf">- Adoption Story: Digital Schedule of Activities</a><br> 
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/DDF_Case_Study_DDF_Adoption.pdf">- Adoption Story: Adoption of a Digital Data Flow</a><br>   
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/Adoption%20Story_2025_Integrated%20Data%20Journey%20-%20From%20Study%20Concept%20to%20Case%20Report%20Form.pdf">- Adoption Story: Integrated Data Journey: From Study Concept to Case Report Form</a><br>   
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/Adoption%20Story_2025_Clinical%20Content%20Reuse%20and%20Document%20Automation.pdf">- Adoption Story: Clinical Content Reuse and Document Automation</a><br>   
-<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/Adoption%20Story_2025_Digital%20Data%20Flow%20Journey.pdf">- Adoption Story: Digital Data Flow Journey</a><br>   
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/DDF_Case_Study_DOSA.pdf">- Adoption Story: Digital Schedule of Activities (2024)</a><br> 
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/DDF_Case_Study_DDF_Adoption.pdf">- Adoption Story: Adoption of a Digital Data Flow< (2024)/a><br>   
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/Adoption%20Story_2025_Integrated%20Data%20Journey%20-%20From%20Study%20Concept%20to%20Case%20Report%20Form.pdf">- Adoption Story: Integrated Data Journey: From Study Concept to Case Report Form (2025)</a><br>   
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/Adoption%20Story_2025_Clinical%20Content%20Reuse%20and%20Document%20Automation.pdf">- Adoption Story: Clinical Content Reuse and Document Automation (2025)</a><br>   
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/stories/Adoption%20Story_2025_Digital%20Data%20Flow%20Journey.pdf">- Adoption Story: Digital Data Flow Journey (2025)</a><br>   
 </details>
 <details>
 <summary>User Training</summary>
