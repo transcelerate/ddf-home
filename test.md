@@ -24,3 +24,5 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4">
 <img src="media\images\overview.png">
 </a>
+
+[Use case](</documents/use-cases/Digital Data Flow Use Cases Final 08 Dec 2025.xlsx>)
