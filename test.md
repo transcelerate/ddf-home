@@ -25,4 +25,4 @@ Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF 
 <img src="media\images\overview.png">
 </a>
 
-[Use case](</documents/use-cases/DDF Industry Use Cases - Welcome Page.pdf>)
+<a target="_blank" href="documents/use-cases/DDF Industry Use Cases - Welcome Page.pdf">Use Cases</a>
