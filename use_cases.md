@@ -15,6 +15,8 @@ The Library leverages the UML Use Case format to capture proposed schemas for a 
 
 The Library organizes its contents into a four-level hierarchy. Each level aggregates – i.e. “contains”-- elements of subsequent levels. Specific use cases are addressed by their full hierarchy  name. For Example: Study Startup: Deployment: Study Build: Form Selection
 
+<img src="media/images/use_cases/Example.png">
+
 Each System of Interest is composed of five distinct elements:
 - Name: identifier for the unique collection of Use Case elements,
 - Scenario: a textual description of how the system initiates, what happens once initiated, and the resulting effect,
@@ -23,6 +25,34 @@ Each System of Interest is composed of five distinct elements:
 - Actors: the entities that interact with the System of Interest, either providing inputs or receiving outputs.
 
 The diagram below depicts the five elements within the System of Interest context.
+
+<img src="media/images/use_cases/Elements.png">
+
+## Accessing the Library
+There are several ways to access the DDF Use Cases Library.  
+
+<a target="_blank" href="documents/use-cases/DDF_Use_Cases.xlsx">Excel Download of the Full Library Document</a>.  
+
+To access specific sections of the use cases individually, please click on the applicable links below.
+<a target="_blank" href="">Term Glossary</a>.
+
+### Category: Protocol Store
+| Class                                                                                                                                                                               | System of Interest                                                                                  |Description                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
+
+### Category: Study-Experimental Concept
+| Class                                                                                                                                                                               | System of Interest                                                                                  |Description                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
+| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Optimization Scores | Calculate scores that characterize anticipated technical success of a new study |
+| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Enrollment Forecasting | Forecast patient enrollment rates based on past studies |
+| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Resourcing and Cost Predictions | Predict the resource utilization needs of a new study |
+| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Country and Site Selection | Optimize selection of study site types and locations based upon previous studies |
+| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Timeline Forecasting | Forecast ranges for key study timeline milestones |
+| [Study Design](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Design Study | Populate and refine the study design elements (e.g. SOA, Estimand, Inclusion/Exclusion) |
+| [Protocol Authoring](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Author Protocol | Use study design elements to draft the study protocol |
+| [Stakeholder Views](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Render Stakeholder View | Provide a view of a study protocol customized for one of several user archetypes |
 
 ## Please Note:​
 The work presented here details common elements and examples of factors that organizations may encounter when initiating a Digital Study Design/Digital Data Flow transformation. It is not intended to outline the only possibilities for achieving scalable Digital Study Design and does not constitute a recommendation to adopt or approve a particular system or  systems with particular elements or features.  ​
