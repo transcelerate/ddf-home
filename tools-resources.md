@@ -45,6 +45,13 @@ Here is the inventory of all tools & resources for DDF.
 <p>The Digital Data Flow (DDF) user training series is a set of specific DDF use cases that have been designed to educate and provide awareness for specific audiences on various aspects of DDF. </p>
 <a target="_blank" href="https://transcelerate.github.io/ddf-home/Training_DataPoint.html">- From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey</a><br>    
 </details>
+<details>
+<summary>Use Case Library</summary>
+<p>The Library is a curated collection of potential use cases developed as part of the Transcelerate Digital Data Flow (DDF) initiative. It is a living resource intended to evolve as new capabilities, standards, and regulatory guidance emerge.</p>
+<a target="_blank" href="">Excel Download of the Full Library Document</a><br><br>
+<p>Feedback and contributions are welcome to ensure it remains relevant and practical.  Please click on the link below and leverage the form to submit your feedback.</p>
+<a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">Click here to submit your feedback</a>.  
+</details>
 <p></p>
 <H2>Technology Information</H2>
 <p></p>
