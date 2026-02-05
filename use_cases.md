@@ -18,7 +18,7 @@ use cases are addressed by their full hierarchy name.
 
 For Example:  Study Startup: Deployment: Study Build: Form Selection
 
-
+<img src="documents/use-cases/Example.png" width="800">
 
 Each System of Interest is composed of five distinct elements:
 - NAME: identifier for the unique collection of Use Case elements,
@@ -28,6 +28,8 @@ Each System of Interest is composed of five distinct elements:
 - ACTORS: the entities that interact with the System of Interest, either providing inputs or receiving outputs.
 
 The diagram below depicts the five elements within the System of Interest context:
+
+<img src="documents/use-cases/Structure.png" width="800">
 
 Please Note:
 1. The Library details sample elements and examples of factors that organizations may encounter when initiating a Digital Study Design/Digital Data Flow transformation. Each 
