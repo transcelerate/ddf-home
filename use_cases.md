@@ -98,3 +98,12 @@ To access specific sections of the use cases individually, please click on the a
 | [Site Support](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Populate Trial Site Data Systems | Transmit study design element information (e.g. SOA) to trial site data systems |
 | [Site Monitoring](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Verify Site Compliance | Compare study protocol treatment progression to  incoming trial site data to find potential deviations |
 
+#### CATEGORY: ANALYSIS AND REPORTING
+
+| Class | System of Interest | Description |
+|-------|--------------------|-------------|
+| [SDTM](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | SDTM Trial Domains | Determine and program SDTM data set Trial domains from the study design elements |
+|  | SDTM Data Domains | Apply the study design elements to an observation model to build a SDTM database |
+| [ADaM](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | SDTM to ADaM | Create ADaM datasets from final SDTM datasets |
+|  | Perform Study Analysis | Apply analysis concepts to the ADaM datasets |
+| [Statistical Analysis Plan](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Draft Statistical Analysis Plan | Create an initial draft of the SAP |
