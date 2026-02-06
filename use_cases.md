@@ -88,4 +88,13 @@ To access specific sections of the use cases individually, please click on the a
 |  | Draft Site-Level Budget | Create site-level budgets for investigator grants |
 | [Trial Registries](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Upload Study to Registry | Report a new study to regulatory trial registries |
 
+#### CATEGORY: STUDY EXECUTION
+
+| Class | System of Interest | Description |
+|-------|--------------------|-------------|
+| [Amendments](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Report Protocol Changes | Compute changes in study protocol versions and transmit to interested parties |
+| [Drug and Materials](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Estimate Trial Site Inventory Needs | Apply the study timeline to incoming site data to estimate their trial material inventories and future needs |
+| [Patient Recruitment](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Query Patient Screening Facilities for Potential Study-Subjects | Transmit study Inclusion/Exclusion criteria to Patient Screening Facilities and receive patient population estimates |
+| [Site Support](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Populate Trial Site Data Systems | Transmit study design element information (e.g. SOA) to trial site data systems |
+| [Site Monitoring](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Verify Site Compliance | Compare study protocol treatment progression to  incoming trial site data to find potential deviations |
 
