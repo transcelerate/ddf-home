@@ -45,27 +45,30 @@ Feedback and contributions are welcome to ensure it remains relevant and practic
 <a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">Click here to submit your feedback</a>.  
 
 ## Accessing the Library
-There are several ways to access the DDF Use Cases Library.  
+There are several ways to access the DDF Use Cases Library: (1) Excel Download or (2) Specific Sections via PDF. 
 
+To easily access the terms and glossary for the library, please click <a target="_blank" href="documents/use-cases/DDF_Use_Cases_Glossary">here.</a>
+
+### 1. Excel Download
 <a target="_blank" href="documents/use-cases/DDF_Use_Cases_FEB2026.xlsx">Excel Download of the Full Library Document</a>.  
 
+### 2. PDF of Specific Sections
 To access specific sections of the use cases individually, please click on the applicable links below.
-<a target="_blank" href="">Term Glossary</a>.
 
-### Category: Protocol Store
-| Class                                                                                                                                                                               | System of Interest                                                                                  |Description                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+#### CATEGORY:  PROTOCOL STORE
+| Class | System of Interest | Description |
+|-------|--------------------|-------------|
 | [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
 
-### Category: Study-Experimental Concept
-| Class                                                                                                                                                                               | System of Interest                                                                                  |Description                                                                                                             |
+#### CATEGORY: STUDY-EXPERIMENTAL CONCEPT
+| Class | System of Interest | Description |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
 | [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Optimization Scores | Calculate scores that characterize anticipated technical success of a new study |
-| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Enrollment Forecasting | Forecast patient enrollment rates based on past studies |
-| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Resourcing and Cost Predictions | Predict the resource utilization needs of a new study |
-| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Country and Site Selection | Optimize selection of study site types and locations based upon previous studies |
-| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Timeline Forecasting | Forecast ranges for key study timeline milestones |
+| Analytics| Enrollment Forecasting | Forecast patient enrollment rates based on past studies |
+| Analytics | Resourcing and Cost Predictions | Predict the resource utilization needs of a new study |
+| Analytics | Country and Site Selection | Optimize selection of study site types and locations based upon previous studies |
+| Analytics | Timeline Forecasting | Forecast ranges for key study timeline milestones |
 | [Study Design](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Design Study | Populate and refine the study design elements (e.g. SOA, Estimand, Inclusion/Exclusion) |
 | [Protocol Authoring](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Author Protocol | Use study design elements to draft the study protocol |
 | [Stakeholder Views](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Render Stakeholder View | Provide a view of a study protocol customized for one of several user archetypes |
