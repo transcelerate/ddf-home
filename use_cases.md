@@ -47,7 +47,7 @@ Feedback and contributions are welcome to ensure it remains relevant and practic
 ## Accessing the Library
 There are several ways to access the DDF Use Cases Library: (1) Excel Download or (2) Specific Sections via PDF. 
 
-To easily access the terms and glossary for the library, please click <a target="_blank" href="documents/use-cases/DDF_Use_Cases_Glossary">here.</a>
+To easily access the terms and glossary for the library, please click <a target="_blank" href="documents/use-cases/DDF_Use_Cases_Glossary.pdf">here.</a>
 
 ### 1. Excel Download
 <a target="_blank" href="documents/use-cases/DDF_Use_Cases_FEB2026.xlsx">Excel Download of the Full Library Document</a>.  
@@ -59,60 +59,59 @@ To access specific sections of the use cases individually, please click on the a
 
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
-| [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
+| [Past Protocols](documents/use-cases/DDF_Use_Cases_PS_Past_Protocols.pdf) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
 
 #### CATEGORY: STUDY-EXPERIMENTAL CONCEPT
 
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
-| [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
-| [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Optimization Scores | Calculate scores that characterize anticipated technical success of a new study |
+| [Analytics](documents/use-cases/DDF_Use_Cases_EC_Analytics.pdf) | Optimization Scores | Calculate scores that characterize anticipated technical success of a new study |
 | | Enrollment Forecasting | Forecast patient enrollment rates based on past studies |
 |  | Resourcing and Cost Predictions | Predict the resource utilization needs of a new study |
 |  | Country and Site Selection | Optimize selection of study site types and locations based upon previous studies |
 |  | Timeline Forecasting | Forecast ranges for key study timeline milestones |
-| [Study Design](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Design Study | Populate and refine the study design elements (e.g. SOA, Estimand, Inclusion/Exclusion) |
-| [Protocol Authoring](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Author Protocol | Use study design elements to draft the study protocol |
-| [Stakeholder Views](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Render Stakeholder View | Provide a view of a study protocol customized for one of several user archetypes |
+| [Study Design](documents/use-cases/DDF_Use_Cases_EC_Study_Design.pdf) | Design Study | Populate and refine the study design elements (e.g. SOA, Estimand, Inclusion/Exclusion) |
+| [Protocol Authoring](documents/use-cases/DDF_Use_Cases_EC_Protocol_Authoring.pdf) | Author Protocol | Use study design elements to draft the study protocol |
+| [Stakeholder Views](documents/use-cases/DDF_Use_Cases_EC_Stakeholder_Views.pdf) | Render Stakeholder View | Provide a view of a study protocol customized for one of several user archetypes |
 
 #### CATEGORY: STUDY STARTUP
 
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
-| [Deployment](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Study Build | Configure data collection platforms for patient and site use. |
+| [Deployment](documents/use-cases/DDF_Use_Cases_SSU_Deployment.pdf) | Study Build | Configure data collection platforms for patient and site use. |
 | | Central Analysis Services | Draft requests for study analytical services and use supplier responses to configure QC |
 |  | Clinical Trial Materials | Forecast clinical trial material needs -- i.e. study drug -- as a function of study timeline. |
 |  | Interactive Response Technology | Configure interactive platforms for use in the study |
 |  | Clinical Trial Management | Configure Clinical Trial Management Systems |
-| [Trial Budgets](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Draft Study Budget | Create an initial budget for a new study |
+| [Trial Budgets](documents/use-cases/DDF_Use_Cases_SSU_Trial_Budgets.pdf) | Draft Study Budget | Create an initial budget for a new study |
 |  | Draft Site-Level Budget | Create site-level budgets for investigator grants |
-| [Trial Registries](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Upload Study to Registry | Report a new study to regulatory trial registries |
+| [Trial Registries](documents/use-cases/DDF_Use_Cases_SSU_Trial_Registries.pdf) | Upload Study to Registry | Report a new study to regulatory trial registries |
 
 #### CATEGORY: STUDY EXECUTION
 
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
-| [Amendments](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Report Protocol Changes | Compute changes in study protocol versions and transmit to interested parties |
-| [Drug and Materials](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Estimate Trial Site Inventory Needs | Apply the study timeline to incoming site data to estimate their trial material inventories and future needs |
-| [Patient Recruitment](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Query Patient Screening Facilities for Potential Study-Subjects | Transmit study Inclusion/Exclusion criteria to Patient Screening Facilities and receive patient population estimates |
-| [Site Support](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Populate Trial Site Data Systems | Transmit study design element information (e.g. SOA) to trial site data systems |
-| [Site Monitoring](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Verify Site Compliance | Compare study protocol treatment progression to  incoming trial site data to find potential deviations |
+| [Amendments](documents/use-cases/DDF_Use_Cases_SE_Amendments.pdf) | Report Protocol Changes | Compute changes in study protocol versions and transmit to interested parties |
+| [Drug and Materials](documents/use-cases/DDF_Use_Cases_SE_Drug_and_Materials.pdf) | Estimate Trial Site Inventory Needs | Apply the study timeline to incoming site data to estimate their trial material inventories and future needs |
+| [Patient Recruitment](documents/use-cases/DDF_Use_Cases_SE_Patient_Recruitment.pdf) | Query Patient Screening Facilities for Potential Study-Subjects | Transmit study Inclusion/Exclusion criteria to Patient Screening Facilities and receive patient population estimates |
+| [Site Support](documents/use-cases/DDF_Use_Cases_SE_Site_Support.pdf) | Populate Trial Site Data Systems | Transmit study design element information (e.g. SOA) to trial site data systems |
+| [Site Monitoring](documents/use-cases/DDF_Use_Cases_SE_Site_Monitoring.pdf) | Verify Site Compliance | Compare study protocol treatment progression to  incoming trial site data to find potential deviations |
 
 #### CATEGORY: ANALYSIS AND REPORTING
 
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
-| [SDTM](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | SDTM Trial Domains | Determine and program SDTM data set Trial domains from the study design elements |
+| [SDTM](documents/use-cases/DDF_Use_Cases_AR_SDTM.pdf) | SDTM Trial Domains | Determine and program SDTM data set Trial domains from the study design elements |
 |  | SDTM Data Domains | Apply the study design elements to an observation model to build a SDTM database |
-| [ADaM](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | SDTM to ADaM | Create ADaM datasets from final SDTM datasets |
+| [ADaM](documents/use-cases/DDF_Use_Cases_AR_ADAM.pdf) | SDTM to ADaM | Create ADaM datasets from final SDTM datasets |
 |  | Perform Study Analysis | Apply analysis concepts to the ADaM datasets |
-| [Statistical Analysis Plan](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Draft Statistical Analysis Plan | Create an initial draft of the SAP |
+| [Statistical Analysis Plan](documents/use-cases/DDF_Use_Cases_AR_SAP.pdf) | Draft Statistical Analysis Plan | Create an initial draft of the SAP |
 
 #### CATEGORY: REGULATORY SUBMISSIONS
 
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
-| [Submission](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Transmit Study Protocol | Send a study protocol to a Regulatory Authority using a USDM-compliant data model |
-| [Regulatory Review](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Review Study Protocol | Regulator reviews a submitted study protocol |
-| [Statistical and Safety](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Compare Actual to Planned Treatment Progression | Regulator reviews compliance to the study protocol using SDTM datasets |
+| [Submission](documents/use-cases/DDF_Use_Cases_RS_Submission.pdf) | Transmit Study Protocol | Send a study protocol to a Regulatory Authority using a USDM-compliant data model |
+| [Regulatory Review](documents/use-cases/DDF_Use_Cases_RS_Regulatory_Review.pdf) | Review Study Protocol | Regulator reviews a submitted study protocol |
+| [Statistical and Safety](documents/use-cases/DDF_Use_Cases_RS_Statistical_and_Safety.pdf) | Compare Actual to Planned Treatment Progression | Regulator reviews compliance to the study protocol using SDTM datasets |
 
