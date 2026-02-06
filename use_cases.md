@@ -113,5 +113,5 @@ To access specific sections of the use cases individually, please click on the a
 |-------|--------------------|-------------|
 | [Submission](documents/use-cases/DDF_Use_Cases_RS_Submission.pdf) | Transmit Study Protocol | Send a study protocol to a Regulatory Authority using a USDM-compliant data model |
 | [Regulatory Review](documents/use-cases/DDF_Use_Cases_RS_Regulatory_Review.pdf) | Review Study Protocol | Regulator reviews a submitted study protocol |
-| [Statistical and Safety](documents/use-cases/DDF_Use_Cases_RS_Statistical_and_Safety.pdf) | Compare Actual to Planned Treatment Progression | Regulator reviews compliance to the study protocol using SDTM datasets |
+| [Statistical and Safety](documents/use-cases/DDF_Use_Cases_RS_Stat_and_Safety_Review.pdf) | Compare Actual to Planned Treatment Progression | Regulator reviews compliance to the study protocol using SDTM datasets |
 
