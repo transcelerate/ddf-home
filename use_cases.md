@@ -67,12 +67,25 @@ To access specific sections of the use cases individually, please click on the a
 |-------|--------------------|-------------|
 | [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
 | [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Optimization Scores | Calculate scores that characterize anticipated technical success of a new study |
-| Analytics| Enrollment Forecasting | Forecast patient enrollment rates based on past studies |
-| Analytics | Resourcing and Cost Predictions | Predict the resource utilization needs of a new study |
-| Analytics | Country and Site Selection | Optimize selection of study site types and locations based upon previous studies |
-| Analytics | Timeline Forecasting | Forecast ranges for key study timeline milestones |
+| | Enrollment Forecasting | Forecast patient enrollment rates based on past studies |
+|  | Resourcing and Cost Predictions | Predict the resource utilization needs of a new study |
+|  | Country and Site Selection | Optimize selection of study site types and locations based upon previous studies |
+|  | Timeline Forecasting | Forecast ranges for key study timeline milestones |
 | [Study Design](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Design Study | Populate and refine the study design elements (e.g. SOA, Estimand, Inclusion/Exclusion) |
 | [Protocol Authoring](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Author Protocol | Use study design elements to draft the study protocol |
 | [Stakeholder Views](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Render Stakeholder View | Provide a view of a study protocol customized for one of several user archetypes |
+
+#### CATEGORY: STUDY STARTUP
+
+| Class | System of Interest | Description |
+|-------|--------------------|-------------|
+| [Deployment](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Study Build | Configure data collection platforms for patient and site use. |
+| | Central Analysis Services | Draft requests for study analytical services and use supplier responses to configure QC |
+|  | Clinical Trial Materials | Forecast clinical trial material needs -- i.e. study drug -- as a function of study timeline. |
+|  | Interactive Response Technology | Configure interactive platforms for use in the study |
+|  | Clinical Trial Management | Configure Clinical Trial Management Systems |
+| [Trial Budgets](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Draft Study Budget | Create an initial budget for a new study |
+|  | Draft Site-Level Budget | Create site-level budgets for investigator grants |
+| [Trial Registries](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Upload Study to Registry | Report a new study to regulatory trial registries |
 
 
