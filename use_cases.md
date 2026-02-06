@@ -57,10 +57,6 @@ To access specific sections of the use cases individually, please click on the a
 
 #### CATEGORY:  PROTOCOL STORE
 
-| Link                                                                              | Description                                                                                                             |
-|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **[SDR RI Codebase](sdr-ri-codebase-access.md)** <br>(click to assess)            | A way to access the codebase to install the SDR Reference Implementation locally on a company's technology environment. |
-
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
 | [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
