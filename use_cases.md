@@ -107,3 +107,12 @@ To access specific sections of the use cases individually, please click on the a
 | [ADaM](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | SDTM to ADaM | Create ADaM datasets from final SDTM datasets |
 |  | Perform Study Analysis | Apply analysis concepts to the ADaM datasets |
 | [Statistical Analysis Plan](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Draft Statistical Analysis Plan | Create an initial draft of the SAP |
+
+#### CATEGORY: REGULATORY SUBMISSIONS
+
+| Class | System of Interest | Description |
+|-------|--------------------|-------------|
+| [Submission](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Transmit Study Protocol | Send a study protocol to a Regulatory Authority using a USDM-compliant data model |
+| [Regulatory Review](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Review Study Protocol | Regulator reviews a submitted study protocol |
+| [Statistical and Safety](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Compare Actual to Planned Treatment Progression | Regulator reviews compliance to the study protocol using SDTM datasets |
+
