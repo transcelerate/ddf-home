@@ -3,7 +3,7 @@ title: DDF Use Cases
 description: Details for DDF Use Cases
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Welcome to the Digital Study Design Use Case Library
+# Digital Study Design Use Case Library
 
 The Library is a curated collection of potential use cases developed as part of the Transcelerate Digital Data Flow (DDF) initiative. It is a living resource intended to evolve as new capabilities, standards, and regulatory guidance emerge. Feedback and contributions are welcome to ensure it remains relevant and practical.
 
