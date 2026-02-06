@@ -62,7 +62,7 @@ To access specific sections of the use cases individually, please click on the a
 
 #### CATEGORY: STUDY-EXPERIMENTAL CONCEPT
 | Class | System of Interest | Description |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+|-------|--------------------|-------------|
 | [Past Protocols](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Update Protocol Store | Copy recently approved study protocol from the SDR to the Protocol Store |
 | [Analytics](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip) | Optimization Scores | Calculate scores that characterize anticipated technical success of a new study |
 | Analytics| Enrollment Forecasting | Forecast patient enrollment rates based on past studies |
