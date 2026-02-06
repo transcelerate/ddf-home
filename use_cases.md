@@ -101,7 +101,7 @@ To access specific sections of the use cases individually, please click on the a
 
 | Class | System of Interest | Description |
 |-------|--------------------|-------------|
-| [SDTM](documents/use-cases/DDF_Use_Cases_AR_SDTM.pdf) | SDTM Trial Domains | Determine and program SDTM data set Trial domains from the study design elements |
+| [SDTM](documents/use-cases/DDF_Use_Cases_AR_STDM.pdf) | SDTM Trial Domains | Determine and program SDTM data set Trial domains from the study design elements |
 |  | SDTM Data Domains | Apply the study design elements to an observation model to build a SDTM database |
 | [ADaM](documents/use-cases/DDF_Use_Cases_AR_ADAM.pdf) | SDTM to ADaM | Create ADaM datasets from final SDTM datasets |
 |  | Perform Study Analysis | Apply analysis concepts to the ADaM datasets |
