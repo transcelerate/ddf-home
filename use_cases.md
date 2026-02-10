@@ -47,7 +47,7 @@ Feedback and contributions are welcome to ensure it remains relevant and practic
 ## Accessing the Library
 There are several ways to access the DDF Use Cases Library: (1) Excel Download or (2) Specific Sections via PDF. 
 
-To easily access the terms and glossary for the library, please click <a target="_blank" href="documents/use-cases/DDF_Use_Cases_Glossary.pdf">here.</a>
+NOTE: A <a target="_blank" href="documents/use-cases/DDF_Use_Cases_Glossary.pdf">Terms & Glossary</a> document for the library is available to support your understanding of the library. 
 
 ### 1. Excel Download
 <a target="_blank" href="documents/use-cases/DDF_Use_Cases_FEB2026.xlsx">Excel Download of the Full Library Document</a>.  
