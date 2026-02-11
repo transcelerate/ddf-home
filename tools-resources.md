@@ -48,9 +48,7 @@ Here is the inventory of all tools & resources for DDF.
 <details>
 <summary>Use Case Library</summary>
 <p>The Library is a curated collection of potential use cases developed as part of the Transcelerate Digital Data Flow (DDF) initiative. It is a living resource intended to evolve as new capabilities, standards, and regulatory guidance emerge.</p>
-<a target="_blank" href="documents/use-cases/DDF_Use_Cases_FEB2026.xlsx">Excel Download of the Full Library Document</a><br><br>
-<p>Feedback and contributions are welcome to ensure it remains relevant and practical.  Please click on the link below and leverage the form to submit your feedback.</p>
-<a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">Click here to submit your feedback</a>.  
+<a target="_blank" href="https://transcelerate.github.io/ddf-home/use_cases.html">Click here to learn more.</a><br><br> 
 </details>
 <p></p>
 <H2>Technology Information</H2>
