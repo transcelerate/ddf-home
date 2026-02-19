@@ -13,14 +13,11 @@ The course introduces the CDISC USDM (Unified Study Definitions Model), a standa
 <br>
 
 ## **Course Description**
-<details>
-<summary>Click for course description</summary>
 <p></p>
 In this training course, you’ll see how a clinical data point moves from strategy through to marketing authorization submission in an environment that has deployed DDF elements —and how every contributor plays a key role in that end-to-end journey.
 <p></p>
 The video and downloadable schematic shows the full vision of DDF, highlighting the interdependencies on other roles as we move from clinician portfolio building to submission writing, and how each step is related. 
 <p></p> 
-</details>
 
 <br>
 
@@ -103,12 +100,9 @@ Here are some reference videos to learn about DDF.
 <br>
 
 ## **DDF Use Case: From Clinical Strategy to Filing: Automating the Clinical Data Flow Journey**
-<details>
-<summary>Click for the Training Course Video</summary>
 <p></p> 
 <a href="https://www.youtube.com/watch?v=zo9yByIluiA"><img src="media\images\Training_DataPoints.png"></a>
 <p></p>
-</details>
 
 <br>
 
