@@ -15,10 +15,15 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Newsletters</H2>
 <p></p>
-- 2025.10 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/catch-up-with-ddf%EF%B8%8F-october">Oct 2025 Newsletter</a> 
+- 2026.02 - <a target="_blank" href="https://urldefense.com/v3/__https://email.transceleratebiopharmainc.com/catch-up-with-ddf**B-feb26__;77iP!!H9nueQsQ!9K0FGM_d8FUsaHnrQ0u4p08zLGULa_s9KnynSAJua33di0WjpildSI0yy1RCtvk11s4upA6LcjRfKn7DmF0lIgZlR4TlILMK1RlDyg$">Feb 2026 Newsletter</a> 
 <p></p>
 <details>
 <summary>Previous Versions</summary>
+<p></p>
+- 2025.12 - <a target="_blank" href="https://urldefense.com/v3/__https://email.transceleratebiopharmainc.com/catch-up-with-ddf-dec25__;!!H9nueQsQ!5WqKy1l_2U4k4xQfqU3JetZqO3kPKhbFk34bXrkTChbEQzXaqvssMMnvujTwWMP-2bM56GEAjrHWM4ztd9ZjPrTomhJvBN8$">Dec 2025 Newsletter</a>   
+<p></p>
+<p></p>
+- 2025.10 - <a target="_blank" href="https://email.transceleratebiopharmainc.com/catch-up-with-ddf%EF%B8%8F-october">Oct 2025 Newsletter</a> 
 <p></p>
 - 2025.08 - <a target="_blank" href="https://github.com/transcelerate/ddf-home/blob/main/documents/newsletters/DDF%20Newsletter%20Aug%202025.png">Aug 2025 Newsletter</a> 
 <p></p>
@@ -55,8 +60,19 @@ description: Latest News & Events for DDF Initiative
 <p></p>
 <H2>Upcoming Conferences, Events & Webinars</H2>
 <p></p>
-TBD
+- 2026.03.22-26 <a target="_blank" href="https://www.phuse-events.org/attend/frontend/reg/thome.csp?pageID=56977&eventID=88&CSPCHD=000001000000ifI892vmPr8nIC04oyXnkozuLx8evSD1SXn5GE">PHUSE US Connect 2026</a>
 <p></p>
+- 2026.05.5-8 <a target="_blank" href="https://emwa.org/wp-content/uploads/2026/02/EMWA-SPRING-CONFERENCE-PROGRAMME-2026-1.pdf">European Medical Writers Association Conference 2026</a>
+<p></p>
+- 2026.05.13 <a target="_blank" href="https://transcelerate.github.io/ddf-home/news-events.html">DDF Mission Possible in India</a>
+<p></p>
+- 2026.05.20-22 <a target="_blank" href="https://www.cdisc.org/events/interchange/2026-cdisc-us-interchange">CDISC EU Interchange 2026</a>
+<p></p>
+<details>
+<summary>Past Conferences 2026</summary>
+- 2026.02.2-5 <a target="_blank" href="https://www.scopesummit.com/">SCOPE Summit 2026</a>
+<p></p>
+</details>
 <details>
 <summary>Past Conferences 2025</summary>
 <p></p>
@@ -169,6 +185,9 @@ TBD
 <p></p>
 <p></p>
 <H2>Articles, Blogs, Publications</H2>
+<p></p>
+- 2026.01.23 - <a target="_blank" href="https://www.clinicalleader.com/doc/digital-protocols-are-at-an-inflection-point-a-conversation-with-novartis-and-transcelerate-leaders-0001">Digital Protocols Are At An Inflection Point</a>
+<p></p>
 <p></p>
 - 2024.01.30 -  <a target="_blank" href="https://www.clinicalleader.com/doc/digitizing-the-clinical-protocol-small-steps-for-seismic-change-0001">Digitizing The Clinical Protocol: Small Steps For Seismic Change</a>
 <p></p>
