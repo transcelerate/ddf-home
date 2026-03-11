@@ -20,7 +20,8 @@ Below are different websites sourcing specific content and resources.  Dependin
 Watch a [video](https://www.youtube.com/watch?v=082onW7jhe4) describing the DDF initiative. If you are new to DDF, click [Getting Started](get-started.md) for more details.
 
 <a href="https://www.youtube.com/watch?v=082onW7jhe4">
-<img src="media\images\overview.png">
+<img src="media/images/overview.png">
 </a>
 <p></p>
 If you have any feedback, comments, and/or questions about DDF, please use this <a target="_blank" href="https://www.transceleratebiopharmainc.com/assets/digital-data-flow-feedback-form/">form</a>.  
+
