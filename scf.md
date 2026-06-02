@@ -10,6 +10,8 @@ Solution Collaboration Forum (SCF), is a community of solution providers in the 
 
 The community comes together every month to discuss mutually beneficial topics and exchange information both ways including key updates on the USDM standard, SDR, events, seeking input on specific topics that help us focus our efforts.  
 
+Click <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/Solution Collaboration Forum .pdf">here</a> for a one-pager on the SCF. 
+
 ## DDF Solution Showcase Webinar series 
 The DDF Solution Showcase Webinar series started and is co-hosted by TransCelerate and CDISC. 
 
