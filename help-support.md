@@ -208,7 +208,7 @@ Please post to the Issues tab in the applicable GitHub repository.
 <p></p>
 - <a target="_blank" href="https://github.com/transcelerate/ddf-sdr-ui/issues">Link to Issues</a> in UI repository
 <p></p>
-**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and any pull requests submitted will not be triaged at this point in time. 
+**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and any pull requests submitted will not be triaged at this point in time. This page will be upgraded Dec 2026.
 <p></p>
 </details>
 <details>
