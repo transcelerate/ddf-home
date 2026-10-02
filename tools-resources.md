@@ -11,7 +11,7 @@ Here is the inventory of all tools & resources for DDF.
 <p></p>
 <details>
 <summary>Videos Playlists</summary>
-<a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1L_vQ8xporort6tBfrcNy2W">- DDF General Information Videos</a><br>
+<a target="_blank" href="https://www.youtube.com/watch?v=II5Cuq4Q7QE&list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u">- DDF General Information Videos</a><br>
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1IoMvLH8Ov7YYgAEl7MWpka">- DDF Webinar Videos</a><br>
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1Juda8dFZXbGY7PaGQwH6FJ">- DDF Connectathon</a><br>
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KLxO6nzXWSNJ6PWtIJhGjK">- DDF Standards/Technical Videos</a><br>
