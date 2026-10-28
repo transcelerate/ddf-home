@@ -12,4 +12,10 @@ The foundation of Digital Data Flow begins with standardized, structured data. E
 ## Standards
 Click below to access the various standards.
 
+<p style="position: relative;">
+  <img src="media/images/Standards.png" width="600">
+  <a style="position: absolute; top: 0%; left: 0%; width: 33%; height: 100%" href="https://www.cdisc.org/ddf" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 33%; width: 33%; height: 100%" href="https://www.ema.europa.eu/en/scientific-guidelines/ich-m11-guideline-clinical-study-protocol-template-technical-specifications" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 66%; width: 33%; height: 100%" href="https://hl7vulcan.org/projects/udp/" target="_blank"></a>
+</p>
 
