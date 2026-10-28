@@ -1,11 +1,12 @@
 ---
-title: Solution Collaboration Forum
-description: Landing page for the Solution Collaboration Forum
+title: Solution Provider Resources
+description: Landing page for the Solution Collaboration Forum and Solution Provider Resources Support
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
-# Solution Collaboration Forum (SCF)
+# Solution Provider Resources 
+To implement DDF solutions, technology ecosystem updates are recommended. How technology updates are  implemented can greatly vary by company. The following provides resources that can support this process. 
 
-## Overview of the SCF
+## Solution Collaboration Forum (SCF)
 Solution Collaboration Forum (SCF), is a community of solution providers in the protocol digitalization space with over 40 members globally.  
 
 The community comes together every month to discuss mutually beneficial topics and exchange information both ways including key updates on the USDM standard, SDR, events, seeking input on specific topics that help us focus our efforts.  
