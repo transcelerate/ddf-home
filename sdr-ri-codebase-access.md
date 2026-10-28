@@ -3,6 +3,10 @@ title: SDR RI Codebase
 description: Landing page for getting started with the SDR RI Codebase and GitHub basics
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
+# Study Definitions Repository (SDR) Reference Implementation (RI)
+The SDR RI is a working instance of a Study Definitions Repository that has been developed based on the [CDISC Unified Study Definitions Model Reference Architecture](https://www.cdisc.org/ddf).
+
+
 # *Disclaimer*
 
 <em>The materials shared here are intended to be used solely for understanding DDF and the SDR Reference Implementation.</em>
@@ -18,19 +22,6 @@ The Study Definitions Repository (SDR) Reference Implementation is a working ins
 For details and documents regarding the RA and USDM, please go to the [CDISC Digital Data Flow website](https://www.cdisc.org/ddf).
 
 TransCelerate’s intent is to facilitate the development of open-source, vendor-agnostic solutions to facilitate digital data flow (“DDF”).  Accordingly, while the SDR is currently developed with Microsoft Azure, the intent is for users to be able to implement the elements of DDF in any environment or system.  
-
-### SDR RI Releases
-
-
-| Version                                                                                                                                                                                               | Date                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Release Notes                                                                                                                 |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| R1.0.0 ([USDM 1.0 Draft](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Draft).zip)) <br> (previously described as MVP)| April 2022 | - Automated data flow from study builder applications of protocol data to the SDR-RI <br> - Automated data flow from SDR-RI to other applications, such as Electronic Data Capture (EDC) applications <br> - User interface to review study information stored in the SDR-RI
-| R1.0.1 ([USDM 1.0 Provisional](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v1.0_(Provisional).zip)) <br> (previously described as v0.5)| Sept 2022 | - Updates to support updates from USDM v1.0 to USDM v1.0 Provisional |
-| R2.0.0 ([USDM 2.0 Draft](https://github.com/transcelerate/ddf-home/blob/main/documents/USDM/USDM_RA_v2.0_(Draft).zip)) | March 2023 | Summary is provided below with detailed Release Notes available [here](https://github.com/transcelerate/ddf-sdr-support/tree/main/documents) <br> **SDR Data Model** <br> - Biomedical Concepts <br> - Complex Time Relationships <br> - Stores Study Versions <br> **SDR User Interface** <br> - Dashboard of landing page <br> - View Study Data <br> - Search & Filter <br> - Study Comparison <br> - Study Version Comparision <br> - Admin Only: Change Audit <br> - Revision History <br> - Conformance Rules Validation <br> - System Usage Report (Admin-only) <br> **SDR APIs** <br> - Upstream APIs extended <br> - Downstream APIs extended <br> - API for eCPT Export <br> **Security** <br> - Certificate-based Authentication <br> - Token-based Authentication for API <br> - Data Segmentation, Group Management, and User Management  |
-| R2.0.1 ([USDM 2.0 Final](https://www.cdisc.org/sites/default/files/2023-06/USDM-RA-v2.0-%20final.zip)) | July 2023 | Detailed Release Notes are available [here](https://github.com/transcelerate/ddf-sdr-platform/files/12048219/ddf-sdr-ri-v2.0.1-release-notes.pdf)|
-| R2.0.2 ([API-Key authentication patch]()) | September 2023 | Patch update for new feature: API-Key authentication added to better support systen-system integration Detailed Release notes are available [here](https://www.youtube.com/watch?v=BQfI-u9QHvM)|
-| R3.0 | May 2024 | Details TBD|
-| R4.0 | September 2025 | Details TBD|
 
 ## SDR RI Codebase as Open Source & GitHub
 
@@ -48,10 +39,12 @@ Please refer to the **[DDF Community Overview](community.md)** for information a
 
 - Community Values
 - [Contributor Covenant Code of Conduct](code-of-conduct.md)
-- [Contribution License Agreement](contributing.md)
-- Community Meetings  
+- [Contribution License Agreement](contributing.md) 
 
 **NOTE** - It is highly recommended that all users that will be engaging with DDF read through all the DDF Community content.
+
+## SDR RI Releases
+Please refer to the "Releases" information under the Platform, API, and UI repos as indicated in the next section. 
 
 ## DDF GitHub Repositories
 
