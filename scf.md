@@ -6,27 +6,9 @@ description: Landing page for the Solution Collaboration Forum and Solution Prov
 # Solution Provider Resources 
 To implement DDF solutions, technology ecosystem updates are recommended. How technology updates are  implemented can greatly vary by company. The following provides resources that can support this process. 
 
-## Solution Collaboration Forum (SCF)
-Solution Collaboration Forum (SCF), is a community of solution providers in the protocol digitalization space with over 40 members globally.  
-
-The community comes together every month to discuss mutually beneficial topics and exchange information both ways including key updates on the USDM standard, SDR, events, seeking input on specific topics that help us focus our efforts.  
-
-Click <a target="_blank" href="https://transcelerate.github.io/ddf-home/documents/Solution Collaboration Forum .pdf">here</a> for a one-pager on the SCF. 
-
-## DDF Solution Showcase Webinar series 
-The DDF Solution Showcase Webinar series started and is co-hosted by TransCelerate and CDISC. 
-
-We have held 4 webinars to date averaging around 600 registrations and around 200 attendees each time. 
-
-During each webinar we showcase 2 solution provider presentations and you can access the first 3 webinar videos through this [link](https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KSvDjYQd1m7Kgs7A8G-rEf).
-
-
-## DDF Solution Directory
-The DDF Solution Directory is a directory of solution providers in the protocol digitalization space, hosted in the TransCelerate GitHub platform. 
-
-Solution Providers provide details about their organization, solution and product(s) and list additional information they deem relevant. 
-
-We encourage SCF and non-SCF members, and participants in our virtual and in-person events to enter into the directory. 
-
-The directory can be accessed through this [link](https://transcelerate.github.io/ddf-directory/directory/directory.html).
-
+<p style="position: relative;">
+  <img src="media/images/Solutions.png" width="600">
+  <a style="position: absolute; top: 0%; left: 0%; width: 33%; height: 100%" href="https://transcelerate.github.io/ddf-home/documents/Solution Collaboration Forum .pdf" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 33%; width: 33%; height: 100%" href="https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KSvDjYQd1m7Kgs7A8G-rEf" target="_blank"></a>
+  <a style="position: absolute; top: 0%; left: 66%; width: 33%; height: 100%" href="https://transcelerate.github.io/ddf-directory/directory/directory.html" target="_blank"></a>
+</p>
