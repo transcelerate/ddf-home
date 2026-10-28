@@ -19,6 +19,17 @@ Click below to access the various standards.
   <a style="position: absolute; top: 0%; left: 66%; width: 33%; height: 100%" href="https://hl7vulcan.org/projects/udp/" target="_blank"></a>
 </p>
 
+### USDM
+A Study Definition Reference Architecture that serves as a standard model for the development of conformant study definition technologies. NOTE: Aligned with ICH M11.
+
+### ICH M11
+A global framework for clinical protocol authoring and exchange with regulators. NOTE: Aligned with USDM.
+
+### UDP
+A global collaboration to establish standardizations for digital protocol data exchange across clinical and healthcare ecosystems. NOTE: Aligned with ICH M11.
+
+<p></p>
+
 ## Other Support Materials
 Learn more and access additional resources and tools to support your understanding and usage of the standards. 
 
