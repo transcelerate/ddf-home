@@ -36,7 +36,3 @@ NOTE: Keep a copy for your records.
 
 Click [here](code-of-conduct.md) to read the Code of Conduct.
 
-## DDF Community Meetings
-To support collaboration and idea sharing, a Collaboration Steering Committee (CSC) will facilitate DDF community meetings. The CSC functions as the board and helps drive DDF initiative milestones and priorties.
-
-**NOTE**: As of May 2022, the DDF initiative is still the process of setting up operations, and will not be hosting DDF community meetings until a later date. 
