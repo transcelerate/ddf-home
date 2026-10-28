@@ -34,7 +34,7 @@ A global collaboration to establish standardizations for digital protocol data e
 Learn more and access additional resources and tools to support your understanding and usage of the standards. 
 
 <p style="position: relative;">
-  <img src="media/images/Other_Resources.png" width="400">
+  <img src="media/images/Other_Resources.png" width="600">
   <a style="position: absolute; top: 0%; left: 0%; width: 50%; height: 100%" href="https://www.transceleratebiopharmainc.com/assets/clinical-content-reuse-solutions/" target="_blank"></a>
   <a style="position: absolute; top: 0%; left: 50%; width: 50%; height: 100%" href="https://www.cdisc.org/ddf" target="_blank"></a>
 </p>
